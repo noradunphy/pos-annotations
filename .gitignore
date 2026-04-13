@@ -8,5 +8,5 @@ dist/
 data/interim/*.jsonl
 data/mined_examples/
 data/eval/runs/
-data/annotations/*.jsonl
+data/annotations/last_annotate_meta.json
 .env.local
