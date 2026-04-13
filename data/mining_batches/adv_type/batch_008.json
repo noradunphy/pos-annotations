@@ -1,0 +1,138 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0003#44#4",
+    "sentence_id": "bc/cctv/00/cctv_0003#44",
+    "token_index": 4,
+    "sentence": "Okay , thank you very much , Professor Wang , for briefing us on the relevant information in Japan .",
+    "surface": "very",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#654#4",
+    "sentence_id": "bc/cnn/00/cnn_0002#654",
+    "token_index": 4,
+    "sentence": "There always has but not in the degree not in the level not in the amount that we have seen /.",
+    "surface": "not",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#218#12",
+    "sentence_id": "bc/cnn/00/cnn_0002#218",
+    "token_index": 12,
+    "sentence": "You 're not supposed to have a heart attack when you 're only fifteen years old /.",
+    "surface": "only",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#312#10",
+    "sentence_id": "bc/cctv/00/cctv_0003#312",
+    "token_index": 10,
+    "sentence": "Well , there is also a nationalist sentiment issue ; also , including this , these have all been brought together .",
+    "surface": "also",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#245#8",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#245",
+    "token_index": 8,
+    "sentence": "Has Danny Dorian been called in to witness yet /?",
+    "surface": "yet",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#629#1",
+    "sentence_id": "bc/cnn/00/cnn_0001#629",
+    "token_index": 1,
+    "sentence": "but first we turn to Erica Hill in Atlanta with some other stories making headlines right now /.",
+    "surface": "first",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#70#9",
+    "sentence_id": "bc/cnn/00/cnn_0006#70",
+    "token_index": 9,
+    "sentence": "I think those who are claiming that they do not understand the nature of this country /.",
+    "surface": "not",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#461#5",
+    "sentence_id": "bc/cnn/00/cnn_0002#461",
+    "token_index": 5,
+    "sentence": "I got a little cottage over there /.",
+    "surface": "over",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  }
+]

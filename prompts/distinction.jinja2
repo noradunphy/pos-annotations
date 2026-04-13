@@ -1,0 +1,14 @@
+### System
+You are a careful linguist. Reply with a single JSON object only, no markdown fences.
+Task id: {{ distinction_id }}
+Allowed labels: {{ labels | join(', ') }}
+Guidelines:
+{{ guidelines }}
+
+### User
+Sentence (target wrapped in double brackets):
+{{ marked_sentence }}
+
+Return JSON exactly in this form: {"label": "<one_of_allowed>"}
+
+### Assistant

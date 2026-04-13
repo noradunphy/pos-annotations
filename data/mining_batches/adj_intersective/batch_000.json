@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0002#33#11",
+    "sentence_id": "bc/cnn/00/cnn_0002#33",
+    "token_index": 11,
+    "sentence": "Uh it 's going to be a long night and a long couple of days as we 're trying to piece together uh the information exactly what occured in those terrible moments before the shooting /.",
+    "surface": "long",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#162#45",
+    "sentence_id": "bc/cnn/00/cnn_0002#162",
+    "token_index": 45,
+    "sentence": "and to follow up on the point Jeff just made about perhaps not overstating the impact for the president I think one of the things we will watch closely tonight is that some of the polls are showing that the American people are a bit testy shall we say um not patient anymore with all of the politicians /.",
+    "surface": "testy",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#196#5",
+    "sentence_id": "bc/cctv/00/cctv_0003#196",
+    "token_index": 5,
+    "sentence": "That is , it was impossible to give the territories to Japan .",
+    "surface": "impossible",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#48#17",
+    "sentence_id": "bc/cctv/00/cctv_0001#48",
+    "token_index": 17,
+    "sentence": "Outside of Taiyuan and Shijiazhuang , the Japanese military deployed the 4th , 8th , and 93rd mixed brigades and regiments , which were scattered among 50 strongholds along the railway line .",
+    "surface": "mixed",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#140#13",
+    "sentence_id": "bc/cnn/00/cnn_0005#140",
+    "token_index": 13,
+    "sentence": "We return now to my interview with the commander of the US military central command general John Abizaid /.",
+    "surface": "central",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#126#12",
+    "sentence_id": "bc/cnn/00/cnn_0001#126",
+    "token_index": 12,
+    "sentence": "I do n't think that Wal - Mart either has built an acceptable system for real health care for employees and they have n't really provided much to the national debate on how we can accomplish this uh as a nation /.",
+    "surface": "acceptable",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#721#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#721",
+    "token_index": 1,
+    "sentence": "A young blogger was just reprimanded last week because he was a little too candid /.",
+    "surface": "young",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#442#7",
+    "sentence_id": "bc/cnn/00/cnn_0006#442",
+    "token_index": 7,
+    "sentence": "We have provisions to bring back the entire seven person crew of Discovery if required in an emergency situation /.",
+    "surface": "entire",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  }
+]

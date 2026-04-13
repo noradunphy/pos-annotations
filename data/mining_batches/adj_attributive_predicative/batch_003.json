@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#646#9",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#646",
+    "token_index": 9,
+    "sentence": "People may think I 'm trying to convey the opposite impression /.",
+    "surface": "opposite",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#188#17",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#188",
+    "token_index": 17,
+    "sentence": "both in the Democratic and Republicans sides serious misgivings about whether he has the qualifications for this important assignment /.",
+    "surface": "important",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#636#2",
+    "sentence_id": "bc/cnn/00/cnn_0004#636",
+    "token_index": 2,
+    "sentence": "That 's correct /.",
+    "surface": "correct",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#523#8",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#523",
+    "token_index": 8,
+    "sentence": "They could n't hide behind the cloak of inadequate qualifications /.",
+    "surface": "inadequate",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#407#24",
+    "sentence_id": "bc/cnn/00/cnn_0004#407",
+    "token_index": 24,
+    "sentence": "Well you know that this is the tightest White House going as far as uh really talking candidly is concerned uh and the most secretive if you will /.",
+    "surface": "secretive",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#377#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#377",
+    "token_index": 1,
+    "sentence": "My greatest regret would probably be um the fact that I put this young man through this /.",
+    "surface": "greatest",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#275#5",
+    "sentence_id": "bc/cnn/00/cnn_0003#275",
+    "token_index": 5,
+    "sentence": "It 's a high , right /?",
+    "surface": "right",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#663#2",
+    "sentence_id": "bc/cnn/00/cnn_0004#663",
+    "token_index": 2,
+    "sentence": "She was fantastic /.",
+    "surface": "fantastic",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0001#239#5", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#267#4", "gold_subclass": "transitive", "notes": "Participial adjective modifying 'director'; underlying verb 'reform' is transitive"},
+  {"example_id": "bc/cctv/00/cctv_0004#345#2", "gold_subclass": "intransitive", "notes": "Copular/linking verb"},
+  {"example_id": "bc/cctv/00/cctv_0001#189#21", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0001#165#1", "gold_subclass": "intransitive", "notes": "Existential 'there are'"},
+  {"example_id": "bc/cctv/00/cctv_0002#198#23", "gold_subclass": "intransitive", "notes": "Auxiliary in perfect passive 'have been affected'"},
+  {"example_id": "bc/cnn/00/cnn_0004#89#8", "gold_subclass": "intransitive", "notes": "Auxiliary for emphasis; 'does worry me'"},
+  {"example_id": "bc/cnn/00/cnn_0002#674#7", "gold_subclass": "ambitransitive", "notes": "Used without explicit object but 'specify' commonly takes one"},
+  {"example_id": "bc/cnn/00/cnn_0006#70#4", "gold_subclass": "intransitive", "notes": "Auxiliary in progressive 'are claiming'"},
+  {"example_id": "bc/cnn/00/cnn_0005#486#8", "gold_subclass": "intransitive", "notes": ""}
+]

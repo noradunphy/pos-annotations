@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#127#10",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#127",
+    "token_index": 10,
+    "sentence": "My investigation has shown mismanagement at least perhaps corruption at worst /.",
+    "surface": "worst",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#457#5",
+    "sentence_id": "bc/cnn/00/cnn_0001#457",
+    "token_index": 5,
+    "sentence": "and they can have a real impact on some of the younger offenders to not go down their path and end up uh being executed /.",
+    "surface": "real",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#673#30",
+    "sentence_id": "bc/cnn/00/cnn_0002#673",
+    "token_index": 30,
+    "sentence": "He says and I 'm paraphrasing that basically the element of surprise what the enemy does not know about what we 're going to do to them is a very powerful tool /.",
+    "surface": "powerful",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#334#14",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#334",
+    "token_index": 14,
+    "sentence": "But look no one knows how this woman 's going to vote on a particular case /.",
+    "surface": "particular",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#94#6",
+    "sentence_id": "bc/cctv/00/cctv_0002#94",
+    "token_index": 6,
+    "sentence": "So , contrary to Koizumi 's diplomatic purpose , he not only failed to sidestep the issue of the visit , but rather exposed , this scandal to the entire world .",
+    "surface": "diplomatic",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#67#15",
+    "sentence_id": "bc/cnn/00/cnn_0005#67",
+    "token_index": 15,
+    "sentence": "If you look at what the dictionary says about throes it can still be a violent period the throes of a revolution /.",
+    "surface": "violent",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#187#33",
+    "sentence_id": "bc/cnn/00/cnn_0001#187",
+    "token_index": 33,
+    "sentence": "If their message is right why are n't they putting one of their big kahunas out there to talk to Rick Sanchez to talk to Andy and say look , this is all wrong /?",
+    "surface": "wrong",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#253#23",
+    "sentence_id": "bc/cctv/00/cctv_0002#253",
+    "token_index": 23,
+    "sentence": "Well , speaking of this , we can also figure out that Koizumi has seriously damaged the feelings of his Asian neighboring countries several times since he took office as Japan 's prime minister in 2001 .",
+    "surface": "several",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  }
+]

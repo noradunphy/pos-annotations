@@ -1,0 +1,6 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0002#551#3", "gold_subclass": "auxiliary", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#330#15", "gold_subclass": "lexical", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#12#19", "gold_subclass": "lexical", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#478#8", "gold_subclass": "lexical", "notes": ""}
+]

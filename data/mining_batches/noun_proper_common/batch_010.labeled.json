@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0004#47#5", "gold_subclass": "proper", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#78#0", "gold_subclass": "proper", "notes": "Military rank as title before a name."},
+  {"example_id": "bc/cctv/00/cctv_0002#2#19", "gold_subclass": "common", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#535#11", "gold_subclass": "common", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#192#4", "gold_subclass": "common", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#2#31", "gold_subclass": "common", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#339#17", "gold_subclass": "common", "notes": "Surface is adjectival neighboring; tagged NOUN; labeled common as closest fit."},
+  {"example_id": "bc/cctv/00/cctv_0001#97#9", "gold_subclass": "proper", "notes": ""}
+]

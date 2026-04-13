@@ -1,0 +1,182 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#65#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#65",
+    "token_index": 0,
+    "sentence": "They finally understand they have got to make change /.",
+    "surface": "They",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#669#9",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#669",
+    "token_index": 9,
+    "sentence": "I want to listen to this and then ask you if you think that they 're going to be able to achieve this /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#451#0",
+    "sentence_id": "bc/cnn/00/cnn_0005#451",
+    "token_index": 0,
+    "sentence": "They 're trying to accuse Lebanon and Syria /.",
+    "surface": "They",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#62#9",
+    "sentence_id": "bc/cnn/00/cnn_0004#62",
+    "token_index": 9,
+    "sentence": "there was a lot less of a record on her than there is on Judge Litos /.",
+    "surface": "her",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#224#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#224",
+    "token_index": 2,
+    "sentence": "at least we knew where she was and what had happened to her to some extent /.",
+    "surface": "we",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#335#15",
+    "sentence_id": "bc/cnn/00/cnn_0006#335",
+    "token_index": 15,
+    "sentence": "Senator Lieberman is it a good idea for the President to give uh John Bolton what 's called a recess appointment skirting the US Senate as the next US ambassador to the UN /?",
+    "surface": "what",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#610#3",
+    "sentence_id": "bc/cnn/00/cnn_0002#610",
+    "token_index": 3,
+    "sentence": "I think once you start to say well under these circumstances empirically you 're going to and you have to provide these kinds of measures if you do it then you 're basically that under certain circumstances it can happen It should happen and then it 's going happen under more than those exceptional circumstances /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#490#23",
+    "sentence_id": "bc/cnn/00/cnn_0005#490",
+    "token_index": 23,
+    "sentence": "And uh just between brackets before the decision of the UN I had asked for an investigation UN team to come and when they will come reach to a point when we 'll know whoever is doing these assassinations /.",
+    "surface": "they",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#163#0",
+    "sentence_id": "bc/cnn/00/cnn_0005#163",
+    "token_index": 0,
+    "sentence": "I would say that US officials and Iraqi officials are looking for the right people in the Sunni community to talk to in order to insure that the Sunni Arab community becomes part of the political process /.",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#553#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#553",
+    "token_index": 0,
+    "sentence": "I trust the local officials much more than the Washington jokers /.",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  }
+]

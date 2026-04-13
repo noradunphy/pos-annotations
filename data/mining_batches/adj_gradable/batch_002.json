@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0004#347#3",
+    "sentence_id": "bc/cctv/00/cctv_0004#347",
+    "token_index": 3,
+    "sentence": "Well , the same goes with the Iraq war .",
+    "surface": "same",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#17#0",
+    "sentence_id": "bc/cnn/00/cnn_0005#17",
+    "token_index": 0,
+    "sentence": "Many of the victims were Iraqi police officers /.",
+    "surface": "Many",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#572#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#572",
+    "token_index": 4,
+    "sentence": "She is a tough smart resourceful politician with a sense of where she 'd like to take the country /.",
+    "surface": "smart",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#16#1",
+    "sentence_id": "bc/cnn/00/cnn_0005#16",
+    "token_index": 1,
+    "sentence": "At least nineteen deaths and dozens of injuries reported there /.",
+    "surface": "least",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#155#8",
+    "sentence_id": "bc/cnn/00/cnn_0003#155",
+    "token_index": 8,
+    "sentence": "Not hallucinations as you would call them but cyclical thoughts that repeated terrible sleep disturbances /.",
+    "surface": "cyclical",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#365#15",
+    "sentence_id": "bc/cnn/00/cnn_0006#365",
+    "token_index": 15,
+    "sentence": "Uh frankly if there are people on the left or the right that are not sure how he 's going to rule on a case that 's fine by me /.",
+    "surface": "sure",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#230#3",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#230",
+    "token_index": 3,
+    "sentence": "So they 're used to uh having people come through /.",
+    "surface": "used",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#275#17",
+    "sentence_id": "bc/cnn/00/cnn_0002#275",
+    "token_index": 17,
+    "sentence": "Last week at a convention in Omaha Nebraska Bob and Mary Schindler called Terri 's death quote judicial homicide and hinted that euthanasia advocates may have been behind it /.",
+    "surface": "judicial",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  }
+]

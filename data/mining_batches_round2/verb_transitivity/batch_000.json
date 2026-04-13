@@ -1,0 +1,152 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#239#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#239",
+    "token_index": 5,
+    "sentence": "so I thank you for taking the time /.",
+    "surface": "taking",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#267#4",
+    "sentence_id": "bc/cnn/00/cnn_0006#267",
+    "token_index": 4,
+    "sentence": "We have a recently reformed director of national intelligence /.",
+    "surface": "reformed",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#345#2",
+    "sentence_id": "bc/cctv/00/cctv_0004#345",
+    "token_index": 2,
+    "sentence": "This has been the consistent practice of al - Jazeera station .",
+    "surface": "been",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#189#21",
+    "sentence_id": "bc/cctv/00/cctv_0001#189",
+    "token_index": 21,
+    "sentence": "You used the washbasin to wash your feet , used the washbasin to hold your meal , used the washbasin to wash your face , and sometimes used the same washbasin to boil water .",
+    "surface": "wash",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#165#1",
+    "sentence_id": "bc/cctv/00/cctv_0001#165",
+    "token_index": 1,
+    "sentence": "There are ,",
+    "surface": "are",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#198#23",
+    "sentence_id": "bc/cctv/00/cctv_0002#198",
+    "token_index": 23,
+    "sentence": "They both showed that due to the cooling down of the political relationship , well , the economic relations between China and Japan have already been severely affected .",
+    "surface": "have",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#89#8",
+    "sentence_id": "bc/cnn/00/cnn_0004#89",
+    "token_index": 8,
+    "sentence": "And you know that 's one thing that does worry me /.",
+    "surface": "does",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#674#7",
+    "sentence_id": "bc/cnn/00/cnn_0002#674",
+    "token_index": 7,
+    "sentence": "And so you do n't want to specify /.",
+    "surface": "specify",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#70#4",
+    "sentence_id": "bc/cnn/00/cnn_0006#70",
+    "token_index": 4,
+    "sentence": "I think those who are claiming that they do not understand the nature of this country /.",
+    "surface": "are",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#486#8",
+    "sentence_id": "bc/cnn/00/cnn_0005#486",
+    "token_index": 8,
+    "sentence": "So it 's up to the Lebanese to decide between themselves and not do it by force /.",
+    "surface": "decide",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  }
+]

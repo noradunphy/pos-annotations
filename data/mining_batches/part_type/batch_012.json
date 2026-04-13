@@ -1,0 +1,54 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0004#129#11",
+    "sentence_id": "bc/cctv/00/cctv_0004#129",
+    "token_index": 11,
+    "sentence": "At that time Blair tried his best to persuade him not to do it .",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#521#30",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#521",
+    "token_index": 30,
+    "sentence": "It 's almost humorous to hear some of the same people who regularly mock the so called elite point out that her law school SMU is not among the nation 's most respected /.",
+    "surface": "'s",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#394#2",
+    "sentence_id": "bc/cctv/00/cctv_0003#394",
+    "token_index": 2,
+    "sentence": "That is to say , in the future both sides may become more reasonable on this issue .",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#321#21",
+    "sentence_id": "bc/cctv/00/cctv_0003#321",
+    "token_index": 21,
+    "sentence": "The ownership of these four islands has long been a dead knot in Russian - Japanese relations that has been difficult to untie .",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  }
+]

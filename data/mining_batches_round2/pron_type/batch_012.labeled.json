@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0003#81#0", "gold_subclass": "interrogative", "notes": "Wh-question (What was your break?)."},
+  {"example_id": "bc/cnn/00/cnn_0002#23#3", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#110#13", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#240#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#210#5", "gold_subclass": "possessive", "notes": "Possessive determiner (our business)."},
+  {"example_id": "bc/cnn/00/cnn_0003#177#12", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#700#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#130#3", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#580#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#619#1", "gold_subclass": "interrogative", "notes": "Wh-question (But what is your definition…)."}
+]

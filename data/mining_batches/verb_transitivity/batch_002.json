@@ -1,0 +1,122 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0003#391#25",
+    "sentence_id": "bc/cnn/00/cnn_0003#391",
+    "token_index": 25,
+    "sentence": "Um you know I did have a group of loving and supportive friends who said we 're going to see you through this and you need some help and let 's keep looking /.",
+    "surface": "need",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#229#18",
+    "sentence_id": "bc/cnn/00/cnn_0007#229",
+    "token_index": 18,
+    "sentence": "And my regret is I did n't get out there sooner and sit down with him and say look we need to talk about this /.",
+    "surface": "look",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#615#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#615",
+    "token_index": 5,
+    "sentence": "It 's not going to happen /.",
+    "surface": "happen",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#624#11",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#624",
+    "token_index": 11,
+    "sentence": "Abdul Rahman says he became a Christian fifteen years ago and was living in Germany before going back to Afghanistan in two thousand two in part to try and get custody of his two daughters /.",
+    "surface": "was",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#27#15",
+    "sentence_id": "bc/cctv/00/cctv_0001#27",
+    "token_index": 15,
+    "sentence": "As part of the Japanese army 's strategy of siege warfare , railways and roads had actually become the Japanese army 's weapons of war , becoming a great threat to the base areas .",
+    "surface": "had",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#199#4",
+    "sentence_id": "bc/cnn/00/cnn_0006#199",
+    "token_index": 4,
+    "sentence": "Is it realistic to assume that tens of thousands of US troops might be able to get out of Iraq by next summer /?",
+    "surface": "assume",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#9#4",
+    "sentence_id": "bc/cnn/00/cnn_0007#9",
+    "token_index": 4,
+    "sentence": "Um the special prosecutor 's been working eighteen months /.",
+    "surface": "'s",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#356#10",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#356",
+    "token_index": 10,
+    "sentence": "could n't the strategy of the president be this guy is going to be his lightning rod /?",
+    "surface": "is",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  }
+]

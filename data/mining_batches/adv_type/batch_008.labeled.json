@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0003#44#4", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#654#4", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#218#12", "gold_subclass": "degree", "notes": "Restrictive only ."},
+  {"example_id": "bc/cctv/00/cctv_0003#312#10", "gold_subclass": "sentence_discourse", "notes": "Additive also (sentence-medial)."},
+  {"example_id": "bc/msnbc/00/msnbc_0002#245#8", "gold_subclass": "time", "notes": "Perfect / temporal yet ."},
+  {"example_id": "bc/cnn/00/cnn_0001#629#1", "gold_subclass": "time", "notes": "Discourse sequencing ( first )."},
+  {"example_id": "bc/cnn/00/cnn_0006#70#9", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#461#5", "gold_subclass": "place", "notes": ""}
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0002#564#10",
+    "sentence_id": "bc/cnn/00/cnn_0002#564",
+    "token_index": 10,
+    "sentence": "And that might include some use of torture in order to prevent it /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#457#20",
+    "sentence_id": "bc/cnn/00/cnn_0006#457",
+    "token_index": 20,
+    "sentence": "So right now we are scratching our heads trying to understand what mechanism caused this piece of foam to come off /.",
+    "surface": "off",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#316#4",
+    "sentence_id": "bc/cnn/00/cnn_0005#316",
+    "token_index": 4,
+    "sentence": "But I 've got to tell you I just do n't see from the casualty numbers which continue to be about the same even getting worse /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#211#11",
+    "sentence_id": "bc/cnn/00/cnn_0002#211",
+    "token_index": 11,
+    "sentence": "This is the new facility where uh Jansen Jones is going to be staying from now on /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#256#5",
+    "sentence_id": "bc/cnn/00/cnn_0002#256",
+    "token_index": 5,
+    "sentence": "Rick how could this wind up in the courts /?",
+    "surface": "up",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#714#11",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#714",
+    "token_index": 11,
+    "sentence": "And just so he does not succomb to his innate desire to watch the program about justice all the televisions must be tuned to the home team Fox News /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#305#10",
+    "sentence_id": "bc/cnn/00/cnn_0006#305",
+    "token_index": 10,
+    "sentence": "if you have a backpack on you ought {to} expect to be uh searched more frequently /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#214#4",
+    "sentence_id": "bc/cnn/00/cnn_0007#214",
+    "token_index": 4,
+    "sentence": "what 's the loop to close /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  }
+]

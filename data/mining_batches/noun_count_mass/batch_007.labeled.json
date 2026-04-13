@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0002#273#24", "gold_subclass": "count", "notes": "Newspaper name component; discrete publication type."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#325#6", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#642#5", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#334#9", "gold_subclass": "count", "notes": "Proper name (person)."},
+  {"example_id": "bc/cctv/00/cctv_0003#309#30", "gold_subclass": "count", "notes": "Geographic proper name component."},
+  {"example_id": "bc/cnn/00/cnn_0002#284#3", "gold_subclass": "count", "notes": "Proper name component."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#265#5", "gold_subclass": "count", "notes": "Proper name (person)."},
+  {"example_id": "bc/cnn/00/cnn_0002#262#11", "gold_subclass": "count", "notes": "Proper name (person)."}
+]

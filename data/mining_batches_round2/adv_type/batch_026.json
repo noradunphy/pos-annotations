@@ -1,0 +1,172 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0004#90#4",
+    "sentence_id": "bc/cctv/00/cctv_0004#90",
+    "token_index": 4,
+    "sentence": "However , there is still one detail .",
+    "surface": "still",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#0#11",
+    "sentence_id": "bc/cctv/00/cctv_0002#0",
+    "token_index": 11,
+    "sentence": "Abramov had a car accident in Moscow last night and was seriously injured .",
+    "surface": "seriously",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#320#11",
+    "sentence_id": "bc/cnn/00/cnn_0002#320",
+    "token_index": 11,
+    "sentence": "Hannah and his crew beat it to shore and to safety not realizing that in April the US embassy in Kigali had issued a warning to American tourists about a rogue elephant charging visitors /.",
+    "surface": "not",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#1#0",
+    "sentence_id": "bc/cnn/00/cnn_0002#1",
+    "token_index": 0,
+    "sentence": "Even years later the names still raise a chill Paducah Jonesborough Columbine /.",
+    "surface": "Even",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#112#7",
+    "sentence_id": "bc/cctv/00/cctv_0001#112",
+    "token_index": 7,
+    "sentence": "In addition , many people were poisoned when toxic gas was released .",
+    "surface": "when",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#709#16",
+    "sentence_id": "bc/cnn/00/cnn_0002#709",
+    "token_index": 16,
+    "sentence": "That will be studied Anderson as we look at these off - year elections and how much they play into next year /.",
+    "surface": "much",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#262#29",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#262",
+    "token_index": 29,
+    "sentence": "I think in Florida we recruited the best and the brightest and people who we knew would be excellent in really a tough and historical setting and that 's where those guys came in /.",
+    "surface": "where",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#382#2",
+    "sentence_id": "bc/cctv/00/cctv_0003#382",
+    "token_index": 2,
+    "sentence": "It was originally proposed by Russia , but rejected by Japan .",
+    "surface": "originally",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#291#5",
+    "sentence_id": "bc/cctv/00/cctv_0002#291",
+    "token_index": 5,
+    "sentence": "Well , I think , actually , as far as Japan itself is concerned , it still made some mistakes by itself .",
+    "surface": "actually",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#601#2",
+    "sentence_id": "bc/cnn/00/cnn_0002#601",
+    "token_index": 2,
+    "sentence": "Torture is never justified /.",
+    "surface": "never",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  }
+]

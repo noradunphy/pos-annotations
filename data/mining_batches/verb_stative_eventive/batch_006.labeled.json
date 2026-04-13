@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0003#554#2", "gold_subclass": "stative", "notes": "Experiential perfect had a career: state over interval."},
+  {"example_id": "bc/cnn/00/cnn_0004#53#11", "gold_subclass": "eventive", "notes": "Progressive are lining up."},
+  {"example_id": "bc/cnn/00/cnn_0003#208#3", "gold_subclass": "eventive", "notes": "Go away: change/departure."},
+  {"example_id": "bc/cnn/00/cnn_0003#170#13", "gold_subclass": "eventive", "notes": "Dummy did in did not notice."},
+  {"example_id": "bc/msnbc/00/msnbc_0004#466#15", "gold_subclass": "eventive", "notes": "Got beat: change of state in competition."},
+  {"example_id": "bc/msnbc/00/msnbc_0001#388#5", "gold_subclass": "eventive", "notes": "Going to future: oriented to forthcoming situation."},
+  {"example_id": "bc/cnn/00/cnn_0004#376#3", "gold_subclass": "eventive", "notes": "Had on the air: event of broadcasting/having aired."},
+  {"example_id": "bc/cnn/00/cnn_0004#70#1", "gold_subclass": "stative", "notes": "Copula is (comparison)."}
+]

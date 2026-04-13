@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0006#393#0", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#181#2", "gold_subclass": "degree", "notes": "\"just\" = merely, focusing adverb"},
+  {"example_id": "bc/msnbc/00/msnbc_0002#248#6", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#265#12", "gold_subclass": "degree", "notes": "\"just\" = merely"},
+  {"example_id": "bc/cnn/00/cnn_0003#44#4", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0003#397#5", "gold_subclass": "frequency", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#681#0", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#245#1", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#332#3", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#393#5", "gold_subclass": "time", "notes": ""}
+]

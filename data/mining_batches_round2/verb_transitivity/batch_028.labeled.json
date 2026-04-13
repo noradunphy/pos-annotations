@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0004#109#16", "gold_subclass": "intransitive", "notes": "Prepositional verb: talking about"},
+  {"example_id": "bc/cnn/00/cnn_0003#572#1", "gold_subclass": "intransitive", "notes": "Auxiliary in progressive: am going"},
+  {"example_id": "bc/cnn/00/cnn_0004#604#3", "gold_subclass": "transitive", "notes": "WH-word is the fronted direct object"},
+  {"example_id": "bc/cnn/00/cnn_0007#126#1", "gold_subclass": "intransitive", "notes": "Auxiliary in passive: was pledged"},
+  {"example_id": "bc/cnn/00/cnn_0005#62#44", "gold_subclass": "transitive", "notes": "Phrasal verb: taking over the effort"},
+  {"example_id": "bc/cnn/00/cnn_0002#430#13", "gold_subclass": "transitive", "notes": "Takes embedded question"},
+  {"example_id": "bc/msnbc/00/msnbc_0001#90#22", "gold_subclass": "intransitive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#270#3", "gold_subclass": "intransitive", "notes": "Auxiliary in perfect: have learned"},
+  {"example_id": "bc/msnbc/00/msnbc_0001#331#1", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/msnbc/00/msnbc_0002#256#3", "gold_subclass": "intransitive", "notes": "Semi-auxiliary: going to future"}
+]

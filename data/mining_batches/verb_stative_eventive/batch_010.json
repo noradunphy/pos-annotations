@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#462#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#462",
+    "token_index": 2,
+    "sentence": "uh you 've had tort reform /.",
+    "surface": "'ve",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#158#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#158",
+    "token_index": 5,
+    "sentence": "Well you mean you 're ignoring all the evidence that Ray Kelly 's explaining /?",
+    "surface": "ignoring",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#302#10",
+    "sentence_id": "bc/cnn/00/cnn_0007#302",
+    "token_index": 10,
+    "sentence": "but I think ah Felt 's lawyer and family can do ah something that 's going to add to the record on all of this /.",
+    "surface": "do",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#359#3",
+    "sentence_id": "bc/cnn/00/cnn_0005#359",
+    "token_index": 3,
+    "sentence": "Uh those chickens are coming home to roost constantly /.",
+    "surface": "are",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#312#19",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#312",
+    "token_index": 19,
+    "sentence": "Okay I want to come back and talk about whether we have a Supreme Court that is going to change /.",
+    "surface": "change",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#225#29",
+    "sentence_id": "bc/cctv/00/cctv_0002#225",
+    "token_index": 29,
+    "sentence": "It also reflects that nowadays Japan , in its eagerness to become a political power , well , wants to take advantage of the sentiments of extreme nationalism to move toward and realize this goal .",
+    "surface": "move",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#63#3",
+    "sentence_id": "bc/cctv/00/cctv_0002#63",
+    "token_index": 3,
+    "sentence": "In addition , is n't this year the year of the South Korean - Japanese friendship ?",
+    "surface": "is",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#156#15",
+    "sentence_id": "bc/cnn/00/cnn_0007#156",
+    "token_index": 15,
+    "sentence": "and then they send a message to the Attorney General ah saying you know case closed we found out who did it /.",
+    "surface": "closed",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  }
+]

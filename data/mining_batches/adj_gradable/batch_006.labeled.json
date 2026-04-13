@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0002#650#13", "gold_subclass": "non-gradable", "notes": "Contrasting 'other religions'; not scalar."},
+  {"example_id": "bc/cnn/00/cnn_0007#124#2", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#167#16", "gold_subclass": "non-gradable", "notes": "Relational 'congressional district'."},
+  {"example_id": "bc/cnn/00/cnn_0003#25#20", "gold_subclass": "non-gradable", "notes": "Fixed compound 'middle class'; relational middle."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#663#6", "gold_subclass": "non-gradable", "notes": "Superlative in idiom 'dead level best'."},
+  {"example_id": "bc/msnbc/00/msnbc_0002#570#17", "gold_subclass": "non-gradable", "notes": "Age postmodifier 'years old'; not *very eighteen years old."},
+  {"example_id": "bc/msnbc/00/msnbc_0004#419#9", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#338#14", "gold_subclass": "non-gradable", "notes": "Nationality relational (Iraqi troops)."}
+]

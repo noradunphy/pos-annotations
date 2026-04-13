@@ -1,0 +1,130 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#475#17",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#475",
+    "token_index": 17,
+    "sentence": "But in fact Ben I think I sat on a lot of shows with you talking about that very subject /.",
+    "surface": "that",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#142#8",
+    "sentence_id": "bc/cnn/00/cnn_0006#142",
+    "token_index": 8,
+    "sentence": "Well uh this is not going to be a political trial /.",
+    "surface": "a",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#535#10",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#535",
+    "token_index": 10,
+    "sentence": "or he will be out on bond with a two hundred dollar bond /.",
+    "surface": "hundred",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#112#13",
+    "sentence_id": "bc/cctv/00/cctv_0003#112",
+    "token_index": 13,
+    "sentence": "Well , recently , that is , , new Foreign Minister Aso proposed a theory of joint development , that is , to postpone -LSB- -LSB- the issue of sovereignty of the northern -RSB- -RSB- and to jointly develop the , , four islands .",
+    "surface": "a",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#126#3",
+    "sentence_id": "bc/cctv/00/cctv_0004#126",
+    "token_index": 3,
+    "sentence": "Well , in this memo , Bush seemed to imply that he probably wanted to bomb this al - Jazeera TV station .",
+    "surface": "this",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#46#9",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#46",
+    "token_index": 9,
+    "sentence": "the bottom line is you 're forgetting there 's a conference on UN reform major conference September fourteenth through the sixteenth /.",
+    "surface": "a",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#273#11",
+    "sentence_id": "bc/cnn/00/cnn_0003#273",
+    "token_index": 11,
+    "sentence": "and it can um go through cycles where you are in the manic stage then in the depressed stage for months on end /.",
+    "surface": "the",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#91#2",
+    "sentence_id": "bc/cnn/00/cnn_0002#91",
+    "token_index": 2,
+    "sentence": "According to the FBI there are dozens of risk factors when it comes to school violence /.",
+    "surface": "the",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  }
+]

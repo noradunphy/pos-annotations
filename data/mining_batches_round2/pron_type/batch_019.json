@@ -1,0 +1,182 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#194#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#194",
+    "token_index": 2,
+    "sentence": "Okay thank you very much /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#76#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#76",
+    "token_index": 1,
+    "sentence": "Is it possible that you would simply take over say this is too serious /.",
+    "surface": "it",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#252#22",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#252",
+    "token_index": 22,
+    "sentence": "but the problem Gail Abramson is it is a crime if the bar manager lied to the authorities about what happened led them on a wild goose chase /.",
+    "surface": "them",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#248#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#248",
+    "token_index": 1,
+    "sentence": "Oh I 've been lied to before /.",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#569#11",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#569",
+    "token_index": 11,
+    "sentence": "But I know this that and you 'll remember this Chris there were a lot of people in the Carter campaign in nineteen eighty who when they thought Ronald Reagan was going to be the nominee were popping champagne corks because they thought he was easy to beat /.",
+    "surface": "there",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#270#13",
+    "sentence_id": "bc/cnn/00/cnn_0002#270",
+    "token_index": 13,
+    "sentence": "He 's also been busy writing about his side of the battle over his wife /.",
+    "surface": "his",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#379#7",
+    "sentence_id": "bc/cnn/00/cnn_0004#379",
+    "token_index": 7,
+    "sentence": "The book by the way is Between You and Me /.",
+    "surface": "You",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#336#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#336",
+    "token_index": 4,
+    "sentence": "You know that was our original plea agreement that we offered to them um /.",
+    "surface": "our",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#181#31",
+    "sentence_id": "bc/cnn/00/cnn_0003#181",
+    "token_index": 31,
+    "sentence": "but I never would have taken the action to kill myself um just cause I 'm a real nice girl and a pleaser and I could n't have done that to my family /.",
+    "surface": "my",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#366#1",
+    "sentence_id": "bc/cnn/00/cnn_0002#366",
+    "token_index": 1,
+    "sentence": "and it 's incredible /.",
+    "surface": "it",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0002#328#6", "gold_subclass": "possessive", "notes": "Possessive determiner (its neighboring countries)."},
+  {"example_id": "bc/msnbc/00/msnbc_0002#475#1", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#1#9", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#460#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#165#1", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#500#8", "gold_subclass": "possessive", "notes": "Possessive determiner (her nails)."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#626#12", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#384#12", "gold_subclass": "reflexive", "notes": "Emphatic reflexive (himself a Maronite Christian)."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#538#5", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#313#22", "gold_subclass": "personal", "notes": "Contracted they'd; pronoun part is they (personal)."}
+]

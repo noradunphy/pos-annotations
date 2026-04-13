@@ -1,0 +1,122 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0003#434#11",
+    "sentence_id": "bc/cnn/00/cnn_0003#434",
+    "token_index": 11,
+    "sentence": "In the bipolar phase when the swing is high you must feel terrific /.",
+    "surface": "feel",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#343#3",
+    "sentence_id": "bc/cnn/00/cnn_0001#343",
+    "token_index": 3,
+    "sentence": "and it 's bringing the individual houses back to life that 'll bring the neighborhood back to life /.",
+    "surface": "bringing",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#122#14",
+    "sentence_id": "bc/cctv/00/cctv_0003#122",
+    "token_index": 14,
+    "sentence": "They said that with joint development , Russia would advocate adopting the current Russian controlled situation , the current situation , and applying Russian law .",
+    "surface": "controlled",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#593#13",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#593",
+    "token_index": 13,
+    "sentence": "Do you think the Shia who are the majority of the new government have that fighting hatred or whatever you want to call it the zeal to defeat bullies this time /.",
+    "surface": "have",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#704#19",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#704",
+    "token_index": 19,
+    "sentence": "What I keep doing here is asking people on and off camera who come on this program high - ranking officers enlisted uh former officers /.",
+    "surface": "ranking",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#680#13",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#680",
+    "token_index": 13,
+    "sentence": "I mean it sounds like what 's going to happen is the government 's going to declare this guy mentally ill /.",
+    "surface": "'s",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#10#4",
+    "sentence_id": "bc/cctv/00/cctv_0004#10",
+    "token_index": 4,
+    "sentence": "Was this a joke told by US President Bush or was it a long - meditated threat ?",
+    "surface": "told",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#62#1",
+    "sentence_id": "bc/cctv/00/cctv_0001#62",
+    "token_index": 1,
+    "sentence": "I am telling you to go back to sleep peacefully .",
+    "surface": "am",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  }
+]

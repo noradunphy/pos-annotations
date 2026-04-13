@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0007#149#19",
+    "sentence_id": "bc/cnn/00/cnn_0007#149",
+    "token_index": 19,
+    "sentence": "How did you feel when more recently you saw that FBI memo that he had signed saying that Woodward and Berstein were reporting half - truths and fiction and we need to find the leakers this at the very time when he was meeting privately and secretly with you kind of duplicitous /.",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#381#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#381",
+    "token_index": 0,
+    "sentence": "and his privacy has been violated /.",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#238#9",
+    "sentence_id": "bc/cctv/00/cctv_0004#238",
+    "token_index": 9,
+    "sentence": "However , even if its property , ah , and funds can come from the government , it still relatively has its editorial independence .",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#191#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#191",
+    "token_index": 0,
+    "sentence": "And here 's the thing Dan /.",
+    "surface": "And",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#497#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#497",
+    "token_index": 0,
+    "sentence": "and you 'll see what it is /.",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#444#12",
+    "sentence_id": "bc/cctv/00/cctv_0002#444",
+    "token_index": 12,
+    "sentence": "So , this will have surpassed what it is now for Japan and China which still failed to reach 200 billion US dollars at this 33rd anniversary of the normalization of their diplomatic relations .",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#529#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#529",
+    "token_index": 0,
+    "sentence": "And I saw the good the bad and everything in between /.",
+    "surface": "And",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#111#9",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#111",
+    "token_index": 9,
+    "sentence": "and so John Bolton was n't off the reservation and was n't speaking out of school /.",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  }
+]

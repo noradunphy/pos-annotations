@@ -1,0 +1,138 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0006#187#8",
+    "sentence_id": "bc/cnn/00/cnn_0006#187",
+    "token_index": 8,
+    "sentence": "they 're standing by to weigh in on where things stand in Iraq the war on terror and much more /.",
+    "surface": "where",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#6#4",
+    "sentence_id": "bc/cnn/00/cnn_0005#6",
+    "token_index": 4,
+    "sentence": "and later we 'll also get the views of senator Edward Kennedy /.",
+    "surface": "also",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#209#0",
+    "sentence_id": "bc/cctv/00/cctv_0004#209",
+    "token_index": 0,
+    "sentence": "So , what it reported was in a completely different style from that of some other Arab TV stations .",
+    "surface": "So",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#20#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#20",
+    "token_index": 2,
+    "sentence": "Everybody up there in New York understands that as well that he can push the US agenda /.",
+    "surface": "there",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#495#2",
+    "sentence_id": "bc/cnn/00/cnn_0001#495",
+    "token_index": 2,
+    "sentence": "I know how police officers feel about it /.",
+    "surface": "how",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#202#2",
+    "sentence_id": "bc/cnn/00/cnn_0006#202",
+    "token_index": 2,
+    "sentence": "but it certainly is the hope /.",
+    "surface": "certainly",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#119#0",
+    "sentence_id": "bc/cctv/00/cctv_0001#119",
+    "token_index": 0,
+    "sentence": "When their blood turned the yellow soil red , they applied iodine solution to their wounds and closed them with bandages .",
+    "surface": "When",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#378#7",
+    "sentence_id": "bc/cnn/00/cnn_0003#378",
+    "token_index": 7,
+    "sentence": "Um I think that it would be very irresponsible to deprive a lot of people of the hopefulness of a treatment um any more than I could say that my medication works well for everyone /.",
+    "surface": "very",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  }
+]

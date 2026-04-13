@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0002#296#1", "gold_subclass": "intransitive", "notes": "Copular/existential"},
+  {"example_id": "bc/cnn/00/cnn_0001#220#1", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/cnn/00/cnn_0005#101#4", "gold_subclass": "transitive", "notes": "Takes clausal complement"},
+  {"example_id": "bc/cnn/00/cnn_0001#21#8", "gold_subclass": "intransitive", "notes": "Auxiliary in passive progressive: are being beamed"},
+  {"example_id": "bc/cnn/00/cnn_0001#26#10", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#294#3", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#331#27", "gold_subclass": "transitive", "notes": "Passive subjunctive: she be prosecuted"},
+  {"example_id": "bc/cctv/00/cctv_0004#300#4", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/msnbc/00/msnbc_0004#443#7", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#678#1", "gold_subclass": "transitive", "notes": "Takes clausal complement"}
+]

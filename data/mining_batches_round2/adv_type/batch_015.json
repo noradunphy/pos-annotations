@@ -1,0 +1,172 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0001#178#15",
+    "sentence_id": "bc/cctv/00/cctv_0001#178",
+    "token_index": 15,
+    "sentence": "If you fail to shoot the enemy , I will punish you when you come back .",
+    "surface": "back",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#170#9",
+    "sentence_id": "bc/cctv/00/cctv_0004#170",
+    "token_index": 9,
+    "sentence": "Since the al - Jazeera TV station logo is on , people should be quite familiar with al - Jazeera TV station .",
+    "surface": "on",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#227#0",
+    "sentence_id": "bc/cctv/00/cctv_0004#227",
+    "token_index": 0,
+    "sentence": "So , in this way , it has borrowed some of the BBC style .",
+    "surface": "So",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#248#3",
+    "sentence_id": "bc/cnn/00/cnn_0006#248",
+    "token_index": 3,
+    "sentence": "and that 's where our emphasis should be /.",
+    "surface": "where",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#25#2",
+    "sentence_id": "bc/cctv/00/cctv_0002#25",
+    "token_index": 2,
+    "sentence": "Well , prior to this , many analysts all think that during his trip to the APEC meeting in Pusan , this time , Junichiro Koizumi may likely be isolated by various parties .",
+    "surface": "prior",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#418#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#418",
+    "token_index": 0,
+    "sentence": "Now she reappears ten years later living only miles away from her father 's home /.",
+    "surface": "Now",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#631#4",
+    "sentence_id": "bc/cnn/00/cnn_0002#631",
+    "token_index": 4,
+    "sentence": "right now you 're just being an apologist for torture /.",
+    "surface": "just",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#611#5",
+    "sentence_id": "bc/cnn/00/cnn_0001#611",
+    "token_index": 5,
+    "sentence": "but we could get vehicles up /.",
+    "surface": "up",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#547#1",
+    "sentence_id": "bc/cnn/00/cnn_0001#547",
+    "token_index": 1,
+    "sentence": "I also pray that your suffering caused by gang violence will soon come to an end as more gang members wake up and stop hurting themselves and others /.",
+    "surface": "also",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#217#3",
+    "sentence_id": "bc/cctv/00/cctv_0001#217",
+    "token_index": 3,
+    "sentence": "Taihang Mountain will forever remember that great battle during the Chinese people 's War of Resistance against Japan .",
+    "surface": "forever",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  }
+]

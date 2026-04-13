@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#482#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#482",
+    "token_index": 1,
+    "sentence": "In early two thousand seven because the Senate will be packed with Republicans by then /.",
+    "surface": "early",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#664#15",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#664",
+    "token_index": 15,
+    "sentence": "uh and there were several of us who really advised strongly both uh to the Afghan government and the people drafting the constitution as well as our own government that there were some very potentially dangerous contradictions within the constitution /.",
+    "surface": "Afghan",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#576#5",
+    "sentence_id": "bc/cnn/00/cnn_0004#576",
+    "token_index": 5,
+    "sentence": "We did it in the holy city of which uh we /-",
+    "surface": "holy",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#194#18",
+    "sentence_id": "bc/cctv/00/cctv_0003#194",
+    "token_index": 18,
+    "sentence": "Well , in addition , the Russian president was exactly the opposite , that is , denying at critical moments that there were territorial issues , that is , sometimes even the issue of the two islands .",
+    "surface": "critical",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#508#6",
+    "sentence_id": "bc/cctv/00/cctv_0002#508",
+    "token_index": 6,
+    "sentence": "Moscow , medium rain changing to light rain , 1 degree below zero to 2 degrees .",
+    "surface": "light",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#512#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#512",
+    "token_index": 1,
+    "sentence": "The far right is afraid she 's not far enough to the right /.",
+    "surface": "far",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#192#24",
+    "sentence_id": "bc/cnn/00/cnn_0005#192",
+    "token_index": 24,
+    "sentence": "Do you agree with the CIA assessment and a recent assessment that the terrorist training ground of Iraq today effectively has become a more effective training ground for Al - Queda and for international terrorists than Afghanistan under the Taliban ever was /?",
+    "surface": "effective",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#265#23",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#265",
+    "token_index": 23,
+    "sentence": "the Democrats who voted against Bolton and denied him an up or down vote in the Senate were n't they just in a certain way trying to separate themselves from having voted for the war /?",
+    "surface": "certain",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  }
+]

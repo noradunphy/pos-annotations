@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0006#51#3", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/cnn/00/cnn_0005#323#5", "gold_subclass": "intransitive", "notes": "Modal auxiliary"},
+  {"example_id": "bc/cnn/00/cnn_0001#531#3", "gold_subclass": "intransitive", "notes": "Semi-modal: have to"},
+  {"example_id": "bc/cnn/00/cnn_0002#449#4", "gold_subclass": "intransitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#207#5", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/msnbc/00/msnbc_0003#348#8", "gold_subclass": "intransitive", "notes": "Copular: is rewarding is progressive, but this 'is' is copular in cleft"},
+  {"example_id": "bc/msnbc/00/msnbc_0004#65#4", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#620#2", "gold_subclass": "intransitive", "notes": "Modal auxiliary"},
+  {"example_id": "bc/cnn/00/cnn_0004#483#2", "gold_subclass": "intransitive", "notes": "Existential construction"},
+  {"example_id": "bc/msnbc/00/msnbc_0004#259#8", "gold_subclass": "intransitive", "notes": "Phrasal: step in"}
+]

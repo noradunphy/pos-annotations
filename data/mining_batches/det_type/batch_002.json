@@ -1,0 +1,130 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0003#601#1",
+    "sentence_id": "bc/cnn/00/cnn_0003#601",
+    "token_index": 1,
+    "sentence": "And the caller is from Sarasota Florida /.",
+    "surface": "the",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#72#32",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#72",
+    "token_index": 32,
+    "sentence": "Earlier in the day Police Commissioner Ray Kelly and Brooklyn District Attorney Joe Hines laid out some of the evidence in the case in addition Dan to what we 'd heard before Which was the cops had cell phone records placing Mr. Littlejohn in the area where Imette 's body was found Witnesses saying that Mr. Littlejohn left the Falls bar with Imette And blood of Mr. Littlejohn 's apparently on the ties that were binding together Imette 's hands /.",
+    "surface": "Which",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#60#0",
+    "sentence_id": "bc/cnn/00/cnn_0005#60",
+    "token_index": 0,
+    "sentence": "that 's to drive us out before the Iraqis are ready to assume the battle space /.",
+    "surface": "that",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#185#7",
+    "sentence_id": "bc/cnn/00/cnn_0006#185",
+    "token_index": 7,
+    "sentence": "We 'll have the results later in the program /.",
+    "surface": "the",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#414#11",
+    "sentence_id": "bc/cnn/00/cnn_0001#414",
+    "token_index": 11,
+    "sentence": "I heard one report where they say he saved a hundred fifty thousand kids from joining gangs /.",
+    "surface": "fifty",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#453#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#453",
+    "token_index": 5,
+    "sentence": "and I think you know these guys may have some problems on their hand /.",
+    "surface": "these",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#157#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#157",
+    "token_index": 5,
+    "sentence": "And that could work in this case Dan because we do n't have a lot of solid evidence yet linking Littlejohn to Imette St. Guillen 's rape or her murder /.",
+    "surface": "this",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#474#3",
+    "sentence_id": "bc/cnn/00/cnn_0003#474",
+    "token_index": 3,
+    "sentence": "Well I think the best uh that anybody can do and I sort of offer this to anyone is to just start the dialog with your children um talk to them about their moods and how they really feel /.",
+    "surface": "the",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  }
+]

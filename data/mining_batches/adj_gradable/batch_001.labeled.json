@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0006#421#15", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#222#13", "gold_subclass": "non-gradable", "notes": "Proper-name-derived relational (Cuban Missile Crisis)."},
+  {"example_id": "bc/cnn/00/cnn_0003#377#12", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#637#3", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0004#284#15", "gold_subclass": "non-gradable", "notes": "Nationality/ethnic relational adjective."},
+  {"example_id": "bc/cnn/00/cnn_0001#38#1", "gold_subclass": "non-gradable", "notes": "Relational 'corporate' (corporate policies)."},
+  {"example_id": "bc/cnn/00/cnn_0001#201#11", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#635#2", "gold_subclass": "gradable", "notes": ""}
+]

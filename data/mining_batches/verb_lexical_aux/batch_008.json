@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0003#92#1",
+    "sentence_id": "bc/cctv/00/cctv_0003#92",
+    "token_index": 1,
+    "sentence": "We have such a start .",
+    "surface": "have",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#715#8",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#715",
+    "token_index": 8,
+    "sentence": "So what I really want to do is educate the public about the truth of what 's happening there /.",
+    "surface": "educate",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#366#22",
+    "sentence_id": "bc/cctv/00/cctv_0003#366",
+    "token_index": 22,
+    "sentence": "The four northern islands not only have mineral deposits , oil , and fisheries , but also for military strategy , they are key positions in the Pacific Ocean .",
+    "surface": "are",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#448#6",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#448",
+    "token_index": 6,
+    "sentence": "But as legal matter you would concede would you not that typically this kind of lawsuit would be thrown out /?",
+    "surface": "concede",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#284#23",
+    "sentence_id": "bc/cctv/00/cctv_0004#284",
+    "token_index": 23,
+    "sentence": "However , for al - Jazeera TV station , it could invite Barak , the Israeli prime minister at that time , to deliver a speech at al - Jazeera TV station .",
+    "surface": "deliver",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#296#29",
+    "sentence_id": "bc/cnn/00/cnn_0006#296",
+    "token_index": 29,
+    "sentence": "The argument is that law enforcement authorities transportation security authorities they 're spinning a lot of wheels wasting a lot of time examining grandmothers and babies and making people take off their shoes when they should be focusing in on real threats as opposed to potential random threats out there /.",
+    "surface": "take",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#291#1",
+    "sentence_id": "bc/cnn/00/cnn_0002#291",
+    "token_index": 1,
+    "sentence": "There are so many people in Rwanda now they 've taken over two - thirds of the national park /.",
+    "surface": "are",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#228#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#228",
+    "token_index": 4,
+    "sentence": "So how did he get home that night /?",
+    "surface": "get",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  }
+]

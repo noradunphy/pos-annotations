@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0003#154#3", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#112#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0004#121#18", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#465#4", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#284#7", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#59#2", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#437#11", "gold_subclass": "possessive", "notes": "Possessive determiner (our Miles O'Brien)."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#315#8", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#205#10", "gold_subclass": "relative", "notes": "Restrictive relative on analysts (who disagreed)."},
+  {"example_id": "bc/msnbc/00/msnbc_0002#632#5", "gold_subclass": "personal", "notes": ""}
+]

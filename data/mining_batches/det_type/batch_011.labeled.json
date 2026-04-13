@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0003#475#17", "gold_subclass": "demonstratives", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#142#8", "gold_subclass": "articles", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#535#10", "gold_subclass": "numerals", "notes": "Part of compound numeral (two hundred); not a bare cardinal head."},
+  {"example_id": "bc/cctv/00/cctv_0003#112#13", "gold_subclass": "articles", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0004#126#3", "gold_subclass": "demonstratives", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#46#9", "gold_subclass": "articles", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#273#11", "gold_subclass": "articles", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#91#2", "gold_subclass": "articles", "notes": ""}
+]

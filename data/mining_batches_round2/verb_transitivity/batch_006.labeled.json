@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0001#272#10", "gold_subclass": "intransitive", "notes": "Auxiliary in passive: was charged"},
+  {"example_id": "bc/msnbc/00/msnbc_0002#327#1", "gold_subclass": "intransitive", "notes": "Prepositional verb: referred to"},
+  {"example_id": "bc/cctv/00/cctv_0003#164#20", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#403#4", "gold_subclass": "ditransitive", "notes": "offer him the freedom: indirect + direct object"},
+  {"example_id": "bc/msnbc/00/msnbc_0004#499#3", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/cnn/00/cnn_0004#401#8", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/msnbc/00/msnbc_0003#86#5", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/cnn/00/cnn_0005#320#8", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#305#7", "gold_subclass": "intransitive", "notes": "Semi-modal: ought to"},
+  {"example_id": "bc/cnn/00/cnn_0007#148#27", "gold_subclass": "transitive", "notes": "Passive: it was disclosed"}
+]

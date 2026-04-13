@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0002#503#2", "gold_subclass": "predicative", "notes": "Weather predicate (Bangkok, cloudy); elliptical copular."},
+  {"example_id": "bc/cnn/00/cnn_0005#387#15", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0004#209#15", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#78#8", "gold_subclass": "predicative", "notes": "Fixed construction 'went contrary to'; predicative-like complement."},
+  {"example_id": "bc/cnn/00/cnn_0002#673#30", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#189#22", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#26#8", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#89#9", "gold_subclass": "attributive", "notes": ""}
+]

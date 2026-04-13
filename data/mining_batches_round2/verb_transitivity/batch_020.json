@@ -1,0 +1,152 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0001#395#13",
+    "sentence_id": "bc/cnn/00/cnn_0001#395",
+    "token_index": 13,
+    "sentence": "The founder of one of the nation 's most notorious street gangs is facing a death penalty /.",
+    "surface": "facing",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#678#2",
+    "sentence_id": "bc/cnn/00/cnn_0002#678",
+    "token_index": 2,
+    "sentence": "and it 's never been proven to work /.",
+    "surface": "'s",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#6#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#6",
+    "token_index": 1,
+    "sentence": "That was Carl Kitnea /.",
+    "surface": "was",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#462#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#462",
+    "token_index": 5,
+    "sentence": "I did n't think they did /.",
+    "surface": "did",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#0#6",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#0",
+    "token_index": 6,
+    "sentence": "Both vehicles which are armored can house up to twenty five marines /.",
+    "surface": "house",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#359#4",
+    "sentence_id": "bc/cnn/00/cnn_0004#359",
+    "token_index": 4,
+    "sentence": "he believed that he was responsible for JFK dying /.",
+    "surface": "was",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#72#8",
+    "sentence_id": "bc/cnn/00/cnn_0002#72",
+    "token_index": 8,
+    "sentence": "teen shooters they 're often descibed as you know kids who have been picked on or bullied by peers /.",
+    "surface": "know",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#625#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#625",
+    "token_index": 2,
+    "sentence": "Apparently he was arrested when police found him with a copy of the Bible /.",
+    "surface": "was",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#686#5",
+    "sentence_id": "bc/cnn/00/cnn_0001#686",
+    "token_index": 5,
+    "sentence": "This is our stripe which are on our bags and our logos /.",
+    "surface": "are",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#180#4",
+    "sentence_id": "bc/cnn/00/cnn_0005#180",
+    "token_index": 4,
+    "sentence": "we know what we 're doing in our efforts , how to get him /.",
+    "surface": "'re",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  }
+]

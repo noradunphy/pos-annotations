@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0001#335#12", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#583#4", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#46#19", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#90#4", "gold_subclass": "non-gradable", "notes": "Legal/definitional sense; not *more legal in ordinary use."},
+  {"example_id": "bc/cnn/00/cnn_0006#108#6", "gold_subclass": "non-gradable", "notes": "'Total number' completeness reading; not scalar."},
+  {"example_id": "bc/cnn/00/cnn_0003#8#4", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#421#1", "gold_subclass": "non-gradable", "notes": "Aspect-like participial modifier; *more continuing unnatural."},
+  {"example_id": "bc/cctv/00/cctv_0003#408#6", "gold_subclass": "gradable", "notes": ""}
+]

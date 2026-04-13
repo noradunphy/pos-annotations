@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0006#33#12",
+    "sentence_id": "bc/cnn/00/cnn_0006#33",
+    "token_index": 12,
+    "sentence": "Uh I think there are uh uh some little problems uh need to be ironed out /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#115#29",
+    "sentence_id": "bc/cctv/00/cctv_0004#115",
+    "token_index": 29,
+    "sentence": "Eh , in other words , although they were interrogated , whether the secret leaked was something like our topic today , that is , Bush said he wanted to bomb al - Jazeera TV station , whether the secret divulged was this record , these are still two different things .",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#49#22",
+    "sentence_id": "bc/cctv/00/cctv_0002#49",
+    "token_index": 22,
+    "sentence": "Well , at the same time , he pointed out , that is , er , the issue of the prime minister 's visit to Yasukuni Shrine , the textbook issue , and the territorial dispute .",
+    "surface": "'s",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#261#15",
+    "sentence_id": "bc/cnn/00/cnn_0007#261",
+    "token_index": 15,
+    "sentence": "Many believe it 's just a matter of time before Chief Justice William Rehnquist steps down /.",
+    "surface": "down",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#189#6",
+    "sentence_id": "bc/cctv/00/cctv_0004#189",
+    "token_index": 6,
+    "sentence": "In addition , you were said to have attended the inaugural broadcast ceremony .",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#222#18",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#222",
+    "token_index": 18,
+    "sentence": "it was um you know rather than sitting around waiting for a phone call or waiting for her to call us or wondering why she had n't called her mother or I /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#656#1",
+    "sentence_id": "bc/cnn/00/cnn_0001#656",
+    "token_index": 1,
+    "sentence": "Still to come on Newsnight a sweeter than average story much much sweeter as we belly up to the bar the candy bar /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#242#4",
+    "sentence_id": "bc/cnn/00/cnn_0003#242",
+    "token_index": 4,
+    "sentence": "we 're not programmed to take pills if we start to feel good /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  }
+]

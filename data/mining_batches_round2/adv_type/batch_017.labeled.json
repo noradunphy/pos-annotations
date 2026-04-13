@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0004#61#2", "gold_subclass": "place", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#344#21", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#537#29", "gold_subclass": "place", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#304#2", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#702#4", "gold_subclass": "place", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#668#0", "gold_subclass": "place", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#117#17", "gold_subclass": "place", "notes": "\"the other way round\" = around"},
+  {"example_id": "bc/cnn/00/cnn_0001#243#2", "gold_subclass": "degree", "notes": "\"so much\" = to such a degree"},
+  {"example_id": "bc/cnn/00/cnn_0006#113#13", "gold_subclass": "degree", "notes": "\"just in case\" — focusing adverb"},
+  {"example_id": "bc/cnn/00/cnn_0005#27#0", "gold_subclass": "time", "notes": "\"Just a short while ago\" = very recently"}
+]

@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0004#84#6", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#411#7", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#73#3", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#650#24", "gold_subclass": "non-gradable", "notes": "Denominal relational 'religious rights' (pertaining to religion)."},
+  {"example_id": "bc/cnn/00/cnn_0001#249#3", "gold_subclass": "non-gradable", "notes": "Quantifier 'many'."},
+  {"example_id": "bc/cnn/00/cnn_0001#250#9", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#117#3", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#666#12", "gold_subclass": "non-gradable", "notes": "Denominal/religious classification 'Islamic'."}
+]

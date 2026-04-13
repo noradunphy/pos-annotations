@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#165#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#165",
+    "token_index": 1,
+    "sentence": "No but listen /.",
+    "surface": "but",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#254#25",
+    "sentence_id": "bc/cnn/00/cnn_0001#254",
+    "token_index": 25,
+    "sentence": "Here in New Orleans that nineteenth century text resonates as it feels literally like two cities have emerged since Hurricane Katrina one filled with anger and desperation /-",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#164#6",
+    "sentence_id": "bc/cctv/00/cctv_0002#164",
+    "token_index": 6,
+    "sentence": "Now many media all issued statements and editorials .",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#121#10",
+    "sentence_id": "bc/cnn/00/cnn_0003#121",
+    "token_index": 10,
+    "sentence": "We have a household where we talk about our feelings and make sure that no one is afraid to speak of what 's going on /.",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#78#0",
+    "sentence_id": "bc/cnn/00/cnn_0004#78",
+    "token_index": 0,
+    "sentence": "and this is sort of interesting /.",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#72#25",
+    "sentence_id": "bc/cnn/00/cnn_0005#72",
+    "token_index": 25,
+    "sentence": "But as long as the politics move forward in a positive direction that is considered to be legitimate by the majority of the Iraqi people and as long as Iraqi security forces continue to develop at the rate that they 're developing and as long as American forces continue to stay there to provide the strength for those Iraqi forces as they develop we are after all the shield behind which politics takes place the insurgency wo n't make it /.",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#490#0",
+    "sentence_id": "bc/cnn/00/cnn_0005#490",
+    "token_index": 0,
+    "sentence": "And uh just between brackets before the decision of the UN I had asked for an investigation UN team to come and when they will come reach to a point when we 'll know whoever is doing these assassinations /.",
+    "surface": "And",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#199#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#199",
+    "token_index": 0,
+    "sentence": "And later in the program former slugger Jose Conseco speaks up about steroids and baseball /.",
+    "surface": "And",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  }
+]

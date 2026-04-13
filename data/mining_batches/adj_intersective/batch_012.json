@@ -1,0 +1,54 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#223#24",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#223",
+    "token_index": 24,
+    "sentence": "And then there was Daniel Patrick Moynihan who went over there and took on the Third World on issues like uh the issues of anti-Israel sort of rhetoric over there and he won those battles /.",
+    "surface": "anti-Israel",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#216#2",
+    "sentence_id": "bc/cctv/00/cctv_0002#216",
+    "token_index": 2,
+    "sentence": "At the same time , it also actually denigrates Japan 's image .",
+    "surface": "same",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#192#16",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#192",
+    "token_index": 16,
+    "sentence": "This is a bipartisan scandal that 's going to take responsible and bipartisan leadership to get involved /.",
+    "surface": "involved",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#156#6",
+    "sentence_id": "bc/cnn/00/cnn_0006#156",
+    "token_index": 6,
+    "sentence": "I think we 'll leave the judicial system to its own devices so that they will take their own time and they will uh sentence Saddam /.",
+    "surface": "judicial",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  }
+]

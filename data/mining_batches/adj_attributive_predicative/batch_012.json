@@ -1,0 +1,54 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#673#27",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#673",
+    "token_index": 27,
+    "sentence": "And I think Ms. Morgan is really insulting all the troops who 've been there to assume that by going for ten days and taking a few casual leisurely trips outside the Green Zone that she got a full taste of combat /.",
+    "surface": "casual",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#481#2",
+    "sentence_id": "bc/cnn/00/cnn_0003#481",
+    "token_index": 2,
+    "sentence": "That 's normal /.",
+    "surface": "normal",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#159#18",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#159",
+    "token_index": 18,
+    "sentence": "I would n't want to be on the ballot next year running for governor if I were Ken Blackwell or anyone else /.",
+    "surface": "Blackwell",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#375#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#375",
+    "token_index": 4,
+    "sentence": "But here 's a little bit more of what she said /.",
+    "surface": "little",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  }
+]

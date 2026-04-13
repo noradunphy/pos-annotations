@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#183#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#183",
+    "token_index": 5,
+    "sentence": "I know this uh has to be a difficult time and week for you /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#345#13",
+    "sentence_id": "bc/cnn/00/cnn_0002#345",
+    "token_index": 13,
+    "sentence": "and of course when he went in the musk I guess he tipped over a jeep or two and you got to be careful when that happens /.",
+    "surface": "over",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#1#14",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#1",
+    "token_index": 14,
+    "sentence": "Senator Chris Dodd of Connecticut was among those Democrats who spoke out against Bolton 's appointment today /.",
+    "surface": "'s",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#528#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#528",
+    "token_index": 5,
+    "sentence": "They thought they were going to run against maybe Truman again /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#60#11",
+    "sentence_id": "bc/cnn/00/cnn_0005#60",
+    "token_index": 11,
+    "sentence": "that 's to drive us out before the Iraqis are ready to assume the battle space /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#628#62",
+    "sentence_id": "bc/cnn/00/cnn_0002#628",
+    "token_index": 62,
+    "sentence": "But then if it 's felt necessary to use any of these measures short of torture water boarding extreme psychological measures if the president of the United States is prepared to put his credibility on the line and say the future of the nation is stake we must violate the law in this instance like we would if we had to shoot down a civilian airliner let the president take accountability /.",
+    "surface": "down",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#23#5",
+    "sentence_id": "bc/cnn/00/cnn_0007#23",
+    "token_index": 5,
+    "sentence": "Here 's what he had to say /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#270#23",
+    "sentence_id": "bc/cnn/00/cnn_0007#270",
+    "token_index": 23,
+    "sentence": "but I thought ah Rehnquist said it best when somebody asked him recently and said it 's for me to know and you to find out /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  }
+]

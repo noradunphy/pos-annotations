@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0006#357#38", "gold_subclass": "non-collective", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#500#4", "gold_subclass": "collective", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#291#12", "gold_subclass": "non-collective", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#336#15", "gold_subclass": "non-collective", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0007#261#10", "gold_subclass": "non-collective", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#316#4", "gold_subclass": "non-collective", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0003#112#17", "gold_subclass": "non-collective", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#377#14", "gold_subclass": "non-collective", "notes": "surface is fragment of White House; tagged as NOUN"}
+]

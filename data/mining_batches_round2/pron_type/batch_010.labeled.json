@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0004#277#17", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#150#11", "gold_subclass": "possessive", "notes": "Possessive determiner (their country)."},
+  {"example_id": "bc/msnbc/00/msnbc_0002#668#7", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#571#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#262#13", "gold_subclass": "relative", "notes": "Restrictive relative on people (who we knew…)."},
+  {"example_id": "bc/msnbc/00/msnbc_0001#158#8", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#238#0", "gold_subclass": "interrogative", "notes": "Wh-question (what did you want…)."},
+  {"example_id": "bc/cnn/00/cnn_0002#411#9", "gold_subclass": "relative", "notes": "Restrictive relative on teacher (who runs…)."},
+  {"example_id": "bc/cctv/00/cctv_0003#320#0", "gold_subclass": "possessive", "notes": "Possessive determiner (Their surrounding sea waters)."},
+  {"example_id": "bc/cnn/00/cnn_0002#320#2", "gold_subclass": "possessive", "notes": "Possessive determiner (his crew)."}
+]

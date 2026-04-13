@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#132#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#132",
+    "token_index": 0,
+    "sentence": "More on that congressional race in Ohio and what it means for the rest of the country /.",
+    "surface": "More",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#172#10",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#172",
+    "token_index": 10,
+    "sentence": "And that tells you then the problems that both the national and state Republicans have /.",
+    "surface": "national",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#123#15",
+    "sentence_id": "bc/cnn/00/cnn_0005#123",
+    "token_index": 15,
+    "sentence": "there is a growing capability of the Iraqi security forces to be more and more effective against the insurgency /.",
+    "surface": "effective",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#695#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#695",
+    "token_index": 2,
+    "sentence": "I 'm sorry /.",
+    "surface": "sorry",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#84#80",
+    "sentence_id": "bc/cctv/00/cctv_0001#84",
+    "token_index": 80,
+    "sentence": "In order to coordinate with breakthrough battles at the Zhengtai Railway and the northern section of the Tongpu Railway , the 129th Division and the Shanxi - Chahar - Hebei Military District also ordered their units to deploy more than 50 regiments Yang to Lishi in cooperation with militias , to launch widespread sabotage and raids on the Pinghan , Pingsui , Beining , Baijin , Jinpu , and Deshi railway lines , among others , as well as some main roads and many strongholds occupied by the Japanese army .",
+    "surface": "main",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#538#6",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#538",
+    "token_index": 6,
+    "sentence": "And I do n't believe a pro-choice and even mildly pro-gay - rights candidate can be nominated by the Republicans /.",
+    "surface": "pro-choice",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#433#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#433",
+    "token_index": 2,
+    "sentence": "From a top general /.",
+    "surface": "top",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#418#41",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#418",
+    "token_index": 41,
+    "sentence": "Well now Brenda Groney and Mark McKenzie 's families are preparing a lawsuit claiming a judge prosecutors and law enforcement authorities in Becker County Minnesota are responsible for letting Duncan out on bail when they should have known he was a violent sex offender and they should have known he 'd likely offend again /.",
+    "surface": "violent",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  }
+]

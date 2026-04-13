@@ -1,0 +1,182 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#220#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#220",
+    "token_index": 2,
+    "sentence": "but was there a sense of relief closure I do n't know what the word is to use when you heard that finally they had found Taylor /?",
+    "surface": "there",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#296#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#296",
+    "token_index": 2,
+    "sentence": "That 's his contradiction that he created , is n't it /?",
+    "surface": "his",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#126#0",
+    "sentence_id": "bc/cnn/00/cnn_0006#126",
+    "token_index": 0,
+    "sentence": "We have also uh uh uh uh strengthened and tightened the recruitment procedure for the ministry of uh uh Interior and Ministry of Defense /.",
+    "surface": "We",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#460#0",
+    "sentence_id": "bc/cnn/00/cnn_0004#460",
+    "token_index": 0,
+    "sentence": "He 's named in the indictment /.",
+    "surface": "He",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#197#0",
+    "sentence_id": "bc/cnn/00/cnn_0003#197",
+    "token_index": 0,
+    "sentence": "I would throw Jim 's stuff out of the house /.",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#222#5",
+    "sentence_id": "bc/cnn/00/cnn_0007#222",
+    "token_index": 5,
+    "sentence": "but when you talk about his memory he did n't even remember this was five years ago or barely remembered that Richard Nixon had resigned /.",
+    "surface": "his",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#474#0",
+    "sentence_id": "bc/cnn/00/cnn_0006#474",
+    "token_index": 0,
+    "sentence": "We have ongoing programs to evaluate the effects of pure age on hardware /.",
+    "surface": "We",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#324#12",
+    "sentence_id": "bc/cnn/00/cnn_0005#324",
+    "token_index": 12,
+    "sentence": "And they ought to tell the Iraqis the administration that we expect them to live up to that timetable August fifteenth /.",
+    "surface": "them",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#489#3",
+    "sentence_id": "bc/cnn/00/cnn_0006#489",
+    "token_index": 3,
+    "sentence": "Uh it 's our intention to get to the bottom of this and fix it in a very rapid manner /.",
+    "surface": "our",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#318#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#318",
+    "token_index": 0,
+    "sentence": "She joins me now on the phone for her first tv interview since these charges were dropped /.",
+    "surface": "She",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  }
+]

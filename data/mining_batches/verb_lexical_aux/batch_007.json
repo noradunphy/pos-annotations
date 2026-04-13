@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0003#42#7",
+    "sentence_id": "bc/cctv/00/cctv_0003#42",
+    "token_index": 7,
+    "sentence": "Well , both the media and citizens have such concerns , that is to say , they are afraid that resolution of territorial issues may take rather .",
+    "surface": "have",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#282#6",
+    "sentence_id": "bc/cnn/00/cnn_0004#282",
+    "token_index": 6,
+    "sentence": "what I used to do Larry was occasionally make speeches as you know cause you 're making them all the time /.",
+    "surface": "was",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#248#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#248",
+    "token_index": 2,
+    "sentence": "and I think Monday or Tuesday she was seen in Richmond with him /.",
+    "surface": "think",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#519#2",
+    "sentence_id": "bc/cnn/00/cnn_0003#519",
+    "token_index": 2,
+    "sentence": "but I 've done them all /.",
+    "surface": "'ve",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#27#1",
+    "sentence_id": "bc/cnn/00/cnn_0007#27",
+    "token_index": 1,
+    "sentence": "she went to jail /.",
+    "surface": "went",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#21#9",
+    "sentence_id": "bc/cnn/00/cnn_0003#21",
+    "token_index": 9,
+    "sentence": "As a teenager even as a younger girl I had some depression /.",
+    "surface": "had",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#346#3",
+    "sentence_id": "bc/cnn/00/cnn_0006#346",
+    "token_index": 3,
+    "sentence": "Uh it would have been better had he been confirmed /.",
+    "surface": "have",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#45#30",
+    "sentence_id": "bc/cnn/00/cnn_0004#45",
+    "token_index": 30,
+    "sentence": "Well if it gets to a filibuster and I think that 's a very close call tonight whether it will eventually get there or not and the Republicans then have made it very clear that they would likely invoke the nuclear option /.",
+    "surface": "made",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  }
+]

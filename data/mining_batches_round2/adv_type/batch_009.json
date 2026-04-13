@@ -1,0 +1,172 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0006#393#0",
+    "sentence_id": "bc/cnn/00/cnn_0006#393",
+    "token_index": 0,
+    "sentence": "Very significant /.",
+    "surface": "Very",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#181#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#181",
+    "token_index": 2,
+    "sentence": "Let me just say to you Chris that what I said was that Ronald Reagan and George Bush cut taxes and they started to restrain state government spending /.",
+    "surface": "just",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#248#6",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#248",
+    "token_index": 6,
+    "sentence": "Oh I 've been lied to before /.",
+    "surface": "before",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#265#12",
+    "sentence_id": "bc/cnn/00/cnn_0003#265",
+    "token_index": 12,
+    "sentence": "Well when I realized that it was costing me too much to just keep myself in a normal place every day /.",
+    "surface": "just",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#44#4",
+    "sentence_id": "bc/cnn/00/cnn_0003#44",
+    "token_index": 4,
+    "sentence": "and I was just very alone in life /.",
+    "surface": "very",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#397#5",
+    "sentence_id": "bc/cctv/00/cctv_0003#397",
+    "token_index": 5,
+    "sentence": "That is , do n't always get stuck on the territorial issue .",
+    "surface": "always",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#681#0",
+    "sentence_id": "bc/cnn/00/cnn_0002#681",
+    "token_index": 0,
+    "sentence": "Still ahead on Three Sixty . It may be off - year elections but they 're being closely watched /.",
+    "surface": "Still",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#245#1",
+    "sentence_id": "bc/cnn/00/cnn_0005#245",
+    "token_index": 1,
+    "sentence": "Thanks very much General for joining us /.",
+    "surface": "very",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#332#3",
+    "sentence_id": "bc/cctv/00/cctv_0002#332",
+    "token_index": 3,
+    "sentence": "This is the most serious cost .",
+    "surface": "most",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#393#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#393",
+    "token_index": 5,
+    "sentence": "I had never seen her before /.",
+    "surface": "before",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  }
+]

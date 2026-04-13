@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0003#22#16", "gold_subclass": "common", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#428#3", "gold_subclass": "common", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#89#3", "gold_subclass": "common", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#356#6", "gold_subclass": "common", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0007#290#5", "gold_subclass": "common", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#217#9", "gold_subclass": "common", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#161#3", "gold_subclass": "common", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#622#0", "gold_subclass": "common", "notes": "Indefinite-pronoun use; not a named entity."}
+]

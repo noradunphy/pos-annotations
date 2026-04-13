@@ -1,0 +1,122 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#572#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#572",
+    "token_index": 4,
+    "sentence": "We saw as you described and everybody else knows for years the minority in that country were the bullies of that country /.",
+    "surface": "described",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#62#2",
+    "sentence_id": "bc/cctv/00/cctv_0001#62",
+    "token_index": 2,
+    "sentence": "I am telling you to go back to sleep peacefully .",
+    "surface": "telling",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#292#5",
+    "sentence_id": "bc/cctv/00/cctv_0003#292",
+    "token_index": 5,
+    "sentence": "And what impact will it have on Putin 's visit to Japan ?",
+    "surface": "have",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#411#6",
+    "sentence_id": "bc/cctv/00/cctv_0004#411",
+    "token_index": 6,
+    "sentence": "We could say that the US has been suppressing al - Jazeera TV station for quite a long time .",
+    "surface": "has",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#437#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#437",
+    "token_index": 4,
+    "sentence": "it would only be aiding the people who want us to get out and the terrorists and the killers uh that want us to leave /.",
+    "surface": "aiding",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#549#13",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#549",
+    "token_index": 13,
+    "sentence": "No uh the only thing I can tell you is that it would appear to me that at no time whatsoever was she a prisoner /.",
+    "surface": "appear",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#234#3",
+    "sentence_id": "bc/cnn/00/cnn_0001#234",
+    "token_index": 3,
+    "sentence": "Many prominent figures were in attendance including the Reverends Jesse Jackson and Al Sharpton as well as former President Bill Clinton /.",
+    "surface": "were",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#466#0",
+    "sentence_id": "bc/cnn/00/cnn_0002#466",
+    "token_index": 0,
+    "sentence": "Thank you /.",
+    "surface": "Thank",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0003#308#12", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#712#1", "gold_subclass": "intransitive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#57#7", "gold_subclass": "intransitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#105#10", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#436#6", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#133#8", "gold_subclass": "intransitive", "notes": "Auxiliary in 'be speaking'"},
+  {"example_id": "bc/cctv/00/cctv_0001#104#8", "gold_subclass": "intransitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#336#23", "gold_subclass": "intransitive", "notes": "Auxiliary in passive 'being made'"},
+  {"example_id": "bc/cctv/00/cctv_0001#114#2", "gold_subclass": "intransitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#274#5", "gold_subclass": "transitive", "notes": ""}
+]

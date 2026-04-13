@@ -1,0 +1,152 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0004#217#25",
+    "sentence_id": "bc/cnn/00/cnn_0004#217",
+    "token_index": 25,
+    "sentence": "On the Westmoreland case when we were on trial for libel in the amount of a hundred and twenty million dollars and uh we had done an hour and a half show called /-",
+    "surface": "done",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#87#17",
+    "sentence_id": "bc/cctv/00/cctv_0001#87",
+    "token_index": 17,
+    "sentence": "With a wave of his hand , Peng Dehuai said that despite being over 100 regiments , let 's call this campaign the Hundred Regiments Offensive .",
+    "surface": "let",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#323#16",
+    "sentence_id": "bc/cnn/00/cnn_0001#323",
+    "token_index": 16,
+    "sentence": "For some answers Kim called in another expert Elizabeth English a professor who studies how buildings weather hurricanes /.",
+    "surface": "weather",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#240#19",
+    "sentence_id": "bc/cctv/00/cctv_0004#240",
+    "token_index": 19,
+    "sentence": "Er , they themselves claim that it is a private TV station , but in reality it could not have been established without a large amount of financial support given by the government .",
+    "surface": "have",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#243#3",
+    "sentence_id": "bc/cnn/00/cnn_0005#243",
+    "token_index": 3,
+    "sentence": "We need to have them working towards stability in both Afghanistan and Iraq /.",
+    "surface": "have",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#550#7",
+    "sentence_id": "bc/cnn/00/cnn_0003#550",
+    "token_index": 7,
+    "sentence": "I do n't know if Eli Lilly does that /.",
+    "surface": "does",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#122#6",
+    "sentence_id": "bc/cnn/00/cnn_0005#122",
+    "token_index": 6,
+    "sentence": "there 's a division that is fighting down in the Baghdad area /.",
+    "surface": "fighting",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#154#1",
+    "sentence_id": "bc/cnn/00/cnn_0002#154",
+    "token_index": 1,
+    "sentence": "I think Nixon carried it in nineteen sixty /.",
+    "surface": "think",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#241#39",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#241",
+    "token_index": 39,
+    "sentence": "Uh I guess that if Bolton had not said some of the things that he had said in the past that you know the UN secretariat has thirty - eight floors and you could lose ten of them without losing anything those kinds of quotes are going to kind of haunt him /.",
+    "surface": "losing",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#94#11",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#94",
+    "token_index": 11,
+    "sentence": "and more importantly as a trial lawyer what it would really be called is jury nullification /.",
+    "surface": "be",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  }
+]

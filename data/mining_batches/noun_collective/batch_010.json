@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0006#251#27",
+    "sentence_id": "bc/cnn/00/cnn_0006#251",
+    "token_index": 27,
+    "sentence": "But have you seen Senator Kyl a dramatic improvement in intelligence gathering human intelligence infiltrating these cells over the past few years on the part of the United States /?",
+    "surface": "United",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#303#35",
+    "sentence_id": "bc/cnn/00/cnn_0003#303",
+    "token_index": 35,
+    "sentence": "There was no time for me to see you know what my place in the world was and what else I might be doing for myself because it just took everything to get through the day /.",
+    "surface": "day",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#705#32",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#705",
+    "token_index": 32,
+    "sentence": "Uh I get sometimes not all the time two different versions the version they give me on the air and the version they give me the minute when we 're off the air /.",
+    "surface": "air",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#366#5",
+    "sentence_id": "bc/cnn/00/cnn_0001#366",
+    "token_index": 5,
+    "sentence": "CNN senior political correspondent Candy Crowley explains /.",
+    "surface": "Crowley",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#30#29",
+    "sentence_id": "bc/cctv/00/cctv_0003#30",
+    "token_index": 29,
+    "sentence": "Well , on the oil pipeline route issue , though the Russian side promised to connect it with Japan , there was no talk about prioritizing a connection with Japan .",
+    "surface": "Japan",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#417#7",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#417",
+    "token_index": 7,
+    "sentence": "Fourteen American troops were killed today in Iraq when a roadside bomb ripped through their lightly armored vehicle /.",
+    "surface": "Iraq",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#295#3",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#295",
+    "token_index": 3,
+    "sentence": "I think the Democratic Party has said you know the problem is /-",
+    "surface": "Democratic",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#416#7",
+    "sentence_id": "bc/cctv/00/cctv_0004#416",
+    "token_index": 7,
+    "sentence": "Well , will al - Jazeera TV station really sue US President Bush ?",
+    "surface": "station",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  }
+]

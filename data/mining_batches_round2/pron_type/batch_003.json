@@ -1,0 +1,182 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0007#39#3",
+    "sentence_id": "bc/cnn/00/cnn_0007#39",
+    "token_index": 3,
+    "sentence": "So you know I agree with the editor of the New York Times that ah this is not a perfect case Judy Miller /.",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#216#1",
+    "sentence_id": "bc/cnn/00/cnn_0004#216",
+    "token_index": 1,
+    "sentence": "Pardon me /.",
+    "surface": "me",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#0#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#0",
+    "token_index": 0,
+    "sentence": "He was charged with public intoxication and resisting arrest /.",
+    "surface": "He",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#543#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#543",
+    "token_index": 1,
+    "sentence": "No I did not say he did /.",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#138#21",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#138",
+    "token_index": 21,
+    "sentence": "Uh what the base is saying is that we expect you to get up every morning and be who you say you are and do what you say you 're going to do /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#165#9",
+    "sentence_id": "bc/cctv/00/cctv_0002#165",
+    "token_index": 9,
+    "sentence": "Therefore , some people also compared this diplomacy of his to a lame diplomacy .",
+    "surface": "his",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#652#5",
+    "sentence_id": "bc/cnn/00/cnn_0001#652",
+    "token_index": 5,
+    "sentence": "No you stick with what you 're doing /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#38#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#38",
+    "token_index": 4,
+    "sentence": "If he ca n't he 's going in /.",
+    "surface": "he",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#304#9",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#304",
+    "token_index": 9,
+    "sentence": "So therefore what are you going to do about it /?",
+    "surface": "it",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#186#2",
+    "sentence_id": "bc/cnn/00/cnn_0001#186",
+    "token_index": 2,
+    "sentence": "That 's their response /.",
+    "surface": "their",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  }
+]

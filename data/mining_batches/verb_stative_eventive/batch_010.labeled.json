@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0003#462#2", "gold_subclass": "eventive", "notes": "Perfect auxiliary have; aspect tied to prior event."},
+  {"example_id": "bc/msnbc/00/msnbc_0002#158#5", "gold_subclass": "eventive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0007#302#10", "gold_subclass": "eventive", "notes": "Do something: general action."},
+  {"example_id": "bc/cnn/00/cnn_0005#359#3", "gold_subclass": "eventive", "notes": "Progressive are coming (idiom): consequences unfolding."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#312#19", "gold_subclass": "eventive", "notes": "Court will change: change of state."},
+  {"example_id": "bc/cctv/00/cctv_0002#225#29", "gold_subclass": "eventive", "notes": "Move toward goal: directed action."},
+  {"example_id": "bc/cctv/00/cctv_0002#63#3", "gold_subclass": "stative", "notes": "Copula is (identificational)."},
+  {"example_id": "bc/cnn/00/cnn_0007#156#15", "gold_subclass": "stative", "notes": "Case closed: result state (adjectival passive)."}
+]

@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0001#395#13", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#678#2", "gold_subclass": "intransitive", "notes": "Auxiliary in perfect passive: has been proven"},
+  {"example_id": "bc/msnbc/00/msnbc_0001#6#1", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/msnbc/00/msnbc_0002#462#5", "gold_subclass": "ambitransitive", "notes": "Pro-verb; referent from prior context"},
+  {"example_id": "bc/msnbc/00/msnbc_0004#0#6", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#359#4", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/cnn/00/cnn_0002#72#8", "gold_subclass": "ambitransitive", "notes": "Discourse marker: you know"},
+  {"example_id": "bc/msnbc/00/msnbc_0002#625#2", "gold_subclass": "intransitive", "notes": "Auxiliary in passive: was arrested"},
+  {"example_id": "bc/cnn/00/cnn_0001#686#5", "gold_subclass": "intransitive", "notes": "Copular/locative"},
+  {"example_id": "bc/cnn/00/cnn_0005#180#4", "gold_subclass": "intransitive", "notes": "Auxiliary in progressive: are doing"}
+]

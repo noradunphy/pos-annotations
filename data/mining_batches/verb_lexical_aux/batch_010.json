@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0002#497#3",
+    "sentence_id": "bc/cctv/00/cctv_0002#497",
+    "token_index": 3,
+    "sentence": "Shanghai , overcast changing to light rain , 11 to 15 degrees .",
+    "surface": "changing",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#545#3",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#545",
+    "token_index": 3,
+    "sentence": "and the soliders stayed there /.",
+    "surface": "stayed",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#25#19",
+    "sentence_id": "bc/cnn/00/cnn_0007#25",
+    "token_index": 19,
+    "sentence": "Ah I mean the law presented Judy Miller with a choice she could betray her trust ah or she could go to jail /.",
+    "surface": "could",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#38#6",
+    "sentence_id": "bc/cctv/00/cctv_0003#38",
+    "token_index": 6,
+    "sentence": "Well , what kind of response did people in Japan have to , well , some of the achievements this trip to Japan has made ?",
+    "surface": "did",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#551#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#551",
+    "token_index": 1,
+    "sentence": "I covered their dead bodies /.",
+    "surface": "covered",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#231#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#231",
+    "token_index": 1,
+    "sentence": "He took the subway /.",
+    "surface": "took",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#26#1",
+    "sentence_id": "bc/cnn/00/cnn_0003#26",
+    "token_index": 1,
+    "sentence": "Where 'd you grow up /?",
+    "surface": "'d",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#149#15",
+    "sentence_id": "bc/cctv/00/cctv_0001#149",
+    "token_index": 15,
+    "sentence": "They carried away the iron , the iron rails of the railway , er to make steel .",
+    "surface": "make",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  }
+]

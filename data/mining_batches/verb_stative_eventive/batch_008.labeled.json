@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0004#364#10", "gold_subclass": "eventive", "notes": "Dummy did in question formation."},
+  {"example_id": "bc/cnn/00/cnn_0002#30#6", "gold_subclass": "eventive", "notes": "Figure out: cognitive activity."},
+  {"example_id": "bc/msnbc/00/msnbc_0001#219#13", "gold_subclass": "stative", "notes": "Copula in it is over (state reading)."},
+  {"example_id": "bc/cnn/00/cnn_0005#490#20", "gold_subclass": "eventive", "notes": "Come: motion/arrival."},
+  {"example_id": "bc/cnn/00/cnn_0007#61#4", "gold_subclass": "stative", "notes": "Copula/existential is."},
+  {"example_id": "bc/msnbc/00/msnbc_0004#299#1", "gold_subclass": "stative", "notes": "Existential there are going to be."},
+  {"example_id": "bc/cctv/00/cctv_0002#416#13", "gold_subclass": "eventive", "notes": "Will see: future discovery/information event."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#453#8", "gold_subclass": "stative", "notes": "Have problems: state/possession."}
+]

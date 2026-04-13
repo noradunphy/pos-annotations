@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0002#423#5", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#238#20", "gold_subclass": "count", "notes": "Proper name component (United States); not a prototypical count/mass common noun."},
+  {"example_id": "bc/cnn/00/cnn_0002#510#3", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#288#42", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#232#3", "gold_subclass": "count", "notes": "Proper name (person)."},
+  {"example_id": "bc/cnn/00/cnn_0004#358#6", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#81#22", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#101#3", "gold_subclass": "mass", "notes": "Abstract outcome/state reading (for success)."}
+]

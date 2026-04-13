@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0002#542#3", "gold_subclass": "stative", "notes": "Mental state expect."},
+  {"example_id": "bc/msnbc/00/msnbc_0001#309#10", "gold_subclass": "eventive", "notes": "Had conversations: eventive possession/activity."},
+  {"example_id": "bc/cnn/00/cnn_0003#511#1", "gold_subclass": "stative", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#657#0", "gold_subclass": "eventive", "notes": "Imperative Do."},
+  {"example_id": "bc/msnbc/00/msnbc_0001#533#11", "gold_subclass": "eventive", "notes": "Passive of criticize: event."},
+  {"example_id": "bc/msnbc/00/msnbc_0004#175#0", "gold_subclass": "stative", "notes": "Copula Are happy."},
+  {"example_id": "bc/cctv/00/cctv_0002#129#22", "gold_subclass": "eventive", "notes": "Undergo adjustment: process/change."},
+  {"example_id": "bc/cnn/00/cnn_0005#477#5", "gold_subclass": "stative", "notes": "Copula it is a matter."}
+]

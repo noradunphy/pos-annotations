@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0002#324#1", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/cctv/00/cctv_0004#177#6", "gold_subclass": "intransitive", "notes": "Auxiliary in perfect: has been"},
+  {"example_id": "bc/cnn/00/cnn_0006#187#2", "gold_subclass": "intransitive", "notes": "Phrasal: standing by"},
+  {"example_id": "bc/cnn/00/cnn_0007#148#26", "gold_subclass": "intransitive", "notes": "Auxiliary in passive: was disclosed"},
+  {"example_id": "bc/cnn/00/cnn_0006#50#13", "gold_subclass": "transitive", "notes": "Passive: will be required"},
+  {"example_id": "bc/cctv/00/cctv_0001#82#27", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#345#7", "gold_subclass": "intransitive", "notes": "Modal auxiliary"},
+  {"example_id": "bc/msnbc/00/msnbc_0001#59#23", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/msnbc/00/msnbc_0002#266#4", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/cnn/00/cnn_0007#282#2", "gold_subclass": "transitive", "notes": ""}
+]

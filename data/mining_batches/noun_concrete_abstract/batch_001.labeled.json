@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0001#16#6", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#337#3", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#350#15", "gold_subclass": "abstract", "notes": "honorific title, not a contentful object noun"},
+  {"example_id": "bc/msnbc/00/msnbc_0003#216#10", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#107#3", "gold_subclass": "abstract", "notes": "ellipsis for marriage (relationship)"},
+  {"example_id": "bc/msnbc/00/msnbc_0002#623#2", "gold_subclass": "abstract", "notes": "judicial institution sense"},
+  {"example_id": "bc/cnn/00/cnn_0001#626#9", "gold_subclass": "abstract", "notes": "ordeal, not a school exam"},
+  {"example_id": "bc/cnn/00/cnn_0002#263#11", "gold_subclass": "concrete", "notes": ""}
+]

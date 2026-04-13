@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0004#110#8", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0003#321#15", "gold_subclass": "non-gradable", "notes": "Nationality relational."},
+  {"example_id": "bc/cctv/00/cctv_0002#17#23", "gold_subclass": "non-gradable", "notes": "Regional/ethnic relational."},
+  {"example_id": "bc/cctv/00/cctv_0003#346#17", "gold_subclass": "non-gradable", "notes": "Relational 'diplomatic risk'."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#12#38", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#188#10", "gold_subclass": "non-gradable", "notes": "Classifier-like 'undercover work' (role/manner category)."},
+  {"example_id": "bc/cctv/00/cctv_0003#229#21", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#172#0", "gold_subclass": "gradable", "notes": ""}
+]

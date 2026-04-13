@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0003#391#25", "gold_subclass": "transitive", "notes": "need some help"},
+  {"example_id": "bc/cnn/00/cnn_0007#229#18", "gold_subclass": "intransitive", "notes": "discourse use look (no object)"},
+  {"example_id": "bc/msnbc/00/msnbc_0004#615#5", "gold_subclass": "intransitive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#624#11", "gold_subclass": "intransitive", "notes": "progressive auxiliary was living"},
+  {"example_id": "bc/cctv/00/cctv_0001#27#15", "gold_subclass": "intransitive", "notes": "perfect auxiliary had become"},
+  {"example_id": "bc/cnn/00/cnn_0006#199#4", "gold_subclass": "transitive", "notes": "assume that-clause"},
+  {"example_id": "bc/cnn/00/cnn_0007#9#4", "gold_subclass": "intransitive", "notes": "contracted perfect auxiliary ('s been)"},
+  {"example_id": "bc/msnbc/00/msnbc_0003#356#10", "gold_subclass": "intransitive", "notes": "copular is"}
+]

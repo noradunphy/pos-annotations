@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0004#170#8", "gold_subclass": "coordinating", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0004#133#8", "gold_subclass": "coordinating", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#158#7", "gold_subclass": "coordinating", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#143#7", "gold_subclass": "coordinating", "notes": "Restrictive except-like but; still coordinator-like, not a subordinator."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#280#8", "gold_subclass": "coordinating", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#418#0", "gold_subclass": "coordinating", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0003#259#6", "gold_subclass": "coordinating", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#363#0", "gold_subclass": "coordinating", "notes": ""}
+]

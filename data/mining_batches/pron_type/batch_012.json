@@ -1,0 +1,74 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0002#174#9",
+    "sentence_id": "bc/cnn/00/cnn_0002#174",
+    "token_index": 9,
+    "sentence": "A fifteen year old boy at the center of it all /.",
+    "surface": "it",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#495#7",
+    "sentence_id": "bc/cnn/00/cnn_0006#495",
+    "token_index": 7,
+    "sentence": "Thanks very much Mr. Hale for joining us /.",
+    "surface": "us",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#109#10",
+    "sentence_id": "bc/cnn/00/cnn_0003#109",
+    "token_index": 10,
+    "sentence": "I would like to take this moment to say that I was n't married to Peter Horton which is sort of all over the websites that I 've been married three times so I look like /-",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#149#48",
+    "sentence_id": "bc/cnn/00/cnn_0007#149",
+    "token_index": 48,
+    "sentence": "How did you feel when more recently you saw that FBI memo that he had signed saying that Woodward and Berstein were reporting half - truths and fiction and we need to find the leakers this at the very time when he was meeting privately and secretly with you kind of duplicitous /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  }
+]

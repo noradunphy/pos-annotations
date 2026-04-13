@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0006#381#7", "gold_subclass": "frequency", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#366#12", "gold_subclass": "degree", "notes": "negation adverb"},
+  {"example_id": "bc/msnbc/00/msnbc_0002#412#14", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0007#63#8", "gold_subclass": "place", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0003#94#15", "gold_subclass": "sentence_discourse", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#8#32", "gold_subclass": "time", "notes": "continuative aspect marker in \"going on\""},
+  {"example_id": "bc/cctv/00/cctv_0003#255#20", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#162#17", "gold_subclass": "time", "notes": "\"right now\" = at this moment"},
+  {"example_id": "bc/cctv/00/cctv_0002#86#6", "gold_subclass": "sentence_discourse", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#668#6", "gold_subclass": "manner", "notes": "interrogative adverb"}
+]

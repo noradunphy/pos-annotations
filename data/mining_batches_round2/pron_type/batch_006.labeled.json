@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0002#107#1", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#19#9", "gold_subclass": "possessive", "notes": "Possessive determiner (my life)."},
+  {"example_id": "bc/cnn/00/cnn_0001#207#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0004#330#16", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#470#11", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#569#24", "gold_subclass": "relative", "notes": "Restrictive relative on people (who when they thought…)."},
+  {"example_id": "bc/cnn/00/cnn_0005#3#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#432#12", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#261#16", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#296#0", "gold_subclass": "indefinite", "notes": "Existential/expletive There."}
+]

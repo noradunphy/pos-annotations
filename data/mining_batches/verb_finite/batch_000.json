@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#230#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#230",
+    "token_index": 1,
+    "sentence": "He will have the Brits and some of the other traditional American allies /.",
+    "surface": "will",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#215#3",
+    "sentence_id": "bc/cnn/00/cnn_0006#215",
+    "token_index": 3,
+    "sentence": "Senator Kyl there 's one argument that 's being made that the Iraqis would be better off with a much smaller US military footprint there /.",
+    "surface": "'s",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#571#4",
+    "sentence_id": "bc/cnn/00/cnn_0004#571",
+    "token_index": 4,
+    "sentence": "But um uh what is your most difficult interview that you had in Sixty Minutes the most difficult person that you could have ever interviewed /?",
+    "surface": "is",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#245#3",
+    "sentence_id": "bc/cctv/00/cctv_0003#245",
+    "token_index": 3,
+    "sentence": "It has nearly reached 200 billion between China and Japan .",
+    "surface": "reached",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#182#7",
+    "sentence_id": "bc/cnn/00/cnn_0001#182",
+    "token_index": 7,
+    "sentence": "Number two the Wal - Mart people say look /.",
+    "surface": "say",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#36#3",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#36",
+    "token_index": 3,
+    "sentence": "Who is he talking about /.",
+    "surface": "talking",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#3#3",
+    "sentence_id": "bc/cnn/00/cnn_0002#3",
+    "token_index": 3,
+    "sentence": "but the terror is just the same /.",
+    "surface": "is",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#181#22",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#181",
+    "token_index": 22,
+    "sentence": "Let me just say to you Chris that what I said was that Ronald Reagan and George Bush cut taxes and they started to restrain state government spending /.",
+    "surface": "started",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  }
+]

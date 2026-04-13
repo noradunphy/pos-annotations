@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0004#477#2", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#287#3", "gold_subclass": "degree", "notes": "negation adverb"},
+  {"example_id": "bc/cnn/00/cnn_0001#144#12", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#150#9", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#106#6", "gold_subclass": "sentence_discourse", "notes": "\"as well\" = also"},
+  {"example_id": "bc/cnn/00/cnn_0003#389#29", "gold_subclass": "degree", "notes": "negation adverb"},
+  {"example_id": "bc/cnn/00/cnn_0003#349#17", "gold_subclass": "manner", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#127#13", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#243#10", "gold_subclass": "degree", "notes": "negation adverb"},
+  {"example_id": "bc/cnn/00/cnn_0003#215#1", "gold_subclass": "degree", "notes": "negation adverb"}
+]

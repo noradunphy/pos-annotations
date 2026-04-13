@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0004#132#0", "gold_subclass": "non-gradable", "notes": "Determiner 'More' (quantity), not scalar adjective."},
+  {"example_id": "bc/msnbc/00/msnbc_0004#172#10", "gold_subclass": "non-gradable", "notes": "Relational 'national ... Republicans'."},
+  {"example_id": "bc/cnn/00/cnn_0005#123#15", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#695#2", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0001#84#80", "gold_subclass": "non-gradable", "notes": "'Main roads' = primary; not *more main."},
+  {"example_id": "bc/msnbc/00/msnbc_0004#538#6", "gold_subclass": "non-gradable", "notes": "Stance label 'pro-choice'; binary category."},
+  {"example_id": "bc/msnbc/00/msnbc_0004#433#2", "gold_subclass": "non-gradable", "notes": "Ranking 'top general'."},
+  {"example_id": "bc/msnbc/00/msnbc_0001#418#41", "gold_subclass": "gradable", "notes": ""}
+]

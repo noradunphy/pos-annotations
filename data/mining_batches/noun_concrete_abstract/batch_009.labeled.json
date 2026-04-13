@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0003#289#10", "gold_subclass": "abstract", "notes": "temporal occasion"},
+  {"example_id": "bc/msnbc/00/msnbc_0002#243#16", "gold_subclass": "abstract", "notes": "situation / arrangement"},
+  {"example_id": "bc/msnbc/00/msnbc_0001#533#10", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#211#3", "gold_subclass": "abstract", "notes": "duration"},
+  {"example_id": "bc/msnbc/00/msnbc_0004#557#35", "gold_subclass": "abstract", "notes": "survey / results"},
+  {"example_id": "bc/cnn/00/cnn_0004#175#7", "gold_subclass": "abstract", "notes": "indefinite quantity (a few)"},
+  {"example_id": "bc/msnbc/00/msnbc_0001#510#17", "gold_subclass": "abstract", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#214#10", "gold_subclass": "abstract", "notes": "international organization"}
+]

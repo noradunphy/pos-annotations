@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0004#354#4", "gold_subclass": "abstract", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#412#6", "gold_subclass": "abstract", "notes": "the press as institution / media"},
+  {"example_id": "bc/cctv/00/cctv_0002#328#7", "gold_subclass": "abstract", "notes": "adjective mistagged as NOUN"},
+  {"example_id": "bc/cctv/00/cctv_0004#193#11", "gold_subclass": "abstract", "notes": "transmission / event"},
+  {"example_id": "bc/cnn/00/cnn_0002#103#27", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#138#9", "gold_subclass": "abstract", "notes": "time / calendar unit"},
+  {"example_id": "bc/msnbc/00/msnbc_0003#497#4", "gold_subclass": "abstract", "notes": "broadcast medium"},
+  {"example_id": "bc/cnn/00/cnn_0005#257#10", "gold_subclass": "abstract", "notes": "armed services as institutional branches"}
+]

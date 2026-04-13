@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0004#627#18", "gold_subclass": "mass", "notes": "Abstract relational noun in fixed PP on behalf of."},
+  {"example_id": "bc/cctv/00/cctv_0004#43#5", "gold_subclass": "count", "notes": "Proper name (person)."},
+  {"example_id": "bc/cnn/00/cnn_0004#146#3", "gold_subclass": "count", "notes": "Proper name (person)."},
+  {"example_id": "bc/cctv/00/cctv_0003#3#21", "gold_subclass": "count", "notes": "Proper name (place)."},
+  {"example_id": "bc/cnn/00/cnn_0007#91#6", "gold_subclass": "mass", "notes": "Abstract manner in in a sense."},
+  {"example_id": "bc/cnn/00/cnn_0002#410#12", "gold_subclass": "count", "notes": "Proper name (continent)."},
+  {"example_id": "bc/cnn/00/cnn_0006#260#40", "gold_subclass": "mass", "notes": "Abstract capacity (ability to attack)."},
+  {"example_id": "bc/msnbc/00/msnbc_0001#527#12", "gold_subclass": "count", "notes": "Office-holder reading (Supreme Court justice)."}
+]

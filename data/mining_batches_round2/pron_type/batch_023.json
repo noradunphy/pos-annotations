@@ -1,0 +1,182 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0003#421#9",
+    "sentence_id": "bc/cctv/00/cctv_0003#421",
+    "token_index": 9,
+    "sentence": "Though Russia did not make a final commitment , there is already a general framework .",
+    "surface": "there",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#186#2",
+    "sentence_id": "bc/cctv/00/cctv_0001#186",
+    "token_index": 2,
+    "sentence": "Then , you shake it , and you hear a cracking sound on the ground ; hey , scalded lice .",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#88#0",
+    "sentence_id": "bc/cnn/00/cnn_0005#88",
+    "token_index": 0,
+    "sentence": "We 're the shield behind which politics and the develop of Iraqi security forces will take place and eventually be decisive in that we 're in a partnership with the Iraqi people /.",
+    "surface": "We",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#164#2",
+    "sentence_id": "bc/cnn/00/cnn_0005#164",
+    "token_index": 2,
+    "sentence": "And clearly we know that the vast majority of the insurgents are from the Sunni Arab community /.",
+    "surface": "we",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#84#2",
+    "sentence_id": "bc/cnn/00/cnn_0003#84",
+    "token_index": 2,
+    "sentence": "What was your first break in LA /?",
+    "surface": "your",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#89#0",
+    "sentence_id": "bc/cctv/00/cctv_0004#89",
+    "token_index": 0,
+    "sentence": "It did not confirm anything .",
+    "surface": "It",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#144#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#144",
+    "token_index": 4,
+    "sentence": "And Joe to clarify what you were saying before I mean look you 're not actually saying that you think it 's a winnable etcetera /.",
+    "surface": "what",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#141#6",
+    "sentence_id": "bc/cnn/00/cnn_0001#141",
+    "token_index": 6,
+    "sentence": "At what level will this affect them /?",
+    "surface": "them",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#82#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#82",
+    "token_index": 2,
+    "sentence": "All right I 'm going to ask you about um any eye contact interaction uh between the family members and Darryl Littlejohn in a moment /.",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#379#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#379",
+    "token_index": 2,
+    "sentence": "And um he 's suffering even more so by the media 's actions /.",
+    "surface": "he",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  }
+]

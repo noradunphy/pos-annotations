@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0003#169#19", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#457#1", "gold_subclass": "count", "notes": "Title fragment (ex-prime minister); tagging/compound issue."},
+  {"example_id": "bc/cctv/00/cctv_0004#471#12", "gold_subclass": "mass", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0004#369#4", "gold_subclass": "count", "notes": "Geographic proper name component."},
+  {"example_id": "bc/cnn/00/cnn_0001#30#1", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#389#36", "gold_subclass": "count", "notes": "Proper name (person)."},
+  {"example_id": "bc/msnbc/00/msnbc_0002#427#5", "gold_subclass": "mass", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#190#21", "gold_subclass": "count", "notes": "Specific criminal event (the rape)."}
+]

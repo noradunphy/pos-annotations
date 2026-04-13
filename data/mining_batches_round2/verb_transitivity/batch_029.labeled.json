@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0002#32#3", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#438#11", "gold_subclass": "intransitive", "notes": "Modal auxiliary"},
+  {"example_id": "bc/msnbc/00/msnbc_0001#227#36", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0004#320#28", "gold_subclass": "intransitive", "notes": "Auxiliary in perfect: has won"},
+  {"example_id": "bc/cnn/00/cnn_0005#140#1", "gold_subclass": "intransitive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#99#2", "gold_subclass": "transitive", "notes": "Takes clausal complement"},
+  {"example_id": "bc/cnn/00/cnn_0002#545#2", "gold_subclass": "intransitive", "notes": "Auxiliary in passive: were locked"},
+  {"example_id": "bc/cctv/00/cctv_0002#24#12", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#673#24", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#367#23", "gold_subclass": "intransitive", "notes": "Prepositional: living with"}
+]

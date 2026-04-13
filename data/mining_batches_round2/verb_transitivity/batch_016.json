@@ -1,0 +1,152 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0002#296#1",
+    "sentence_id": "bc/cnn/00/cnn_0002#296",
+    "token_index": 1,
+    "sentence": "There 's said to be eighty elephants in Akagera /.",
+    "surface": "'s",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#220#1",
+    "sentence_id": "bc/cnn/00/cnn_0001#220",
+    "token_index": 1,
+    "sentence": "It is time now to check on some of the other stories that are happening tonight /.",
+    "surface": "is",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#101#4",
+    "sentence_id": "bc/cnn/00/cnn_0005#101",
+    "token_index": 4,
+    "sentence": "But you got to understand there were committed people /.",
+    "surface": "understand",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#21#8",
+    "sentence_id": "bc/cnn/00/cnn_0001#21",
+    "token_index": 8,
+    "sentence": "In Wal - Mart 's case both sides are being beamed onto big screens everywhere /.",
+    "surface": "are",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#26#10",
+    "sentence_id": "bc/cnn/00/cnn_0001#26",
+    "token_index": 10,
+    "sentence": "But once they steal it from you you ca n't get it back at any price /.",
+    "surface": "get",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#294#3",
+    "sentence_id": "bc/cnn/00/cnn_0006#294",
+    "token_index": 3,
+    "sentence": "I want to take a quick break /.",
+    "surface": "take",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#331#27",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#331",
+    "token_index": 27,
+    "sentence": "You know look I made a lot of comments yesterday on this program saying that I thought that a lot of people were demanding that she be prosecuted Were suggesting that your son be forced to testify in this case /.",
+    "surface": "prosecuted",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#300#4",
+    "sentence_id": "bc/cctv/00/cctv_0004#300",
+    "token_index": 4,
+    "sentence": "In particular , it was the same with the , Iraq war , which took place in Iraq .",
+    "surface": "was",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#443#7",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#443",
+    "token_index": 7,
+    "sentence": "The answer to failure is not to perpetuate it /.",
+    "surface": "perpetuate",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#678#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#678",
+    "token_index": 1,
+    "sentence": "I think really the best way to do it is to talk to the troops coming home /.",
+    "surface": "think",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  }
+]

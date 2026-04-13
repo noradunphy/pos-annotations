@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0006#230#5", "gold_subclass": "articles", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#445#7", "gold_subclass": "numerals", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#259#39", "gold_subclass": "numerals", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#162#5", "gold_subclass": "articles", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#49#5", "gold_subclass": "articles", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#683#21", "gold_subclass": "articles", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#664#15", "gold_subclass": "demonstratives", "notes": "Relativizer introducing relative clause on stories; not a prenominal determiner."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#47#0", "gold_subclass": "articles", "notes": ""}
+]

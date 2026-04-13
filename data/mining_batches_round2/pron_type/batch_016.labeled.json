@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0006#6#1", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0003#105#2", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0007#208#2", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#122#25", "gold_subclass": "relative", "notes": "Fused relative (dialog of what's going on = that which is going on)."},
+  {"example_id": "bc/cnn/00/cnn_0003#478#1", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#68#0", "gold_subclass": "interrogative", "notes": "Wh-question fragment (What school?)."},
+  {"example_id": "bc/msnbc/00/msnbc_0002#715#3", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#159#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#442#12", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#13#0", "gold_subclass": "personal", "notes": ""}
+]

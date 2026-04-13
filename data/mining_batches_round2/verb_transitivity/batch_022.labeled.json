@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0004#472#1", "gold_subclass": "intransitive", "notes": "Modal auxiliary"},
+  {"example_id": "bc/msnbc/00/msnbc_0003#617#17", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#391#9", "gold_subclass": "transitive", "notes": "Participial adjective but underlying verb is transitive"},
+  {"example_id": "bc/cnn/00/cnn_0005#154#1", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#316#5", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#158#3", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#120#1", "gold_subclass": "intransitive", "notes": "Auxiliary for negation with ellipsis"},
+  {"example_id": "bc/msnbc/00/msnbc_0001#245#5", "gold_subclass": "intransitive", "notes": "Auxiliary in parenthetical question: do you think"},
+  {"example_id": "bc/msnbc/00/msnbc_0003#600#6", "gold_subclass": "transitive", "notes": "Takes clausal complement"},
+  {"example_id": "bc/cnn/00/cnn_0006#305#2", "gold_subclass": "transitive", "notes": ""}
+]

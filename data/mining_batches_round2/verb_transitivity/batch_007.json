@@ -1,0 +1,152 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#10#13",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#10",
+    "token_index": 13,
+    "sentence": "Before we talk to the New Orleans police let me say we are getting late breaking word from the attorney uh for the man on that tape now saying his client was not even drinking that night /.",
+    "surface": "getting",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#102#11",
+    "sentence_id": "bc/cnn/00/cnn_0006#102",
+    "token_index": 11,
+    "sentence": "he said Only a small number of Iraqi security forces are taking on the insurgents and terrorists by themselves /.",
+    "surface": "taking",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#578#8",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#578",
+    "token_index": 8,
+    "sentence": "I mean some of the blue states I 'm talking about /.",
+    "surface": "'m",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#199#1",
+    "sentence_id": "bc/cnn/00/cnn_0004#199",
+    "token_index": 1,
+    "sentence": "You do n't see him on the air /.",
+    "surface": "do",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#169#20",
+    "sentence_id": "bc/cctv/00/cctv_0004#169",
+    "token_index": 20,
+    "sentence": "As a matter of fact , when we watch TV , we can see many news services , ah , including the US CNN and the British BBC , often replaying footage by al - Jazeera TV station .",
+    "surface": "including",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#72#1",
+    "sentence_id": "bc/cnn/00/cnn_0003#72",
+    "token_index": 1,
+    "sentence": "I lived off campus /.",
+    "surface": "lived",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#335#25",
+    "sentence_id": "bc/cctv/00/cctv_0003#335",
+    "token_index": 25,
+    "sentence": "Well , we noticed , er , just now this short clip also talked about it , at that time the Soviet Union agreed to return two islands first , , but , eh , Japan never agreed .",
+    "surface": "return",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#122#16",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#122",
+    "token_index": 16,
+    "sentence": "And remembering that these officers were not only keeping the peace so to speak and uh responding but they were also victims /.",
+    "surface": "responding",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#307#9",
+    "sentence_id": "bc/cctv/00/cctv_0003#307",
+    "token_index": 9,
+    "sentence": "The entire international community recognizes that the four islands should belong to Russia .",
+    "surface": "should",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#150#9",
+    "sentence_id": "bc/cctv/00/cctv_0001#150",
+    "token_index": 9,
+    "sentence": "Er , for wood materials , local folks simply destroyed them by fire .",
+    "surface": "destroyed",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  }
+]

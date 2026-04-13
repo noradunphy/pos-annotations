@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0003#367#9",
+    "sentence_id": "bc/cnn/00/cnn_0003#367",
+    "token_index": 9,
+    "sentence": "She is a paid advocate for Complete Wellness a whole person treatment approach that considers both the emotional and physical health of persons living with severe and persistent mental illness /.",
+    "surface": "whole",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#3#5",
+    "sentence_id": "bc/cnn/00/cnn_0001#3",
+    "token_index": 5,
+    "sentence": "that 's Rick on the left Kira on the right /.",
+    "surface": "left",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#310#7",
+    "sentence_id": "bc/cnn/00/cnn_0006#310",
+    "token_index": 7,
+    "sentence": "Uh we 've got to be as tough as possible to protect people 's security /.",
+    "surface": "tough",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#5#0",
+    "sentence_id": "bc/cnn/00/cnn_0001#5",
+    "token_index": 0,
+    "sentence": "Double trouble /.",
+    "surface": "Double",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#40#53",
+    "sentence_id": "bc/cctv/00/cctv_0002#40",
+    "token_index": 53,
+    "sentence": "However , actually , today President Roh Moo - hyun of the hosting country of the meeting , Uh-huh . well , based on his meeting with Koizumi , I think , actually , it shows that a series of issues such as his visit to Yasukuni Shrine have indeed cast a very heavy shadow over the relations between the two countries .",
+    "surface": "heavy",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#50#8",
+    "sentence_id": "bc/cctv/00/cctv_0003#50",
+    "token_index": 8,
+    "sentence": "Right , this is rather consistent with unanimous international public opinion analysis as well as our opinion these days .",
+    "surface": "international",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#136#4",
+    "sentence_id": "bc/cctv/00/cctv_0003#136",
+    "token_index": 4,
+    "sentence": "This is a very interesting issue .",
+    "surface": "interesting",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#133#7",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#133",
+    "token_index": 7,
+    "sentence": "We 're joined right now by Ohio Democratic congressman Sherrod Brown and Ohio 's Republican Secretary of State Ken Blackwell who 's also a candidate for governor who is in fact a candidate for governor /.",
+    "surface": "Democratic",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  }
+]

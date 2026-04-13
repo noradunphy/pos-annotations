@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0002#335#4", "gold_subclass": "count", "notes": "Proper name (place)."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#637#29", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0007#245#22", "gold_subclass": "count", "notes": "Proper name (person)."},
+  {"example_id": "bc/cnn/00/cnn_0005#188#5", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#206#7", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#52#2", "gold_subclass": "mass", "notes": "Temporal extent (over time)."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#492#11", "gold_subclass": "mass", "notes": "Genre of speech (talk show); undifferentiated activity."},
+  {"example_id": "bc/cctv/00/cctv_0001#25#19", "gold_subclass": "count", "notes": ""}
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#506#8",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#506",
+    "token_index": 8,
+    "sentence": "He 's fifty two five eight one fifty has not registered with the authorities /.",
+    "surface": "has",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#98#2",
+    "sentence_id": "bc/cnn/00/cnn_0003#98",
+    "token_index": 2,
+    "sentence": "So this did n't help it /?",
+    "surface": "did",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#185#1",
+    "sentence_id": "bc/cnn/00/cnn_0005#185",
+    "token_index": 1,
+    "sentence": "It brings foreign fighters in from Saudi Arabia and North Africa /.",
+    "surface": "brings",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#410#3",
+    "sentence_id": "bc/cnn/00/cnn_0004#410",
+    "token_index": 3,
+    "sentence": "People do n't know this /.",
+    "surface": "know",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#43#8",
+    "sentence_id": "bc/cnn/00/cnn_0006#43",
+    "token_index": 8,
+    "sentence": "And also the role of uh uh religion is still /-",
+    "surface": "is",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#303#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#303",
+    "token_index": 4,
+    "sentence": "Okay I do n't want to interrupt you Dan /.",
+    "surface": "want",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#601#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#601",
+    "token_index": 2,
+    "sentence": "and this goes beyond Iraq /.",
+    "surface": "goes",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#443#6",
+    "sentence_id": "bc/cnn/00/cnn_0004#443",
+    "token_index": 6,
+    "sentence": "Uh first of all I just wanted to say that uh uh when I first came to Canada here I got my political education watching those CBS broadcasts /.",
+    "surface": "wanted",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  }
+]

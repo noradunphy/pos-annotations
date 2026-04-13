@@ -1,0 +1,172 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#147#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#147",
+    "token_index": 0,
+    "sentence": "Finally there are no witnesses or other evidence to support Littlejohn 's claim that he visited his mother in a nursing home on the day Imette was killed /.",
+    "surface": "Finally",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#363#1",
+    "sentence_id": "bc/cnn/00/cnn_0005#363",
+    "token_index": 1,
+    "sentence": "and as far as I 'm concerned the critics are determined that this time it 's not going to be like Vietnam , this time as long as our men and women are there everything we possibly can do to support them is going to be done including realistic thinking and constructive criticism /.",
+    "surface": "as",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#525#20",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#525",
+    "token_index": 20,
+    "sentence": "So instead the twenty two senators who opposed Roberts claimed that they could n't vote for him because they did n't know enough about him or said he had n't answered their questions /.",
+    "surface": "n't",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#171#3",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#171",
+    "token_index": 3,
+    "sentence": "eh It 's highly unlikely Dan /.",
+    "surface": "highly",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#142#4",
+    "sentence_id": "bc/cnn/00/cnn_0006#142",
+    "token_index": 4,
+    "sentence": "Well uh this is not going to be a political trial /.",
+    "surface": "not",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#359#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#359",
+    "token_index": 2,
+    "sentence": "Bush is all right /.",
+    "surface": "all",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#72#8",
+    "sentence_id": "bc/cctv/00/cctv_0004#72",
+    "token_index": 8,
+    "sentence": "Well , so , now we need to seriously consider its authenticity or accuracy .",
+    "surface": "seriously",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#294#13",
+    "sentence_id": "bc/cnn/00/cnn_0007#294",
+    "token_index": 13,
+    "sentence": "Ah people now realize that lots of the justices ' papers are avaliable how incredibly accurate and carefully that book was done /.",
+    "surface": "how",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#286#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#286",
+    "token_index": 0,
+    "sentence": "Never /.",
+    "surface": "Never",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#261#12",
+    "sentence_id": "bc/cnn/00/cnn_0006#261",
+    "token_index": 12,
+    "sentence": "Yet Senator Lieberman there are still widespread reports that the US does n't have enough human assets spies that are penetrating some of these cells some of these al Qaeda related organizations does n't have enough native speakers in Arabic or other languages part of these groups /.",
+    "surface": "n't",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  }
+]

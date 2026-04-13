@@ -1,0 +1,122 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0004#464#9",
+    "sentence_id": "bc/cctv/00/cctv_0004#464",
+    "token_index": 9,
+    "sentence": "In spite of being overcast and frigid , rainfall will also bring cleaner air to the area south of the Yangtze River plagued with smog .",
+    "surface": "will",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#373#3",
+    "sentence_id": "bc/cctv/00/cctv_0004#373",
+    "token_index": 3,
+    "sentence": "Second , it is because some things are in conflict with its interests .",
+    "surface": "is",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#242#5",
+    "sentence_id": "bc/cnn/00/cnn_0006#242",
+    "token_index": 5,
+    "sentence": "The first answer is we can never assure uh the people in America that they are totally protected from that kind of attack /.",
+    "surface": "can",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#689#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#689",
+    "token_index": 4,
+    "sentence": "Are you going to yell over me the entire show /?",
+    "surface": "yell",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#332#1",
+    "sentence_id": "bc/cnn/00/cnn_0002#332",
+    "token_index": 1,
+    "sentence": "that 's something else /.",
+    "surface": "'s",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#49#21",
+    "sentence_id": "bc/cctv/00/cctv_0004#49",
+    "token_index": 21,
+    "sentence": "Well , regarding this topic , the first question today is that we want to find out clearly whether this incident was real or not .",
+    "surface": "was",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#170#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#170",
+    "token_index": 2,
+    "sentence": "So we need an effective United Nations /.",
+    "surface": "need",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#87#9",
+    "sentence_id": "bc/cnn/00/cnn_0002#87",
+    "token_index": 9,
+    "sentence": "It is a list that conjures up images of screaming children injured victims and gun - wielding kids /.",
+    "surface": "screaming",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#356#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#356",
+    "token_index": 5,
+    "sentence": "um To be honest with you he is doing extremely well /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#248#11",
+    "sentence_id": "bc/cnn/00/cnn_0007#248",
+    "token_index": 11,
+    "sentence": "or did you decide you were just not going to push him even if it meant that Vanity Fair or somebody else got that story first /?",
+    "surface": "him",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#33#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#33",
+    "token_index": 0,
+    "sentence": "He supports raising social security taxes /.",
+    "surface": "He",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#475#16",
+    "sentence_id": "bc/cnn/00/cnn_0002#475",
+    "token_index": 16,
+    "sentence": "/. Jack you want to stick around for this the biggest study since the Kinsey report they say /.",
+    "surface": "they",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#431#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#431",
+    "token_index": 2,
+    "sentence": "I think they 've got a huge paper trail /.",
+    "surface": "they",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#403#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#403",
+    "token_index": 1,
+    "sentence": "So she might not be capable of it /.",
+    "surface": "she",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#103#0",
+    "sentence_id": "bc/cctv/00/cctv_0004#103",
+    "token_index": 0,
+    "sentence": "What secret exactly was divulged ?",
+    "surface": "What",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#333#1",
+    "sentence_id": "bc/cnn/00/cnn_0005#333",
+    "token_index": 1,
+    "sentence": "But you 're not calling for a timetable directly right now as some other democratic and even a few republican colleagues are suggesting that there should be a timetable /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#1#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#1",
+    "token_index": 0,
+    "sentence": "What Bush is trying to do is not run as Tom Cruise anymore not run as Top Gun because that 's not going to work anymore /.",
+    "surface": "What",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#430#9",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#430",
+    "token_index": 9,
+    "sentence": "My regular viewers know how angry this case made me /.",
+    "surface": "me",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  }
+]

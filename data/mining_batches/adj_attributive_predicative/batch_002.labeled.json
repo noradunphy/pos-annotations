@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0001#58#10", "gold_subclass": "predicative", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#455#9", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#14#29", "gold_subclass": "predicative", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#13#25", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0003#160#7", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#305#6", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0007#261#0", "gold_subclass": "attributive", "notes": "Determiner-like fused head; tagged ADJ; distributive modifier of implied noun."},
+  {"example_id": "bc/msnbc/00/msnbc_0002#58#10", "gold_subclass": "attributive", "notes": ""}
+]

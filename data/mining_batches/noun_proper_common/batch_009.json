@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0004#181#14",
+    "sentence_id": "bc/cctv/00/cctv_0004#181",
+    "token_index": 14,
+    "sentence": "When people all over the world expected to watch the live broadcast of the war by the US CNN , they could only see a few blurry images on TV .",
+    "surface": "war",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#518#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#518",
+    "token_index": 4,
+    "sentence": "Now apart from the handful of law professors and legal scholars almost all of those who at this time are claiming she 's not qualified are just looking for an excuse /.",
+    "surface": "handful",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#147#12",
+    "sentence_id": "bc/cctv/00/cctv_0004#147",
+    "token_index": 12,
+    "sentence": "For instance , the US attacked al - Jazeera TV station several times .",
+    "surface": "times",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#48#4",
+    "sentence_id": "bc/cnn/00/cnn_0003#48",
+    "token_index": 4,
+    "sentence": "Were you a wild girl /?",
+    "surface": "girl",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#355#9",
+    "sentence_id": "bc/cnn/00/cnn_0005#355",
+    "token_index": 9,
+    "sentence": "You heard General Abizaid also express concern about the morale if you will of the US men and women in Iraq and elsewhere /.",
+    "surface": "morale",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#50#5",
+    "sentence_id": "bc/cnn/00/cnn_0002#50",
+    "token_index": 5,
+    "sentence": "And how long did the lockdown last for /?",
+    "surface": "lockdown",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#91#16",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#91",
+    "token_index": 16,
+    "sentence": "You 're dealing with a guy who is living on booze most of the time and delusions and movies and girlfriends provided for him /.",
+    "surface": "delusions",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#235#11",
+    "sentence_id": "bc/cnn/00/cnn_0006#235",
+    "token_index": 11,
+    "sentence": "Um maybe I believe we do actually need uh uh an increase in the end strength of our Army so our commanders in the field will have the troops they need as the facts on the ground dictate /.",
+    "surface": "increase",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  }
+]

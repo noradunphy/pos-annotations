@@ -1,0 +1,172 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0006#381#7",
+    "sentence_id": "bc/cnn/00/cnn_0006#381",
+    "token_index": 7,
+    "sentence": "No /. you know uh my father always used to say always have an open mind /.",
+    "surface": "always",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#366#12",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#366",
+    "token_index": 12,
+    "sentence": "And all of a sudden you know Bud Segal says I do n't know anything about it /.",
+    "surface": "n't",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#412#14",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#412",
+    "token_index": 14,
+    "sentence": "Look I 've made my views on this very clear uh that uh I fully support uh you and your decision to say look I do n't want to go through this anymore /.",
+    "surface": "fully",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#63#8",
+    "sentence_id": "bc/cnn/00/cnn_0007#63",
+    "token_index": 8,
+    "sentence": "For the special prosecutor to come roaring in here with a tank and say ah you know I 'm going to destroy that and ah here look at Judy Miller , she never wrote a story about this this is totally ridiculous /.",
+    "surface": "here",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#94#15",
+    "sentence_id": "bc/cctv/00/cctv_0003#94",
+    "token_index": 15,
+    "sentence": "Right , right , right , in addition to giving face to each other . Also , on the surface we saw it looked fine , with , 12 documents signed as just mentioned .",
+    "surface": "Also",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#8#32",
+    "sentence_id": "bc/cnn/00/cnn_0002#8",
+    "token_index": 32,
+    "sentence": "He was taken to a hospital where he was treated for what appeared to be a gun shot wound to his own hand suggesting there might have been uh a struggle going on afterwards /.",
+    "surface": "on",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#255#20",
+    "sentence_id": "bc/cctv/00/cctv_0003#255",
+    "token_index": 20,
+    "sentence": "I will explain two issues -- one , it may show that the economic environment in Russia is indeed not very good .",
+    "surface": "very",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#162#17",
+    "sentence_id": "bc/cnn/00/cnn_0001#162",
+    "token_index": 17,
+    "sentence": "But let me ask you this as I 'm sure people at home are sitting there thinking right now about their own job /.",
+    "surface": "right",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#86#6",
+    "sentence_id": "bc/cctv/00/cctv_0002#86",
+    "token_index": 6,
+    "sentence": "However , Roh Moo - hyun actually met with him ceremonially as a host because APEC held the meeting in South Korea .",
+    "surface": "actually",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#668#6",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#668",
+    "token_index": 6,
+    "sentence": "here 's the president talking about how he hopes to deal with this /.",
+    "surface": "how",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  }
+]

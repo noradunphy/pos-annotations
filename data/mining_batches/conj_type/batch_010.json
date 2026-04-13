@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#418#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#418",
+    "token_index": 4,
+    "sentence": "Well now Brenda Groney and Mark McKenzie 's families are preparing a lawsuit claiming a judge prosecutors and law enforcement authorities in Becker County Minnesota are responsible for letting Duncan out on bail when they should have known he was a violent sex offender and they should have known he 'd likely offend again /.",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#396#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#396",
+    "token_index": 0,
+    "sentence": "And then to find out that she 's a newlywed and you know has her whole life in front of her /.",
+    "surface": "And",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#356#10",
+    "sentence_id": "bc/cnn/00/cnn_0002#356",
+    "token_index": 10,
+    "sentence": "I 've been there a lot over the years uh and have visited these gorillas /.",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#109#45",
+    "sentence_id": "bc/cctv/00/cctv_0003#109",
+    "token_index": 45,
+    "sentence": "Well , it seems it may also be very difficult for Koizumi now , that is to say , on the territorial issues , to return to what is called , er , economics first , territories second , or , the separation of politics and economics , or two islands first , then two islands later .",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#148#10",
+    "sentence_id": "bc/cctv/00/cctv_0001#148",
+    "token_index": 10,
+    "sentence": "-LSB- -LSB- They attacked small bridges and small districts , and generally looted these stations . -RSB- -RSB-",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#156#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#156",
+    "token_index": 0,
+    "sentence": "and she barely won /.",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#111#4",
+    "sentence_id": "bc/cnn/00/cnn_0002#111",
+    "token_index": 4,
+    "sentence": "We hear that over and over again /.",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#669#6",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#669",
+    "token_index": 6,
+    "sentence": "I want to listen to this and then ask you if you think that they 're going to be able to achieve this /.",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  }
+]

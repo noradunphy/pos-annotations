@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0001#334#1", "gold_subclass": "eventive", "notes": "Discourse imperative look."},
+  {"example_id": "bc/cnn/00/cnn_0001#153#1", "gold_subclass": "stative", "notes": "Discourse use of mean; closest is stative (express opinion)."},
+  {"example_id": "bc/cnn/00/cnn_0007#242#2", "gold_subclass": "stative", "notes": "Copula was careful."},
+  {"example_id": "bc/msnbc/00/msnbc_0004#532#8", "gold_subclass": "stative", "notes": "Copula be smart."},
+  {"example_id": "bc/cctv/00/cctv_0002#40#35", "gold_subclass": "eventive", "notes": "Shows: presentational/dynamic."},
+  {"example_id": "bc/cnn/00/cnn_0003#239#14", "gold_subclass": "stative", "notes": "Have mental illness: state/possession."},
+  {"example_id": "bc/cnn/00/cnn_0002#678#5", "gold_subclass": "stative", "notes": "Resultant epistemic state been proven."},
+  {"example_id": "bc/cnn/00/cnn_0001#675#5", "gold_subclass": "stative", "notes": "Copula be fun."}
+]

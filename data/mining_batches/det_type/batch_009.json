@@ -1,0 +1,130 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0002#162#32",
+    "sentence_id": "bc/cnn/00/cnn_0002#162",
+    "token_index": 32,
+    "sentence": "and to follow up on the point Jeff just made about perhaps not overstating the impact for the president I think one of the things we will watch closely tonight is that some of the polls are showing that the American people are a bit testy shall we say um not patient anymore with all of the politicians /.",
+    "surface": "some",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#162#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#162",
+    "token_index": 5,
+    "sentence": "and I think that 's the importance of this whole UN reform effort /.",
+    "surface": "the",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#99#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#99",
+    "token_index": 0,
+    "sentence": "three quarters of them lost their homes /.",
+    "surface": "three",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#184#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#184",
+    "token_index": 5,
+    "sentence": "And let me say to the congressman that the Oversight Committee of the Bureau of Worker 's Comp where all the scandal is taking place has five members /.",
+    "surface": "the",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#381#6",
+    "sentence_id": "bc/cnn/00/cnn_0002#381",
+    "token_index": 6,
+    "sentence": "Yeah I went there on vacation this summer /.",
+    "surface": "this",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#238#2",
+    "sentence_id": "bc/cnn/00/cnn_0002#238",
+    "token_index": 2,
+    "sentence": "Margaret made a decision after talking to hospital officials here at the University of Utah that she would take her son off of life support /.",
+    "surface": "a",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#20#10",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#20",
+    "token_index": 10,
+    "sentence": "They do n't want to talk about the war because the war 's a mess /.",
+    "surface": "the",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#10#15",
+    "sentence_id": "bc/cctv/00/cctv_0001#10",
+    "token_index": 15,
+    "sentence": "This map was the Eighth Route Army 's depiction of the Mediterranean Sea situation at that time .",
+    "surface": "that",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  }
+]

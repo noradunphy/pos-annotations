@@ -1,0 +1,12 @@
+# Local LLM tagger (vLLM). Override via env or CLI.
+model: Qwen/Qwen2.5-14B-Instruct-AWQ
+trust_remote_code: true
+tensor_parallel_size: 1
+gpu_memory_utilization: 0.9
+max_model_len: 8192
+dtype: auto
+quantization: awq
+temperature: 0.1
+max_tokens: 128
+# Set true to skip vLLM and echo first label (CI / no-GPU)
+mock: false

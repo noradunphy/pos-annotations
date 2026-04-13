@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0003#167#4",
+    "sentence_id": "bc/cctv/00/cctv_0003#167",
+    "token_index": 4,
+    "sentence": "Under pressure from various sides , Koizumi reluctantly attended this celebration .",
+    "surface": "sides",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#429#30",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#429",
+    "token_index": 30,
+    "sentence": "Because everywhere in Washington we 're hearing that although there 's not a timetable set that we are beginning to be pull out our troops come next spring after the elections over there /.",
+    "surface": "elections",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#16#8",
+    "sentence_id": "bc/cnn/00/cnn_0004#16",
+    "token_index": 8,
+    "sentence": "Pat Robertson called it a grand slam home run /.",
+    "surface": "run",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#649#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#649",
+    "token_index": 4,
+    "sentence": "Bob you 're a professor /.",
+    "surface": "professor",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#106#10",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#106",
+    "token_index": 10,
+    "sentence": "here 's some of what we 've seen from New Orleans police since hurricane Katrina /.",
+    "surface": "Orleans",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#23#7",
+    "sentence_id": "bc/cctv/00/cctv_0002#23",
+    "token_index": 7,
+    "sentence": "The APEC meeting is being held these days in Pusan , South Korea .",
+    "surface": "days",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#460#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#460",
+    "token_index": 2,
+    "sentence": "You had energy /.",
+    "surface": "energy",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#195#13",
+    "sentence_id": "bc/cnn/00/cnn_0001#195",
+    "token_index": 13,
+    "sentence": "He said all we need to do was open stores up and offer goods at low prices /.",
+    "surface": "goods",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  }
+]

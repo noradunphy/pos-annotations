@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#528#9",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#528",
+    "token_index": 9,
+    "sentence": "They thought they were going to run against maybe Truman again /.",
+    "surface": "Truman",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#423#16",
+    "sentence_id": "bc/cctv/00/cctv_0003#423",
+    "token_index": 16,
+    "sentence": "That is to say , eventually Russia 's oil pipeline will be connected to a Pacific Ocean port , which will benefit Japan .",
+    "surface": "Ocean",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#228#8",
+    "sentence_id": "bc/cctv/00/cctv_0003#228",
+    "token_index": 8,
+    "sentence": "It can also be said it is this way strategically .",
+    "surface": "way",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#187#15",
+    "sentence_id": "bc/cctv/00/cctv_0002#187",
+    "token_index": 15,
+    "sentence": "For instance , from January to August this year , the latest statistics show that Japan 's exports to China grew only by 3.2 % according to China 's statistics .",
+    "surface": "Japan",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#673#0",
+    "sentence_id": "bc/cnn/00/cnn_0001#673",
+    "token_index": 0,
+    "sentence": "FAO Schwartz had it with toys /.",
+    "surface": "FAO",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#105#40",
+    "sentence_id": "bc/cnn/00/cnn_0005#105",
+    "token_index": 40,
+    "sentence": "uh but there 's probably about a thousand foreign fighters and about somewhere less than ten thousand committed insurgents in the field most of which are in the uh mostly western part of Iraq area and uh to a certain extent in Baghdad /.",
+    "surface": "extent",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#295#8",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#295",
+    "token_index": 8,
+    "sentence": "It 's his eighth visit to the hurricane area /.",
+    "surface": "area",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#389#19",
+    "sentence_id": "bc/cnn/00/cnn_0002#389",
+    "token_index": 19,
+    "sentence": "and you watch the four and three and four years old play with the little uh eight to ten week old babies you know when their mother might let them go away just a little bit /.",
+    "surface": "week",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  }
+]

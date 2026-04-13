@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0004#364#10",
+    "sentence_id": "bc/cctv/00/cctv_0004#364",
+    "token_index": 10,
+    "sentence": "Well , regarding this incident , what kind of reaction did al - Jazeera TV station have ?",
+    "surface": "did",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#30#6",
+    "sentence_id": "bc/cnn/00/cnn_0002#30",
+    "token_index": 6,
+    "sentence": "Uh police are still trying to figure out what led up to that , why the student was there at the office and what exactly transpired between him and the administrators before those shots were fired /.",
+    "surface": "figure",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#219#13",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#219",
+    "token_index": 13,
+    "sentence": "I hate the word closure because it always makes it seem like it 's over when it 's not and the pain continues /. /.",
+    "surface": "'s",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#490#20",
+    "sentence_id": "bc/cnn/00/cnn_0005#490",
+    "token_index": 20,
+    "sentence": "And uh just between brackets before the decision of the UN I had asked for an investigation UN team to come and when they will come reach to a point when we 'll know whoever is doing these assassinations /.",
+    "surface": "come",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#61#4",
+    "sentence_id": "bc/cnn/00/cnn_0007#61",
+    "token_index": 4,
+    "sentence": "and some of it is /.",
+    "surface": "is",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#299#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#299",
+    "token_index": 1,
+    "sentence": "There are going to be many athletes who uh once this drug testing program was instituted are going to be found uh guilty /.",
+    "surface": "are",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#416#13",
+    "sentence_id": "bc/cctv/00/cctv_0002#416",
+    "token_index": 13,
+    "sentence": "But , if he steps down in September next year , we will see who on this cabinet will be the prime minister .",
+    "surface": "see",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#453#8",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#453",
+    "token_index": 8,
+    "sentence": "and I think you know these guys may have some problems on their hand /.",
+    "surface": "have",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#74#33",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#74",
+    "token_index": 33,
+    "sentence": "From Mr. Littlejohn 's diverse wardrobe apparently cops say they found hairs matching two of his jackets on the tape that was wrapping Imette 's face and also on the blanket that was wrapping her body /.",
+    "surface": "wrapping",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#574#16",
+    "sentence_id": "bc/cnn/00/cnn_0002#574",
+    "token_index": 16,
+    "sentence": "The White House under fire over reports of secret CIA prisons overseas says torture is not allowed /.",
+    "surface": "allowed",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#83#57",
+    "sentence_id": "bc/cnn/00/cnn_0002#83",
+    "token_index": 57,
+    "sentence": "I want to talk a little bit more now on why not why in this case because frankly we do n't know that and we do n't want to speculate , That 's unknowable but why in so many other cases because even though it is too soon to tell whether this one fits a pattern there is a pattern and we have seen it time and time again /.",
+    "surface": "is",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#680#13",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#680",
+    "token_index": 13,
+    "sentence": "we 're willing and able to come on your program and others and talk about our experiences and really try to educate the public about the reality of all sides of this conflict /.",
+    "surface": "talk",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#138#39",
+    "sentence_id": "bc/cnn/00/cnn_0006#138",
+    "token_index": 39,
+    "sentence": "Uh and to ask the people to say yes to that constitution on the fifteenth of October we will say this is your future and this Saddam Hussein gone into the past and gone with the wind if you like /.",
+    "surface": "like",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#244#3",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#244",
+    "token_index": 3,
+    "sentence": "Um and we do n't know anything about him /.",
+    "surface": "do",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#187#20",
+    "sentence_id": "bc/cctv/00/cctv_0004#187",
+    "token_index": 20,
+    "sentence": "Mr. Wu , we know that you happened to be in Qatar when al - Jazeera TV station was just established in 1996 .",
+    "surface": "established",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#463#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#463",
+    "token_index": 1,
+    "sentence": "you 've had bankruptcy bills /.",
+    "surface": "'ve",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  }
+]

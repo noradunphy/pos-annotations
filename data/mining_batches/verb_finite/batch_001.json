@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0003#422#16",
+    "sentence_id": "bc/cnn/00/cnn_0003#422",
+    "token_index": 16,
+    "sentence": "I just want you to know that I have such a compassionate heart for people that are going through this /.",
+    "surface": "are",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#305#5",
+    "sentence_id": "bc/cnn/00/cnn_0003#305",
+    "token_index": 5,
+    "sentence": "I feel that I am managing my mental illness /.",
+    "surface": "managing",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#98#8",
+    "sentence_id": "bc/cnn/00/cnn_0001#98",
+    "token_index": 8,
+    "sentence": "Workplace health plans can be should be and may be going away /.",
+    "surface": "may",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#318#23",
+    "sentence_id": "bc/cnn/00/cnn_0001#318",
+    "token_index": 23,
+    "sentence": "So uh as devastating as it is you 're really kind of fortunate because once you take out the plaster , once you take out the insulation make sure that the inside of the building is dry uh the foundation is dry you can really start the rebuilding process /.",
+    "surface": "take",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#52#2",
+    "sentence_id": "bc/cnn/00/cnn_0004#52",
+    "token_index": 2,
+    "sentence": "But I think both Senators are I think exactly right to say we 're going to wait and hold our positions /.",
+    "surface": "think",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#500#15",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#500",
+    "token_index": 15,
+    "sentence": "um If you look at the video of her you know she has her nails done /.",
+    "surface": "done",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#141#24",
+    "sentence_id": "bc/cnn/00/cnn_0007#141",
+    "token_index": 24,
+    "sentence": "Ah no I really was n't because he also said that in the agreement was no disclosure but ah like all complicated relationships he said push me /.",
+    "surface": "said",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#460#3",
+    "sentence_id": "bc/cnn/00/cnn_0001#460",
+    "token_index": 3,
+    "sentence": "He said he began to develop a sense of critical reasoning from which sprang the first stirring of +conscience /.",
+    "surface": "began",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  }
+]

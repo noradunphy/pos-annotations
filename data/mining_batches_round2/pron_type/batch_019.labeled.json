@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0004#194#2", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#76#1", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#252#22", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#248#1", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#569#11", "gold_subclass": "indefinite", "notes": "Existential/expletive there (there were a lot of people)."},
+  {"example_id": "bc/cnn/00/cnn_0002#270#13", "gold_subclass": "possessive", "notes": "Possessive determiner (his side / his wife)."},
+  {"example_id": "bc/cnn/00/cnn_0004#379#7", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#336#4", "gold_subclass": "possessive", "notes": "Possessive determiner (our original plea agreement)."},
+  {"example_id": "bc/cnn/00/cnn_0003#181#31", "gold_subclass": "possessive", "notes": "Possessive determiner (my family)."},
+  {"example_id": "bc/cnn/00/cnn_0002#366#1", "gold_subclass": "personal", "notes": ""}
+]

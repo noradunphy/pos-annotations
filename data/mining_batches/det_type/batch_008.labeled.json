@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0003#696#0", "gold_subclass": "quantifiers", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#252#4", "gold_subclass": "quantifiers", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#153#14", "gold_subclass": "numerals", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#155#6", "gold_subclass": "demonstratives", "notes": "Pronominal demonstrative object of with; not prenominal."},
+  {"example_id": "bc/cctv/00/cctv_0002#367#2", "gold_subclass": "articles", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0007#2#3", "gold_subclass": "demonstratives", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#749#18", "gold_subclass": "numerals", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0004#102#1", "gold_subclass": "articles", "notes": ""}
+]

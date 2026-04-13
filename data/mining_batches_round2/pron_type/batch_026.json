@@ -1,0 +1,182 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0002#328#6",
+    "sentence_id": "bc/cctv/00/cctv_0002#328",
+    "token_index": 6,
+    "sentence": "Well , right now it is its neighboring countries that did not support it .",
+    "surface": "its",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#475#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#475",
+    "token_index": 1,
+    "sentence": "Joining me now is Karen Wells from affiliate WPXI who interviewed Tanya Kach and her father yesterday and James Eckert who is Thomas Hose 's attorney /.",
+    "surface": "me",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#1#9",
+    "sentence_id": "bc/cnn/00/cnn_0003#1",
+    "token_index": 9,
+    "sentence": "and they were not the first company that approached me /.",
+    "surface": "me",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#460#0",
+    "sentence_id": "bc/cnn/00/cnn_0001#460",
+    "token_index": 0,
+    "sentence": "He said he began to develop a sense of critical reasoning from which sprang the first stirring of +conscience /.",
+    "surface": "He",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#165#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#165",
+    "token_index": 1,
+    "sentence": "Well I think that uh Mr. Hackett /-",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#500#8",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#500",
+    "token_index": 8,
+    "sentence": "um If you look at the video of her you know she has her nails done /.",
+    "surface": "her",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#626#12",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#626",
+    "token_index": 12,
+    "sentence": "But I think if we want to lock down a security situation it 's going to take more troops /.",
+    "surface": "it",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#384#12",
+    "sentence_id": "bc/cnn/00/cnn_0005#384",
+    "token_index": 12,
+    "sentence": "An ex-general and former head of the Lebanese Army president Emile Lahoud himself a Maronite Christian has been in power since nineteen ninety eight /.",
+    "surface": "himself",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#538#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#538",
+    "token_index": 5,
+    "sentence": "What I said was that you did n't get out of your comfortbility zone /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#313#22",
+    "sentence_id": "bc/cnn/00/cnn_0002#313",
+    "token_index": 22,
+    "sentence": "An estimated eleven feet tall , weighing perhaps fourteen thousand pounds the mature bull elephant was as big and angry as any they'd 'd seen before /.",
+    "surface": "they'd",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  }
+]

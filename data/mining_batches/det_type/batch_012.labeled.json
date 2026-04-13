@@ -1,0 +1,6 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0001#143#32", "gold_subclass": "demonstratives", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#664#6", "gold_subclass": "articles", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#448#23", "gold_subclass": "articles", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0004#483#4", "gold_subclass": "numerals", "notes": ""}
+]

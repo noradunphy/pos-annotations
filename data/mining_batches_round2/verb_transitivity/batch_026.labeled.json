@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0005#398#3", "gold_subclass": "intransitive", "notes": "Auxiliary in perfect: have been"},
+  {"example_id": "bc/msnbc/00/msnbc_0001#31#2", "gold_subclass": "ambitransitive", "notes": "Discourse marker: you know"},
+  {"example_id": "bc/cnn/00/cnn_0005#503#1", "gold_subclass": "intransitive", "notes": "Modal auxiliary: will"},
+  {"example_id": "bc/msnbc/00/msnbc_0003#109#2", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/cnn/00/cnn_0001#334#1", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/cctv/00/cctv_0001#198#4", "gold_subclass": "intransitive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#569#47", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#343#1", "gold_subclass": "intransitive", "notes": "Modal auxiliary"},
+  {"example_id": "bc/cnn/00/cnn_0007#302#14", "gold_subclass": "intransitive", "notes": "Auxiliary in progressive: is going to add"},
+  {"example_id": "bc/msnbc/00/msnbc_0003#568#0", "gold_subclass": "intransitive", "notes": "Auxiliary in question formation"}
+]

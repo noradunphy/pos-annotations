@@ -1,0 +1,182 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0006#6#1",
+    "sentence_id": "bc/cnn/00/cnn_0006#6",
+    "token_index": 1,
+    "sentence": "Wherever you 're watching from around the world thanks very much for joining us for Late Edition /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#105#2",
+    "sentence_id": "bc/cctv/00/cctv_0003#105",
+    "token_index": 2,
+    "sentence": "Well , I think at this point it would be ludicrous for Putin to concede on the territorial issues .",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#208#2",
+    "sentence_id": "bc/cnn/00/cnn_0007#208",
+    "token_index": 2,
+    "sentence": "and then he went out to live with his daughter /.",
+    "surface": "he",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#122#25",
+    "sentence_id": "bc/cnn/00/cnn_0003#122",
+    "token_index": 25,
+    "sentence": "I just find it strange that in this world everyone is so easy to talk about the superficial you know and how people look and what they do to their faces but no one is really having the dialog of what 's going on inside of them /.",
+    "surface": "what",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#478#1",
+    "sentence_id": "bc/cnn/00/cnn_0003#478",
+    "token_index": 1,
+    "sentence": "So we just encourage open dialog in our family so that we can um attack everything together and they feel supported no matter what comes up /.",
+    "surface": "we",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#68#0",
+    "sentence_id": "bc/cnn/00/cnn_0003#68",
+    "token_index": 0,
+    "sentence": "What school /?",
+    "surface": "What",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#715#3",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#715",
+    "token_index": 3,
+    "sentence": "Horrors to think he might encounter other networks while flipping the channels himself on his way over /.",
+    "surface": "he",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#159#0",
+    "sentence_id": "bc/cnn/00/cnn_0004#159",
+    "token_index": 0,
+    "sentence": "It 's always a great pleasure to welcome him /.",
+    "surface": "It",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#442#12",
+    "sentence_id": "bc/cnn/00/cnn_0002#442",
+    "token_index": 12,
+    "sentence": "what 's amazing too is you go to see the gorillas and you start talking to the guides who are taking you up and you ask them did you lose anyone and they will just turn and without blinking an eye tell you you know all my family is gone /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#13#0",
+    "sentence_id": "bc/cnn/00/cnn_0003#13",
+    "token_index": 0,
+    "sentence": "I do use medication /.",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  }
+]

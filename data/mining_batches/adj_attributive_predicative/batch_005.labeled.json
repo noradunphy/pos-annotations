@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0003#664#31", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0004#4#6", "gold_subclass": "predicative", "notes": "Part of fixed predicate 'stay tuned' (resultative participle)."},
+  {"example_id": "bc/cctv/00/cctv_0003#42#22", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#622#14", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#637#10", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#303#13", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#502#22", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#375#6", "gold_subclass": "predicative", "notes": ""}
+]

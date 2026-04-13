@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#400#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#400",
+    "token_index": 5,
+    "sentence": "but no it does n't appear like right now that there are likely to be uh indictments certainly on the leak /.",
+    "surface": "appear",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#118#19",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#118",
+    "token_index": 19,
+    "sentence": "But what 's the one specific thing you 'd like to do the one bill you 'd like to pass the only policy you 'd like to see enacted /?",
+    "surface": "pass",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#530#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#530",
+    "token_index": 1,
+    "sentence": "We can not let the fringes on both sides hijack the Supreme Court nomination process /.",
+    "surface": "can",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#427#4",
+    "sentence_id": "bc/cctv/00/cctv_0004#427",
+    "token_index": 4,
+    "sentence": "That is , I think that right now it is more likely to stay for a while as a topic of public commentaries .",
+    "surface": "think",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#408#13",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#408",
+    "token_index": 13,
+    "sentence": "Steve did n't they work for the secretary of agriculture for years and go for like three hundred years /.",
+    "surface": "go",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#160#56",
+    "sentence_id": "bc/cnn/00/cnn_0003#160",
+    "token_index": 56,
+    "sentence": "I think Jim said to me once I like who I leave in the morning but I do n't always know who I 'm going to come home to at night because depending on what had happened during the day if something had distressed me , a small thing had become a huge thing and I could n't let it go and I could n't forgive and I could n't get out of myself and I just could n't let go /.",
+    "surface": "could",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#81#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#81",
+    "token_index": 1,
+    "sentence": "Still waiting on they say plenty more evidence that 's undergoing tests /.",
+    "surface": "waiting",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#653#24",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#653",
+    "token_index": 24,
+    "sentence": "uh And article seven of the constitution also cites the universal declaration of human rights which specifically says that people should have freedom to choose their own religion /.",
+    "surface": "choose",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  }
+]

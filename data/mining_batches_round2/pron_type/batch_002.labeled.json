@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0002#447#4", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#252#1", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#397#8", "gold_subclass": "relative", "notes": "Fused/free relative object of do (what she did)."},
+  {"example_id": "bc/cnn/00/cnn_0003#544#3", "gold_subclass": "possessive", "notes": "Possessive determiner (my car)."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#408#3", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#592#3", "gold_subclass": "interrogative", "notes": "Embedded wh-clause (asked her what …)."},
+  {"example_id": "bc/cctv/00/cctv_0004#202#27", "gold_subclass": "possessive", "notes": "Possessive determiner (their reporters)."},
+  {"example_id": "bc/cnn/00/cnn_0003#389#45", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0001#224#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0003#183#0", "gold_subclass": "indefinite", "notes": "Existential/expletive There."}
+]

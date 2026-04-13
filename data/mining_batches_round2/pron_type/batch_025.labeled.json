@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0006#292#2", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#603#2", "gold_subclass": "interrogative", "notes": "Wh-interrogative embedded in colloquial question."},
+  {"example_id": "bc/msnbc/00/msnbc_0004#351#12", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#257#5", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#697#4", "gold_subclass": "possessive", "notes": "Possessive determiner (his address)."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#521#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#624#3", "gold_subclass": "interrogative", "notes": "Complement of on (depends on what you want); interrogative-like open proposition."},
+  {"example_id": "bc/cnn/00/cnn_0001#534#1", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#82#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0003#87#7", "gold_subclass": "reflexive", "notes": ""}
+]

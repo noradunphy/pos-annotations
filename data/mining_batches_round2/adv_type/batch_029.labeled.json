@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0003#80#4", "gold_subclass": "place", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#620#15", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0004#168#4", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#212#0", "gold_subclass": "sentence_discourse", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0007#174#4", "gold_subclass": "degree", "notes": "\"just\" = merely"},
+  {"example_id": "bc/cnn/00/cnn_0005#344#1", "gold_subclass": "degree", "notes": "interrogative degree adverb (how many = to what extent)"},
+  {"example_id": "bc/cnn/00/cnn_0005#333#8", "gold_subclass": "manner", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#424#14", "gold_subclass": "place", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#487#0", "gold_subclass": "sentence_discourse", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0003#214#2", "gold_subclass": "time", "notes": ""}
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0004#264#4",
+    "sentence_id": "bc/cnn/00/cnn_0004#264",
+    "token_index": 4,
+    "sentence": "How could it not be interesting /?",
+    "surface": "be",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#124#16",
+    "sentence_id": "bc/cctv/00/cctv_0002#124",
+    "token_index": 16,
+    "sentence": "These include Japan 's relations with South Korea , China , and Russia which are all deteriorating , well , even including its relations with the US .",
+    "surface": "deteriorating",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#397#7",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#397",
+    "token_index": 7,
+    "sentence": "and that 's why you need to find that out /.",
+    "surface": "find",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#554#3",
+    "sentence_id": "bc/cnn/00/cnn_0001#554",
+    "token_index": 3,
+    "sentence": "He did n't write that to the Owens family /.",
+    "surface": "write",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  }
+]

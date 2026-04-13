@@ -1,0 +1,152 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0003#47#4",
+    "sentence_id": "bc/cnn/00/cnn_0003#47",
+    "token_index": 4,
+    "sentence": "but I think it was only when I got out of my childhood home and started having the freedom to be the wild girl and express all that was inside of me that I really got into trouble /.",
+    "surface": "was",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#420#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#420",
+    "token_index": 5,
+    "sentence": "These terrorists and insurgents will use brutal tactics because they 're trying to shake the will of the United States of America /.",
+    "surface": "use",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#363#17",
+    "sentence_id": "bc/cctv/00/cctv_0003#363",
+    "token_index": 17,
+    "sentence": "Well , if he wants development in Asia , wo n't he close the door if he loses hold of the four northern islands now ?",
+    "surface": "loses",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#457#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#457",
+    "token_index": 2,
+    "sentence": "Well I 'm not sure I agree with that /.",
+    "surface": "'m",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#138#27",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#138",
+    "token_index": 27,
+    "sentence": "Uh what the base is saying is that we expect you to get up every morning and be who you say you are and do what you say you 're going to do /.",
+    "surface": "say",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#40#6",
+    "sentence_id": "bc/cctv/00/cctv_0004#40",
+    "token_index": 6,
+    "sentence": "let 's look at this line marked with a black frame , which writes : Undoubtedly Bush wanted to do this .",
+    "surface": "marked",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#322#18",
+    "sentence_id": "bc/cctv/00/cctv_0002#322",
+    "token_index": 18,
+    "sentence": "Well , among many reasons that blocked Japan from getting accepted this year , the most important one was that its neighboring countries did not cast favorable votes .",
+    "surface": "was",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#1#11",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#1",
+    "token_index": 11,
+    "sentence": "Police are facing more rowdy behavior as New Orleans ' nightlife makes a comeback /.",
+    "surface": "makes",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#421#29",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#421",
+    "token_index": 29,
+    "sentence": "I think you 're going to see perjury or obstruction of justice because I frankly do n't think that on a technical specific intent crime like the one that was originally alleged they 're going to probably return an indictment because it 's a specific intent crime /.",
+    "surface": "was",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#27#24",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#27",
+    "token_index": 24,
+    "sentence": "and I know that the goal was to give a lot of people some time off uh right after this happened in order to allow them to get their wits back to be able to relax a little bit /.",
+    "surface": "allow",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0002#44#36",
+    "sentence_id": "bc/cctv/00/cctv_0002#44",
+    "token_index": 36,
+    "sentence": "Well , during this meeting , er , President Roh Moo - hyun clearly pointed out , ah , what did he point out ? That is , er , the visit to Yasukuni Shrine by Japanese leaders , politicians , and statesmen , is a , , provocation , ah , to South Korea .",
+    "surface": "Japanese",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#598#6",
+    "sentence_id": "bc/cnn/00/cnn_0003#598",
+    "token_index": 6,
+    "sentence": "and the Eli Lilly company 's main base is Indianapolis Indiana /.",
+    "surface": "main",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#363#48",
+    "sentence_id": "bc/cnn/00/cnn_0005#363",
+    "token_index": 48,
+    "sentence": "and as far as I 'm concerned the critics are determined that this time it 's not going to be like Vietnam , this time as long as our men and women are there everything we possibly can do to support them is going to be done including realistic thinking and constructive criticism /.",
+    "surface": "realistic",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#503#6",
+    "sentence_id": "bc/cnn/00/cnn_0004#503",
+    "token_index": 6,
+    "sentence": "well he 's done a very good job for Russia /.",
+    "surface": "good",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#75#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#75",
+    "token_index": 2,
+    "sentence": "you say diverse wardrobe /.",
+    "surface": "diverse",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#53#2",
+    "sentence_id": "bc/cctv/00/cctv_0001#53",
+    "token_index": 2,
+    "sentence": "On that dark night , everyone was sleeping when human voices and neighing horses were heard within the village .",
+    "surface": "dark",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#27#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#27",
+    "token_index": 1,
+    "sentence": "The big city mayor the crime fighter BUT pro-choice pro-gun - control pro-gay - rights /.",
+    "surface": "big",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#82#23",
+    "sentence_id": "bc/cnn/00/cnn_0003#82",
+    "token_index": 23,
+    "sentence": "Even though I say you know that I was under the you know terrible burden of mental illness I think there was a real survivor streak in me and a real fighter and a real fierceness /.",
+    "surface": "real",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  }
+]

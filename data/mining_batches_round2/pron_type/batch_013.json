@@ -1,0 +1,182 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0003#389#31",
+    "sentence_id": "bc/cnn/00/cnn_0003#389",
+    "token_index": 31,
+    "sentence": "I can tell you that the things that helped me most were the friends that looked at me and said we love you and we know that you can not help who you are being right now the way that you 're acting , that you can not control your behavior /.",
+    "surface": "who",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#262#31",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#262",
+    "token_index": 31,
+    "sentence": "All right well look this is one of these cases where we do n't just have to look back where we can actually look forward and hope that someone has seen her and can call the authorities /.",
+    "surface": "her",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#20#11",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#20",
+    "token_index": 11,
+    "sentence": "Everybody up there in New York understands that as well that he can push the US agenda /.",
+    "surface": "he",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#295#2",
+    "sentence_id": "bc/cnn/00/cnn_0002#295",
+    "token_index": 2,
+    "sentence": "That 's what Jack Hannah the renown wildlife advocate wanted to find out as he went in search of wild elephants /.",
+    "surface": "what",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#249#0",
+    "sentence_id": "bc/cctv/00/cctv_0004#249",
+    "token_index": 0,
+    "sentence": "We should say this is a very huge financial expenditure .",
+    "surface": "We",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#192#7",
+    "sentence_id": "bc/cctv/00/cctv_0001#192",
+    "token_index": 7,
+    "sentence": "Just as Mao Zedong once praised : Who dares wield his sword and make his horse rear ?",
+    "surface": "Who",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#389#14",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#389",
+    "token_index": 14,
+    "sentence": "somebody said on one of the weekend shows I think they 're right if it were a secret vote John Bolton would n't carry the Republican caucus /.",
+    "surface": "it",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#148#38",
+    "sentence_id": "bc/cnn/00/cnn_0007#148",
+    "token_index": 38,
+    "sentence": "Ah we concealed his identity in a way ah that it remained confidential for more than thirty years after that book came out and it only was disclosed because Mark Felt his lawyer and family decided to disclose it /.",
+    "surface": "it",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#404#1",
+    "sentence_id": "bc/cnn/00/cnn_0005#404",
+    "token_index": 1,
+    "sentence": "do you /?",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#484#6",
+    "sentence_id": "bc/cnn/00/cnn_0005#484",
+    "token_index": 6,
+    "sentence": "Lebanese consider in their constitution that there will not be any of the Palestinians nor there will be any partition of Lebanon /.",
+    "surface": "there",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#72#34",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#72",
+    "token_index": 34,
+    "sentence": "Earlier in the day Police Commissioner Ray Kelly and Brooklyn District Attorney Joe Hines laid out some of the evidence in the case in addition Dan to what we 'd heard before Which was the cops had cell phone records placing Mr. Littlejohn in the area where Imette 's body was found Witnesses saying that Mr. Littlejohn left the Falls bar with Imette And blood of Mr. Littlejohn 's apparently on the ties that were binding together Imette 's hands /.",
+    "surface": "the",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#576#10",
+    "sentence_id": "bc/cnn/00/cnn_0002#576",
+    "token_index": 10,
+    "sentence": "We are going to do what is necessary to protect the American people /.",
+    "surface": "the",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#593#14",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#593",
+    "token_index": 14,
+    "sentence": "Do you think the Shia who are the majority of the new government have that fighting hatred or whatever you want to call it the zeal to defeat bullies this time /.",
+    "surface": "that",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#91#15",
+    "sentence_id": "bc/cnn/00/cnn_0007#91",
+    "token_index": 15,
+    "sentence": "Now that Rove has in a sense been caught red - handed peddling this information all of a sudden you have respect for the sanctity of a criminal investigation /?",
+    "surface": "all",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#70#2",
+    "sentence_id": "bc/cnn/00/cnn_0006#70",
+    "token_index": 2,
+    "sentence": "I think those who are claiming that they do not understand the nature of this country /.",
+    "surface": "those",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#304#14",
+    "sentence_id": "bc/cnn/00/cnn_0001#304",
+    "token_index": 14,
+    "sentence": "Perhaps it might bake away the multilayered mold that covers the walls and fouls the air /.",
+    "surface": "the",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#438#2",
+    "sentence_id": "bc/cnn/00/cnn_0002#438",
+    "token_index": 2,
+    "sentence": "and by the way it 's probably now the cleanest country I 've ever seen in Africa /.",
+    "surface": "the",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#1#13",
+    "sentence_id": "bc/cnn/00/cnn_0004#1",
+    "token_index": 13,
+    "sentence": "And this time he answers the questions on everything from the indictment on the CIA leak investigation to the President 's new supreme court nominee /.",
+    "surface": "the",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  }
+]

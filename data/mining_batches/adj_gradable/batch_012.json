@@ -1,0 +1,54 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0001#125#11",
+    "sentence_id": "bc/cctv/00/cctv_0001#125",
+    "token_index": 11,
+    "sentence": "They proposed not to leave behind a single rail , a single cross tie , a single railway station , a single blockhouse , a single bridge , or a single electricity pole .",
+    "surface": "single",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#202#33",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#202",
+    "token_index": 33,
+    "sentence": "For President Bush recess appointments have gone to conservative Judges Charles Pickering and William Pryor Labor Department Solicitor Eugene Scalia the son of Justice Antonin Scalia and Undersecretary of State Otto Reich a key figure in the Reagan administration 's policies toward Nicaragua /.",
+    "surface": "key",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#7#17",
+    "sentence_id": "bc/cctv/00/cctv_0002#7",
+    "token_index": 17,
+    "sentence": "However , according to White House officials , Bush and Putin mainly discussed a series of topics such as anti-terrorism , the Korean peninsula nuclear issue , the Iran nuclear issue , and the Russian accession to the WTO .",
+    "surface": "such",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#457#11",
+    "sentence_id": "bc/cnn/00/cnn_0001#457",
+    "token_index": 11,
+    "sentence": "and they can have a real impact on some of the younger offenders to not go down their path and end up uh being executed /.",
+    "surface": "younger",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  }
+]

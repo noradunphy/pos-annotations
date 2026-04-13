@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0003#65#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#669#9", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#451#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#62#9", "gold_subclass": "personal", "notes": "Object pronoun (record on her)."},
+  {"example_id": "bc/msnbc/00/msnbc_0001#224#2", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#335#15", "gold_subclass": "relative", "notes": "Fused relative in what's called a recess appointment."},
+  {"example_id": "bc/cnn/00/cnn_0002#610#3", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#490#23", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#163#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#553#0", "gold_subclass": "personal", "notes": ""}
+]

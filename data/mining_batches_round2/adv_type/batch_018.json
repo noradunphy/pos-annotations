@@ -1,0 +1,172 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#672#39",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#672",
+    "token_index": 39,
+    "sentence": "It is hard to believe right uh as outsiders uh that this is a country that uh has been liberated by the United States uh that there are still many US troops there fighting the Taliban et cetera and somehow uh we now have to negotiate the right of citizens there to practice Christianity /.",
+    "surface": "somehow",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#132#4",
+    "sentence_id": "bc/cnn/00/cnn_0003#132",
+    "token_index": 4,
+    "sentence": "We 'll be right back /.",
+    "surface": "back",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#389#47",
+    "sentence_id": "bc/cnn/00/cnn_0003#389",
+    "token_index": 47,
+    "sentence": "I can tell you that the things that helped me most were the friends that looked at me and said we love you and we know that you can not help who you are being right now the way that you 're acting , that you can not control your behavior /.",
+    "surface": "not",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#350#0",
+    "sentence_id": "bc/cnn/00/cnn_0003#350",
+    "token_index": 0,
+    "sentence": "How about acting /?",
+    "surface": "How",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#170#0",
+    "sentence_id": "bc/cctv/00/cctv_0003#170",
+    "token_index": 0,
+    "sentence": "However , Russia 's thinking was , er , we want to develop the economy first .",
+    "surface": "However",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#108#5",
+    "sentence_id": "bc/cnn/00/cnn_0007#108",
+    "token_index": 5,
+    "sentence": "get the full story out completely at the start so they do n't have to drag it out of you /.",
+    "surface": "completely",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#312#2",
+    "sentence_id": "bc/cnn/00/cnn_0001#312",
+    "token_index": 2,
+    "sentence": "I do n't think you need to tear it down /.",
+    "surface": "n't",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#245#0",
+    "sentence_id": "bc/cctv/00/cctv_0002#245",
+    "token_index": 0,
+    "sentence": "However , it turns out to be exactly the opposite .",
+    "surface": "However",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#441#9",
+    "sentence_id": "bc/cnn/00/cnn_0003#441",
+    "token_index": 9,
+    "sentence": "and then I could n't find my way back up /.",
+    "surface": "up",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#94#11",
+    "sentence_id": "bc/cctv/00/cctv_0002#94",
+    "token_index": 11,
+    "sentence": "So , contrary to Koizumi 's diplomatic purpose , he not only failed to sidestep the issue of the visit , but rather exposed , this scandal to the entire world .",
+    "surface": "only",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  }
+]

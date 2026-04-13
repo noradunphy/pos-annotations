@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0001#558#2", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#538#3", "gold_subclass": "degree", "notes": "negation adverb"},
+  {"example_id": "bc/cctv/00/cctv_0003#25#11", "gold_subclass": "manner", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#464#10", "gold_subclass": "manner", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#298#1", "gold_subclass": "place", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#708#2", "gold_subclass": "degree", "notes": "negation adverb"},
+  {"example_id": "bc/cnn/00/cnn_0007#265#8", "gold_subclass": "manner", "notes": "comparative adverb of \"badly\""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#550#4", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#624#2", "gold_subclass": "degree", "notes": "negation adverb"},
+  {"example_id": "bc/cnn/00/cnn_0004#188#3", "gold_subclass": "degree", "notes": "negation adverb"}
+]

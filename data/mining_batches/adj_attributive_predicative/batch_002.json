@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0001#58#10",
+    "sentence_id": "bc/cctv/00/cctv_0001#58",
+    "token_index": 10,
+    "sentence": "Folks , go back , go back , nothing is wrong .",
+    "surface": "wrong",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#455#9",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#455",
+    "token_index": 9,
+    "sentence": "a lot of fights that have been going on last couple of days whether it 's the nomination to the United Nations of John Bolton the issue of the leak investigation if you write the history now ten years from now , what the real fight is about is the recriminations over whether we should have gone to war /.",
+    "surface": "last",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#14#29",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#14",
+    "token_index": 29,
+    "sentence": "If we did n't have a Democratic party and we did n't have a Republican party , if we just had a big boat I think Giuliani would be unstoppable because he 's a big city guy you know /.",
+    "surface": "unstoppable",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#13#25",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#13",
+    "token_index": 25,
+    "sentence": "uh well let me ask you this about the nature of the appointment because he can only be appointed through uh the beginning of the next session of Congress which is in early oh seven it 's really only a year and a few months /.",
+    "surface": "next",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#160#7",
+    "sentence_id": "bc/cctv/00/cctv_0003#160",
+    "token_index": 7,
+    "sentence": "However , Putin responded only with a congratulatory telegram , with no mention of his visit to Japan .",
+    "surface": "congratulatory",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#305#6",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#305",
+    "token_index": 6,
+    "sentence": "James Dobson founder of the conservative Evangelical group Focus On The Family said last week on his radio show that he 's got some inside info /.",
+    "surface": "Evangelical",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#261#0",
+    "sentence_id": "bc/cnn/00/cnn_0007#261",
+    "token_index": 0,
+    "sentence": "Many believe it 's just a matter of time before Chief Justice William Rehnquist steps down /.",
+    "surface": "Many",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#58#10",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#58",
+    "token_index": 10,
+    "sentence": "I mean I 'm truly sorry what happened to this young lady /.",
+    "surface": "young",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  }
+]

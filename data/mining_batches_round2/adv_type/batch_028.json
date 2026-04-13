@@ -1,0 +1,172 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0002#279#18",
+    "sentence_id": "bc/cnn/00/cnn_0002#279",
+    "token_index": 18,
+    "sentence": "Animal expert Jack Hannah takes us to a place where people and wildlife try to co-exist a place where both share a horrific past /.",
+    "surface": "where",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#218#3",
+    "sentence_id": "bc/cnn/00/cnn_0007#218",
+    "token_index": 3,
+    "sentence": "But there is still that wonderful kind of human connection that 's almost ah primal /.",
+    "surface": "still",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#62#20",
+    "sentence_id": "bc/cctv/00/cctv_0004#62",
+    "token_index": 20,
+    "sentence": "It is placed together with other city newspapers , yet it is also a newspaper of national circulation with an extremely powerful influence .",
+    "surface": "extremely",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#368#35",
+    "sentence_id": "bc/cnn/00/cnn_0006#368",
+    "token_index": 35,
+    "sentence": "And I think he 's the kind of person who based on his previous experience uh including his most recent experience as a judge on the court of appeals has demonstrated that he 'll do exactly that /.",
+    "surface": "exactly",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#689#13",
+    "sentence_id": "bc/cnn/00/cnn_0002#689",
+    "token_index": 13,
+    "sentence": "There are uh state and local races with nationally known faces and issues as well as a celebrity or two /.",
+    "surface": "as",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#238#8",
+    "sentence_id": "bc/cnn/00/cnn_0007#238",
+    "token_index": 8,
+    "sentence": "I think in a sense ah he did n't look at himself as the Deep Throat who was kind of this person who came forward /.",
+    "surface": "n't",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#687#2",
+    "sentence_id": "bc/cnn/00/cnn_0002#687",
+    "token_index": 2,
+    "sentence": "Be right back /.",
+    "surface": "back",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#560#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#560",
+    "token_index": 5,
+    "sentence": "it kind of reminds of when /-",
+    "surface": "when",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#754#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#754",
+    "token_index": 4,
+    "sentence": "Well Christopher there 's also the fact that there were four victims versus one /.",
+    "surface": "also",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#60#12",
+    "sentence_id": "bc/cctv/00/cctv_0004#60",
+    "token_index": 12,
+    "sentence": "That is why it is called a tabloid , because it does not belong to the mainstream in the current British newspaper industry .",
+    "surface": "not",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  }
+]

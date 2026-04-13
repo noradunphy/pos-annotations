@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0003#289#4",
+    "sentence_id": "bc/cctv/00/cctv_0003#289",
+    "token_index": 4,
+    "sentence": "In fact , regarding Putin 's visit to Japan this time , the media earlier predicted , among other things , that when the time came , there would be more than 60 groups totaling more than 700 people , along with , hey , more than 200 propaganda trucks on the streets of downtown Tokyo , to protest against Putin 's visit to Japan .",
+    "surface": "Putin",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#118#6",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#118",
+    "token_index": 6,
+    "sentence": "But what 's the one specific thing you 'd like to do the one bill you 'd like to pass the only policy you 'd like to see enacted /?",
+    "surface": "thing",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#447#7",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#447",
+    "token_index": 7,
+    "sentence": "uh uh you know Sherman Adams with Eisenhower the court packing by FDR /.",
+    "surface": "Eisenhower",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#71#24",
+    "sentence_id": "bc/cctv/00/cctv_0001#71",
+    "token_index": 24,
+    "sentence": "Upon arriving , he relayed an order , saying the road from Yangquan to Hedi must be cut off tonight , with the electrical wires slashed .",
+    "surface": "wires",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#249#14",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#249",
+    "token_index": 14,
+    "sentence": "Offer these guys pizza , offer these guys ice cream um in return for information /.",
+    "surface": "information",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#73#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#73",
+    "token_index": 4,
+    "sentence": "John Bolton by the way was a very effective assistant of state /.",
+    "surface": "way",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#2#5",
+    "sentence_id": "bc/cnn/00/cnn_0003#2",
+    "token_index": 5,
+    "sentence": "but I am not selling medicine or pharmaceuticals /.",
+    "surface": "medicine",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#750#13",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#750",
+    "token_index": 13,
+    "sentence": "The ugly female teachers who slept with her students get four to twenty years /.",
+    "surface": "years",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  }
+]

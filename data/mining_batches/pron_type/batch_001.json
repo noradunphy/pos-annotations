@@ -1,0 +1,146 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0002#409#2",
+    "sentence_id": "bc/cctv/00/cctv_0002#409",
+    "token_index": 2,
+    "sentence": "Er , I think that to prevent the bilateral relations from suffering friction over specific issues , his attitude like this should be --",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#52#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#52",
+    "token_index": 1,
+    "sentence": "Let 's listen to Senator and former Majority leader Trent Lott of Mississippi the United States senator from that state /.",
+    "surface": "'s",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#578#26",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#578",
+    "token_index": 26,
+    "sentence": "But what I can tell you is that when I talked to er the Iraqi general in charge of training troops over there he was telling us some very good news /.",
+    "surface": "us",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#562#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#562",
+    "token_index": 0,
+    "sentence": "It kind of reminds me of when John McCain said to me in two thousand please stop saying nice things about me /.",
+    "surface": "It",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#59#7",
+    "sentence_id": "bc/cnn/00/cnn_0002#59",
+    "token_index": 7,
+    "sentence": "Uh were you surprised to hear that he might be involved in a shooting /?",
+    "surface": "he",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#476#7",
+    "sentence_id": "bc/cnn/00/cnn_0006#476",
+    "token_index": 7,
+    "sentence": "We have uh environmentally controlled areas where we do all our work /.",
+    "surface": "we",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#289#16",
+    "sentence_id": "bc/cnn/00/cnn_0002#289",
+    "token_index": 16,
+    "sentence": "Rwanda this breathtakingly beautiful land is soaked in blood the people living with the pain of their history /.",
+    "surface": "their",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#1#0",
+    "sentence_id": "bc/cnn/00/cnn_0005#1",
+    "token_index": 0,
+    "sentence": "We 'll ask Lebanon 's president Emile Lahoud about his hopes for the future of the region /.",
+    "surface": "We",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0003#233#25", "gold_subclass": "time", "notes": "Deictic then ( back then )."},
+  {"example_id": "bc/cnn/00/cnn_0004#470#9", "gold_subclass": "sentence_discourse", "notes": "Interrogative why at clause level."},
+  {"example_id": "bc/cnn/00/cnn_0005#284#0", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0004#269#5", "gold_subclass": "sentence_discourse", "notes": "Relative why in the reason why (cause/explanation)."},
+  {"example_id": "bc/cnn/00/cnn_0002#696#11", "gold_subclass": "place", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#112#1", "gold_subclass": "sentence_discourse", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0004#110#12", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#328#2", "gold_subclass": "sentence_discourse", "notes": ""}
+]

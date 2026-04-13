@@ -1,0 +1,152 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0002#267#19",
+    "sentence_id": "bc/cnn/00/cnn_0002#267",
+    "token_index": 19,
+    "sentence": "Tonight in a new segment we 're calling Memory Lapse we take a look at what the family is doing right now /.",
+    "surface": "doing",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#736#25",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#736",
+    "token_index": 25,
+    "sentence": "A lot of you still writing in about former school teacher Debra Lafave who had sex with her fourteen year old student who wo n't serve any time in jail /.",
+    "surface": "serve",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#3#3",
+    "sentence_id": "bc/cctv/00/cctv_0003#3",
+    "token_index": 3,
+    "sentence": "It can be said that the four northern islands issue is always an obstacle that Putin can not sidestep while visiting Japan .",
+    "surface": "said",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#158#3",
+    "sentence_id": "bc/cctv/00/cctv_0004#158",
+    "token_index": 3,
+    "sentence": "So , to say that the US government or the US president had such an idea , you think many people may easily believe it .",
+    "surface": "say",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#268#1",
+    "sentence_id": "bc/cnn/00/cnn_0006#268",
+    "token_index": 1,
+    "sentence": "but are we uh uh /-",
+    "surface": "are",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#128#10",
+    "sentence_id": "bc/cnn/00/cnn_0005#128",
+    "token_index": 10,
+    "sentence": "Then we 'll hear from a key US lawmaker who 's questioning the strategy in Iraq democratic senator Karl Levin /.",
+    "surface": "'s",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#56#3",
+    "sentence_id": "bc/cctv/00/cctv_0004#56",
+    "token_index": 3,
+    "sentence": "Its circulation should be considered one of the largest among British newspapers .",
+    "surface": "be",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#335#13",
+    "sentence_id": "bc/cctv/00/cctv_0003#335",
+    "token_index": 13,
+    "sentence": "Well , we noticed , er , just now this short clip also talked about it , at that time the Soviet Union agreed to return two islands first , , but , eh , Japan never agreed .",
+    "surface": "talked",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#341#5",
+    "sentence_id": "bc/cnn/00/cnn_0002#341",
+    "token_index": 5,
+    "sentence": "But the kids had you know /-",
+    "surface": "know",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#427#8",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#427",
+    "token_index": 8,
+    "sentence": "May third probation tells the county authority Duncan 's disappeared /.",
+    "surface": "'s",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  }
+]

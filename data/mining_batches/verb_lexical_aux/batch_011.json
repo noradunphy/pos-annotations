@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0006#345#0",
+    "sentence_id": "bc/cnn/00/cnn_0006#345",
+    "token_index": 0,
+    "sentence": "Is that a problem /?",
+    "surface": "Is",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#12#8",
+    "sentence_id": "bc/cnn/00/cnn_0004#12",
+    "token_index": 8,
+    "sentence": "It 's a safe bet that Sam Brownbeck is going to vote for him and Charles Schumer is going to vote against him /.",
+    "surface": "is",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#603#21",
+    "sentence_id": "bc/cnn/00/cnn_0002#603",
+    "token_index": 21,
+    "sentence": "But if we ever had a ticking bomb terrorist who could under torture reveal the location of a bomb that would destroy hundreds of thousands of people I guarantee you we would use it /.",
+    "surface": "destroy",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#468#2",
+    "sentence_id": "bc/cnn/00/cnn_0001#468",
+    "token_index": 2,
+    "sentence": "We 're talking about clemency to give him life without parole where we do n't kill him /.",
+    "surface": "talking",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#614#3",
+    "sentence_id": "bc/cnn/00/cnn_0004#614",
+    "token_index": 3,
+    "sentence": "I do n't know about that /.",
+    "surface": "know",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#108#14",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#108",
+    "token_index": 14,
+    "sentence": "At one point Ms. St. Guillen the while the judge and the various lawyers were discussing future court dates was asking something about what was going on /.",
+    "surface": "were",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#15#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#15",
+    "token_index": 2,
+    "sentence": "Well I think that 's a big question /.",
+    "surface": "think",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#360#2",
+    "sentence_id": "bc/cnn/00/cnn_0004#360",
+    "token_index": 2,
+    "sentence": "And I forget exactly how we got to talk to him /.",
+    "surface": "forget",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  }
+]

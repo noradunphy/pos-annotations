@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0001#703#2", "gold_subclass": "transitive", "notes": "Takes clausal complement"},
+  {"example_id": "bc/cnn/00/cnn_0006#139#2", "gold_subclass": "intransitive", "notes": "Auxiliary in question formation"},
+  {"example_id": "bc/msnbc/00/msnbc_0004#170#5", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#441#7", "gold_subclass": "ambitransitive", "notes": "Used without explicit object but try commonly takes one"},
+  {"example_id": "bc/cctv/00/cctv_0003#279#5", "gold_subclass": "intransitive", "notes": "Copular: the treasure is hidden"},
+  {"example_id": "bc/cnn/00/cnn_0002#617#14", "gold_subclass": "intransitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#49#1", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/cctv/00/cctv_0001#225#2", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#473#24", "gold_subclass": "ditransitive", "notes": "giving her sandwiches: indirect + direct object"},
+  {"example_id": "bc/cctv/00/cctv_0001#220#11", "gold_subclass": "intransitive", "notes": "Copular: became a typical example"}
+]

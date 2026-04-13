@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0004#420#6", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#604#3", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0003#402#11", "gold_subclass": "predicative", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#414#4", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#509#5", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0004#56#8", "gold_subclass": "predicative", "notes": "Subject complement after passive 'be considered'."},
+  {"example_id": "bc/cnn/00/cnn_0003#290#10", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#666#12", "gold_subclass": "attributive", "notes": ""}
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0005#358#7",
+    "sentence_id": "bc/cnn/00/cnn_0005#358",
+    "token_index": 7,
+    "sentence": "By telling the men and women how much we 're determined to support them as long as they 're there that we 're also determined to be constructive critics of the policies which not only sent them there uh unequipped and without the international support and without plans for the aftermath /.",
+    "surface": "much",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#36#18",
+    "sentence_id": "bc/cnn/00/cnn_0005#36",
+    "token_index": 18,
+    "sentence": "And so I am very uh clear in my understanding that we 're moving in a good direction as long as politics moves forward and Iraqi security forces moves forward /.",
+    "surface": "as",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#259#9",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#259",
+    "token_index": 9,
+    "sentence": "Up next is it time for Congress to step in and straighten out steroid use in professional baseball /?",
+    "surface": "in",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#229#2",
+    "sentence_id": "bc/cnn/00/cnn_0001#229",
+    "token_index": 2,
+    "sentence": "Bagram Afghanistan now where a senior al - Qaeda operative is apparently on the loose /.",
+    "surface": "now",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#571#23",
+    "sentence_id": "bc/cnn/00/cnn_0004#571",
+    "token_index": 23,
+    "sentence": "But um uh what is your most difficult interview that you had in Sixty Minutes the most difficult person that you could have ever interviewed /?",
+    "surface": "ever",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#539#13",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#539",
+    "token_index": 13,
+    "sentence": "I know better than to try to forecast a race three years out particularly in the primaries the Republican primaries /.",
+    "surface": "particularly",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#87#16",
+    "sentence_id": "bc/cctv/00/cctv_0004#87",
+    "token_index": 16,
+    "sentence": "However , right now , Britain has neither said it is true nor said it is not .",
+    "surface": "not",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#442#10",
+    "sentence_id": "bc/cctv/00/cctv_0002#442",
+    "token_index": 10,
+    "sentence": "Er , within another period of time , er , that is , by 2012 when it is , the 20th anniversary of the establishment of diplomatic relations between China and South Korea , 200 billion US dollars ' worth of economic trade can be reached .",
+    "surface": "that",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  }
+]

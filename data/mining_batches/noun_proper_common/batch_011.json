@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0002#49#5",
+    "sentence_id": "bc/cctv/00/cctv_0002#49",
+    "token_index": 5,
+    "sentence": "Well , at the same time , he pointed out , that is , er , the issue of the prime minister 's visit to Yasukuni Shrine , the textbook issue , and the territorial dispute .",
+    "surface": "time",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#320#31",
+    "sentence_id": "bc/cnn/00/cnn_0002#320",
+    "token_index": 31,
+    "sentence": "Hannah and his crew beat it to shore and to safety not realizing that in April the US embassy in Kigali had issued a warning to American tourists about a rogue elephant charging visitors /.",
+    "surface": "elephant",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#493#0",
+    "sentence_id": "bc/cctv/00/cctv_0004#493",
+    "token_index": 0,
+    "sentence": "Washington , overcast , 8 to",
+    "surface": "Washington",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#107#2",
+    "sentence_id": "bc/cnn/00/cnn_0003#107",
+    "token_index": 2,
+    "sentence": "yes two marriages one to James Cameron and before that to Bruce Abbot /.",
+    "surface": "marriages",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#120#16",
+    "sentence_id": "bc/cctv/00/cctv_0002#120",
+    "token_index": 16,
+    "sentence": "As for Japan , to the US , it furthermore has lost some assets , diplomatic assets when making negotiations with the US .",
+    "surface": "assets",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#464#3",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#464",
+    "token_index": 3,
+    "sentence": "you got an economy that 's going along uh pretty well /.",
+    "surface": "economy",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#143#6",
+    "sentence_id": "bc/cnn/00/cnn_0006#143",
+    "token_index": 6,
+    "sentence": "We 're not going to allow Saddam Hussein to uh be another uh Milosevic /.",
+    "surface": "Saddam",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#25#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#25",
+    "token_index": 2,
+    "sentence": "the Jack Bauer figure in other words from twenty four is Rudy Giuliani /.",
+    "surface": "Bauer",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  }
+]

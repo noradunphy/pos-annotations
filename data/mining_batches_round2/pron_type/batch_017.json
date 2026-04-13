@@ -1,0 +1,182 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#593#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#593",
+    "token_index": 1,
+    "sentence": "Do you think the Shia who are the majority of the new government have that fighting hatred or whatever you want to call it the zeal to defeat bullies this time /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#395#0",
+    "sentence_id": "bc/cnn/00/cnn_0005#395",
+    "token_index": 0,
+    "sentence": "You 're seen as a close ally of Syria /.",
+    "surface": "You",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#238#10",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#238",
+    "token_index": 10,
+    "sentence": "uh I know this is a very tough time for you /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#215#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#215",
+    "token_index": 0,
+    "sentence": "what he had said was we certainly believe that strongest suspect uh they already have in custody /.",
+    "surface": "what",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#42#2",
+    "sentence_id": "bc/cnn/00/cnn_0002#42",
+    "token_index": 2,
+    "sentence": "What did you see /?",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#363#11",
+    "sentence_id": "bc/cctv/00/cctv_0003#363",
+    "token_index": 11,
+    "sentence": "Well , if he wants development in Asia , wo n't he close the door if he loses hold of the four northern islands now ?",
+    "surface": "he",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#531#2",
+    "sentence_id": "bc/cnn/00/cnn_0001#531",
+    "token_index": 2,
+    "sentence": "Alright so you have to do that with all of the appeals /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#259#13",
+    "sentence_id": "bc/cnn/00/cnn_0002#259",
+    "token_index": 13,
+    "sentence": "That would mean Anderson what you would have is another court battle as you alluded to earlier similar to the Schiavo case /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#115#10",
+    "sentence_id": "bc/cnn/00/cnn_0005#115",
+    "token_index": 10,
+    "sentence": "He said of the hundred or so Iraqi battalions that you 're training only three of them right now are fully capable of going out and are battle tested and battle ready /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#41#7",
+    "sentence_id": "bc/cnn/00/cnn_0005#41",
+    "token_index": 7,
+    "sentence": "Would it make any difference uh let me rephrase the question if the US had another hundred thousand troops in Iraq /?",
+    "surface": "me",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0002#503#2",
+    "sentence_id": "bc/cctv/00/cctv_0002#503",
+    "token_index": 2,
+    "sentence": "Bangkok , cloudy changing to showers , 25 to 34 degrees .",
+    "surface": "cloudy",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#387#15",
+    "sentence_id": "bc/cnn/00/cnn_0005#387",
+    "token_index": 15,
+    "sentence": "Earlier this year what 's called the power of the people managed to dissolve the Syrian backed Lebanese government forced the removal of Syrian troops and called for new elections /.",
+    "surface": "Syrian",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#209#15",
+    "sentence_id": "bc/cctv/00/cctv_0004#209",
+    "token_index": 15,
+    "sentence": "So , what it reported was in a completely different style from that of some other Arab TV stations .",
+    "surface": "other",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#78#8",
+    "sentence_id": "bc/cctv/00/cctv_0002#78",
+    "token_index": 8,
+    "sentence": "Well , was n't it that things went contrary to his wishes ?",
+    "surface": "contrary",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#673#30",
+    "sentence_id": "bc/cnn/00/cnn_0002#673",
+    "token_index": 30,
+    "sentence": "He says and I 'm paraphrasing that basically the element of surprise what the enemy does not know about what we 're going to do to them is a very powerful tool /.",
+    "surface": "powerful",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#189#22",
+    "sentence_id": "bc/cnn/00/cnn_0006#189",
+    "token_index": 22,
+    "sentence": "I do believe we 'll still be able to take some fairly substantial reductions after these elections in the spring and summer next year /.",
+    "surface": "next",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#26#8",
+    "sentence_id": "bc/cnn/00/cnn_0002#26",
+    "token_index": 8,
+    "sentence": "About a little after two o'clock today a fifteen year old student wielding a hand gun shot and killed an assistant principal then badly wounded the principal and another assistant principal /.",
+    "surface": "fifteen",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#89#9",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#89",
+    "token_index": 9,
+    "sentence": "With Imette 's death the world has lost something special far too soon /.",
+    "surface": "special",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  }
+]

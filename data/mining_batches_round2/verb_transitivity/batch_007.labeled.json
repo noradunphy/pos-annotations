@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0001#10#13", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#102#11", "gold_subclass": "transitive", "notes": "Phrasal verb: taking on"},
+  {"example_id": "bc/msnbc/00/msnbc_0004#578#8", "gold_subclass": "intransitive", "notes": "Auxiliary in progressive: am talking"},
+  {"example_id": "bc/cnn/00/cnn_0004#199#1", "gold_subclass": "intransitive", "notes": "Auxiliary for negation: do not see"},
+  {"example_id": "bc/cctv/00/cctv_0004#169#20", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#72#1", "gold_subclass": "intransitive", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0003#335#25", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#122#16", "gold_subclass": "intransitive", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0003#307#9", "gold_subclass": "intransitive", "notes": "Modal auxiliary"},
+  {"example_id": "bc/cctv/00/cctv_0001#150#9", "gold_subclass": "transitive", "notes": ""}
+]

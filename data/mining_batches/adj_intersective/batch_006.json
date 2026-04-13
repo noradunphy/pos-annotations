@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0003#296#2",
+    "sentence_id": "bc/cnn/00/cnn_0003#296",
+    "token_index": 2,
+    "sentence": "More water more exercise free tips and resources to help people with mental illnesses um uh choose healthier lifestyles dealing with nutrition um so that if there are side effects from a drug that is working for them but there is a weight gain /.",
+    "surface": "more",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#155#21",
+    "sentence_id": "bc/cctv/00/cctv_0003#155",
+    "token_index": 21,
+    "sentence": "It can be said that Putin 's visit to Japan after an interval of five years was realized following quite a few twists and turns .",
+    "surface": "few",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#368#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#368",
+    "token_index": 2,
+    "sentence": "That 's ridiculous /.",
+    "surface": "ridiculous",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#59#9",
+    "sentence_id": "bc/cctv/00/cctv_0002#59",
+    "token_index": 9,
+    "sentence": "However , this was still not accepted by the South Korean side .",
+    "surface": "South",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#457#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#457",
+    "token_index": 4,
+    "sentence": "Well I 'm not sure I agree with that /.",
+    "surface": "sure",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#119#7",
+    "sentence_id": "bc/cctv/00/cctv_0001#119",
+    "token_index": 7,
+    "sentence": "When their blood turned the yellow soil red , they applied iodine solution to their wounds and closed them with bandages .",
+    "surface": "red",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#75#5",
+    "sentence_id": "bc/cnn/00/cnn_0007#75",
+    "token_index": 5,
+    "sentence": "But her husband being a prominent White House critic who clearly the administration was angry at and wanted to /.",
+    "surface": "prominent",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#43#6",
+    "sentence_id": "bc/cnn/00/cnn_0003#43",
+    "token_index": 6,
+    "sentence": "By the time I was in high school I was a hundred and seventy pounds /.",
+    "surface": "high",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  }
+]

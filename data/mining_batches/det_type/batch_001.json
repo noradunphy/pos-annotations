@@ -1,0 +1,130 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0006#367#5",
+    "sentence_id": "bc/cnn/00/cnn_0006#367",
+    "token_index": 5,
+    "sentence": "He 's supposed to take the facts when they 're given to him apply the law and make a decision /.",
+    "surface": "the",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#291#7",
+    "sentence_id": "bc/cnn/00/cnn_0004#291",
+    "token_index": 7,
+    "sentence": "and maybe do five different people in the course of an hour questions and so forth /.",
+    "surface": "the",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#270#2",
+    "sentence_id": "bc/cnn/00/cnn_0003#270",
+    "token_index": 2,
+    "sentence": "I mean any different /?",
+    "surface": "any",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#169#7",
+    "sentence_id": "bc/cnn/00/cnn_0002#169",
+    "token_index": 7,
+    "sentence": "That 's the one that 's giving the republicans willies for next year /.",
+    "surface": "the",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#59#18",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#59",
+    "token_index": 18,
+    "sentence": "Well look it is good to see uh that we 're not hearing what we sometimes hear in these kinds of cases which is well you know you got to understand the circumstances and the tape is n't showing everything /.",
+    "surface": "these",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#376#14",
+    "sentence_id": "bc/cnn/00/cnn_0006#376",
+    "token_index": 14,
+    "sentence": "Uh in this particular case I agree with his previous position and that of the President /.",
+    "surface": "the",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#504#5",
+    "sentence_id": "bc/cnn/00/cnn_0004#504",
+    "token_index": 5,
+    "sentence": "and he 'll be fifty five at the end of his second term /.",
+    "surface": "five",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#586#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#586",
+    "token_index": 4,
+    "sentence": "Oh if we have the situation we have on the war , if our foreign policy disarray if no progress is being made on healthcare and education I think a lot of those red states could become blue states /.",
+    "surface": "the",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  }
+]

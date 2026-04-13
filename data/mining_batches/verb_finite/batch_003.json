@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#416#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#416",
+    "token_index": 0,
+    "sentence": "Thank you very much /.",
+    "surface": "Thank",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#362#9",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#362",
+    "token_index": 9,
+    "sentence": "And my goal um is to you know um help keep him that way /.",
+    "surface": "help",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#344#17",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#344",
+    "token_index": 17,
+    "sentence": "So um at the end of the day I could n't move forward with that uh to forcing her to prison and basically having my son re-victimized /.",
+    "surface": "forcing",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#54#13",
+    "sentence_id": "bc/cnn/00/cnn_0006#54",
+    "token_index": 13,
+    "sentence": "The Los Angeles Times this week uh suggested that the draft Iraqi constitution would include and let me read from the story in the Los Angeles Times Islam is the official religion of the state It is the basic source for legislation It is forbidden to pass a law that contradicts its fixed rulings /.",
+    "surface": "would",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#90#16",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#90",
+    "token_index": 16,
+    "sentence": "Joe is that a legal defense meaning could these guys come into court and say we were so traumatized by everything that happened that it eventually led to this /?",
+    "surface": "were",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#180#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#180",
+    "token_index": 2,
+    "sentence": "He also says that he was kidnapped the same night that she went missing /.",
+    "surface": "says",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#158#2",
+    "sentence_id": "bc/cnn/00/cnn_0007#158",
+    "token_index": 2,
+    "sentence": "Counter-intelligence it 's very sophisticated /.",
+    "surface": "'s",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#348#6",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#348",
+    "token_index": 6,
+    "sentence": "is it possible that all they said to Dobson behind closed doors is she 's a very religious woman /. /.",
+    "surface": "said",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  }
+]

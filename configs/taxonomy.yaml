@@ -1,0 +1,181 @@
+tier_a:
+  - NOUN
+  - VERB
+  - ADJ
+  - ADV
+  - PREP
+  - DET
+  - PRON
+  - CONJ
+  - PART
+  - INT
+
+distinctions:
+  - id: noun_proper_common
+    parent_high_level: NOUN
+    enabled: true
+    labels: [proper, common]
+    guidelines: >
+      proper = named entity or title-like noun; common = generic referent.
+
+  - id: noun_count_mass
+    parent_high_level: NOUN
+    enabled: true
+    labels: [count, mass]
+    guidelines: >
+      count = discrete units; mass = substance or undifferentiated mass.
+
+  - id: noun_concrete_abstract
+    parent_high_level: NOUN
+    enabled: true
+    labels: [concrete, abstract]
+    guidelines: >
+      concrete = physical referent; abstract = idea, event nominalization, etc.
+
+  - id: noun_collective
+    parent_high_level: NOUN
+    enabled: true
+    labels: [collective, non-collective]
+    guidelines: >
+      collective = denotes a group as a unit (team, fleet); else non-collective.
+
+  - id: verb_lexical_aux
+    parent_high_level: VERB
+    enabled: true
+    labels: [lexical, auxiliary]
+    guidelines: >
+      auxiliary = finite modal or primary be/do/have supporting tense; else lexical.
+
+  - id: verb_finite
+    parent_high_level: VERB
+    enabled: true
+    labels: [finite, non-finite]
+    guidelines: >
+      finite = carries tense on finite clause verb; non-finite = infinitive/participle without finite inflection in role.
+
+  - id: verb_stative_eventive
+    parent_high_level: VERB
+    enabled: true
+    labels: [stative, eventive]
+    guidelines: >
+      stative = state without clear change; eventive = action or change of state.
+
+  - id: verb_copular_prog_pass
+    parent_high_level: VERB
+    enabled: true
+    labels: [copular, progressive, passive, none_of_these]
+    guidelines: >
+      copular = linking be/seem/remain etc.; progressive = -ing progressive aspect;
+      passive = passive be + participle; none_of_these = other lexical use.
+
+  - id: verb_transitivity
+    parent_high_level: VERB
+    enabled: true
+    labels: [transitive, intransitive, ditransitive, ambitransitive]
+    guidelines: >
+      Use clause context: objects required for transitive/ditransitive; ambitransitive = both patterns attested.
+
+  - id: adj_attributive_predicative
+    parent_high_level: ADJ
+    enabled: true
+    labels: [attributive, predicative]
+    guidelines: >
+      attributive modifies NP internally; predicative = subject complement / resultative predicate.
+
+  - id: adj_gradable
+    parent_high_level: ADJ
+    enabled: true
+    labels: [gradable, non-gradable]
+    guidelines: >
+      gradable allows degree modification; non-gradable = absolute or technical sense.
+
+  - id: adj_intersective
+    parent_high_level: ADJ
+    enabled: true
+    labels: [intersective, non-intersective]
+    guidelines: >
+      intersective = property narrows noun denotation; non-intersective = subsective/non-subsective modifier.
+
+  - id: pron_type
+    parent_high_level: PRON
+    enabled: true
+    labels: [personal, possessive, reflexive, demonstrative, relative, interrogative, indefinite]
+    guidelines: >
+      Classify pronominal paradigm, not case (see pron_case extension).
+
+  - id: adv_type
+    parent_high_level: ADV
+    enabled: true
+    labels: [manner, time, place, degree, frequency, sentence_discourse]
+    guidelines: >
+      sentence_discourse = sentential adverbs / discourse markers.
+
+  - id: det_type
+    parent_high_level: DET
+    enabled: true
+    labels: [articles, demonstratives, possessives, quantifiers, numerals]
+    guidelines: >
+      articles = a/an/the; numerals = bare number determiners.
+
+  - id: conj_type
+    parent_high_level: CONJ
+    enabled: true
+    labels: [coordinating, subordinating]
+    guidelines: >
+      coordinating = and/but/or; subordinating = if/because/although or subordinator use.
+
+  - id: part_type
+    parent_high_level: PART
+    enabled: true
+    labels: [standard, phrasal_verb_particle]
+    guidelines: >
+      phrasal_verb_particle = particle in verb-particle construction; else standard.
+
+  # --- extensions (disabled by default) ---
+  - id: noun_number
+    parent_high_level: NOUN
+    enabled: false
+    labels: [singular, plural, not_applicable]
+    guidelines: Morphosyntactic number of the noun token in context.
+
+  - id: noun_case
+    parent_high_level: NOUN
+    enabled: false
+    labels: [common, genitive, not_applicable]
+    guidelines: Genitive marking on noun or possessive clitic context.
+
+  - id: pron_person
+    parent_high_level: PRON
+    enabled: false
+    labels: [first, second, third, not_applicable]
+    guidelines: Grammatical person of the pronoun.
+
+  - id: pron_number
+    parent_high_level: PRON
+    enabled: false
+    labels: [singular, plural, not_applicable]
+    guidelines: Grammatical number of the pronoun.
+
+  - id: pron_case
+    parent_high_level: PRON
+    enabled: false
+    labels: [nominative, accusative, genitive, not_applicable]
+    guidelines: Syntactic case function; not pronoun lexical type.
+
+  - id: det_number
+    parent_high_level: DET
+    enabled: false
+    labels: [singular, plural, not_applicable]
+    guidelines: Agreement or selectional number of determiner phrase.
+
+  - id: adj_degree
+    parent_high_level: ADJ
+    enabled: false
+    labels: [positive, comparative, superlative, not_applicable]
+    guidelines: Morphological or periphrastic degree.
+
+  - id: verb_surface_form
+    parent_high_level: VERB
+    enabled: false
+    labels: [base_or_infinitive, third_person_singular, past, present_participle, past_participle, not_applicable]
+    guidelines: Surface morphological shape of the verb token.

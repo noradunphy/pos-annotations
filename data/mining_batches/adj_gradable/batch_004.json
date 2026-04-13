@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#88#35",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#88",
+    "token_index": 35,
+    "sentence": "There is no disaster that has had the amount of trauma for a department that this has where so many police officers have lost homes been separated from their families had loved ones living in other places with no idea uh when they will return /.",
+    "surface": "other",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#443#10",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#443",
+    "token_index": 10,
+    "sentence": "Do you think this is going to be the big second term booboo of this administration /?",
+    "surface": "second",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#326#12",
+    "sentence_id": "bc/cnn/00/cnn_0006#326",
+    "token_index": 12,
+    "sentence": "NASA has decided to add an extra day so astronauts can do more work /.",
+    "surface": "more",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#637#55",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#637",
+    "token_index": 55,
+    "sentence": "Melanie how do we get the straight scoop on what 's happening in Iraq because people tell me there 's only two ways to go over there as a journalist I think your experience confirms this you either go over there and stay in the green zone or that part uh uh which is very secure and it 's basically a compound or you go out with a unit as uh basically part of the unit an embedded reporter /.",
+    "surface": "secure",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#274#7",
+    "sentence_id": "bc/cnn/00/cnn_0005#274",
+    "token_index": 7,
+    "sentence": "Joining us now from New York the top democrat on the Senate Arms Services Committee Karl Levit of Michigan /.",
+    "surface": "top",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#53#13",
+    "sentence_id": "bc/cnn/00/cnn_0002#53",
+    "token_index": 13,
+    "sentence": "I should just point out to our viewers we 're not using the young man 's name /.",
+    "surface": "young",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#439#24",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#439",
+    "token_index": 24,
+    "sentence": "I think if there 's any way the president can stand by his man he will but it 's going to get maybe a little bit more difficult for him to do that /.",
+    "surface": "little",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#166#51",
+    "sentence_id": "bc/cnn/00/cnn_0006#166",
+    "token_index": 51,
+    "sentence": "uh also it incorporates securing Baghdad as the capital of Iraq and also increasing the uh protection of the infrastructure uh uh formation of target oriented special forces uh uh also increasing the intelligence activity because you know this is a intelligence uh led war , this is not a traditional classical war /.",
+    "surface": "classical",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  }
+]

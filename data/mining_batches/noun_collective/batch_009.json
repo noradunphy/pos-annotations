@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0005#290#11",
+    "sentence_id": "bc/cnn/00/cnn_0005#290",
+    "token_index": 11,
+    "sentence": "and we 've got to change the current dynamic in a number of ways /.",
+    "surface": "number",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#344#39",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#344",
+    "token_index": 39,
+    "sentence": "The concerns that have been raised about Harriet Miers include will she truly be an independent voice on the Supreme Court not just doing George W Bush 's wishes and does she have a basic committement to fundamental constitutional values /.",
+    "surface": "values",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#225#8",
+    "sentence_id": "bc/cctv/00/cctv_0003#225",
+    "token_index": 8,
+    "sentence": "Well , currently Japan is very important to Russia again .",
+    "surface": "Russia",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#120#12",
+    "sentence_id": "bc/cctv/00/cctv_0003#120",
+    "token_index": 12,
+    "sentence": "Well , domestic political circles in Japan all opposed this suggestion by Taro Aso .",
+    "surface": "Taro",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#230#8",
+    "sentence_id": "bc/cctv/00/cctv_0001#230",
+    "token_index": 8,
+    "sentence": "Taiwan 's investigation department and police announced the closing of the March 19 shooting case .",
+    "surface": "closing",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#205#1",
+    "sentence_id": "bc/cctv/00/cctv_0001#205",
+    "token_index": 1,
+    "sentence": "Mao Zedong was deeply moved .",
+    "surface": "Zedong",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#337#8",
+    "sentence_id": "bc/cnn/00/cnn_0002#337",
+    "token_index": 8,
+    "sentence": "Had you ever seen behavior like that in elephants /?",
+    "surface": "elephants",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#133#10",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#133",
+    "token_index": 10,
+    "sentence": "In my mind I compare to some of the federal agents who were uh injured or involved in Hurricane Andrew a few years ago /.",
+    "surface": "agents",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  }
+]

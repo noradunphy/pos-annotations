@@ -1,0 +1,152 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0001#703#2",
+    "sentence_id": "bc/cnn/00/cnn_0001#703",
+    "token_index": 2,
+    "sentence": "But I think you have to have the sort of attitude of creativity and fun and anything is possible /.",
+    "surface": "think",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#139#2",
+    "sentence_id": "bc/cnn/00/cnn_0006#139",
+    "token_index": 2,
+    "sentence": "So when do you think it will all be wrapped up uh would you guess /.",
+    "surface": "do",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#170#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#170",
+    "token_index": 5,
+    "sentence": "I think whatever Mr. Hackett said was understandable /.",
+    "surface": "said",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#441#7",
+    "sentence_id": "bc/cnn/00/cnn_0005#441",
+    "token_index": 7,
+    "sentence": "Whereas as I said the fundamentalist who tried a few years back and only a few months before the assassination could be one of the suspects /.",
+    "surface": "tried",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#279#5",
+    "sentence_id": "bc/cctv/00/cctv_0003#279",
+    "token_index": 5,
+    "sentence": "That is , the treasure is all hidden underground .",
+    "surface": "is",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#617#14",
+    "sentence_id": "bc/cnn/00/cnn_0002#617",
+    "token_index": 14,
+    "sentence": "What the McCain amendment is just repeating is the Geneva convention standard that already applies in Iraq /.",
+    "surface": "applies",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#49#1",
+    "sentence_id": "bc/cnn/00/cnn_0003#49",
+    "token_index": 1,
+    "sentence": "I was a wild girl /.",
+    "surface": "was",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#225#2",
+    "sentence_id": "bc/cctv/00/cctv_0001#225",
+    "token_index": 2,
+    "sentence": "First , let 's check out the main contents of today 's program .",
+    "surface": "let",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#473#24",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#473",
+    "token_index": 24,
+    "sentence": "Once she disappeared from her family Kach says Hose locked her in a bedroom leaving her a bucket to use for a toilet and giving her peanut butter sandwiches and bottled water /.",
+    "surface": "giving",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#220#11",
+    "sentence_id": "bc/cctv/00/cctv_0001#220",
+    "token_index": 11,
+    "sentence": "The Tengchong Battle , an annihilation of the Japanese army , became a typical example for the China war area .",
+    "surface": "became",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  }
+]

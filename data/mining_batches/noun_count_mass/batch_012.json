@@ -1,0 +1,54 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#46#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#46",
+    "token_index": 5,
+    "sentence": "It 's always fun on Friday night here /.",
+    "surface": "Friday",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#304#7",
+    "sentence_id": "bc/cnn/00/cnn_0006#304",
+    "token_index": 7,
+    "sentence": "Obviously if you 're wearing a heavy coat that 's a telltale sign /.",
+    "surface": "coat",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#40#11",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#40",
+    "token_index": 11,
+    "sentence": "I think Bolton would have gotten more than fifty - six votes to be confirmed /.",
+    "surface": "votes",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#439#10",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#439",
+    "token_index": 10,
+    "sentence": "Mr. Vancamp thank you very much for uh taking the time /.",
+    "surface": "time",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  }
+]

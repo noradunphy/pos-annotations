@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0003#389#31", "gold_subclass": "relative", "notes": "Fused/free relative in help who you are (predicate nominal)."},
+  {"example_id": "bc/msnbc/00/msnbc_0001#262#31", "gold_subclass": "personal", "notes": "Object pronoun (seen her), not possessive determiner."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#20#11", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#295#2", "gold_subclass": "relative", "notes": "Fused relative (That's what … = that which)."},
+  {"example_id": "bc/cctv/00/cctv_0004#249#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0001#192#7", "gold_subclass": "interrogative", "notes": "Wh-question (Who dares … ?), rhetorical."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#389#14", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0007#148#38", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#404#1", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#484#6", "gold_subclass": "indefinite", "notes": "Existential/expletive there (nor there will be); nonstandard order but existential pattern."}
+]

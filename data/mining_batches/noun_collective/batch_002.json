@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0003#181#32",
+    "sentence_id": "bc/cnn/00/cnn_0003#181",
+    "token_index": 32,
+    "sentence": "but I never would have taken the action to kill myself um just cause I 'm a real nice girl and a pleaser and I could n't have done that to my family /.",
+    "surface": "family",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#41#13",
+    "sentence_id": "bc/cnn/00/cnn_0005#41",
+    "token_index": 13,
+    "sentence": "Would it make any difference uh let me rephrase the question if the US had another hundred thousand troops in Iraq /?",
+    "surface": "US",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#38#8",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#38",
+    "token_index": 8,
+    "sentence": "We know that we 're on the right track in Iraq /.",
+    "surface": "track",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#70#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#70",
+    "token_index": 2,
+    "sentence": "Uh John Bolton will be there during probably the most important time for the United Nations in many many years /.",
+    "surface": "Bolton",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#78#6",
+    "sentence_id": "bc/cctv/00/cctv_0002#78",
+    "token_index": 6,
+    "sentence": "Well , was n't it that things went contrary to his wishes ?",
+    "surface": "things",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#377#49",
+    "sentence_id": "bc/cnn/00/cnn_0005#377",
+    "token_index": 49,
+    "sentence": "And I hope that the uh president would disassociate himself and tell Karl Rove that he ought to be ashamed of himself for stooping to that level to divide us in order to try to pander to a particular audience or to make some kind of perceived uh political gain /.",
+    "surface": "gain",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#340#9",
+    "sentence_id": "bc/cnn/00/cnn_0006#340",
+    "token_index": 9,
+    "sentence": "A recess appointment which I gather is coming for Bolton will send him there with a cloud over his head /.",
+    "surface": "Bolton",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#49#9",
+    "sentence_id": "bc/cnn/00/cnn_0002#49",
+    "token_index": 9,
+    "sentence": "and Mr. Steele got on the intercom and told everyone that we were having a lockdown /.",
+    "surface": "everyone",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  }
+]

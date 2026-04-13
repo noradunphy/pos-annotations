@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#187#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#187",
+    "token_index": 1,
+    "sentence": "This man uh sadly if we had a secret roll call would not be approved by the Senate /.",
+    "surface": "man",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#114#3",
+    "sentence_id": "bc/cnn/00/cnn_0002#114",
+    "token_index": 3,
+    "sentence": "Also ahead in Rwanda a country rocked by genocide ten years ago let 's see how it 's affecting the animals still to this day /.",
+    "surface": "Rwanda",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#288#4",
+    "sentence_id": "bc/cnn/00/cnn_0001#288",
+    "token_index": 4,
+    "sentence": "There 's no drinkable water and little if any electricity here and no plan yet for restoring the neighborhood /.",
+    "surface": "water",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#268#2",
+    "sentence_id": "bc/cnn/00/cnn_0002#268",
+    "token_index": 2,
+    "sentence": "Teri 's husband Michael is back in the news making a splash in politics far from home by endorsing the candidacy of democrat Tim Kaine for governor of Virginia in tonight 's election /.",
+    "surface": "husband",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#368#12",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#368",
+    "token_index": 12,
+    "sentence": "but anyone who 's now claiming that they expect to get the answers from Miers in the confirmation hearing , that 's going to somehow uh assure them one way or the other are just grandstanding because they know they 're not going to get it /.",
+    "surface": "answers",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#296#7",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#296",
+    "token_index": 7,
+    "sentence": "Thousands of people in Colorado are without power after a major snowstorm /.",
+    "surface": "power",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#1#27",
+    "sentence_id": "bc/cnn/00/cnn_0007#1",
+    "token_index": 27,
+    "sentence": "a conversation with Bob Woodward about the CIA leak investigation Judith Miller Karl Rove his long and tortured relationship with Deep Throat and trying to crack the secrecy surrounding the supreme court /.",
+    "surface": "secrecy",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#496#4",
+    "sentence_id": "bc/cnn/00/cnn_0006#496",
+    "token_index": 4,
+    "sentence": "Thank you very much Wolf /.",
+    "surface": "Wolf",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  }
+]

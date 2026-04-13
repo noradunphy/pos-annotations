@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0002#10#7", "gold_subclass": "eventive", "notes": "Went into lockdown: transition."},
+  {"example_id": "bc/msnbc/00/msnbc_0002#236#2", "gold_subclass": "eventive", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0001#198#4", "gold_subclass": "eventive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#505#2", "gold_subclass": "eventive", "notes": "Speech act said."},
+  {"example_id": "bc/msnbc/00/msnbc_0002#125#2", "gold_subclass": "eventive", "notes": "Request ask."},
+  {"example_id": "bc/cnn/00/cnn_0001#532#3", "gold_subclass": "stative", "notes": "Copula he is sorry."},
+  {"example_id": "bc/cnn/00/cnn_0005#356#10", "gold_subclass": "stative", "notes": "Are behind: support as enduring relation."},
+  {"example_id": "bc/cctv/00/cctv_0001#48#23", "gold_subclass": "stative", "notes": "Were scattered: distributed spatial state (resultant)."}
+]

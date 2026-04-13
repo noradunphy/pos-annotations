@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0004#379#20",
+    "sentence_id": "bc/cctv/00/cctv_0004#379",
+    "token_index": 20,
+    "sentence": "In addition , the US government is carrying out some measures and work against these people in the Middle East region and against the world peace .",
+    "surface": "region",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#186#14",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#186",
+    "token_index": 14,
+    "sentence": "After urging President Bush not to go through with this recess appointment the reaction today from Democrats was harsh /.",
+    "surface": "today",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#459#5",
+    "sentence_id": "bc/cnn/00/cnn_0004#459",
+    "token_index": 5,
+    "sentence": "Well we know he had something to do /.",
+    "surface": "something",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#293#4",
+    "sentence_id": "bc/cnn/00/cnn_0007#293",
+    "token_index": 4,
+    "sentence": "and that 's why Scott Armstrong and I did the book ah on the Supreme Court /.",
+    "surface": "Scott",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#219#2",
+    "sentence_id": "bc/cctv/00/cctv_0002#219",
+    "token_index": 2,
+    "sentence": "Ah , people may also frequently ask such a question that since it is the most important thing for a country to keep good relationship with its neighboring countries , why would Japan want to seek far and wide for what lies close at hand ?",
+    "surface": "people",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#468#23",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#468",
+    "token_index": 23,
+    "sentence": "Is there a danger that if lawsuits like this succeed that basically any time a uh public official uh acts in a particular way or does n't act that if something horrible happens later that person will be held civily responsible /?",
+    "surface": "way",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#153#0",
+    "sentence_id": "bc/cnn/00/cnn_0002#153",
+    "token_index": 0,
+    "sentence": "Virginia was one of the first southern states to go republican /.",
+    "surface": "Virginia",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#545#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#545",
+    "token_index": 0,
+    "sentence": "Tabs Rush /.",
+    "surface": "Tabs",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  }
+]

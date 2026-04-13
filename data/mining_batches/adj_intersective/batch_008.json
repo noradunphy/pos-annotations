@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0002#409#6",
+    "sentence_id": "bc/cnn/00/cnn_0002#409",
+    "token_index": 6,
+    "sentence": "I just was one of the first people to go there /.",
+    "surface": "first",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#468#10",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#468",
+    "token_index": 10,
+    "sentence": "Uh I think the story of this administration especially this second term is arrogance and abuse of power /.",
+    "surface": "second",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#211#3",
+    "sentence_id": "bc/cnn/00/cnn_0002#211",
+    "token_index": 3,
+    "sentence": "This is the new facility where uh Jansen Jones is going to be staying from now on /.",
+    "surface": "new",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#415#3",
+    "sentence_id": "bc/cnn/00/cnn_0003#415",
+    "token_index": 3,
+    "sentence": "Oh I 'm glad for you /.",
+    "surface": "glad",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#595#7",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#595",
+    "token_index": 7,
+    "sentence": "John McCain is a personal friend a great friend /.",
+    "surface": "great",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#315#17",
+    "sentence_id": "bc/cctv/00/cctv_0002#315",
+    "token_index": 17,
+    "sentence": "Well , we know , what all of us should be more concerned is his failure in international affairs .",
+    "surface": "international",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#84#88",
+    "sentence_id": "bc/cctv/00/cctv_0001#84",
+    "token_index": 88,
+    "sentence": "In order to coordinate with breakthrough battles at the Zhengtai Railway and the northern section of the Tongpu Railway , the 129th Division and the Shanxi - Chahar - Hebei Military District also ordered their units to deploy more than 50 regiments Yang to Lishi in cooperation with militias , to launch widespread sabotage and raids on the Pinghan , Pingsui , Beining , Baijin , Jinpu , and Deshi railway lines , among others , as well as some main roads and many strongholds occupied by the Japanese army .",
+    "surface": "Japanese",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#101#22",
+    "sentence_id": "bc/cctv/00/cctv_0001#101",
+    "token_index": 22,
+    "sentence": "To the enemy 's complete surprise , desolate Shi'nao Mountain had been turned into a strong combat fortress by our troops in less than a night .",
+    "surface": "less",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  }
+]

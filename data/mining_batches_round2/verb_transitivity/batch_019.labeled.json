@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0003#659#2", "gold_subclass": "transitive", "notes": "Takes infinitival complement"},
+  {"example_id": "bc/cnn/00/cnn_0003#7#1", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/msnbc/00/msnbc_0001#456#10", "gold_subclass": "intransitive", "notes": "Auxiliary in perfect passive: have been violated"},
+  {"example_id": "bc/cctv/00/cctv_0004#326#20", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/msnbc/00/msnbc_0003#75#1", "gold_subclass": "intransitive", "notes": "Auxiliary for negation"},
+  {"example_id": "bc/cnn/00/cnn_0006#36#1", "gold_subclass": "intransitive", "notes": "Modal auxiliary"},
+  {"example_id": "bc/msnbc/00/msnbc_0003#456#6", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/msnbc/00/msnbc_0003#129#3", "gold_subclass": "intransitive", "notes": "Existential construction"},
+  {"example_id": "bc/msnbc/00/msnbc_0004#460#9", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/cnn/00/cnn_0004#490#8", "gold_subclass": "transitive", "notes": "Takes clausal complement"}
+]

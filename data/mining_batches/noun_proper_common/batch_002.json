@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0002#287#15",
+    "sentence_id": "bc/cctv/00/cctv_0002#287",
+    "token_index": 15,
+    "sentence": "Well , to Japanese people , what they are more concerned with is , for example , how my economy is developing , how my life will be , whether the national interests will be damaged , whether my personal interests will be affected , and so on and so forth .",
+    "surface": "example",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#240#15",
+    "sentence_id": "bc/cctv/00/cctv_0004#240",
+    "token_index": 15,
+    "sentence": "Er , they themselves claim that it is a private TV station , but in reality it could not have been established without a large amount of financial support given by the government .",
+    "surface": "reality",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#171#4",
+    "sentence_id": "bc/cctv/00/cctv_0003#171",
+    "token_index": 4,
+    "sentence": "There should be economic cooperation before we can talk about the four northern islands issue , which means that currently the two sides both insist on a condition from the other side .",
+    "surface": "cooperation",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#172#14",
+    "sentence_id": "bc/cnn/00/cnn_0002#172",
+    "token_index": 14,
+    "sentence": "Still ahead on Three Sixty a family torn apart on whether to let their son die /.",
+    "surface": "son",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#425#5",
+    "sentence_id": "bc/cnn/00/cnn_0002#425",
+    "token_index": 5,
+    "sentence": "And these are kids whose parents were killed in the genocide /.",
+    "surface": "parents",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#49#37",
+    "sentence_id": "bc/cnn/00/cnn_0006#49",
+    "token_index": 37,
+    "sentence": "As you know that under the terms of uh the law you could extend this drafting of the constitution for six months beyond the August fifteenth deadline do you think that might be necessary beyond the thirty days /?",
+    "surface": "days",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#497#14",
+    "sentence_id": "bc/cnn/00/cnn_0006#497",
+    "token_index": 14,
+    "sentence": "And do n't forget our Web question of the week should religion play a role in Iraq 's new constitution /.",
+    "surface": "role",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#300#15",
+    "sentence_id": "bc/cctv/00/cctv_0004#300",
+    "token_index": 15,
+    "sentence": "In particular , it was the same with the , Iraq war , which took place in Iraq .",
+    "surface": "place",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  }
+]

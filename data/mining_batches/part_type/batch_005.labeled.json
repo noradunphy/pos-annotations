@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0001#50#6", "gold_subclass": "standard", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#317#10", "gold_subclass": "phrasal_verb_particle", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#324#2", "gold_subclass": "standard", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0003#357#21", "gold_subclass": "standard", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#314#6", "gold_subclass": "standard", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#187#22", "gold_subclass": "standard", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#406#3", "gold_subclass": "standard", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#409#5", "gold_subclass": "standard", "notes": ""}
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#469#22",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#469",
+    "token_index": 22,
+    "sentence": "Now ten years later goes into a local deli mart and tells the owner that she 's been held captive for the last ten years . Locked in a bedroom about two miles from her childhood home and only recently allowed out /.",
+    "surface": "last",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#151#23",
+    "sentence_id": "bc/cctv/00/cctv_0001#151",
+    "token_index": 23,
+    "sentence": "In this way , they fought the battle while at the same time destroying roads , stripping the entire 60 - li - long railway from Xingtai to Neiqiu within just a few days .",
+    "surface": "long",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#201#9",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#201",
+    "token_index": 9,
+    "sentence": "Um all right now that you know so much more have you heard anything from the authorities about uh if and when , they 're going to charge him in connection with this case /?",
+    "surface": "more",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#238#9",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#238",
+    "token_index": 9,
+    "sentence": "Sure but Kofi Annan look does n't have a whole lot of strength himself especially with critics here in the United States /.",
+    "surface": "whole",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#230#2",
+    "sentence_id": "bc/cnn/00/cnn_0005#230",
+    "token_index": 2,
+    "sentence": "The most recent CNN USA Today Gallup poll uh showed that the numbers have gone down to thirty nine percent favor the war in Iraq compared to seventy one percent shortly after major combat operations were over /.",
+    "surface": "recent",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#568#8",
+    "sentence_id": "bc/cnn/00/cnn_0002#568",
+    "token_index": 8,
+    "sentence": "It does not give you credible accurate timely inactionable intelligence /.",
+    "surface": "inactionable",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#155#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#155",
+    "token_index": 4,
+    "sentence": "Yeah and what 's wrong with that /?",
+    "surface": "wrong",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#123#3",
+    "sentence_id": "bc/cnn/00/cnn_0007#123",
+    "token_index": 3,
+    "sentence": "Was n't it dangerous /?",
+    "surface": "dangerous",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  }
+]

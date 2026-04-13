@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0004#536#5", "gold_subclass": "intransitive", "notes": "no overt object in this clause"},
+  {"example_id": "bc/cnn/00/cnn_0003#17#1", "gold_subclass": "intransitive", "notes": "do-support auxiliary"},
+  {"example_id": "bc/msnbc/00/msnbc_0002#14#10", "gold_subclass": "intransitive", "notes": "do-support auxiliary"},
+  {"example_id": "bc/cctv/00/cctv_0003#264#15", "gold_subclass": "transitive", "notes": "think [clause]"},
+  {"example_id": "bc/msnbc/00/msnbc_0001#352#5", "gold_subclass": "intransitive", "notes": "passive auxiliary was said"},
+  {"example_id": "bc/cnn/00/cnn_0003#521#10", "gold_subclass": "intransitive", "notes": "fixed noun phrase powers that be"},
+  {"example_id": "bc/msnbc/00/msnbc_0003#710#9", "gold_subclass": "transitive", "notes": "want to be loyal (non-finite clause complement)"},
+  {"example_id": "bc/cctv/00/cctv_0002#91#9", "gold_subclass": "transitive", "notes": "visiting Yasukuni Shrine"}
+]

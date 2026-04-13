@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0003#601#1", "gold_subclass": "articles", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#72#32", "gold_subclass": "demonstratives", "notes": "Sentence-initial relative WH-pronoun (Which was...), not a prenominal demonstrative."},
+  {"example_id": "bc/cnn/00/cnn_0005#60#0", "gold_subclass": "demonstratives", "notes": "Complementizer introducing clause (that 's to drive...), not a nominal determiner."},
+  {"example_id": "bc/cnn/00/cnn_0006#185#7", "gold_subclass": "articles", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#414#11", "gold_subclass": "numerals", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#453#5", "gold_subclass": "demonstratives", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#157#5", "gold_subclass": "demonstratives", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#474#3", "gold_subclass": "articles", "notes": ""}
+]

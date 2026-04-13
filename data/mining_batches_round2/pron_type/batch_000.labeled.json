@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0001#220#2", "gold_subclass": "indefinite", "notes": "Existential/expletive there; not listed as its own pron_type."},
+  {"example_id": "bc/msnbc/00/msnbc_0004#296#2", "gold_subclass": "possessive", "notes": "Possessive determiner before noun (his contradiction)."},
+  {"example_id": "bc/cnn/00/cnn_0006#126#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#460#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#197#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0007#222#5", "gold_subclass": "possessive", "notes": "Possessive determiner (his memory)."},
+  {"example_id": "bc/cnn/00/cnn_0006#474#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#324#12", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#489#3", "gold_subclass": "possessive", "notes": "Possessive determiner (our intention)."},
+  {"example_id": "bc/msnbc/00/msnbc_0002#318#0", "gold_subclass": "personal", "notes": ""}
+]

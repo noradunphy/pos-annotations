@@ -1,0 +1,12 @@
+.venv/
+.hf_cache/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+dist/
+data/interim/*.jsonl
+data/mined_examples/
+data/eval/runs/
+data/annotations/*.jsonl
+.env.local

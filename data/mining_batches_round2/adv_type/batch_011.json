@@ -1,0 +1,172 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#26#14",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#26",
+    "token_index": 14,
+    "sentence": "And so they 're going to stand by the guy they think who can really do that /.",
+    "surface": "really",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#293#11",
+    "sentence_id": "bc/cctv/00/cctv_0002#293",
+    "token_index": 11,
+    "sentence": "At the same time his power to form the cabinet was further strengthened .",
+    "surface": "further",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#97#18",
+    "sentence_id": "bc/cctv/00/cctv_0001#97",
+    "token_index": 18,
+    "sentence": "This is Shi'nao Mountain , situated in Yangquan , Shanxi , a strategic passage of the Zhengtai Railway back then .",
+    "surface": "back",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#267#2",
+    "sentence_id": "bc/cnn/00/cnn_0007#267",
+    "token_index": 2,
+    "sentence": "and ah kind of stupidly so /.",
+    "surface": "kind",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#164#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#164",
+    "token_index": 4,
+    "sentence": "Her father joins us next /.",
+    "surface": "next",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#674#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#674",
+    "token_index": 5,
+    "sentence": "I think the reality is much different /.",
+    "surface": "much",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#369#0",
+    "sentence_id": "bc/cnn/00/cnn_0002#369",
+    "token_index": 0,
+    "sentence": "Exactly right /.",
+    "surface": "Exactly",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#254#2",
+    "sentence_id": "bc/cctv/00/cctv_0003#254",
+    "token_index": 2,
+    "sentence": "Right , just about , eh .",
+    "surface": "just",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#179#1",
+    "sentence_id": "bc/cnn/00/cnn_0006#179",
+    "token_index": 1,
+    "sentence": "And later Egypt trying to recover from a deadly terrorist strike /.",
+    "surface": "later",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#425#3",
+    "sentence_id": "bc/cctv/00/cctv_0002#425",
+    "token_index": 3,
+    "sentence": "So , we still have to urge this Japanese government , ah , not to continue isolating itself like this .",
+    "surface": "still",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  }
+]

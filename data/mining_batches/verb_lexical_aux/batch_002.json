@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0007#189#5",
+    "sentence_id": "bc/cnn/00/cnn_0007#189",
+    "token_index": 5,
+    "sentence": "When we come back , was Mark Felt capable of informed consent in releasing his long held secret to the world /?",
+    "surface": "was",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#12#17",
+    "sentence_id": "bc/cnn/00/cnn_0004#12",
+    "token_index": 17,
+    "sentence": "It 's a safe bet that Sam Brownbeck is going to vote for him and Charles Schumer is going to vote against him /.",
+    "surface": "is",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#183#4",
+    "sentence_id": "bc/cctv/00/cctv_0004#183",
+    "token_index": 4,
+    "sentence": "When the Taliban regime announced that reporters from all countries were banned from entering the territory of Afghanistan , al - Jazeera TV station was the only one that could enter the Taliban - controlled area .",
+    "surface": "announced",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#146#32",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#146",
+    "token_index": 32,
+    "sentence": "Further a witness said he saw a van that matched the description of the one used by Littlejohn making a u-turn at about seven thirty PM at the place Imette 's body was found /.",
+    "surface": "was",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#265#9",
+    "sentence_id": "bc/cnn/00/cnn_0005#265",
+    "token_index": 9,
+    "sentence": "A judge is deciding whether police can continue to detain them in present /.",
+    "surface": "detain",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#434#7",
+    "sentence_id": "bc/cnn/00/cnn_0003#434",
+    "token_index": 7,
+    "sentence": "In the bipolar phase when the swing is high you must feel terrific /.",
+    "surface": "is",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#320#2",
+    "sentence_id": "bc/cctv/00/cctv_0004#320",
+    "token_index": 2,
+    "sentence": "Since it gained instant fame during the Afghan war , the style of al - Jazeera TV station in pursuit of the freedom of the press and independence has gradually won widespread international attention .",
+    "surface": "gained",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#368#45",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#368",
+    "token_index": 45,
+    "sentence": "She put two and two together heard eh different comments and conversations . And then all of a sudden spotted my son and this teacher in Ocala and then called me and uh asked if I knew my son was in Ocala which um you know it was a normal summer day . I thought he was at the rec center which is a place that he 's always been /.",
+    "surface": "know",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  }
+]

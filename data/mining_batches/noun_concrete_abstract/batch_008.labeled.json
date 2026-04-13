@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0001#399#15", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0001#29#10", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#217#11", "gold_subclass": "abstract", "notes": "legislative body as institution"},
+  {"example_id": "bc/cnn/00/cnn_0006#53#58", "gold_subclass": "abstract", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#5#9", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0004#330#13", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#29#9", "gold_subclass": "abstract", "notes": "metaphorical vote direction in idiom"},
+  {"example_id": "bc/cnn/00/cnn_0006#413#9", "gold_subclass": "concrete", "notes": "physical journey / flight"}
+]

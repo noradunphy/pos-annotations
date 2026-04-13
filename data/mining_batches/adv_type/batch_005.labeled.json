@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0006#187#8", "gold_subclass": "place", "notes": "Abstract locative where."},
+  {"example_id": "bc/cnn/00/cnn_0005#6#4", "gold_subclass": "sentence_discourse", "notes": "Additive linker also."},
+  {"example_id": "bc/cctv/00/cctv_0004#209#0", "gold_subclass": "sentence_discourse", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#20#2", "gold_subclass": "place", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#495#2", "gold_subclass": "manner", "notes": "Interrogative how (manner)."},
+  {"example_id": "bc/cnn/00/cnn_0006#202#2", "gold_subclass": "sentence_discourse", "notes": "Epistemic stance adverb."},
+  {"example_id": "bc/cctv/00/cctv_0001#119#0", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#378#7", "gold_subclass": "degree", "notes": ""}
+]

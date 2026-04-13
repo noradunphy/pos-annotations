@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0004#646#9", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#188#17", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#636#2", "gold_subclass": "predicative", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#523#8", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#407#24", "gold_subclass": "attributive", "notes": "Coordinated with 'tightest White House'; elliptical head (e.g. White House)."},
+  {"example_id": "bc/msnbc/00/msnbc_0002#377#1", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#275#5", "gold_subclass": "predicative", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#663#2", "gold_subclass": "predicative", "notes": ""}
+]

@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0006#345#0", "gold_subclass": "auxiliary", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#12#8", "gold_subclass": "auxiliary", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#603#21", "gold_subclass": "lexical", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#468#2", "gold_subclass": "lexical", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#614#3", "gold_subclass": "lexical", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#108#14", "gold_subclass": "auxiliary", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#15#2", "gold_subclass": "lexical", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#360#2", "gold_subclass": "lexical", "notes": ""}
+]

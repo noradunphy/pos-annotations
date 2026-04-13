@@ -1,0 +1,172 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0005#259#4",
+    "sentence_id": "bc/cnn/00/cnn_0005#259",
+    "token_index": 4,
+    "sentence": "We 'll be right back /.",
+    "surface": "back",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#344#16",
+    "sentence_id": "bc/cnn/00/cnn_0006#344",
+    "token_index": 16,
+    "sentence": "he would be Senator Kyl the first United States ambassador to the United Nations who did not get confirmation from the United States Senate /.",
+    "surface": "not",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#273#7",
+    "sentence_id": "bc/cnn/00/cnn_0003#273",
+    "token_index": 7,
+    "sentence": "and it can um go through cycles where you are in the manic stage then in the depressed stage for months on end /.",
+    "surface": "where",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#249#2",
+    "sentence_id": "bc/cnn/00/cnn_0002#249",
+    "token_index": 2,
+    "sentence": "I do n't agree with him at all /.",
+    "surface": "n't",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#571#10",
+    "sentence_id": "bc/cnn/00/cnn_0001#571",
+    "token_index": 10,
+    "sentence": "High in the Himalaya Mountains tragedy is ready to strike once again /.",
+    "surface": "once",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#305#17",
+    "sentence_id": "bc/cctv/00/cctv_0003#305",
+    "token_index": 17,
+    "sentence": "Now Russia says this was the result of WWII international laws and treaties , with the US also recognizing it at that time .",
+    "surface": "also",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#631#0",
+    "sentence_id": "bc/cnn/00/cnn_0002#631",
+    "token_index": 0,
+    "sentence": "right now you 're just being an apologist for torture /.",
+    "surface": "right",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#203#7",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#203",
+    "token_index": 7,
+    "sentence": "But political analysts say Washington is more bitterly divided now than it has been in years /.",
+    "surface": "bitterly",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#480#9",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#480",
+    "token_index": 9,
+    "sentence": "Well no at the end when his term is up /.",
+    "surface": "up",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#329#25",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#329",
+    "token_index": 25,
+    "sentence": "So um I have to tell you I 've just been mostly shocked that the judge really did not appear to consider my son um at all through this /.",
+    "surface": "at",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  }
+]

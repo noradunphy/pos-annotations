@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0001#88#35", "gold_subclass": "non-gradable", "notes": "Differentiating 'other places'; not scalar."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#443#10", "gold_subclass": "non-gradable", "notes": "Ordinal 'second term'."},
+  {"example_id": "bc/cnn/00/cnn_0006#326#12", "gold_subclass": "non-gradable", "notes": "Comparative determiner 'more work'; not a quality adjective in scalar sense."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#637#55", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#274#7", "gold_subclass": "non-gradable", "notes": "Ranking 'top democrat'; *more top odd."},
+  {"example_id": "bc/cnn/00/cnn_0002#53#13", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#439#24", "gold_subclass": "non-gradable", "notes": "Inside fixed collocation 'a little bit'; not freely degree-modified."},
+  {"example_id": "bc/cnn/00/cnn_0006#166#51", "gold_subclass": "gradable", "notes": ""}
+]

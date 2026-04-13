@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#516#16",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#516",
+    "token_index": 16,
+    "sentence": "uh I know that your position is that uh this woman was not forced uh to be there /.",
+    "surface": "be",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#425#12",
+    "sentence_id": "bc/cctv/00/cctv_0003#425",
+    "token_index": 12,
+    "sentence": "That is , although there are obstacles in bilateral relations , they are still exploring forward movement .",
+    "surface": "are",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#106#2",
+    "sentence_id": "bc/cnn/00/cnn_0002#106",
+    "token_index": 2,
+    "sentence": "Luke Woodham killed two students in Pearl Mississippi /.",
+    "surface": "killed",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#343#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#343",
+    "token_index": 5,
+    "sentence": "Well he obviously thinks he is a hall monitor /.",
+    "surface": "is",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#186#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#186",
+    "token_index": 4,
+    "sentence": "Um how are you holding up /?",
+    "surface": "holding",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#2#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#2",
+    "token_index": 5,
+    "sentence": "But officials said the force used in this arrest was not appropriate /.",
+    "surface": "used",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#174#26",
+    "sentence_id": "bc/cctv/00/cctv_0002#174",
+    "token_index": 26,
+    "sentence": "For instance , this time at the APEC meeting in Pusan , when he mentioned , er , Japan 's relations with China , he still used this kind of , that is to say , rhetoric , to defend himself .",
+    "surface": "used",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#433#4",
+    "sentence_id": "bc/cnn/00/cnn_0002#433",
+    "token_index": 4,
+    "sentence": "No they do n't want those divisions /.",
+    "surface": "want",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  }
+]

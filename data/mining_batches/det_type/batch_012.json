@@ -1,0 +1,66 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#143#32",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#143",
+    "token_index": 32,
+    "sentence": "I 'm not ready to say at this particular time until we are actually able to talk to the officers in depth about the actions if stress had anything to do with this situation /.",
+    "surface": "this",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#664#6",
+    "sentence_id": "bc/cnn/00/cnn_0002#664",
+    "token_index": 6,
+    "sentence": "Professor Yoo eh President Bush says the US does not torture /.",
+    "surface": "the",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#448#23",
+    "sentence_id": "bc/cnn/00/cnn_0004#448",
+    "token_index": 23,
+    "sentence": "I got to tell you when I um joined that group Cronkite Severide Kerald and so forth that was like being admitted to the mother church /.",
+    "surface": "the",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#483#4",
+    "sentence_id": "bc/cctv/00/cctv_0004#483",
+    "token_index": 4,
+    "sentence": "Bangkok , cloudy , 25 to 32 degrees .",
+    "surface": "25",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  }
+]

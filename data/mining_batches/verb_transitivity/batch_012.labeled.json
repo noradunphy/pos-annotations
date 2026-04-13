@@ -1,0 +1,6 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0002#349#11", "gold_subclass": "transitive", "notes": "following his visit (participial; object NP)"},
+  {"example_id": "bc/cnn/00/cnn_0003#121#19", "gold_subclass": "intransitive", "notes": "speak of what ... (prepositional complement)"},
+  {"example_id": "bc/msnbc/00/msnbc_0003#2#6", "gold_subclass": "intransitive", "notes": "modal can before do"},
+  {"example_id": "bc/msnbc/00/msnbc_0002#549#7", "gold_subclass": "transitive", "notes": "tell you (clausal content implied)"}
+]

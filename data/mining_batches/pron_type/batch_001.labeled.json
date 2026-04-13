@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0002#409#2", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#52#1", "gold_subclass": "personal", "notes": "Clitic in Let's (= let us); surface 's not a full pronoun token alone."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#578#26", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#562#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#59#7", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#476#7", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#289#16", "gold_subclass": "personal", "notes": "Dependent possessive their before noun; not standalone theirs."},
+  {"example_id": "bc/cnn/00/cnn_0005#1#0", "gold_subclass": "personal", "notes": ""}
+]

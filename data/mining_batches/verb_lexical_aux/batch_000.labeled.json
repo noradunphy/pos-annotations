@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0003#494#6", "gold_subclass": "lexical", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#151#2", "gold_subclass": "auxiliary", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0003#374#5", "gold_subclass": "lexical", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#59#3", "gold_subclass": "auxiliary", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#483#4", "gold_subclass": "lexical", "notes": "going-to future; not finite modal or primary be/do/have per prompt rule"},
+  {"example_id": "bc/msnbc/00/msnbc_0004#62#3", "gold_subclass": "lexical", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0007#297#3", "gold_subclass": "lexical", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0003#318#0", "gold_subclass": "lexical", "notes": ""}
+]

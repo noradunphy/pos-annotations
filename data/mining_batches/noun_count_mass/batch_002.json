@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#169#19",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#169",
+    "token_index": 19,
+    "sentence": "I 'd like to change it because I do n't think the US can be the world 's sole peacekeeper and world 's sole humanitarian providers /.",
+    "surface": "peacekeeper",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#457#1",
+    "sentence_id": "bc/cnn/00/cnn_0005#457",
+    "token_index": 1,
+    "sentence": "The ex-prime minister Mr. uh gave me his votes as well /.",
+    "surface": "ex-prime",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#471#12",
+    "sentence_id": "bc/cctv/00/cctv_0004#471",
+    "token_index": 12,
+    "sentence": "All right , next let 's take a look at the city weather forecasts .",
+    "surface": "weather",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#369#4",
+    "sentence_id": "bc/cctv/00/cctv_0004#369",
+    "token_index": 4,
+    "sentence": "-- In the Middle East region , in particular , currently , , some US officials , for instance , many Democrat officials , they admitted that the US policies on Iraq and the Middle East , eh , region have many mistakes .",
+    "surface": "East",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#30#1",
+    "sentence_id": "bc/cnn/00/cnn_0001#30",
+    "token_index": 1,
+    "sentence": "A city brimming with hope in some places devoid of it in others /.",
+    "surface": "city",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#389#36",
+    "sentence_id": "bc/cnn/00/cnn_0001#389",
+    "token_index": 36,
+    "sentence": "While Democrats still hold out the possibility of a filibuster the competing need to please the base and reach to the center makes it hard to find consensus all of which could bode well for Sam Alito who may get by with a little help from his friends /.",
+    "surface": "Alito",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#427#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#427",
+    "token_index": 5,
+    "sentence": "If you 've got any information on his uh whereabouts please contact the New Mexico Department of Public Safety five oh five eight two seven nine two nine seven /.",
+    "surface": "information",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#190#21",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#190",
+    "token_index": 21,
+    "sentence": "we have alternate theories here where it sounds like they 're not even a hundred percent certain they can prove the rape /.",
+    "surface": "rape",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  }
+]

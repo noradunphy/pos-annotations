@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#110#8",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#110",
+    "token_index": 8,
+    "sentence": "They talked about issues that were uh more important and more local to them /.",
+    "surface": "important",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#321#15",
+    "sentence_id": "bc/cctv/00/cctv_0003#321",
+    "token_index": 15,
+    "sentence": "The ownership of these four islands has long been a dead knot in Russian - Japanese relations that has been difficult to untie .",
+    "surface": "Japanese",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#17#23",
+    "sentence_id": "bc/cctv/00/cctv_0002#17",
+    "token_index": 23,
+    "sentence": "Prior to the APEC meeting , Japanese Prime Minister Junichiro Koizumi visited Yasukuni Shrine for the fifth time and was strongly condemned by Asian nations such as China and South Korea .",
+    "surface": "Asian",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#346#17",
+    "sentence_id": "bc/cctv/00/cctv_0003#346",
+    "token_index": 17,
+    "sentence": "Well , now that its economy has greatly improved , Russia does not need to take this diplomatic risk .",
+    "surface": "diplomatic",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#12#38",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#12",
+    "token_index": 38,
+    "sentence": "I really think that that is a big part of this that the president uh yes he may be ruffling feathers here but to deal with the United Nations the president wants to do it in a pretty hardline way /.",
+    "surface": "hardline",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#188#10",
+    "sentence_id": "bc/cnn/00/cnn_0002#188",
+    "token_index": 10,
+    "sentence": "Australian authorities say they prevented a terrorist attack through their undercover work /.",
+    "surface": "undercover",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#229#21",
+    "sentence_id": "bc/cctv/00/cctv_0003#229",
+    "token_index": 21,
+    "sentence": "Putin 's current strategy is to build a powerful nation , a strategy for making his country powerful and his people rich .",
+    "surface": "rich",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#172#0",
+    "sentence_id": "bc/cnn/00/cnn_0006#172",
+    "token_index": 0,
+    "sentence": "good luck to you /.",
+    "surface": "good",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0006#280#10",
+    "sentence_id": "bc/cnn/00/cnn_0006#280",
+    "token_index": 10,
+    "sentence": "Should there though be an element of that kind of profiling in dealing with these issues Senator Kyl /?",
+    "surface": "profiling",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#177#6",
+    "sentence_id": "bc/cnn/00/cnn_0003#177",
+    "token_index": 6,
+    "sentence": "there was no one in my life at that point saying hey you need help /.",
+    "surface": "life",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#310#11",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#310",
+    "token_index": 11,
+    "sentence": "Now remember a judge in a neighboring county said quote that plea deal shocks the conscience of the court /.",
+    "surface": "plea",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#432#7",
+    "sentence_id": "bc/cnn/00/cnn_0006#432",
+    "token_index": 7,
+    "sentence": "We have maintained the emergency uh rescue vehicle on stand by /.",
+    "surface": "vehicle",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#104#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#104",
+    "token_index": 5,
+    "sentence": "And that 's for Matt Moppin the only missing soldier in Iraq /.",
+    "surface": "Moppin",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#240#6",
+    "sentence_id": "bc/cnn/00/cnn_0002#240",
+    "token_index": 6,
+    "sentence": "She tells us she made the decision based on her Christianity her faith /.",
+    "surface": "decision",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#407#2",
+    "sentence_id": "bc/cnn/00/cnn_0001#407",
+    "token_index": 2,
+    "sentence": "Stanley Tookie Williams co-founded the Crips street gang /.",
+    "surface": "Williams",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#40#16",
+    "sentence_id": "bc/cctv/00/cctv_0001#40",
+    "token_index": 16,
+    "sentence": "It was to break through the Japanese army 's siege policy against base areas behind enemy lines , and to avert the crisis of China 's compromise and surrender .",
+    "surface": "lines",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  }
+]

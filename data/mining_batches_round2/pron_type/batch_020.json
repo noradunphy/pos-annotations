@@ -1,0 +1,182 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0004#185#22",
+    "sentence_id": "bc/cnn/00/cnn_0004#185",
+    "token_index": 22,
+    "sentence": "You do know by the way on the subject of Roe and Wade and so forth that his mother said Oh no he 's definitely against abortion /.",
+    "surface": "he",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#472#0",
+    "sentence_id": "bc/cnn/00/cnn_0002#472",
+    "token_index": 0,
+    "sentence": "We 're going to have the latest on this developing story /.",
+    "surface": "We",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#143#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#143",
+    "token_index": 1,
+    "sentence": "So they do n't represent any change but the change of being from the outside to the inside /.",
+    "surface": "they",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#195#0",
+    "sentence_id": "bc/cctv/00/cctv_0004#195",
+    "token_index": 0,
+    "sentence": "There were n't many people at the time .",
+    "surface": "There",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#39#1",
+    "sentence_id": "bc/cnn/00/cnn_0007#39",
+    "token_index": 1,
+    "sentence": "So you know I agree with the editor of the New York Times that ah this is not a perfect case Judy Miller /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#599#1",
+    "sentence_id": "bc/cnn/00/cnn_0004#599",
+    "token_index": 1,
+    "sentence": "And we have a minute and a half left /.",
+    "surface": "we",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#389#23",
+    "sentence_id": "bc/cnn/00/cnn_0001#389",
+    "token_index": 23,
+    "sentence": "While Democrats still hold out the possibility of a filibuster the competing need to please the base and reach to the center makes it hard to find consensus all of which could bode well for Sam Alito who may get by with a little help from his friends /.",
+    "surface": "it",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#285#7",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#285",
+    "token_index": 7,
+    "sentence": "I do not know how to say it any more clearly than that /.",
+    "surface": "it",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#663#3",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#663",
+    "token_index": 3,
+    "sentence": "They are doing their dead level best to make this policy that the Bush administration has put forth work /.",
+    "surface": "their",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#100#15",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#100",
+    "token_index": 15,
+    "sentence": "They 're talking about having tax cuts that are permanent because they want to spend their own money they do n't want government to /.",
+    "surface": "their",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  }
+]

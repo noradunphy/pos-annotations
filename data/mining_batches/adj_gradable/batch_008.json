@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0004#84#6",
+    "sentence_id": "bc/cnn/00/cnn_0004#84",
+    "token_index": 6,
+    "sentence": "it ought to happen in a dignified way /.",
+    "surface": "dignified",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#411#7",
+    "sentence_id": "bc/cctv/00/cctv_0002#411",
+    "token_index": 7,
+    "sentence": "But , can his diplomacy featuring two separate political and economic lines work ?",
+    "surface": "separate",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#73#3",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#73",
+    "token_index": 3,
+    "sentence": "He heard two new pieces of forensic evidence today /.",
+    "surface": "new",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#650#24",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#650",
+    "token_index": 24,
+    "sentence": "I mean because the Afghan constitution article two point two says followers of other religions are free to exercise their faith and perform their religious rights within the limits of the provisions of law /.",
+    "surface": "religious",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#249#3",
+    "sentence_id": "bc/cnn/00/cnn_0001#249",
+    "token_index": 3,
+    "sentence": "There are so many parts to it /.",
+    "surface": "many",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#250#9",
+    "sentence_id": "bc/cnn/00/cnn_0001#250",
+    "token_index": 9,
+    "sentence": "So tonight CNN 's Dan Simon shows us a different angle a new divide forming in the Big Easy /.",
+    "surface": "different",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#117#3",
+    "sentence_id": "bc/cnn/00/cnn_0001#117",
+    "token_index": 3,
+    "sentence": "this is a private company /.",
+    "surface": "private",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#666#12",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#666",
+    "token_index": 12,
+    "sentence": "And in the final negotiations they actually made the document even more Islamic and made the judiciary even more powerful um than what the original draft has done /.",
+    "surface": "Islamic",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  }
+]

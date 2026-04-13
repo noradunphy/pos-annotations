@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0001#366#17", "gold_subclass": "transitive", "notes": "say we need ... (clausal complement)"},
+  {"example_id": "bc/cnn/00/cnn_0001#10#3", "gold_subclass": "transitive", "notes": "take a year"},
+  {"example_id": "bc/msnbc/00/msnbc_0003#662#2", "gold_subclass": "transitive", "notes": "making peace"},
+  {"example_id": "bc/cnn/00/cnn_0003#324#3", "gold_subclass": "intransitive", "notes": "copular/expletive it 's"},
+  {"example_id": "bc/cnn/00/cnn_0001#368#3", "gold_subclass": "intransitive", "notes": "look at takes prepositional object only"},
+  {"example_id": "bc/cnn/00/cnn_0003#381#3", "gold_subclass": "transitive", "notes": "think [clause]"},
+  {"example_id": "bc/cnn/00/cnn_0003#341#5", "gold_subclass": "intransitive", "notes": "discourse particle you know"},
+  {"example_id": "bc/cctv/00/cctv_0002#151#6", "gold_subclass": "intransitive", "notes": "fail to-infinitive (no NP direct object)"}
+]

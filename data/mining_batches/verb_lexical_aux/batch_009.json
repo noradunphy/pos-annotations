@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0001#211#16",
+    "sentence_id": "bc/cctv/00/cctv_0001#211",
+    "token_index": 16,
+    "sentence": "In addition , the Hundred Regiments Offensive was a response to the European battlefield , while enhancing the international reputation of the CPC and the Eighth Route Army .",
+    "surface": "enhancing",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#437#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#437",
+    "token_index": 4,
+    "sentence": "The popular minister was found shot to death in his bedroom on Wednesday /.",
+    "surface": "found",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#633#1",
+    "sentence_id": "bc/cnn/00/cnn_0002#633",
+    "token_index": 1,
+    "sentence": "stop throwing around words like that /.",
+    "surface": "throwing",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#162#42",
+    "sentence_id": "bc/cnn/00/cnn_0002#162",
+    "token_index": 42,
+    "sentence": "and to follow up on the point Jeff just made about perhaps not overstating the impact for the president I think one of the things we will watch closely tonight is that some of the polls are showing that the American people are a bit testy shall we say um not patient anymore with all of the politicians /.",
+    "surface": "are",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#312#4",
+    "sentence_id": "bc/cnn/00/cnn_0005#312",
+    "token_index": 4,
+    "sentence": "Uh you probably can see that uh for your self /.",
+    "surface": "see",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#487#9",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#487",
+    "token_index": 9,
+    "sentence": "So why did it take her so long to come forward /?",
+    "surface": "come",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#639#7",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#639",
+    "token_index": 7,
+    "sentence": "Uh how do you do it to find out whether we 're actually winning the uh war over there /.",
+    "surface": "find",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#182#1",
+    "sentence_id": "bc/cnn/00/cnn_0003#182",
+    "token_index": 1,
+    "sentence": "Someone said once when you 're really depressed good news and bad news are the same news /.",
+    "surface": "said",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  }
+]

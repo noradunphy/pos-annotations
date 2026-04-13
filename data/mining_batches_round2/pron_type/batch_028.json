@@ -1,0 +1,182 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0001#664#5",
+    "sentence_id": "bc/cnn/00/cnn_0001#664",
+    "token_index": 5,
+    "sentence": "That 's why she as you 'll see is now on the rise /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#46#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#46",
+    "token_index": 4,
+    "sentence": "the bottom line is you 're forgetting there 's a conference on UN reform major conference September fourteenth through the sixteenth /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#219#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#219",
+    "token_index": 1,
+    "sentence": "Uh they sort of get um uh a feel for what uh recreation 's like /.",
+    "surface": "they",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#156#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#156",
+    "token_index": 4,
+    "sentence": "But does it bother me /?",
+    "surface": "me",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#114#14",
+    "sentence_id": "bc/cctv/00/cctv_0001#114",
+    "token_index": 14,
+    "sentence": "They simply crawled on the ground and wetted handkerchiefs in the rain to cover their noses against the poison .",
+    "surface": "their",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#302#5",
+    "sentence_id": "bc/cnn/00/cnn_0003#302",
+    "token_index": 5,
+    "sentence": "I like to say about myself and most of my life that it was all about me and it was still loud and crowded /.",
+    "surface": "myself",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#388#5",
+    "sentence_id": "bc/cnn/00/cnn_0002#388",
+    "token_index": 5,
+    "sentence": "Well well the similarities are it 's a family structure /.",
+    "surface": "it",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#118#8",
+    "sentence_id": "bc/cctv/00/cctv_0001#118",
+    "token_index": 8,
+    "sentence": "With bombs exploding next to the trenches , they showed no fear at all .",
+    "surface": "they",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#434#0",
+    "sentence_id": "bc/cnn/00/cnn_0001#434",
+    "token_index": 0,
+    "sentence": "You would be telling gang members or those wannabe gang members do n't care how you turn your life around /.",
+    "surface": "You",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#234#2",
+    "sentence_id": "bc/cnn/00/cnn_0007#234",
+    "token_index": 2,
+    "sentence": "I mean he saw it /.",
+    "surface": "he",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  }
+]

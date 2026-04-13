@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#627#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#627",
+    "token_index": 1,
+    "sentence": "More troops /.",
+    "surface": "troops",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#279#15",
+    "sentence_id": "bc/cnn/00/cnn_0005#279",
+    "token_index": 15,
+    "sentence": "As far as dealing with the insurgency in Iraq there are twenty six point two miles in a marathon /.",
+    "surface": "miles",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#697#28",
+    "sentence_id": "bc/cnn/00/cnn_0002#697",
+    "token_index": 28,
+    "sentence": "CNN projecting that Tim Kaine now the lieutenant governor will be the next governor of Virginia winning quite handily fifty - two to forty - six percent over republican Jerry Kilgore /.",
+    "surface": "republican",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#597#0",
+    "sentence_id": "bc/cnn/00/cnn_0003#597",
+    "token_index": 0,
+    "sentence": "University of Medicine and Dentistry in New Jersey is in Piscataway New Jersey piscataway Piscataway New Jersey /.",
+    "surface": "University",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#66#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#66",
+    "token_index": 1,
+    "sentence": "Victoria Habathee is a psychologist who 's been counseling law enforcement for the past twenty years /.",
+    "surface": "Habathee",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#118#0",
+    "sentence_id": "bc/cctv/00/cctv_0003#118",
+    "token_index": 0,
+    "sentence": "Japan 's recent reaction is not Japan 's mainstream domestic opinion .",
+    "surface": "Japan",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#330#3",
+    "sentence_id": "bc/cnn/00/cnn_0006#330",
+    "token_index": 3,
+    "sentence": "those are the headlines /. /.",
+    "surface": "headlines",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#192#4",
+    "sentence_id": "bc/cnn/00/cnn_0002#192",
+    "token_index": 4,
+    "sentence": "Three hundred forty million smackers /.",
+    "surface": "smackers",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  }
+]

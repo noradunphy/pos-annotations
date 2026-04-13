@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0004#475#3",
+    "sentence_id": "bc/cctv/00/cctv_0004#475",
+    "token_index": 3,
+    "sentence": "Xi'an , mostly cloudy changing to overcast , to 9 degrees .",
+    "surface": "cloudy",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#37#3",
+    "sentence_id": "bc/cnn/00/cnn_0003#37",
+    "token_index": 3,
+    "sentence": "But he had extreme mood swings and died in a car crash when I was five /.",
+    "surface": "extreme",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#151#8",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#151",
+    "token_index": 8,
+    "sentence": "Joining us now former prosecutor Gail Abramson and criminal defense attorney uh Janna Spillbore /.",
+    "surface": "criminal",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#51#7",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#51",
+    "token_index": 7,
+    "sentence": "and the president I believe did the right thing /.",
+    "surface": "right",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#133#21",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#133",
+    "token_index": 21,
+    "sentence": "In my mind I compare to some of the federal agents who were uh injured or involved in Hurricane Andrew a few years ago /.",
+    "surface": "few",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#183#6",
+    "sentence_id": "bc/cctv/00/cctv_0002#183",
+    "token_index": 6,
+    "sentence": "He is only indulging in his unilateral wishful thinking .",
+    "surface": "unilateral",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#255#7",
+    "sentence_id": "bc/cnn/00/cnn_0005#255",
+    "token_index": 7,
+    "sentence": "And up next we 'll get a quick check of what 's in the news right now /.",
+    "surface": "quick",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#492#4",
+    "sentence_id": "bc/cnn/00/cnn_0003#492",
+    "token_index": 4,
+    "sentence": "I had training in mental health and also worked in drugs and alcohol in a women 's prison and found that there are so many women in prison who have that same problem in terms of bipolar and were self medicating and they 're in prison for a great amount of time and when they are released then they go off the medication if they are on it /.",
+    "surface": "mental",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  }
+]

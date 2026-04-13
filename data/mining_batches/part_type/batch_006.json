@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0002#245#4",
+    "sentence_id": "bc/cctv/00/cctv_0002#245",
+    "token_index": 4,
+    "sentence": "However , it turns out to be exactly the opposite .",
+    "surface": "out",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#381#7",
+    "sentence_id": "bc/cnn/00/cnn_0001#381",
+    "token_index": 7,
+    "sentence": "The party 's base support liberal women 's groups civil rights groups environmental groups the footsoldiers that raise money knock on doors and vote come rain or shine want to fight over Alito /.",
+    "surface": "'s",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#30#10",
+    "sentence_id": "bc/cctv/00/cctv_0001#30",
+    "token_index": 10,
+    "sentence": "Before the Hundred Regiments Offensive in 1940 , an inclination to compromise , ah , surrender , was an extremely serious crisis in the frontline situation in China .",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#106#2",
+    "sentence_id": "bc/cnn/00/cnn_0004#106",
+    "token_index": 2,
+    "sentence": "He appears to be quite genial /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#167#8",
+    "sentence_id": "bc/cnn/00/cnn_0005#167",
+    "token_index": 8,
+    "sentence": "Uh we will look for opportunities to find out how to bring the Sunni Arab community into the political fold /.",
+    "surface": "out",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#107#13",
+    "sentence_id": "bc/cctv/00/cctv_0001#107",
+    "token_index": 13,
+    "sentence": "Yeah , the roads had been cut off , with its vehicles unable to drive back and forth .",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#180#10",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#180",
+    "token_index": 10,
+    "sentence": "And I think to try to undercut that resolve and to second - guess the Commander in Chief is a mistake /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#489#5",
+    "sentence_id": "bc/cnn/00/cnn_0006#489",
+    "token_index": 5,
+    "sentence": "Uh it 's our intention to get to the bottom of this and fix it in a very rapid manner /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  }
+]

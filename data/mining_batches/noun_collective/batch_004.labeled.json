@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0004#36#33", "gold_subclass": "non-collective", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#175#15", "gold_subclass": "collective", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#55#4", "gold_subclass": "non-collective", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#74#1", "gold_subclass": "non-collective", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#434#6", "gold_subclass": "non-collective", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0001#48#27", "gold_subclass": "non-collective", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#124#10", "gold_subclass": "non-collective", "notes": "surface is fragment of proper name New Jersey; not a collective-noun reading"},
+  {"example_id": "bc/cnn/00/cnn_0006#190#15", "gold_subclass": "non-collective", "notes": ""}
+]

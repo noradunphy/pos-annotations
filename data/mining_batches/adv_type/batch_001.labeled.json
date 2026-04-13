@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0002#239#4", "gold_subclass": "sentence_discourse", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#303#6", "gold_subclass": "degree", "notes": "Negation ( n't )."},
+  {"example_id": "bc/cnn/00/cnn_0006#482#3", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0007#171#2", "gold_subclass": "degree", "notes": "Negation ( n't )."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#351#10", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#387#23", "gold_subclass": "manner", "notes": "Interrogative how (means/manner) in embedded clause."},
+  {"example_id": "bc/cctv/00/cctv_0003#260#7", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#407#12", "gold_subclass": "degree", "notes": "Extent in fixed as far as … is concerned."}
+]

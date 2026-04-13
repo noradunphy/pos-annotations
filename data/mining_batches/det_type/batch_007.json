@@ -1,0 +1,130 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#423#8",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#423",
+    "token_index": 8,
+    "sentence": "April fifth voluntarily goes to court after receiving a summons /.",
+    "surface": "a",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#547#14",
+    "sentence_id": "bc/cnn/00/cnn_0001#547",
+    "token_index": 14,
+    "sentence": "I also pray that your suffering caused by gang violence will soon come to an end as more gang members wake up and stop hurting themselves and others /.",
+    "surface": "an",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#368#11",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#368",
+    "token_index": 11,
+    "sentence": "but anyone who 's now claiming that they expect to get the answers from Miers in the confirmation hearing , that 's going to somehow uh assure them one way or the other are just grandstanding because they know they 're not going to get it /.",
+    "surface": "the",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#19#5",
+    "sentence_id": "bc/cnn/00/cnn_0002#19",
+    "token_index": 5,
+    "sentence": "In fact when I asked the sheriff exactly how many people were here he said he could n't really tell me that it 's just that he gave me the county at large but there were thirteen hundred students here at the school /.",
+    "surface": "the",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#83#27",
+    "sentence_id": "bc/cnn/00/cnn_0006#83",
+    "token_index": 27,
+    "sentence": "So we believe that the multinational forces are ready to leave some of these cities some of the provinces and we take over uh the responsibility of the security of these uh provinces regions and large cities /.",
+    "surface": "the",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#291#18",
+    "sentence_id": "bc/cctv/00/cctv_0002#291",
+    "token_index": 18,
+    "sentence": "Well , I think , actually , as far as Japan itself is concerned , it still made some mistakes by itself .",
+    "surface": "some",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#627#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#627",
+    "token_index": 5,
+    "sentence": "It 's deeply troubling that a country we helped liberate Would hold a person to account because they chose a particular religion over another /.",
+    "surface": "a",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#61#9",
+    "sentence_id": "bc/cnn/00/cnn_0004#61",
+    "token_index": 9,
+    "sentence": "I had a lot of questions about Harriet Myers a lot more about /.",
+    "surface": "a",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  }
+]

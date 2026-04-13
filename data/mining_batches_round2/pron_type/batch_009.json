@@ -1,0 +1,182 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0004#394#2",
+    "sentence_id": "bc/cnn/00/cnn_0004#394",
+    "token_index": 2,
+    "sentence": "uh reminds me from time to time /.",
+    "surface": "me",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#89#4",
+    "sentence_id": "bc/cnn/00/cnn_0005#89",
+    "token_index": 4,
+    "sentence": "People seem to think we 're fighting against Iraqis /.",
+    "surface": "we",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#277#1",
+    "sentence_id": "bc/cnn/00/cnn_0004#277",
+    "token_index": 1,
+    "sentence": "No I have n't seen it /.",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#347#12",
+    "sentence_id": "bc/cnn/00/cnn_0006#347",
+    "token_index": 12,
+    "sentence": "but uh under the circumstances everybody at the UN will know that he 's the President 's man /.",
+    "surface": "he",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#577#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#577",
+    "token_index": 0,
+    "sentence": "I ca n't think of a red state that is threatened /.",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#33#26",
+    "sentence_id": "bc/cnn/00/cnn_0002#33",
+    "token_index": 26,
+    "sentence": "Uh it 's going to be a long night and a long couple of days as we 're trying to piece together uh the information exactly what occured in those terrible moments before the shooting /.",
+    "surface": "what",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#529#3",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#529",
+    "token_index": 3,
+    "sentence": "I 'll say it again /.",
+    "surface": "it",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#198#1",
+    "sentence_id": "bc/cnn/00/cnn_0003#198",
+    "token_index": 1,
+    "sentence": "so it would be waiting for him when he came home at night /.",
+    "surface": "it",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#741#7",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#741",
+    "token_index": 7,
+    "sentence": "You know the ones how they wish she had been their teacher et cetera how hot she is yada yada /.",
+    "surface": "she",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#273#2",
+    "sentence_id": "bc/cctv/00/cctv_0002#273",
+    "token_index": 2,
+    "sentence": "Well , we know that among major Japanese newspapers , that is , the most dominant newspapers expressing popular opinions , ranging from Asahi Shimbun to Tokyo Shimbun , etc , well , recently , even Yomiuri Simbun , which originally expressed support for Koizumi 's right - wing tendencies , has started to change sides .",
+    "surface": "we",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  }
+]

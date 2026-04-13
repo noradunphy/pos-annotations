@@ -1,0 +1,152 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0003#308#12",
+    "sentence_id": "bc/cctv/00/cctv_0003#308",
+    "token_index": 12,
+    "sentence": "Both the Yalta Agreement and Article 2 of the San Francisco Treaty recognize Japan 's relinquishment of the Kuril Islands .",
+    "surface": "recognize",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#712#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#712",
+    "token_index": 1,
+    "sentence": "someone comes in and looks at the thermostat to check and then goes down and says to the manager we said sixty eight degrees /.",
+    "surface": "comes",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#57#7",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#57",
+    "token_index": 7,
+    "sentence": "it 's a very wonderful place to work /.",
+    "surface": "work",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#105#10",
+    "sentence_id": "bc/cnn/00/cnn_0002#105",
+    "token_index": 10,
+    "sentence": "According to the FBI all of the shooters may have felt the desire to defend narcissitic views of themselves and had very low self - esteem /.",
+    "surface": "felt",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#436#6",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#436",
+    "token_index": 6,
+    "sentence": "Uh and if we were to telegraph that it would only be encouragement /.",
+    "surface": "telegraph",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#133#8",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#133",
+    "token_index": 8,
+    "sentence": "That 's why the president is going to be speaking there /.",
+    "surface": "be",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#104#8",
+    "sentence_id": "bc/cctv/00/cctv_0001#104",
+    "token_index": 8,
+    "sentence": "It did not know how many of us went to destroy the roads , whether it was the Eighth Route Army or not , the regulars , or others .",
+    "surface": "went",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#336#23",
+    "sentence_id": "bc/cnn/00/cnn_0002#336",
+    "token_index": 23,
+    "sentence": "but Jack Hannah says that there is a sense of healing and as in the mighty steps of elephants there are small steps being made towards recovery /.",
+    "surface": "being",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#114#2",
+    "sentence_id": "bc/cctv/00/cctv_0001#114",
+    "token_index": 2,
+    "sentence": "They simply crawled on the ground and wetted handkerchiefs in the rain to cover their noses against the poison .",
+    "surface": "crawled",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#274#5",
+    "sentence_id": "bc/cnn/00/cnn_0002#274",
+    "token_index": 5,
+    "sentence": "The Schindlers ' book will share their struggle to keep Terri alive a story they 've been through speeches and public statements /.",
+    "surface": "share",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  }
+]

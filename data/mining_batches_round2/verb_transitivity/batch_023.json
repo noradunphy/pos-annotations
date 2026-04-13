@@ -1,0 +1,152 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#108#31",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#108",
+    "token_index": 31,
+    "sentence": "So your listeners understand there 's not a single thing that John Bolton said during that entire process that was not vetted , that was not cleared and that was not approved /.",
+    "surface": "approved",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#261#32",
+    "sentence_id": "bc/cnn/00/cnn_0006#261",
+    "token_index": 32,
+    "sentence": "Yet Senator Lieberman there are still widespread reports that the US does n't have enough human assets spies that are penetrating some of these cells some of these al Qaeda related organizations does n't have enough native speakers in Arabic or other languages part of these groups /.",
+    "surface": "does",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#527#12",
+    "sentence_id": "bc/cnn/00/cnn_0001#527",
+    "token_index": 12,
+    "sentence": "That 's what it 's called because when someone like Williams can do all of these things /-",
+    "surface": "do",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#345#22",
+    "sentence_id": "bc/cnn/00/cnn_0002#345",
+    "token_index": 22,
+    "sentence": "and of course when he went in the musk I guess he tipped over a jeep or two and you got to be careful when that happens /.",
+    "surface": "be",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#102#16",
+    "sentence_id": "bc/cctv/00/cctv_0001#102",
+    "token_index": 16,
+    "sentence": "Like a lion with its mouth wide open , towering and rugged Shi'nao Mountain was constantly waiting for any invaders who dared come close .",
+    "surface": "waiting",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#401#1",
+    "sentence_id": "bc/cnn/00/cnn_0003#401",
+    "token_index": 1,
+    "sentence": "but imagine being a newlywed and having a wife that just disappears in the bedroom reading science fiction fantasy novels for a year /.",
+    "surface": "imagine",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#430#8",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#430",
+    "token_index": 8,
+    "sentence": "My regular viewers know how angry this case made me /.",
+    "surface": "made",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#504#1",
+    "sentence_id": "bc/cnn/00/cnn_0003#504",
+    "token_index": 1,
+    "sentence": "You used alcohol /.",
+    "surface": "used",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#752#3",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#752",
+    "token_index": 3,
+    "sentence": "Your guests were talking about the double standard between male and female sex offenders /.",
+    "surface": "talking",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#594#1",
+    "sentence_id": "bc/cnn/00/cnn_0002#594",
+    "token_index": 1,
+    "sentence": "We asked a couple law professors earlier this evening to discuss the issue with us /.",
+    "surface": "asked",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  }
+]

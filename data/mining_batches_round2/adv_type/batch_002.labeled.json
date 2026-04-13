@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0002#168#3", "gold_subclass": "manner", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#478#2", "gold_subclass": "degree", "notes": "\"just\" = merely, focusing adverb"},
+  {"example_id": "bc/cnn/00/cnn_0002#30#18", "gold_subclass": "place", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#214#2", "gold_subclass": "frequency", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#252#10", "gold_subclass": "sentence_discourse", "notes": "part of discourse marker \"that is\"; tagging anomaly—\"is\" is not typically an adverb"},
+  {"example_id": "bc/cnn/00/cnn_0003#440#0", "gold_subclass": "degree", "notes": "part of idiom \"all of a sudden\""},
+  {"example_id": "bc/cnn/00/cnn_0003#181#12", "gold_subclass": "degree", "notes": "\"just\" = merely/only"},
+  {"example_id": "bc/cctv/00/cctv_0004#32#0", "gold_subclass": "sentence_discourse", "notes": "discourse-ordering adverb"},
+  {"example_id": "bc/msnbc/00/msnbc_0001#464#11", "gold_subclass": "place", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#208#2", "gold_subclass": "place", "notes": ""}
+]

@@ -1,0 +1,6 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0002#46#5", "gold_subclass": "count", "notes": "Named time unit (one Friday)."},
+  {"example_id": "bc/cnn/00/cnn_0006#304#7", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#40#11", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#439#10", "gold_subclass": "mass", "notes": "Time as unbounded resource (take the time)."}
+]

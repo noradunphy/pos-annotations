@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0002#423#5",
+    "sentence_id": "bc/cctv/00/cctv_0002#423",
+    "token_index": 5,
+    "sentence": "This Koizumi has made some preparations after all , that is , he made dual preparations .",
+    "surface": "preparations",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#238#20",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#238",
+    "token_index": 20,
+    "sentence": "Sure but Kofi Annan look does n't have a whole lot of strength himself especially with critics here in the United States /.",
+    "surface": "United",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#510#3",
+    "sentence_id": "bc/cnn/00/cnn_0002#510",
+    "token_index": 3,
+    "sentence": "the mobile home park residents who survived Sunday 's deadly tornado will be allowed back to the area tomorrow /.",
+    "surface": "park",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#288#42",
+    "sentence_id": "bc/cnn/00/cnn_0006#288",
+    "token_index": 42,
+    "sentence": "If we have a profile of some kind of killer in this society and frankly there 's {a} rapist on the loose in Arizona right now and there is a picture that 's been drawn by police uh artists of what this guy looks like . And anybody that has an appearance somewhat like him should expect to be profiled by the police here /.",
+    "surface": "guy",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#232#3",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#232",
+    "token_index": 3,
+    "sentence": "That said John Bolton has experience /.",
+    "surface": "Bolton",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#358#6",
+    "sentence_id": "bc/cnn/00/cnn_0004#358",
+    "token_index": 6,
+    "sentence": "if we could see a little bit more of that I 'd be grateful /.",
+    "surface": "bit",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#81#22",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#81",
+    "token_index": 22,
+    "sentence": "and if we determine that state charges are more appropriate uh then we will ask the city attorney to defer to the district attorney 's office /.",
+    "surface": "district",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#101#3",
+    "sentence_id": "bc/cnn/00/cnn_0003#101",
+    "token_index": 3,
+    "sentence": "But uh for success it 's all about how you feel about yourself inside /.",
+    "surface": "success",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  }
+]

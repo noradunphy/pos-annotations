@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0004#393#11", "gold_subclass": "coordinating", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#506#0", "gold_subclass": "coordinating", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#452#8", "gold_subclass": "coordinating", "notes": "Numeral: links hundred to seventy, not clausal coordination."},
+  {"example_id": "bc/msnbc/00/msnbc_0004#489#0", "gold_subclass": "coordinating", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#87#13", "gold_subclass": "coordinating", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#111#0", "gold_subclass": "coordinating", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0003#42#2", "gold_subclass": "coordinating", "notes": "Correlative both (pairs with and); not a clause subordinator here."},
+  {"example_id": "bc/cnn/00/cnn_0002#96#6", "gold_subclass": "coordinating", "notes": ""}
+]

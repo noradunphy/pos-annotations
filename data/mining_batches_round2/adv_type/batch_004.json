@@ -1,0 +1,172 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#201#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#201",
+    "token_index": 2,
+    "sentence": "Um all right now that you know so much more have you heard anything from the authorities about uh if and when , they 're going to charge him in connection with this case /?",
+    "surface": "right",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#463#0",
+    "sentence_id": "bc/cctv/00/cctv_0004#463",
+    "token_index": 0,
+    "sentence": "So it will further spread to Hubei and Hunan .",
+    "surface": "So",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#515#24",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#515",
+    "token_index": 24,
+    "sentence": "I think that many of the Iraqis at least the ones with whom I spoke felt very strongly that they appreciated the American presence there /.",
+    "surface": "there",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#305#4",
+    "sentence_id": "bc/cnn/00/cnn_0005#305",
+    "token_index": 4,
+    "sentence": "Our troops deserve the most objective clearest assessment that they can possibly get /.",
+    "surface": "most",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#681#7",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#681",
+    "token_index": 7,
+    "sentence": "Well I think that the government is really looking for a way out of this /.",
+    "surface": "really",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#405#5",
+    "sentence_id": "bc/cnn/00/cnn_0002#405",
+    "token_index": 5,
+    "sentence": "Uh the gorillas are coming back seventeen percent /.",
+    "surface": "back",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#439#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#439",
+    "token_index": 5,
+    "sentence": "Mr. Vancamp thank you very much for uh taking the time /.",
+    "surface": "much",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#6#10",
+    "sentence_id": "bc/cnn/00/cnn_0006#6",
+    "token_index": 10,
+    "sentence": "Wherever you 're watching from around the world thanks very much for joining us for Late Edition /.",
+    "surface": "much",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#425#0",
+    "sentence_id": "bc/cnn/00/cnn_0004#425",
+    "token_index": 0,
+    "sentence": "Probably the least known first lady /.",
+    "surface": "Probably",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#106#4",
+    "sentence_id": "bc/cctv/00/cctv_0002#106",
+    "token_index": 4,
+    "sentence": "He said , as long as we get on good terms with the US , then it follows naturally we will have good relations with our Asian neighboring countries .",
+    "surface": "long",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  }
+]

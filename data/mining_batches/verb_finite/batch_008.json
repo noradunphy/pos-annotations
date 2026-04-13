@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0007#211#1",
+    "sentence_id": "bc/cnn/00/cnn_0007#211",
+    "token_index": 1,
+    "sentence": "I 've got other things to do /.",
+    "surface": "'ve",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#461#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#461",
+    "token_index": 1,
+    "sentence": "He was a good articulate candidate /.",
+    "surface": "was",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#536#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#536",
+    "token_index": 5,
+    "sentence": "Instead they 're going to have Tom DeLay /.",
+    "surface": "have",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#560#2",
+    "sentence_id": "bc/cnn/00/cnn_0002#560",
+    "token_index": 2,
+    "sentence": "They will go to any depths to achieve their ends /.",
+    "surface": "go",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#153#7",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#153",
+    "token_index": 7,
+    "sentence": "I do n't know what Mike Dukakis has to do with it /.",
+    "surface": "has",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#353#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#353",
+    "token_index": 2,
+    "sentence": "let 's assume that 's what was said /.",
+    "surface": "assume",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#525#3",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#525",
+    "token_index": 3,
+    "sentence": "Paul you helped fight that war /.",
+    "surface": "fight",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#262#15",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#262",
+    "token_index": 15,
+    "sentence": "All right well look this is one of these cases where we do n't just have to look back where we can actually look forward and hope that someone has seen her and can call the authorities /.",
+    "surface": "have",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  }
+]

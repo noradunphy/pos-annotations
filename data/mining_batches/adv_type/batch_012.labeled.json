@@ -1,0 +1,6 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0003#287#0", "gold_subclass": "sentence_discourse", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#70#5", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#293#11", "gold_subclass": "degree", "notes": "Additional extent ( further )."},
+  {"example_id": "bc/cnn/00/cnn_0002#193#13", "gold_subclass": "place", "notes": ""}
+]

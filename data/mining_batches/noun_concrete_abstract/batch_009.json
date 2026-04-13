@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0003#289#10",
+    "sentence_id": "bc/cctv/00/cctv_0003#289",
+    "token_index": 10,
+    "sentence": "In fact , regarding Putin 's visit to Japan this time , the media earlier predicted , among other things , that when the time came , there would be more than 60 groups totaling more than 700 people , along with , hey , more than 200 propaganda trucks on the streets of downtown Tokyo , to protest against Putin 's visit to Japan .",
+    "surface": "time",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#243#16",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#243",
+    "token_index": 16,
+    "sentence": "Well it seems like the DA did n't seem to think that was that big a deal today /.",
+    "surface": "deal",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#533#10",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#533",
+    "token_index": 10,
+    "sentence": "Some of you come to the defense of New York officials criticized for going public about questionable threats /.",
+    "surface": "officials",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#211#3",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#211",
+    "token_index": 3,
+    "sentence": "They spent six hours on the ground at Gitmo /.",
+    "surface": "hours",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#557#35",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#557",
+    "token_index": 35,
+    "sentence": "Oh yeah but I think for her to have a ten point advantage favorable unfavorable and the fact that she 's running a race with McCain and is as close as she is in this poll I think it 's fifty forty - five tells you that she 's actually a strong candidate /.",
+    "surface": "poll",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#175#7",
+    "sentence_id": "bc/cnn/00/cnn_0004#175",
+    "token_index": 7,
+    "sentence": "Before we get to the book a couple comments on matters of note /.",
+    "surface": "couple",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#510#17",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#510",
+    "token_index": 17,
+    "sentence": "It 's time to blow through the smoke screens created by many opposed to Harriet Miers ' nomination to the Supreme Court /.",
+    "surface": "nomination",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#214#10",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#214",
+    "token_index": 10,
+    "sentence": "The question is will there be any fallout at the UN or any repercussions here in Washington when the White House and the Senate have to deal with each other again later this fall /?",
+    "surface": "UN",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  }
+]

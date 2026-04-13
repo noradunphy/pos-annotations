@@ -1,0 +1,146 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0004#61#0",
+    "sentence_id": "bc/cctv/00/cctv_0004#61",
+    "token_index": 0,
+    "sentence": "It is still called a tabloid .",
+    "surface": "It",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#427#1",
+    "sentence_id": "bc/cnn/00/cnn_0005#427",
+    "token_index": 1,
+    "sentence": "Are you accusing Al Queda of being responsible /?",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#165#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#165",
+    "token_index": 1,
+    "sentence": "Well I think that uh Mr. Hackett /-",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#25#18",
+    "sentence_id": "bc/cnn/00/cnn_0007#25",
+    "token_index": 18,
+    "sentence": "Ah I mean the law presented Judy Miller with a choice she could betray her trust ah or she could go to jail /.",
+    "surface": "she",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#231#1",
+    "sentence_id": "bc/cnn/00/cnn_0004#231",
+    "token_index": 1,
+    "sentence": "but I 've worn glasses /-",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#391#12",
+    "sentence_id": "bc/cnn/00/cnn_0004#391",
+    "token_index": 12,
+    "sentence": "Uh what happened then was when he came to the White House I figured well come on /.",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#253#2",
+    "sentence_id": "bc/cctv/00/cctv_0003#253",
+    "token_index": 2,
+    "sentence": "Well , what does this status show ?",
+    "surface": "what",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#460#0",
+    "sentence_id": "bc/cnn/00/cnn_0001#460",
+    "token_index": 0,
+    "sentence": "He said he began to develop a sense of critical reasoning from which sprang the first stirring of +conscience /.",
+    "surface": "He",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#252#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#252",
+    "token_index": 4,
+    "sentence": "but the problem Gail Abramson is it is a crime if the bar manager lied to the authorities about what happened led them on a wild goose chase /.",
+    "surface": "Abramson",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#32#37",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#32",
+    "token_index": 37,
+    "sentence": "Uh but let me just say we have more than two thousand employees on the police department and certainly the incident that occured on Saturday night uh does not reflect the vast majority of the hard working men and women of this department /.",
+    "surface": "men",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#8#18",
+    "sentence_id": "bc/cnn/00/cnn_0002#8",
+    "token_index": 18,
+    "sentence": "He was taken to a hospital where he was treated for what appeared to be a gun shot wound to his own hand suggesting there might have been uh a struggle going on afterwards /.",
+    "surface": "wound",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#438#20",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#438",
+    "token_index": 20,
+    "sentence": "But joining me now is the attorney who is going to be representing the familes of Brenda Groney and Mark McKenzie Russell Vancamp /.",
+    "surface": "McKenzie",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#105#9",
+    "sentence_id": "bc/cnn/00/cnn_0001#105",
+    "token_index": 9,
+    "sentence": "When Wal - Mart makes a change in the way they do their business um then other businesses follow /.",
+    "surface": "way",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#170#20",
+    "sentence_id": "bc/cctv/00/cctv_0004#170",
+    "token_index": 20,
+    "sentence": "Since the al - Jazeera TV station logo is on , people should be quite familiar with al - Jazeera TV station .",
+    "surface": "TV",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#434#12",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#434",
+    "token_index": 12,
+    "sentence": "If the bail had been higher he could have still put uh part of the money down and been released /.",
+    "surface": "part",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#22#53",
+    "sentence_id": "bc/cctv/00/cctv_0003#22",
+    "token_index": 53,
+    "sentence": "However , the general reaction from scholars , media , or ordinary people here , er , is rather low key , because , er , there has been no progress on the two issues that Japan is relatively concerned with , the Northern Territories issue , er , and the oil pipeline route issue .",
+    "surface": "route",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  }
+]

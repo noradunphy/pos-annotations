@@ -1,0 +1,6 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0004#264#4", "gold_subclass": "non-finite", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#124#16", "gold_subclass": "non-finite", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#397#7", "gold_subclass": "non-finite", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#554#3", "gold_subclass": "non-finite", "notes": ""}
+]

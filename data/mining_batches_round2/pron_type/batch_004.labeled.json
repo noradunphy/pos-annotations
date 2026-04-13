@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0002#736#22", "gold_subclass": "relative", "notes": "Restrictive relative on teacher (who had sex…)."},
+  {"example_id": "bc/msnbc/00/msnbc_0001#286#3", "gold_subclass": "relative", "notes": "Fused relative in here's what … (≈ that which)."},
+  {"example_id": "bc/cnn/00/cnn_0006#86#2", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#357#2", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0004#438#17", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#332#1", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0003#54#1", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#8#7", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#513#5", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#345#0", "gold_subclass": "personal", "notes": ""}
+]

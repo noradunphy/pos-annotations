@@ -1,0 +1,172 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#543#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#543",
+    "token_index": 2,
+    "sentence": "It does n't look like a liberal senator from New York /.",
+    "surface": "n't",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#269#21",
+    "sentence_id": "bc/cctv/00/cctv_0004#269",
+    "token_index": 21,
+    "sentence": "That is , the reason why it can establish itself is that it first relied on the Afghan war , and then the Iraq war after the 9 / 11 .",
+    "surface": "then",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#161#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#161",
+    "token_index": 2,
+    "sentence": "I 'm not sure /-",
+    "surface": "not",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#254#19",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#254",
+    "token_index": 19,
+    "sentence": "but in the state of New York you 're not allowed to simply tell the authorities something that 's not true and send them going elsewhere /.",
+    "surface": "not",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#112#30",
+    "sentence_id": "bc/cnn/00/cnn_0006#112",
+    "token_index": 30,
+    "sentence": "We hope by the end of the year uh probably more than a third of this uh uh security force Iraqi security force are going to be able to operate independently /.",
+    "surface": "independently",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#228#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#228",
+    "token_index": 5,
+    "sentence": "But um thank you very much for taking the time /.",
+    "surface": "much",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#153#7",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#153",
+    "token_index": 7,
+    "sentence": "Or are these great cops who have not had a blemish on their record /.",
+    "surface": "not",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#166#7",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#166",
+    "token_index": 7,
+    "sentence": "Considering he was in Iraq he did n't think the war was a good idea to begin with /.",
+    "surface": "n't",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#54#18",
+    "sentence_id": "bc/cctv/00/cctv_0003#54",
+    "token_index": 18,
+    "sentence": "As we know , Putin has kept putting off this visit to Japan since last year , like back then when Yeltsin repeatedly postponed his trip to Japan .",
+    "surface": "back",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#135#3",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#135",
+    "token_index": 3,
+    "sentence": "So I should n't have quoted him /.",
+    "surface": "n't",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  }
+]

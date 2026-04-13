@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#164#25",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#164",
+    "token_index": 25,
+    "sentence": "We have to change the focus of the UN so they 're not spending one hundred and sixty - nine million on their communications department and twenty - four million on their auditing function /.",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#198#5",
+    "sentence_id": "bc/cnn/00/cnn_0007#198",
+    "token_index": 5,
+    "sentence": "You say you were gutless and you did n't do it /.",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#38#19",
+    "sentence_id": "bc/cctv/00/cctv_0002#38",
+    "token_index": 19,
+    "sentence": "That is , through multilateral meetings , he attempted to meet with , ah , leaders of South Korea or other Asian nations , Uh-huh . so as to -- Uh-huh . demonstrate that even though he visited Yasukuni Shrine , Uh-huh . his relations with neighboring countries are not affected .",
+    "surface": "or",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#133#15",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#133",
+    "token_index": 15,
+    "sentence": "In my mind I compare to some of the federal agents who were uh injured or involved in Hurricane Andrew a few years ago /.",
+    "surface": "or",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#673#2",
+    "sentence_id": "bc/cnn/00/cnn_0002#673",
+    "token_index": 2,
+    "sentence": "He says and I 'm paraphrasing that basically the element of surprise what the enemy does not know about what we 're going to do to them is a very powerful tool /.",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#86#54",
+    "sentence_id": "bc/cctv/00/cctv_0001#86",
+    "token_index": 54,
+    "sentence": "When asked about the actual combat strength of the Eighth Route Army , the combat operation director reported : There are 30 regiments along the Zhengtai Line , 15 regiments along the Lugou Bridge - Handan section of the Pinghan line , 12 regiments along the Datong - Hongdong section in Tonghu County , and four regiments along the Tianjin - Dezhou section of the Jinpu Line , with a total of 105 regiments entering the campaign .",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#37#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#37",
+    "token_index": 0,
+    "sentence": "but clearly the police department /-",
+    "surface": "but",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#550#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#550",
+    "token_index": 0,
+    "sentence": "but I get your point /.",
+    "surface": "but",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  }
+]

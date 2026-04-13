@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#420#6",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#420",
+    "token_index": 6,
+    "sentence": "These terrorists and insurgents will use brutal tactics because they 're trying to shake the will of the United States of America /.",
+    "surface": "brutal",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#604#3",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#604",
+    "token_index": 3,
+    "sentence": "She said her biggest fear was that if she tried to escape or if she told people they would n't believe her and she 'd be out on the street /.",
+    "surface": "biggest",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#402#11",
+    "sentence_id": "bc/cctv/00/cctv_0003#402",
+    "token_index": 11,
+    "sentence": "So the prospects for Japanese - Russian relations are not too good .",
+    "surface": "good",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#414#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#414",
+    "token_index": 4,
+    "sentence": "Coming up , a new gallop poll shows a big lead for both John McCain and Rudy Giuliani in presidential matchups with guess who Hillary Rodham Clinton /.",
+    "surface": "new",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#509#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#509",
+    "token_index": 5,
+    "sentence": "He would ultimately have some ideological problems /.",
+    "surface": "ideological",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#56#8",
+    "sentence_id": "bc/cctv/00/cctv_0004#56",
+    "token_index": 8,
+    "sentence": "Its circulation should be considered one of the largest among British newspapers .",
+    "surface": "largest",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#290#10",
+    "sentence_id": "bc/cnn/00/cnn_0003#290",
+    "token_index": 10,
+    "sentence": "Ah a team of health care professionals led by a wonderful woman named Betty Breeland has developed a treatment /.",
+    "surface": "wonderful",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#666#12",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#666",
+    "token_index": 12,
+    "sentence": "And in the final negotiations they actually made the document even more Islamic and made the judiciary even more powerful um than what the original draft has done /.",
+    "surface": "Islamic",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  }
+]

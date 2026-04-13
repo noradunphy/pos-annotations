@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0001#487#12", "gold_subclass": "transitive", "notes": "investigated it; typo surface form"},
+  {"example_id": "bc/cctv/00/cctv_0002#76#20", "gold_subclass": "intransitive", "notes": "get + past participle (become passive); no NP direct object"},
+  {"example_id": "bc/msnbc/00/msnbc_0003#449#49", "gold_subclass": "intransitive", "notes": "periphrastic future (going to); not main lexical verb"},
+  {"example_id": "bc/msnbc/00/msnbc_0002#659#26", "gold_subclass": "intransitive", "notes": "modal auxiliary; main verb use is separate token"},
+  {"example_id": "bc/cctv/00/cctv_0001#73#0", "gold_subclass": "intransitive", "notes": "passive participle lead by-phrase; no direct object NP"},
+  {"example_id": "bc/msnbc/00/msnbc_0001#149#22", "gold_subclass": "intransitive", "notes": "copular be (pseudo-cleft)"},
+  {"example_id": "bc/msnbc/00/msnbc_0004#639#2", "gold_subclass": "intransitive", "notes": "were to + infinitive; auxiliary-like subjunctive"},
+  {"example_id": "bc/cctv/00/cctv_0003#31#11", "gold_subclass": "transitive", "notes": "connecting it (with China)"}
+]

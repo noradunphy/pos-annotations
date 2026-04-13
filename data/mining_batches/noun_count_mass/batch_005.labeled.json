@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0001#422#11", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#586#16", "gold_subclass": "mass", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#130#0", "gold_subclass": "count", "notes": "Show title fragment (Late Edition); not canonical noun semantics."},
+  {"example_id": "bc/cnn/00/cnn_0002#496#0", "gold_subclass": "mass", "notes": "Formulaic thanks as speech act; not discrete physical units."},
+  {"example_id": "bc/cnn/00/cnn_0002#51#6", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#303#5", "gold_subclass": "mass", "notes": "Idiomatic heart of hearts; abstract inner self, not literal organs."},
+  {"example_id": "bc/cnn/00/cnn_0003#352#9", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#90#9", "gold_subclass": "count", "notes": ""}
+]

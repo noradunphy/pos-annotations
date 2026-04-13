@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0004#121#9", "gold_subclass": "eventive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#468#3", "gold_subclass": "stative", "notes": "Resultant state: reduced to hunting."},
+  {"example_id": "bc/cctv/00/cctv_0003#9#0", "gold_subclass": "eventive", "notes": "Imperative speech act."},
+  {"example_id": "bc/cctv/00/cctv_0004#218#3", "gold_subclass": "stative", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#663#18", "gold_subclass": "eventive", "notes": "Causative succeed/function reading of work."},
+  {"example_id": "bc/msnbc/00/msnbc_0004#170#6", "gold_subclass": "stative", "notes": "Copula with adjective understandable."},
+  {"example_id": "bc/msnbc/00/msnbc_0004#39#2", "gold_subclass": "stative", "notes": "Modal-like need: state of necessity."},
+  {"example_id": "bc/cnn/00/cnn_0002#522#46", "gold_subclass": "stative", "notes": "Relational passive: possibly connected."}
+]

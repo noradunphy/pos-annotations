@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#422#11",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#422",
+    "token_index": 11,
+    "sentence": "He was already a registered sex offender having served almost two decades for the violent rape of a fourteen year old boy in Washington state /.",
+    "surface": "decades",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#586#16",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#586",
+    "token_index": 16,
+    "sentence": "Oh if we have the situation we have on the war , if our foreign policy disarray if no progress is being made on healthcare and education I think a lot of those red states could become blue states /.",
+    "surface": "disarray",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#130#0",
+    "sentence_id": "bc/cnn/00/cnn_0005#130",
+    "token_index": 0,
+    "sentence": "Late Edition continues right after this /.",
+    "surface": "Late",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#496#0",
+    "sentence_id": "bc/cnn/00/cnn_0002#496",
+    "token_index": 0,
+    "sentence": "Thanks very much for joining us /.",
+    "surface": "Thanks",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#51#6",
+    "sentence_id": "bc/cnn/00/cnn_0002#51",
+    "token_index": 6,
+    "sentence": "Uh an hour and half two hours /.",
+    "surface": "hours",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#303#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#303",
+    "token_index": 5,
+    "sentence": "um In my heart of hearts I definitely know /.",
+    "surface": "hearts",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#352#9",
+    "sentence_id": "bc/cnn/00/cnn_0003#352",
+    "token_index": 9,
+    "sentence": "I 'm um just getting ready to do a character arc in a new show for FX called Beef /.",
+    "surface": "character",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#90#9",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#90",
+    "token_index": 9,
+    "sentence": "Joe is that a legal defense meaning could these guys come into court and say we were so traumatized by everything that happened that it eventually led to this /?",
+    "surface": "guys",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  }
+]

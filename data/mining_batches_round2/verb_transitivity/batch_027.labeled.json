@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0002#737#12", "gold_subclass": "ditransitive", "notes": "Passive ditransitive: spare someone something"},
+  {"example_id": "bc/cnn/00/cnn_0001#284#5", "gold_subclass": "intransitive", "notes": "Auxiliary for negation"},
+  {"example_id": "bc/msnbc/00/msnbc_0001#415#29", "gold_subclass": "transitive", "notes": "Passive: accused of kidnapping"},
+  {"example_id": "bc/cnn/00/cnn_0002#389#28", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0001#35#17", "gold_subclass": "transitive", "notes": "Passive participle: led by"},
+  {"example_id": "bc/cnn/00/cnn_0002#146#1", "gold_subclass": "intransitive", "notes": "Modal auxiliary: will"},
+  {"example_id": "bc/cnn/00/cnn_0002#691#4", "gold_subclass": "intransitive", "notes": "Participial adjective: breaking news"},
+  {"example_id": "bc/cnn/00/cnn_0002#105#0", "gold_subclass": "intransitive", "notes": "Participial preposition: According to"},
+  {"example_id": "bc/cnn/00/cnn_0002#279#15", "gold_subclass": "intransitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#338#3", "gold_subclass": "intransitive", "notes": "Copular"}
+]

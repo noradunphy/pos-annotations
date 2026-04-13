@@ -1,0 +1,152 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#103#12",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#103",
+    "token_index": 12,
+    "sentence": "And he was just basically saying I 'm trying to keep alive go home /.",
+    "surface": "go",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#24#6",
+    "sentence_id": "bc/cctv/00/cctv_0002#24",
+    "token_index": 6,
+    "sentence": "Japanese Prime Minister Junichiro Koizumi also arrived in Pusan this afternoon , beginning his APEC trip this time .",
+    "surface": "arrived",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#281#1",
+    "sentence_id": "bc/cnn/00/cnn_0006#281",
+    "token_index": 1,
+    "sentence": "There should be profiling /.",
+    "surface": "should",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#279#6",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#279",
+    "token_index": 6,
+    "sentence": "If you 've got any information regarding Bowen please contact California Department of Justice nine one six two two seven four nine seven four /.",
+    "surface": "regarding",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#216#4",
+    "sentence_id": "bc/cctv/00/cctv_0001#216",
+    "token_index": 4,
+    "sentence": "More than 60 years have passed since the Hundred Regiments Offensive took place .",
+    "surface": "have",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#442#35",
+    "sentence_id": "bc/cnn/00/cnn_0002#442",
+    "token_index": 35,
+    "sentence": "what 's amazing too is you go to see the gorillas and you start talking to the guides who are taking you up and you ask them did you lose anyone and they will just turn and without blinking an eye tell you you know all my family is gone /.",
+    "surface": "turn",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#222#1",
+    "sentence_id": "bc/cnn/00/cnn_0004#222",
+    "token_index": 1,
+    "sentence": "You do /?",
+    "surface": "do",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#326#10",
+    "sentence_id": "bc/cnn/00/cnn_0002#326",
+    "token_index": 10,
+    "sentence": "And in exchange for his kindness they shared a little known secret about the rogue elephant /.",
+    "surface": "known",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#572#1",
+    "sentence_id": "bc/cnn/00/cnn_0004#572",
+    "token_index": 1,
+    "sentence": "I think probably the Aiatola really because he was not anxious to do it /.",
+    "surface": "think",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#202#15",
+    "sentence_id": "bc/cnn/00/cnn_0002#202",
+    "token_index": 15,
+    "sentence": "You know it 's hard to think of a more agonizing decision that a parent could face choosing whether to let a child die or to hold out hope no matter what the doctors and all the other experts say /.",
+    "surface": "could",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  }
+]

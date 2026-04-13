@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0003#127#10", "gold_subclass": "non-gradable", "notes": "Superlative 'worst'; already endpoint scale."},
+  {"example_id": "bc/cnn/00/cnn_0001#457#5", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#673#30", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#334#14", "gold_subclass": "non-gradable", "notes": "'Particular case' = specific; not scalar."},
+  {"example_id": "bc/cctv/00/cctv_0002#94#6", "gold_subclass": "non-gradable", "notes": "Relational 'diplomatic purpose'."},
+  {"example_id": "bc/cnn/00/cnn_0005#67#15", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#187#33", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#253#23", "gold_subclass": "non-gradable", "notes": "Quantifier 'several'."}
+]

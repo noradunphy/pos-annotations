@@ -1,0 +1,182 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0004#277#17",
+    "sentence_id": "bc/cctv/00/cctv_0004#277",
+    "token_index": 17,
+    "sentence": "Besides , it has a lot of resources , including its exclusive coverage right in Afghanistan as you mentioned just now .",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#150#11",
+    "sentence_id": "bc/cnn/00/cnn_0005#150",
+    "token_index": 11,
+    "sentence": "And more Iraqis are dying on the battle field fighting for their country against the insurgency than Americans /.",
+    "surface": "their",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#668#7",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#668",
+    "token_index": 7,
+    "sentence": "here 's the president talking about how he hopes to deal with this /.",
+    "surface": "he",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#571#0",
+    "sentence_id": "bc/cnn/00/cnn_0003#571",
+    "token_index": 0,
+    "sentence": "I 'm sorry /.",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#262#13",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#262",
+    "token_index": 13,
+    "sentence": "I think in Florida we recruited the best and the brightest and people who we knew would be excellent in really a tough and historical setting and that 's where those guys came in /.",
+    "surface": "who",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#158#8",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#158",
+    "token_index": 8,
+    "sentence": "And uh I ca n't imagine uh why they would punch someone in the back of the head uh uh in connection with subduing that person /.",
+    "surface": "they",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#238#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#238",
+    "token_index": 0,
+    "sentence": "what did you want to see that you could n't Mike /?",
+    "surface": "what",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#411#9",
+    "sentence_id": "bc/cnn/00/cnn_0002#411",
+    "token_index": 9,
+    "sentence": "You also worked with a woman uh Rosamond Carr who runs an orphanage /.",
+    "surface": "who",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#320#0",
+    "sentence_id": "bc/cctv/00/cctv_0003#320",
+    "token_index": 0,
+    "sentence": "Their surrounding sea waters have a great wealth of fishing resources and undersea mineral deposits , with highly important strategic positions .",
+    "surface": "Their",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#320#2",
+    "sentence_id": "bc/cnn/00/cnn_0002#320",
+    "token_index": 2,
+    "sentence": "Hannah and his crew beat it to shore and to safety not realizing that in April the US embassy in Kigali had issued a warning to American tourists about a rogue elephant charging visitors /.",
+    "surface": "his",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  }
+]

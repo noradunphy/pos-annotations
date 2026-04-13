@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0001#435#5", "gold_subclass": "common", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#192#36", "gold_subclass": "proper", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0001#71#14", "gold_subclass": "proper", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#309#18", "gold_subclass": "common", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#240#16", "gold_subclass": "common", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#40#16", "gold_subclass": "common", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#676#24", "gold_subclass": "common", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#46#5", "gold_subclass": "proper", "notes": ""}
+]

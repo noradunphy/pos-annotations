@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0003#438#1", "gold_subclass": "ambitransitive", "notes": "fragmentary clause; modal can alone"},
+  {"example_id": "bc/cnn/00/cnn_0003#409#15", "gold_subclass": "transitive", "notes": "shoving people (away is adjunct)"},
+  {"example_id": "bc/msnbc/00/msnbc_0003#425#7", "gold_subclass": "intransitive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#62#1", "gold_subclass": "intransitive", "notes": "perfect auxiliary 've heard"},
+  {"example_id": "bc/msnbc/00/msnbc_0003#406#6", "gold_subclass": "intransitive", "notes": "periphrastic future going to"},
+  {"example_id": "bc/msnbc/00/msnbc_0002#704#5", "gold_subclass": "transitive", "notes": "making demands"},
+  {"example_id": "bc/msnbc/00/msnbc_0004#33#2", "gold_subclass": "transitive", "notes": "raising taxes (gerund object of supports)"},
+  {"example_id": "bc/msnbc/00/msnbc_0003#574#3", "gold_subclass": "transitive", "notes": "know that-clause"}
+]

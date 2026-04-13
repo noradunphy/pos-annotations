@@ -1,0 +1,182 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#348#13",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#348",
+    "token_index": 13,
+    "sentence": "is it possible that all they said to Dobson behind closed doors is she 's a very religious woman /. /.",
+    "surface": "she",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#183#0",
+    "sentence_id": "bc/cnn/00/cnn_0003#183",
+    "token_index": 0,
+    "sentence": "You could inherit five million dollars or lose five million dollars /.",
+    "surface": "You",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#477#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#477",
+    "token_index": 0,
+    "sentence": "We blame the responsible hired employees of this county to do their job correctly and do it right and not just go through every day on a rote type situation /.",
+    "surface": "We",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#2#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#2",
+    "token_index": 0,
+    "sentence": "I just do n't think he can do a very good job there /.",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#438#5",
+    "sentence_id": "bc/cnn/00/cnn_0001#438",
+    "token_index": 5,
+    "sentence": "But he did n't win it /.",
+    "surface": "it",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#98#18",
+    "sentence_id": "bc/cnn/00/cnn_0004#98",
+    "token_index": 18,
+    "sentence": "David Gergen on this program Bill Clinton said that often judges disappoint the presidents who appoint them because it 's the first time in their life they have a job where they 're not appealed and they also see things differently /.",
+    "surface": "it",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#79#11",
+    "sentence_id": "bc/cctv/00/cctv_0003#79",
+    "token_index": 11,
+    "sentence": "Well , as two neighboring nations , ah , relations between them should be developed , development of relations should be further promoted .",
+    "surface": "them",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#485#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#485",
+    "token_index": 2,
+    "sentence": "They let him out /.",
+    "surface": "him",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#497#4",
+    "sentence_id": "bc/cnn/00/cnn_0006#497",
+    "token_index": 4,
+    "sentence": "And do n't forget our Web question of the week should religion play a role in Iraq 's new constitution /.",
+    "surface": "our",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#537#12",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#537",
+    "token_index": 12,
+    "sentence": "So you wo n't say whether he had sex with her when she was fourteen /?",
+    "surface": "she",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  }
+]

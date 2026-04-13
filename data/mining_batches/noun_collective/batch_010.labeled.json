@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0006#251#27", "gold_subclass": "non-collective", "notes": "surface is fragment of United States; tagged as NOUN"},
+  {"example_id": "bc/cnn/00/cnn_0003#303#35", "gold_subclass": "non-collective", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#705#32", "gold_subclass": "non-collective", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#366#5", "gold_subclass": "non-collective", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0003#30#29", "gold_subclass": "non-collective", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#417#7", "gold_subclass": "non-collective", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#295#3", "gold_subclass": "non-collective", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0004#416#7", "gold_subclass": "non-collective", "notes": ""}
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0007#181#1",
+    "sentence_id": "bc/cnn/00/cnn_0007#181",
+    "token_index": 1,
+    "sentence": "I could n't stop him without lying /.",
+    "surface": "could",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#432#17",
+    "sentence_id": "bc/cctv/00/cctv_0004#432",
+    "token_index": 17,
+    "sentence": "We know that the US , like the West , they made a lot of efforts in controlling the right of speech in the international mainstream media .",
+    "surface": "controlling",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#572#8",
+    "sentence_id": "bc/cnn/00/cnn_0004#572",
+    "token_index": 8,
+    "sentence": "I think probably the Aiatola really because he was not anxious to do it /.",
+    "surface": "was",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#503#2",
+    "sentence_id": "bc/cnn/00/cnn_0005#503",
+    "token_index": 2,
+    "sentence": "We 'll take a quick break /.",
+    "surface": "take",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  }
+]

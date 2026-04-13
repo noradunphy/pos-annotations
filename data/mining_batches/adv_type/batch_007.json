@@ -1,0 +1,138 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0003#196#1",
+    "sentence_id": "bc/cctv/00/cctv_0003#196",
+    "token_index": 1,
+    "sentence": "That is , it was impossible to give the territories to Japan .",
+    "surface": "is",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#150#15",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#150",
+    "token_index": 15,
+    "sentence": "Another problem of course is that he told the Daily News reporter that he hardly even remembered Imette being there and now he 's saying oh yeah I walked her out /.",
+    "surface": "even",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#207#6",
+    "sentence_id": "bc/cnn/00/cnn_0003#207",
+    "token_index": 6,
+    "sentence": "My first husband I think was just especially unprepared for someone who had such extreme mood swings you know so much joy and the other side of that was so much sadness /.",
+    "surface": "just",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#225#4",
+    "sentence_id": "bc/cnn/00/cnn_0005#225",
+    "token_index": 4,
+    "sentence": "American soldiers fight best when they know the people back home are behind them /.",
+    "surface": "when",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#242#8",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#242",
+    "token_index": 8,
+    "sentence": "A lot of people saying uh that he actually misled the authorities and that could lead to prosecution /.",
+    "surface": "actually",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#550#12",
+    "sentence_id": "bc/cnn/00/cnn_0004#550",
+    "token_index": 12,
+    "sentence": "Um yeah she and I used to do a show on CBS when I first came to New York /.",
+    "surface": "when",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#265#16",
+    "sentence_id": "bc/cctv/00/cctv_0002#265",
+    "token_index": 16,
+    "sentence": "Well , during these four years , we can say , er , nothing has been much improved , whether in internal affairs or diplomacy .",
+    "surface": "much",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#105#1",
+    "sentence_id": "bc/cnn/00/cnn_0006#105",
+    "token_index": 1,
+    "sentence": "Uh admittedly the number /-",
+    "surface": "admittedly",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  }
+]

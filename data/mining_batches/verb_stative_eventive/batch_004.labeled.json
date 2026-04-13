@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0003#400#5", "gold_subclass": "stative", "notes": "Appear: epistemic/seeming, no asserted change."},
+  {"example_id": "bc/msnbc/00/msnbc_0004#118#19", "gold_subclass": "eventive", "notes": "Pass a bill: action."},
+  {"example_id": "bc/msnbc/00/msnbc_0001#530#1", "gold_subclass": "stative", "notes": "Modal can: ability/possibility state."},
+  {"example_id": "bc/cctv/00/cctv_0004#427#4", "gold_subclass": "stative", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#408#13", "gold_subclass": "eventive", "notes": "Go for years: durative activity/last."},
+  {"example_id": "bc/cnn/00/cnn_0003#160#56", "gold_subclass": "stative", "notes": "Modal could; auxiliary."},
+  {"example_id": "bc/msnbc/00/msnbc_0002#81#1", "gold_subclass": "eventive", "notes": "Progressive waiting: ongoing activity."},
+  {"example_id": "bc/msnbc/00/msnbc_0002#653#24", "gold_subclass": "eventive", "notes": "Choose: decision/act."}
+]

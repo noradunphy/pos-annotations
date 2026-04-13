@@ -1,0 +1,152 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0002#324#1",
+    "sentence_id": "bc/cnn/00/cnn_0002#324",
+    "token_index": 1,
+    "sentence": "that 's it /.",
+    "surface": "'s",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#177#6",
+    "sentence_id": "bc/cctv/00/cctv_0004#177",
+    "token_index": 6,
+    "sentence": "Prior to its establishment , there has been no Arabic - language TV station broadcasting news nonstop around the clock in the Arab world .",
+    "surface": "has",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#187#2",
+    "sentence_id": "bc/cnn/00/cnn_0006#187",
+    "token_index": 2,
+    "sentence": "they 're standing by to weigh in on where things stand in Iraq the war on terror and much more /.",
+    "surface": "standing",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#148#26",
+    "sentence_id": "bc/cnn/00/cnn_0007#148",
+    "token_index": 26,
+    "sentence": "Ah we concealed his identity in a way ah that it remained confidential for more than thirty years after that book came out and it only was disclosed because Mark Felt his lawyer and family decided to disclose it /.",
+    "surface": "was",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#50#13",
+    "sentence_id": "bc/cnn/00/cnn_0006#50",
+    "token_index": 13,
+    "sentence": "Uh I assume you 're confirming that the thirty days uh will be required an additional thirty days /.",
+    "surface": "required",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#82#27",
+    "sentence_id": "bc/cctv/00/cctv_0001#82",
+    "token_index": 27,
+    "sentence": "It was still during this night that the 120th Division , directed by Division Commander He Long and Political Commissar Guan Xiangying , with 20 regiments , sabotaged the northern section of the Tongpu Railway and some main roads west of the railway .",
+    "surface": "sabotaged",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#345#7",
+    "sentence_id": "bc/cctv/00/cctv_0002#345",
+    "token_index": 7,
+    "sentence": "If that is the case , it may have produced a very extensive negative impact on its relations with neighboring countries .",
+    "surface": "may",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#59#23",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#59",
+    "token_index": 23,
+    "sentence": "Well look it is good to see uh that we 're not hearing what we sometimes hear in these kinds of cases which is well you know you got to understand the circumstances and the tape is n't showing everything /.",
+    "surface": "is",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#266#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#266",
+    "token_index": 4,
+    "sentence": "It 's going to be a tough argument in part because the original story that the bar manager told cops was that he 'd seen Imette leave alone /.",
+    "surface": "be",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#282#2",
+    "sentence_id": "bc/cnn/00/cnn_0007#282",
+    "token_index": 2,
+    "sentence": "But you have Lewis Powell was one of your sources because he 's passed away /.",
+    "surface": "have",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  }
+]

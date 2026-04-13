@@ -1,0 +1,130 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0006#230#5",
+    "sentence_id": "bc/cnn/00/cnn_0006#230",
+    "token_index": 5,
+    "sentence": "and we want to secure the country as well as we did in January /.",
+    "surface": "the",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#445#7",
+    "sentence_id": "bc/cnn/00/cnn_0003#445",
+    "token_index": 7,
+    "sentence": "That was from a nineteen eighty - two film her first film acting with her first husband Bruce Abbot /.",
+    "surface": "two",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#259#39",
+    "sentence_id": "bc/cctv/00/cctv_0002#259",
+    "token_index": 39,
+    "sentence": "On April 1 , 2005 , the Japanese Ministry of Education approved a new edition of history textbooks compiled by the new history textbook compilation committee and published by Fusosha Publishing House and announced the result officially on April 5 .",
+    "surface": "5",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#162#5",
+    "sentence_id": "bc/cnn/00/cnn_0002#162",
+    "token_index": 5,
+    "sentence": "and to follow up on the point Jeff just made about perhaps not overstating the impact for the president I think one of the things we will watch closely tonight is that some of the polls are showing that the American people are a bit testy shall we say um not patient anymore with all of the politicians /.",
+    "surface": "the",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#49#5",
+    "sentence_id": "bc/cnn/00/cnn_0006#49",
+    "token_index": 5,
+    "sentence": "As you know that under the terms of uh the law you could extend this drafting of the constitution for six months beyond the August fifteenth deadline do you think that might be necessary beyond the thirty days /?",
+    "surface": "the",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#683#21",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#683",
+    "token_index": 21,
+    "sentence": "and obviously when Secretary of State Rice and the President weigh in uh this is of uh uh extreme importance at the highest levels /.",
+    "surface": "the",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#664#15",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#664",
+    "token_index": 15,
+    "sentence": "I think that as an American people the stories that I tell from Iraq and that our fellow talk show hosts told um eh uh hopefully will engender a little bit more patience and endurance by the American people /.",
+    "surface": "that",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#47#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#47",
+    "token_index": 0,
+    "sentence": "The president is going to be there make a major statement now he has got somebody who is there , who is his guy , who is going to work with him over these six weeks /.",
+    "surface": "The",
+    "high_level": "DET",
+    "distinction_id": "det_type",
+    "labels": [
+      "articles",
+      "demonstratives",
+      "possessives",
+      "quantifiers",
+      "numerals"
+    ]
+  }
+]

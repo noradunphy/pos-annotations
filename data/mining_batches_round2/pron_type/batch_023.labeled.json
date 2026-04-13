@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0003#421#9", "gold_subclass": "indefinite", "notes": "Existential/expletive there (there is already a framework)."},
+  {"example_id": "bc/cctv/00/cctv_0001#186#2", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#88#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#164#2", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#84#2", "gold_subclass": "possessive", "notes": "Possessive determiner (your first break)."},
+  {"example_id": "bc/cctv/00/cctv_0004#89#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#144#4", "gold_subclass": "interrogative", "notes": "Embedded clause (clarify what you were saying)."},
+  {"example_id": "bc/cnn/00/cnn_0001#141#6", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#82#2", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#379#2", "gold_subclass": "personal", "notes": ""}
+]

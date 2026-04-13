@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0004#347#3", "gold_subclass": "non-gradable", "notes": "Identity predicate 'the same'; not degree-scaled."},
+  {"example_id": "bc/cnn/00/cnn_0005#17#0", "gold_subclass": "non-gradable", "notes": "Quantifier use (many), not a scalar quality adjective here."},
+  {"example_id": "bc/msnbc/00/msnbc_0004#572#4", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#16#1", "gold_subclass": "non-gradable", "notes": "Fixed expression 'at least'; not scalar."},
+  {"example_id": "bc/cnn/00/cnn_0003#155#8", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#365#15", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#230#3", "gold_subclass": "non-gradable", "notes": "Part of construction 'used to' (acclimated); not degree-modified."},
+  {"example_id": "bc/cnn/00/cnn_0002#275#17", "gold_subclass": "non-gradable", "notes": "Relational/classifying 'judicial homicide'."}
+]

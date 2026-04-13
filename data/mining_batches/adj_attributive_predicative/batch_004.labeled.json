@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0004#48#5", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#87#11", "gold_subclass": "predicative", "notes": "Tag question 'right'; discourse particle reading possible."},
+  {"example_id": "bc/msnbc/00/msnbc_0004#343#5", "gold_subclass": "predicative", "notes": "Resultative/copular complement: 'suspension is enough'."},
+  {"example_id": "bc/cnn/00/cnn_0004#507#2", "gold_subclass": "predicative", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#111#4", "gold_subclass": "predicative", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#418#4", "gold_subclass": "predicative", "notes": "Extraposed 'it is good to be here'; 'good' predicates the infinitival clause."},
+  {"example_id": "bc/msnbc/00/msnbc_0002#635#2", "gold_subclass": "predicative", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#317#24", "gold_subclass": "attributive", "notes": ""}
+]

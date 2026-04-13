@@ -1,0 +1,138 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0003#247#12",
+    "sentence_id": "bc/cnn/00/cnn_0003#247",
+    "token_index": 12,
+    "sentence": "and then I went through a total tale spin chemically and really just could not get up off the couch /.",
+    "surface": "just",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#457#10",
+    "sentence_id": "bc/cnn/00/cnn_0005#457",
+    "token_index": 10,
+    "sentence": "The ex-prime minister Mr. uh gave me his votes as well /.",
+    "surface": "well",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#51#4",
+    "sentence_id": "bc/cnn/00/cnn_0004#51",
+    "token_index": 4,
+    "sentence": "People have to look more closely at the record /.",
+    "surface": "more",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#423#3",
+    "sentence_id": "bc/cnn/00/cnn_0005#423",
+    "token_index": 3,
+    "sentence": "And that was when uh eh uh they tried to put a bomb in the uh Italian embassy /.",
+    "surface": "when",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#111#15",
+    "sentence_id": "bc/cnn/00/cnn_0006#111",
+    "token_index": 15,
+    "sentence": "But of that two hundred thousand plus how many of them are fully capable right now to operate without US assistance /?",
+    "surface": "now",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#333#8",
+    "sentence_id": "bc/cnn/00/cnn_0005#333",
+    "token_index": 8,
+    "sentence": "But you 're not calling for a timetable directly right now as some other democratic and even a few republican colleagues are suggesting that there should be a timetable /.",
+    "surface": "directly",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#451#6",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#451",
+    "token_index": 6,
+    "sentence": "I can walk outside the door anytime I want /.",
+    "surface": "anytime",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#253#10",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#253",
+    "token_index": 10,
+    "sentence": "And if he does I think she 'll reel him right back in /.",
+    "surface": "right",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  }
+]

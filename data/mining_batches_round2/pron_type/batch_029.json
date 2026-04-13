@@ -1,0 +1,182 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0003#380#20",
+    "sentence_id": "bc/cnn/00/cnn_0003#380",
+    "token_index": 20,
+    "sentence": "and I think that the words that should be banned from this English language are you should do this or you should never do that /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#563#0",
+    "sentence_id": "bc/cnn/00/cnn_0004#563",
+    "token_index": 0,
+    "sentence": "You know what I mean /.",
+    "surface": "You",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#284#0",
+    "sentence_id": "bc/cnn/00/cnn_0006#284",
+    "token_index": 0,
+    "sentence": "what 's the answer that you give since most of these terrorists since nine eleven and even earlier have been Muslims have been Middle Eastern origin /?",
+    "surface": "what",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#196#18",
+    "sentence_id": "bc/cnn/00/cnn_0005#196",
+    "token_index": 18,
+    "sentence": "I would tell you if you 're a young Saudi that decides to volunteer for the Jihad and you come into Iraq the chances are extremely good that you 'll never come back from Iraq /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#507#1",
+    "sentence_id": "bc/cnn/00/cnn_0001#507",
+    "token_index": 1,
+    "sentence": "Thank you for having me on /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#503#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#503",
+    "token_index": 0,
+    "sentence": "She recently returned from Iraq with a half dozen other conservative radio talk show hosts where they broadcast for a week in order to combat what she calls the mainstream media and liberals ' attempt to undermine the war effort with negative news /.",
+    "surface": "She",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#323#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#323",
+    "token_index": 2,
+    "sentence": "But let me tell you something /.",
+    "surface": "me",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#320#3",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#320",
+    "token_index": 3,
+    "sentence": "they could ask him to come in voluntarily /.",
+    "surface": "him",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#204#11",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#204",
+    "token_index": 11,
+    "sentence": "this silliness about he was kidnapped on the same night that she went missing etcetera /.",
+    "surface": "she",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#395#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#395",
+    "token_index": 5,
+    "sentence": "if those two gentlemen uh you know were guilty of it and there 's some evidence that they were uh they put people back into the seats /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  }
+]

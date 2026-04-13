@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#334#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#334",
+    "token_index": 1,
+    "sentence": "But look no one knows how this woman 's going to vote on a particular case /.",
+    "surface": "look",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#153#1",
+    "sentence_id": "bc/cnn/00/cnn_0001#153",
+    "token_index": 1,
+    "sentence": "I mean their name is on the door /.",
+    "surface": "mean",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#242#2",
+    "sentence_id": "bc/cnn/00/cnn_0007#242",
+    "token_index": 2,
+    "sentence": "Yeah he was careful /.",
+    "surface": "was",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#532#8",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#532",
+    "token_index": 8,
+    "sentence": "How do you know the Republicans wo n't be smart enough to do the same thing to beat Hillary /?",
+    "surface": "be",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#40#35",
+    "sentence_id": "bc/cctv/00/cctv_0002#40",
+    "token_index": 35,
+    "sentence": "However , actually , today President Roh Moo - hyun of the hosting country of the meeting , Uh-huh . well , based on his meeting with Koizumi , I think , actually , it shows that a series of issues such as his visit to Yasukuni Shrine have indeed cast a very heavy shadow over the relations between the two countries .",
+    "surface": "shows",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#239#14",
+    "sentence_id": "bc/cnn/00/cnn_0003#239",
+    "token_index": 14,
+    "sentence": "and then of course like it 's just an interesting phenomena that people that have mental illness will not stay on their medication /.",
+    "surface": "have",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#678#5",
+    "sentence_id": "bc/cnn/00/cnn_0002#678",
+    "token_index": 5,
+    "sentence": "and it 's never been proven to work /.",
+    "surface": "proven",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#675#5",
+    "sentence_id": "bc/cnn/00/cnn_0001#675",
+    "token_index": 5,
+    "sentence": "I thought would n't it be fun for even me who 's a candy freak to just walk in and have this like oversized emporium of oversized lollipops /.",
+    "surface": "be",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  }
+]

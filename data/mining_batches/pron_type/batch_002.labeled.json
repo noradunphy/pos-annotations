@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0003#534#19", "gold_subclass": "relative", "notes": "Fused/free relative what (embedded clause content)."},
+  {"example_id": "bc/msnbc/00/msnbc_0002#71#2", "gold_subclass": "reflexive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#186#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#202#2", "gold_subclass": "indefinite", "notes": "Existential/presentational there; closest label among closed set."},
+  {"example_id": "bc/cnn/00/cnn_0005#428#3", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#462#6", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#294#2", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#334#6", "gold_subclass": "personal", "notes": ""}
+]

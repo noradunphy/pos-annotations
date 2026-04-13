@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0007#39#3", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#216#1", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#0#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#543#1", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#138#21", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#165#9", "gold_subclass": "possessive", "notes": "Possessive determiner (his diplomacy)."},
+  {"example_id": "bc/cnn/00/cnn_0001#652#5", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#38#4", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#304#9", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#186#2", "gold_subclass": "possessive", "notes": "Possessive determiner (their response)."}
+]

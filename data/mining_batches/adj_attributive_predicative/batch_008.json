@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#178#10",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#178",
+    "token_index": 10,
+    "sentence": "Coming up , President Bush says John Bolton is the right person for the job /.",
+    "surface": "right",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#116#12",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#116",
+    "token_index": 12,
+    "sentence": "It should be on them finding who is really responsible for this young lady 's you know tragic death /.",
+    "surface": "young",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#175#36",
+    "sentence_id": "bc/cnn/00/cnn_0007#175",
+    "token_index": 36,
+    "sentence": "because he had the initials on the memo which were MF Mark Felt and he knew Carl Berstein 's wife and he was going to assert it with the kind of authority that is rare not rare for Richard as a columnist but uh that this was a fact /.",
+    "surface": "rare",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#225#7",
+    "sentence_id": "bc/cctv/00/cctv_0001#225",
+    "token_index": 7,
+    "sentence": "First , let 's check out the main contents of today 's program .",
+    "surface": "main",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#323#5",
+    "sentence_id": "bc/cnn/00/cnn_0006#323",
+    "token_index": 5,
+    "sentence": "Today just south of the Iraqi capital a road side bomb killed five people /.",
+    "surface": "Iraqi",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#157#13",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#157",
+    "token_index": 13,
+    "sentence": "I think the focus is going to be on their conduct in this particular situation and whether it was justified or not /.",
+    "surface": "particular",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#81#7",
+    "sentence_id": "bc/cnn/00/cnn_0004#81",
+    "token_index": 7,
+    "sentence": "You know Supreme Court Justices have tremendous tremendous power over every one of our lives /.",
+    "surface": "tremendous",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#452#18",
+    "sentence_id": "bc/cctv/00/cctv_0004#452",
+    "token_index": 18,
+    "sentence": "Right , it seems that this incident , as it develops , will have a lot of things worthy of our attention .",
+    "surface": "worthy",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  }
+]

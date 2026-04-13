@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0003#26#14", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#293#11", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0001#97#18", "gold_subclass": "time", "notes": "\"back then\" = at that past time"},
+  {"example_id": "bc/cnn/00/cnn_0007#267#2", "gold_subclass": "degree", "notes": "\"kind of\" = somewhat"},
+  {"example_id": "bc/msnbc/00/msnbc_0001#164#4", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#674#5", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#369#0", "gold_subclass": "degree", "notes": "\"Exactly right\" — intensifier modifying \"right\""},
+  {"example_id": "bc/cctv/00/cctv_0003#254#2", "gold_subclass": "degree", "notes": "\"just about\" = approximately"},
+  {"example_id": "bc/cnn/00/cnn_0006#179#1", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#425#3", "gold_subclass": "time", "notes": ""}
+]

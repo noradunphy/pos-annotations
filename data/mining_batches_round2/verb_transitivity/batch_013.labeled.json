@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0004#573#5", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/cctv/00/cctv_0004#398#7", "gold_subclass": "intransitive", "notes": "Auxiliary in perfect progressive: has been suppressing"},
+  {"example_id": "bc/msnbc/00/msnbc_0004#384#13", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#315#6", "gold_subclass": "intransitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#448#8", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#335#1", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/msnbc/00/msnbc_0002#344#23", "gold_subclass": "transitive", "notes": "Causative: having my son re-victimized"},
+  {"example_id": "bc/cnn/00/cnn_0003#82#19", "gold_subclass": "transitive", "notes": "Takes clausal complement"},
+  {"example_id": "bc/cctv/00/cctv_0004#311#12", "gold_subclass": "intransitive", "notes": "Copular: be located"},
+  {"example_id": "bc/cnn/00/cnn_0006#248#2", "gold_subclass": "intransitive", "notes": "Copular"}
+]

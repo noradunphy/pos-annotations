@@ -1,0 +1,152 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#114#9",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#114",
+    "token_index": 9,
+    "sentence": "What do you think about his comment that we could lose the top ten floors of the UN building and it would n't hurt /?",
+    "surface": "could",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#105#9",
+    "sentence_id": "bc/cctv/00/cctv_0003#105",
+    "token_index": 9,
+    "sentence": "Well , I think at this point it would be ludicrous for Putin to concede on the territorial issues .",
+    "surface": "be",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#467#0",
+    "sentence_id": "bc/cnn/00/cnn_0002#467",
+    "token_index": 0,
+    "sentence": "Thank you /.",
+    "surface": "Thank",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#490#5",
+    "sentence_id": "bc/cnn/00/cnn_0003#490",
+    "token_index": 5,
+    "sentence": "Uh first of all I 'd like to thank you for stressing the fact that when you feel good you do n't take your medications /.",
+    "surface": "'d",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#222#3",
+    "sentence_id": "bc/cnn/00/cnn_0007#222",
+    "token_index": 3,
+    "sentence": "but when you talk about his memory he did n't even remember this was five years ago or barely remembered that Richard Nixon had resigned /.",
+    "surface": "talk",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#285#11",
+    "sentence_id": "bc/cnn/00/cnn_0006#285",
+    "token_index": 11,
+    "sentence": "A lot of viewers are asking me why should n't there be this kind of religious or ethnic or racial profiling /?",
+    "surface": "be",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#483#2",
+    "sentence_id": "bc/cnn/00/cnn_0005#483",
+    "token_index": 2,
+    "sentence": "And this is a very grave problem for Lebanon /.",
+    "surface": "is",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#151#4",
+    "sentence_id": "bc/cctv/00/cctv_0002#151",
+    "token_index": 4,
+    "sentence": "In fact , he will surely fail to take good care of the relations with the US because if you can not win the trust of your Asian neighboring countries , the US will not fully respect such a country .",
+    "surface": "will",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#150#5",
+    "sentence_id": "bc/cnn/00/cnn_0002#150",
+    "token_index": 5,
+    "sentence": "But can the democrats really crow about what 's going on in Virginia and what 's going in New Jersey /?",
+    "surface": "crow",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#632#13",
+    "sentence_id": "bc/cnn/00/cnn_0003#632",
+    "token_index": 13,
+    "sentence": "Um and that 's really between you and your doctor to try to find your way through um those side effects /.",
+    "surface": "find",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  }
+]

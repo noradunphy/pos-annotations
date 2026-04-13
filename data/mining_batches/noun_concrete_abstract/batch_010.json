@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0004#13#17",
+    "sentence_id": "bc/cctv/00/cctv_0004#13",
+    "token_index": 17,
+    "sentence": "Why can a TV station in a small Arab country have US President Bush on pins and needles ?",
+    "surface": "needles",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#156#8",
+    "sentence_id": "bc/cnn/00/cnn_0007#156",
+    "token_index": 8,
+    "sentence": "and then they send a message to the Attorney General ah saying you know case closed we found out who did it /.",
+    "surface": "Attorney",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#229#33",
+    "sentence_id": "bc/cctv/00/cctv_0001#229",
+    "token_index": 33,
+    "sentence": "On August 17 , the Taiwan military held the Lianhsing 94 amphibious landing exercise , testing and enhancing the army 's response capabilities and its combat ability in repelling an enemy 's amphibious landing .",
+    "surface": "landing",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#74#7",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#74",
+    "token_index": 7,
+    "sentence": "From Mr. Littlejohn 's diverse wardrobe apparently cops say they found hairs matching two of his jackets on the tape that was wrapping Imette 's face and also on the blanket that was wrapping her body /.",
+    "surface": "cops",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#468#13",
+    "sentence_id": "bc/cctv/00/cctv_0002#468",
+    "token_index": 13,
+    "sentence": "Er , judging from the situation he is in while participating in the APEC meeting , er , I am afraid he may not be suffering from friction with neighboring countries only .",
+    "surface": "APEC",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#387#13",
+    "sentence_id": "bc/cctv/00/cctv_0003#387",
+    "token_index": 13,
+    "sentence": "I think both sides generally know the two sides ' levels of political operations , knowing that territorial issues are hard to resolve .",
+    "surface": "operations",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#141#21",
+    "sentence_id": "bc/cctv/00/cctv_0004#141",
+    "token_index": 21,
+    "sentence": "That 's because all the things reported by al - Jazeera TV station since its establishment in 1996 were those the US did not want viewers in the world to look at , especially with respect to the Afghan war and Iraq war .",
+    "surface": "US",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#96#9",
+    "sentence_id": "bc/cctv/00/cctv_0004#96",
+    "token_index": 9,
+    "sentence": "I think there are two questions involved in this matter .",
+    "surface": "matter",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  }
+]

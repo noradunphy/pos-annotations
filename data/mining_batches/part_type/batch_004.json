@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0006#48#4",
+    "sentence_id": "bc/cnn/00/cnn_0006#48",
+    "token_index": 4,
+    "sentence": "and if we want to get the referendum uh uh and our people to ratify uh our draft of constitution in the next referendum we need to include every part of Iraq /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#260#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#260",
+    "token_index": 5,
+    "sentence": "And he 's also going to argue that um you know he felt threatened or something like that . And that he uh was threatened by someone /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#29#7",
+    "sentence_id": "bc/cctv/00/cctv_0004#29",
+    "token_index": 7,
+    "sentence": "Well , at the start of today 's program , let 's learn about the full context of this incident together .",
+    "surface": "'s",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#202#27",
+    "sentence_id": "bc/cnn/00/cnn_0002#202",
+    "token_index": 27,
+    "sentence": "You know it 's hard to think of a more agonizing decision that a parent could face choosing whether to let a child die or to hold out hope no matter what the doctors and all the other experts say /.",
+    "surface": "out",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#680#8",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#680",
+    "token_index": 8,
+    "sentence": "I mean it sounds like what 's going to happen is the government 's going to declare this guy mentally ill /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#254#3",
+    "sentence_id": "bc/cnn/00/cnn_0007#254",
+    "token_index": 3,
+    "sentence": "so I backed off /.",
+    "surface": "off",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#7#18",
+    "sentence_id": "bc/cctv/00/cctv_0001#7",
+    "token_index": 18,
+    "sentence": "This campaign broke through the Japanese army 's blockade to reach base areas behind enemy lines , stirring up anti-Japanese spirit throughout the nation and influencing the situation of the anti-fascist war of the people worldwide .",
+    "surface": "up",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#442#3",
+    "sentence_id": "bc/cnn/00/cnn_0006#442",
+    "token_index": 3,
+    "sentence": "We have provisions to bring back the entire seven person crew of Discovery if required in an emergency situation /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  }
+]

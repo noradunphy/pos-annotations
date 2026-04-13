@@ -1,0 +1,122 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0002#162#12",
+    "sentence_id": "bc/cctv/00/cctv_0002#162",
+    "token_index": 12,
+    "sentence": "Many people also mentioned , by valuing the US alone , you are ignoring Asia .",
+    "surface": "are",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#444#2",
+    "sentence_id": "bc/cnn/00/cnn_0003#444",
+    "token_index": 2,
+    "sentence": "Do n't go away /.",
+    "surface": "go",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#12#1",
+    "sentence_id": "bc/cnn/00/cnn_0001#12",
+    "token_index": 1,
+    "sentence": "Go get them /.",
+    "surface": "get",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#486#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#486",
+    "token_index": 4,
+    "sentence": "Uh I think it 's more likely than not yeah /.",
+    "surface": "'s",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#401#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#401",
+    "token_index": 2,
+    "sentence": "Jim Dobson is going to tell the truth /.",
+    "surface": "is",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#144#1",
+    "sentence_id": "bc/cctv/00/cctv_0003#144",
+    "token_index": 1,
+    "sentence": "It has such a vision .",
+    "surface": "has",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#452#13",
+    "sentence_id": "bc/cnn/00/cnn_0004#452",
+    "token_index": 13,
+    "sentence": "Uh you had mentioned uh that you find it rather uh odd I guess the silence of Dick Cheney or maybe not so odd but he has been silent /.",
+    "surface": "guess",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#193#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#193",
+    "token_index": 2,
+    "sentence": "And I think the first step to getting towards the bottom of the scandal in Columbus is to have guys like Bill Berger resign /.",
+    "surface": "think",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  }
+]

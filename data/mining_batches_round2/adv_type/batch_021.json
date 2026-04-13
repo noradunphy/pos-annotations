@@ -1,0 +1,172 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0003#577#1",
+    "sentence_id": "bc/cnn/00/cnn_0003#577",
+    "token_index": 1,
+    "sentence": "Most importantly I 'm very interested in your program /.",
+    "surface": "importantly",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#139#0",
+    "sentence_id": "bc/cnn/00/cnn_0006#139",
+    "token_index": 0,
+    "sentence": "So when do you think it will all be wrapped up uh would you guess /.",
+    "surface": "So",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#502#3",
+    "sentence_id": "bc/cnn/00/cnn_0001#502",
+    "token_index": 3,
+    "sentence": "She joins us now by phone /.",
+    "surface": "now",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#171#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#171",
+    "token_index": 4,
+    "sentence": "It 's presently scarred presently tainted /.",
+    "surface": "presently",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#12#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#12",
+    "token_index": 0,
+    "sentence": "Now to politics /.",
+    "surface": "Now",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#51#6",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#51",
+    "token_index": 6,
+    "sentence": "the uh Associated Press producer did not want to press charges /.",
+    "surface": "not",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#354#21",
+    "sentence_id": "bc/cctv/00/cctv_0002#354",
+    "token_index": 21,
+    "sentence": "Ah , I do n't think it would be that serious , but we can see that the international community has already shown tremendous concern about the chaos to international relations in this region that may have resulted from the Koizumi cabinet 's reckless diplomacy .",
+    "surface": "already",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#8#0",
+    "sentence_id": "bc/cnn/00/cnn_0006#8",
+    "token_index": 0,
+    "sentence": "First though let 's get a quick check of what 's in the news right now /.",
+    "surface": "First",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#18#0",
+    "sentence_id": "bc/cctv/00/cctv_0003#18",
+    "token_index": 0,
+    "sentence": "First , please brief us on what was discussed during today 's talks between the Russian and Japanese leaders .",
+    "surface": "First",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#111#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#111",
+    "token_index": 0,
+    "sentence": "All right /.",
+    "surface": "All",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0003#356#13", "gold_subclass": "stative", "notes": "Copula be (predicational)."},
+  {"example_id": "bc/msnbc/00/msnbc_0001#498#2", "gold_subclass": "stative", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#534#8", "gold_subclass": "eventive", "notes": "Motion imperative in quoted directive."},
+  {"example_id": "bc/cnn/00/cnn_0001#459#5", "gold_subclass": "eventive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#332#0", "gold_subclass": "eventive", "notes": "Speech-act greeting."},
+  {"example_id": "bc/msnbc/00/msnbc_0001#369#0", "gold_subclass": "eventive", "notes": "Motion imperative."},
+  {"example_id": "bc/msnbc/00/msnbc_0001#310#25", "gold_subclass": "eventive", "notes": "Tell: communicative act."},
+  {"example_id": "bc/cnn/00/cnn_0004#253#1", "gold_subclass": "eventive", "notes": "Dummy do-support; closest non-stative label."}
+]

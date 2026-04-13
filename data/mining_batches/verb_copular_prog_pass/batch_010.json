@@ -1,0 +1,122 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0006#100#1",
+    "sentence_id": "bc/cnn/00/cnn_0006#100",
+    "token_index": 1,
+    "sentence": "there are so many are variables in this process /.",
+    "surface": "are",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#215#9",
+    "sentence_id": "bc/cnn/00/cnn_0007#215",
+    "token_index": 9,
+    "sentence": "and then ah very belatedly five years ago I went to see him /.",
+    "surface": "went",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#390#10",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#390",
+    "token_index": 10,
+    "sentence": "I 'd like to know that though I got to tell you /.",
+    "surface": "tell",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#242#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#242",
+    "token_index": 4,
+    "sentence": "Do you think there 's any danger in the world of causing a real war in North Korea again another Korean war by calling the North Korean dictator what he is /?",
+    "surface": "'s",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#15#4",
+    "sentence_id": "bc/cnn/00/cnn_0002#15",
+    "token_index": 4,
+    "sentence": "But this tragdey definitely has come to roost here after taking the life of a very popular assistant principal here Anderson /.",
+    "surface": "has",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#453#2",
+    "sentence_id": "bc/cnn/00/cnn_0005#453",
+    "token_index": 2,
+    "sentence": "Are you thinking about resigning /?",
+    "surface": "thinking",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#168#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#168",
+    "token_index": 1,
+    "sentence": "He has heard the President and the Vice President accuse uh people who disagree with his war policy like Paul Hackett /.",
+    "surface": "has",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#136#11",
+    "sentence_id": "bc/cctv/00/cctv_0002#136",
+    "token_index": 11,
+    "sentence": "So , such a prime minister like Koizumi , who blindly follows the US as the guideline of his diplomacy , was rarely seen even during the Cold War era .",
+    "surface": "follows",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#314#12",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#314",
+    "token_index": 12,
+    "sentence": "The question should Dobson be forced to tell the Senate what information he 's got on Miers /.",
+    "surface": "he",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#36#4",
+    "sentence_id": "bc/cnn/00/cnn_0004#36",
+    "token_index": 4,
+    "sentence": "We have to study his record find out uh what he thinks /.",
+    "surface": "his",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#102#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#102",
+    "token_index": 0,
+    "sentence": "I sat through all the hearings and read all the stuff /.",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#311#2",
+    "sentence_id": "bc/cnn/00/cnn_0005#311",
+    "token_index": 2,
+    "sentence": "Alright well I have n't run a marathon /.",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#310#28",
+    "sentence_id": "bc/cctv/00/cctv_0003#310",
+    "token_index": 28,
+    "sentence": "For things like this , as Japan looks at this piece of history -- also , Japanese captives were dragged to Siberia to labor camps -- I heard there were 100,000 , 200,000 .",
+    "surface": "there",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#498#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#498",
+    "token_index": 4,
+    "sentence": "and if he runs he 's going to be a contender /.",
+    "surface": "he",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#302#4",
+    "sentence_id": "bc/cnn/00/cnn_0002#302",
+    "token_index": 4,
+    "sentence": "Oh yeah I see it /.",
+    "surface": "it",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#362#11",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#362",
+    "token_index": 11,
+    "sentence": "And my goal um is to you know um help keep him that way /.",
+    "surface": "him",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#459#7",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#459",
+    "token_index": 7,
+    "sentence": "If you do n't think they love you then /-",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#71#9",
+    "sentence_id": "bc/cnn/00/cnn_0002#71",
+    "token_index": 9,
+    "sentence": "Uh now Nathan or Ethan I mean you know you hear these reports /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  }
+]

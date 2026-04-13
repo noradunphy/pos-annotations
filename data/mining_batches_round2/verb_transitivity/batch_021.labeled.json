@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0007#95#9", "gold_subclass": "intransitive", "notes": "Semi-auxiliary: going to future"},
+  {"example_id": "bc/msnbc/00/msnbc_0001#220#11", "gold_subclass": "transitive", "notes": "Takes clausal complement"},
+  {"example_id": "bc/cnn/00/cnn_0001#562#3", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/msnbc/00/msnbc_0004#532#3", "gold_subclass": "transitive", "notes": "Takes clausal complement"},
+  {"example_id": "bc/cnn/00/cnn_0003#83#12", "gold_subclass": "ambitransitive", "notes": "Discourse marker: you know"},
+  {"example_id": "bc/cctv/00/cctv_0003#144#1", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#400#7", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/cnn/00/cnn_0007#12#2", "gold_subclass": "intransitive", "notes": "Pled guilty: no direct object"},
+  {"example_id": "bc/cctv/00/cctv_0003#159#10", "gold_subclass": "intransitive", "notes": "Modal auxiliary"},
+  {"example_id": "bc/cctv/00/cctv_0004#36#37", "gold_subclass": "intransitive", "notes": "Auxiliary in perfect: had intended"}
+]

@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0002#376#2", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/cnn/00/cnn_0004#182#6", "gold_subclass": "ambitransitive", "notes": "Used without explicit object but know commonly takes one"},
+  {"example_id": "bc/msnbc/00/msnbc_0001#226#2", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#5#17", "gold_subclass": "intransitive", "notes": "Linking verb: appear white"},
+  {"example_id": "bc/cnn/00/cnn_0001#454#3", "gold_subclass": "intransitive", "notes": "Auxiliary in perfect: have seen"},
+  {"example_id": "bc/cctv/00/cctv_0002#154#5", "gold_subclass": "intransitive", "notes": "Prepositional: go beyond"},
+  {"example_id": "bc/cctv/00/cctv_0002#301#19", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#235#9", "gold_subclass": "intransitive", "notes": "Phrasal verb: logged on"},
+  {"example_id": "bc/cnn/00/cnn_0005#309#60", "gold_subclass": "intransitive", "notes": "Auxiliary in progressive: is increasing"},
+  {"example_id": "bc/msnbc/00/msnbc_0002#319#4", "gold_subclass": "intransitive", "notes": ""}
+]

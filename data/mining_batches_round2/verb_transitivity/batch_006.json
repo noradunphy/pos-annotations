@@ -1,0 +1,152 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#272#10",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#272",
+    "token_index": 10,
+    "sentence": "Now their families are suing a Minnesota county where he was charged with a different crime /.",
+    "surface": "was",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#327#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#327",
+    "token_index": 1,
+    "sentence": "even referred to police officers do n't like to testify /.",
+    "surface": "referred",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#164#20",
+    "sentence_id": "bc/cctv/00/cctv_0003#164",
+    "token_index": 20,
+    "sentence": "In various versions , some said Putin would visit Japan in April 2005 , some said May , while others said June .",
+    "surface": "said",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#403#4",
+    "sentence_id": "bc/cnn/00/cnn_0003#403",
+    "token_index": 4,
+    "sentence": "but if you could offer him um the freedom and the kindness to go and talk to somebody and seek the help and keep seeking the help that will help him a lot /.",
+    "surface": "offer",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#499#3",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#499",
+    "token_index": 3,
+    "sentence": "You know Republicans are very +hierarchial /.",
+    "surface": "are",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#401#8",
+    "sentence_id": "bc/cnn/00/cnn_0004#401",
+    "token_index": 8,
+    "sentence": "Did he give you a reason when he was President why you could n't interview him /?",
+    "surface": "was",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#86#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#86",
+    "token_index": 5,
+    "sentence": "So I think it would be a mistake to simply John Bolton as a tough guy who is going to push folks around /.",
+    "surface": "be",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#320#8",
+    "sentence_id": "bc/cnn/00/cnn_0005#320",
+    "token_index": 8,
+    "sentence": "There 's a timetable which the Iraqis have set for themselves and accepted /.",
+    "surface": "set",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#305#7",
+    "sentence_id": "bc/cnn/00/cnn_0006#305",
+    "token_index": 7,
+    "sentence": "if you have a backpack on you ought {to} expect to be uh searched more frequently /.",
+    "surface": "ought",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#148#27",
+    "sentence_id": "bc/cnn/00/cnn_0007#148",
+    "token_index": 27,
+    "sentence": "Ah we concealed his identity in a way ah that it remained confidential for more than thirty years after that book came out and it only was disclosed because Mark Felt his lawyer and family decided to disclose it /.",
+    "surface": "disclosed",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0004#36#33",
+    "sentence_id": "bc/cctv/00/cctv_0004#36",
+    "token_index": 33,
+    "sentence": "The article writes that the minutes of a meeting between British Prime Minister Blair , who was visiting the US on April 16 , 2004 , and US President Bush at the White House showed that Bush had intended to take military actions against al - Jazeera TV station headquartered in the Qatari capital of Doha .",
+    "surface": "House",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#175#15",
+    "sentence_id": "bc/cnn/00/cnn_0006#175",
+    "token_index": 15,
+    "sentence": "And just ahead is a timetable set , should one be set , for US troops to start leaving Iraq /?",
+    "surface": "troops",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#55#4",
+    "sentence_id": "bc/cnn/00/cnn_0002#55",
+    "token_index": 4,
+    "sentence": "It 's policy and impolicy not to do that /.",
+    "surface": "impolicy",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#74#1",
+    "sentence_id": "bc/cctv/00/cctv_0002#74",
+    "token_index": 1,
+    "sentence": "Some commentaries said that when Koizumi went to meet with Roh Moo - hyun this time , it was like clutching at a straw to save his life .",
+    "surface": "commentaries",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#434#6",
+    "sentence_id": "bc/cnn/00/cnn_0003#434",
+    "token_index": 6,
+    "sentence": "In the bipolar phase when the swing is high you must feel terrific /.",
+    "surface": "swing",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#48#27",
+    "sentence_id": "bc/cctv/00/cctv_0001#48",
+    "token_index": 27,
+    "sentence": "Outside of Taiyuan and Shijiazhuang , the Japanese military deployed the 4th , 8th , and 93rd mixed brigades and regiments , which were scattered among 50 strongholds along the railway line .",
+    "surface": "strongholds",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#124#10",
+    "sentence_id": "bc/cnn/00/cnn_0002#124",
+    "token_index": 10,
+    "sentence": "Those are the races for the governorships in Virginia and New Jersey /.",
+    "surface": "New",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#190#15",
+    "sentence_id": "bc/cnn/00/cnn_0006#190",
+    "token_index": 15,
+    "sentence": "US Army General George Casey the head of coalition forces in Iraq talking this past week about the possible start of US troop withdrawals next year /.",
+    "surface": "week",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  }
+]

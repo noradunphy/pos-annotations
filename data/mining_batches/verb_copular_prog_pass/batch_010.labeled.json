@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0006#100#1", "gold_subclass": "copular", "notes": "Existential there + be."},
+  {"example_id": "bc/cnn/00/cnn_0007#215#9", "gold_subclass": "none_of_these", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#390#10", "gold_subclass": "none_of_these", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#242#4", "gold_subclass": "copular", "notes": "Existential there's + NP."},
+  {"example_id": "bc/cnn/00/cnn_0002#15#4", "gold_subclass": "none_of_these", "notes": "Perfect auxiliary have."},
+  {"example_id": "bc/cnn/00/cnn_0005#453#2", "gold_subclass": "progressive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#168#1", "gold_subclass": "none_of_these", "notes": "Perfect auxiliary have."},
+  {"example_id": "bc/cctv/00/cctv_0002#136#11", "gold_subclass": "none_of_these", "notes": ""}
+]

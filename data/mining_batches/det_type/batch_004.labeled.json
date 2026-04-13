@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0002#72#34", "gold_subclass": "articles", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#576#10", "gold_subclass": "articles", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#593#14", "gold_subclass": "demonstratives", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0007#91#15", "gold_subclass": "quantifiers", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#70#2", "gold_subclass": "demonstratives", "notes": "Pronoun fused with relative (those who); not immediately before a simple lexical head noun."},
+  {"example_id": "bc/cnn/00/cnn_0001#304#14", "gold_subclass": "articles", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#438#2", "gold_subclass": "articles", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#1#13", "gold_subclass": "articles", "notes": ""}
+]

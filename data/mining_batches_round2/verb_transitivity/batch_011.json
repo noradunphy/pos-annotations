@@ -1,0 +1,152 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0004#346#1",
+    "sentence_id": "bc/cnn/00/cnn_0004#346",
+    "token_index": 1,
+    "sentence": "I know /.",
+    "surface": "know",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#410#5",
+    "sentence_id": "bc/cnn/00/cnn_0006#410",
+    "token_index": 5,
+    "sentence": "and uh we have to go figure out what it was and uh go fix it /.",
+    "surface": "go",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#17#1",
+    "sentence_id": "bc/cnn/00/cnn_0003#17",
+    "token_index": 1,
+    "sentence": "I do n't really feel that that 's responsible to name any drug /.",
+    "surface": "do",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#176#2",
+    "sentence_id": "bc/cnn/00/cnn_0004#176",
+    "token_index": 2,
+    "sentence": "Mike what 's your read on Samuel Alito /?",
+    "surface": "'s",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#481#3",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#481",
+    "token_index": 3,
+    "sentence": "You believe he will not be /?",
+    "surface": "will",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#303#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#303",
+    "token_index": 2,
+    "sentence": "Okay I do n't want to interrupt you Dan /.",
+    "surface": "do",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#77#4",
+    "sentence_id": "bc/cnn/00/cnn_0004#77",
+    "token_index": 4,
+    "sentence": "And Sam and I do agree on one thing Larry /.",
+    "surface": "do",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#462#12",
+    "sentence_id": "bc/cnn/00/cnn_0005#462",
+    "token_index": 12,
+    "sentence": "and we are considering the possible return of the verification team to ascertain what 's going on /.",
+    "surface": "ascertain",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#47#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#47",
+    "token_index": 1,
+    "sentence": "I 'm David Shuster for Hardball in Washington /.",
+    "surface": "'m",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#189#6",
+    "sentence_id": "bc/cnn/00/cnn_0003#189",
+    "token_index": 6,
+    "sentence": "And you know that for years going into it and still ca n't control the behavior /.",
+    "surface": "going",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  }
+]

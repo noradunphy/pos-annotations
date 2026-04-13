@@ -1,0 +1,172 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0002#19#2",
+    "sentence_id": "bc/cnn/00/cnn_0002#19",
+    "token_index": 2,
+    "sentence": "In fact when I asked the sheriff exactly how many people were here he said he could n't really tell me that it 's just that he gave me the county at large but there were thirteen hundred students here at the school /.",
+    "surface": "when",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#84#28",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#84",
+    "token_index": 28,
+    "sentence": "The insurgents are trying to do this to whip the public sentiment into a frenzy uh to leave when it 's too soon so that they can once again take over uh that country /.",
+    "surface": "again",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#233#25",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#233",
+    "token_index": 25,
+    "sentence": "He was very successful in a previous incarnation in New York when he was able to defeat the Zionism is racism uh resolution there back then /.",
+    "surface": "then",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#25#14",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#25",
+    "token_index": 14,
+    "sentence": "This was the closest any Democratic congressional candidate has come to beating a Republican here in more than twenty years /.",
+    "surface": "here",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#541#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#541",
+    "token_index": 5,
+    "sentence": "I think that you were there for ten days /.",
+    "surface": "there",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#565#11",
+    "sentence_id": "bc/cnn/00/cnn_0001#565",
+    "token_index": 11,
+    "sentence": "Will millions of those who survived last month 's massive earthquake now succumb to something else bitter cold /?",
+    "surface": "now",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#632#0",
+    "sentence_id": "bc/cnn/00/cnn_0004#632",
+    "token_index": 0,
+    "sentence": "Of course of course of course /.",
+    "surface": "Of",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#72#26",
+    "sentence_id": "bc/cnn/00/cnn_0005#72",
+    "token_index": 26,
+    "sentence": "But as long as the politics move forward in a positive direction that is considered to be legitimate by the majority of the Iraqi people and as long as Iraqi security forces continue to develop at the rate that they 're developing and as long as American forces continue to stay there to provide the strength for those Iraqi forces as they develop we are after all the shield behind which politics takes place the insurgency wo n't make it /.",
+    "surface": "as",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#259#3",
+    "sentence_id": "bc/cnn/00/cnn_0005#259",
+    "token_index": 3,
+    "sentence": "We 'll be right back /.",
+    "surface": "right",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#88#18",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#88",
+    "token_index": 18,
+    "sentence": "There is no disaster that has had the amount of trauma for a department that this has where so many police officers have lost homes been separated from their families had loved ones living in other places with no idea uh when they will return /.",
+    "surface": "so",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  }
+]

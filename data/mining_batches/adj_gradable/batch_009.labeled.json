@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0004#26#11", "gold_subclass": "non-gradable", "notes": "Fixed phrase 'nothing short of'."},
+  {"example_id": "bc/cctv/00/cctv_0001#99#2", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0004#62#5", "gold_subclass": "non-gradable", "notes": "Contrasting 'other city newspapers'."},
+  {"example_id": "bc/cctv/00/cctv_0003#214#5", "gold_subclass": "non-gradable", "notes": "Relational 'economic crisis'."},
+  {"example_id": "bc/msnbc/00/msnbc_0001#187#2", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#533#7", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#448#24", "gold_subclass": "non-gradable", "notes": "Completeness 'full crew'; not *more full here."},
+  {"example_id": "bc/cnn/00/cnn_0003#521#3", "gold_subclass": "gradable", "notes": ""}
+]

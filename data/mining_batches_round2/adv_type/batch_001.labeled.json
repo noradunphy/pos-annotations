@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0001#109#9", "gold_subclass": "manner", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#373#2", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#90#5", "gold_subclass": "place", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0001#166#23", "gold_subclass": "manner", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#476#0", "gold_subclass": "sentence_discourse", "notes": "part of interjection \"All right\""},
+  {"example_id": "bc/cnn/00/cnn_0003#143#23", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#727#13", "gold_subclass": "degree", "notes": "negation adverb"},
+  {"example_id": "bc/cnn/00/cnn_0007#231#0", "gold_subclass": "manner", "notes": "interrogative adverb asking about manner"},
+  {"example_id": "bc/msnbc/00/msnbc_0003#504#0", "gold_subclass": "sentence_discourse", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#431#3", "gold_subclass": "degree", "notes": ""}
+]

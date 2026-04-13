@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#435#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#435",
+    "token_index": 5,
+    "sentence": "It would n't have changed anything /.",
+    "surface": "anything",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#192#36",
+    "sentence_id": "bc/cnn/00/cnn_0005#192",
+    "token_index": 36,
+    "sentence": "Do you agree with the CIA assessment and a recent assessment that the terrorist training ground of Iraq today effectively has become a more effective training ground for Al - Queda and for international terrorists than Afghanistan under the Taliban ever was /?",
+    "surface": "Afghanistan",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#71#14",
+    "sentence_id": "bc/cctv/00/cctv_0001#71",
+    "token_index": 14,
+    "sentence": "Upon arriving , he relayed an order , saying the road from Yangquan to Hedi must be cut off tonight , with the electrical wires slashed .",
+    "surface": "Hedi",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#309#18",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#309",
+    "token_index": 18,
+    "sentence": "and all Debra Lafave got was three years of house arrest seven years probation after entering into a plea deal /.",
+    "surface": "plea",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#240#16",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#240",
+    "token_index": 16,
+    "sentence": "Um tell us what you know uh about this gentleman who you think that uh your daughter is with /.",
+    "surface": "daughter",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#40#16",
+    "sentence_id": "bc/cnn/00/cnn_0005#40",
+    "token_index": 16,
+    "sentence": "I wanted to make clear that crushing the insurgency has to do with a combination of politics economics military activity and diplomatic activity /.",
+    "surface": "politics",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#676#24",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#676",
+    "token_index": 24,
+    "sentence": "We could have worked over the last four years I believe much harder to make sure that Afghanistan had a competent non-ideological and non-political judiciary /.",
+    "surface": "judiciary",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#46#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#46",
+    "token_index": 5,
+    "sentence": "It 's always fun on Friday night here /.",
+    "surface": "Friday",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  }
+]

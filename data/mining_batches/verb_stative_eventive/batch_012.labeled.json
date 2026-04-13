@@ -1,0 +1,6 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0005#27#23", "gold_subclass": "eventive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#665#11", "gold_subclass": "stative", "notes": "Copula was linking to document (characterization)."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#425#0", "gold_subclass": "eventive", "notes": "Auxiliary Do in question."},
+  {"example_id": "bc/cctv/00/cctv_0003#58#4", "gold_subclass": "eventive", "notes": "Was not decided: non-occurrence of deciding / passive event reading."}
+]

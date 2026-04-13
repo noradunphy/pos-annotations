@@ -1,0 +1,6 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0003#673#27", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#481#2", "gold_subclass": "predicative", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#159#18", "gold_subclass": "attributive", "notes": "Token is a proper name (Ken Blackwell); tagged ADJ—forced attributive as NP-internal name."},
+  {"example_id": "bc/msnbc/00/msnbc_0002#375#4", "gold_subclass": "attributive", "notes": ""}
+]

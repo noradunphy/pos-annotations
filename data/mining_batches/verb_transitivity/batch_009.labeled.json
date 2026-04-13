@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0001#506#8", "gold_subclass": "intransitive", "notes": "perfect auxiliary has registered"},
+  {"example_id": "bc/cnn/00/cnn_0003#98#2", "gold_subclass": "intransitive", "notes": "do-support; main verb help has object"},
+  {"example_id": "bc/cnn/00/cnn_0005#185#1", "gold_subclass": "transitive", "notes": "brings foreign fighters (in from ... is adjunct)"},
+  {"example_id": "bc/cnn/00/cnn_0004#410#3", "gold_subclass": "transitive", "notes": "know this"},
+  {"example_id": "bc/cnn/00/cnn_0006#43#8", "gold_subclass": "intransitive", "notes": "copular is"},
+  {"example_id": "bc/msnbc/00/msnbc_0004#303#4", "gold_subclass": "transitive", "notes": "want to interrupt (non-finite complement)"},
+  {"example_id": "bc/msnbc/00/msnbc_0003#601#2", "gold_subclass": "intransitive", "notes": "goes beyond (prepositional complement)"},
+  {"example_id": "bc/cnn/00/cnn_0004#443#6", "gold_subclass": "transitive", "notes": "wanted to say that ... (clausal complement)"}
+]

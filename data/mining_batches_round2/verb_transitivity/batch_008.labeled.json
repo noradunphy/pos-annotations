@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0003#568#4", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/cctv/00/cctv_0003#299#8", "gold_subclass": "intransitive", "notes": "Auxiliary in perfect: has changed"},
+  {"example_id": "bc/cnn/00/cnn_0006#179#3", "gold_subclass": "transitive", "notes": "Takes infinitival complement"},
+  {"example_id": "bc/msnbc/00/msnbc_0002#496#9", "gold_subclass": "transitive", "notes": "Passive: she was abused"},
+  {"example_id": "bc/cnn/00/cnn_0007#205#2", "gold_subclass": "transitive", "notes": "Takes clausal complement"},
+  {"example_id": "bc/msnbc/00/msnbc_0001#149#22", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/cnn/00/cnn_0002#442#6", "gold_subclass": "intransitive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#88#14", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#110#1", "gold_subclass": "transitive", "notes": "Takes clausal complement"},
+  {"example_id": "bc/msnbc/00/msnbc_0002#623#7", "gold_subclass": "transitive", "notes": "Passive: this man executed"}
+]

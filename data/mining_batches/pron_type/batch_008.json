@@ -1,0 +1,146 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0007#233#41",
+    "sentence_id": "bc/cnn/00/cnn_0007#233",
+    "token_index": 41,
+    "sentence": "Same time I know a lot about his motive of frustration and uh you know reckless uh law - breaking going on in the Nixon White House uh the level of lawbreaking which we have not seen since and I hope we never see again /.",
+    "surface": "we",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#395#20",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#395",
+    "token_index": 20,
+    "sentence": "if those two gentlemen uh you know were guilty of it and there 's some evidence that they were uh they put people back into the seats /.",
+    "surface": "they",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#133#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#133",
+    "token_index": 0,
+    "sentence": "We 're joined right now by Ohio Democratic congressman Sherrod Brown and Ohio 's Republican Secretary of State Ken Blackwell who 's also a candidate for governor who is in fact a candidate for governor /.",
+    "surface": "We",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#210#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#210",
+    "token_index": 1,
+    "sentence": "And it seems very coincidental and suspicious to me /.",
+    "surface": "it",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#174#1",
+    "sentence_id": "bc/cnn/00/cnn_0006#174",
+    "token_index": 1,
+    "sentence": "Thank you very much for having me Wolf /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#487#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#487",
+    "token_index": 4,
+    "sentence": "and had they done their job right back there and had uh invesigated it properly in this information age that we have it is my opinion and the families ' opinion this would have not happened /.",
+    "surface": "their",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#21#8",
+    "sentence_id": "bc/cnn/00/cnn_0003#21",
+    "token_index": 8,
+    "sentence": "As a teenager even as a younger girl I had some depression /.",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#346#1",
+    "sentence_id": "bc/cnn/00/cnn_0001#346",
+    "token_index": 1,
+    "sentence": "And you can catch American Morning 's Miles O'Brien and Soledad O'Brien every morning on American Morning beginning at seven am eastern /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  }
+]

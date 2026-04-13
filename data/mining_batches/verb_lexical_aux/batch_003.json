@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#633#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#633",
+    "token_index": 2,
+    "sentence": "The government are playing games /.",
+    "surface": "are",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#90#34",
+    "sentence_id": "bc/cnn/00/cnn_0007#90",
+    "token_index": 34,
+    "sentence": "Scott I mean I mean this is ridiculous the notion that you 're going to stand before us after having commented with that level of detail and tell people watching this that somehow you 've decided not to talk /.",
+    "surface": "'ve",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#113#17",
+    "sentence_id": "bc/cctv/00/cctv_0002#113",
+    "token_index": 17,
+    "sentence": "As long as these two countries stand together , then it seems that other countries could not do anything to them .",
+    "surface": "do",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#8#2",
+    "sentence_id": "bc/cnn/00/cnn_0002#8",
+    "token_index": 2,
+    "sentence": "He was taken to a hospital where he was treated for what appeared to be a gun shot wound to his own hand suggesting there might have been uh a struggle going on afterwards /.",
+    "surface": "taken",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#628#61",
+    "sentence_id": "bc/cnn/00/cnn_0002#628",
+    "token_index": 61,
+    "sentence": "But then if it 's felt necessary to use any of these measures short of torture water boarding extreme psychological measures if the president of the United States is prepared to put his credibility on the line and say the future of the nation is stake we must violate the law in this instance like we would if we had to shoot down a civilian airliner let the president take accountability /.",
+    "surface": "shoot",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#334#15",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#334",
+    "token_index": 15,
+    "sentence": "When people come before Congress and they are sworn to testify truthfully there has to be consequences when they do not do so /.",
+    "surface": "be",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#298#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#298",
+    "token_index": 4,
+    "sentence": "At least one death is blamed on the storm by a woman who was hit by a falling tree limb /.",
+    "surface": "is",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#277#9",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#277",
+    "token_index": 9,
+    "sentence": "Terry Bowen forty four five nine one seventy five has n't registered with the authorities /.",
+    "surface": "has",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  }
+]

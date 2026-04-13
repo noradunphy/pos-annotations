@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0002#95#0",
+    "sentence_id": "bc/cnn/00/cnn_0002#95",
+    "token_index": 0,
+    "sentence": "but we do n't allow them to express fear and sadness and other more vulnerable emotions /.",
+    "surface": "but",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#97#0",
+    "sentence_id": "bc/cnn/00/cnn_0006#97",
+    "token_index": 0,
+    "sentence": "and one of it is the training of our Iraqi security forces /.",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#359#19",
+    "sentence_id": "bc/cctv/00/cctv_0003#359",
+    "token_index": 19,
+    "sentence": "Well , as I just said very clearly , that is to say , in addition to the legal and historical complications , the repeated change of ownership , and then national sentiments as well , the four northern islands are also strategically very important .",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#23#0",
+    "sentence_id": "bc/cnn/00/cnn_0003#23",
+    "token_index": 0,
+    "sentence": "nor did I know in those days that that 's what it was /.",
+    "surface": "nor",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#676#22",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#676",
+    "token_index": 22,
+    "sentence": "We could have worked over the last four years I believe much harder to make sure that Afghanistan had a competent non-ideological and non-political judiciary /.",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#298#0",
+    "sentence_id": "bc/cnn/00/cnn_0003#298",
+    "token_index": 0,
+    "sentence": "But this is just a campaign to sort of help doctors caregivers um treat the whole person not just the mental illness /.",
+    "surface": "But",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#80#16",
+    "sentence_id": "bc/cnn/00/cnn_0002#80",
+    "token_index": 16,
+    "sentence": "Well it 's got to be just a bizarre day for you for both of you and a tragic day for your school /.",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#333#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#333",
+    "token_index": 0,
+    "sentence": "and talked about that she 's a conservative /.",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  }
+]

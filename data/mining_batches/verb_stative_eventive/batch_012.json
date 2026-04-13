@@ -1,0 +1,54 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0005#27#23",
+    "sentence_id": "bc/cnn/00/cnn_0005#27",
+    "token_index": 23,
+    "sentence": "Just a short while ago I spoke with the commander of the US military central command General John Abizaid about the challenges of battling a relentless insurgency in Iraq and a lot more /.",
+    "surface": "battling",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#665#11",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#665",
+    "token_index": 11,
+    "sentence": "um This was ultimately a document that was agreed upon That was drafted by the Afghans and agreed upon by the Afghans /.",
+    "surface": "was",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#425#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#425",
+    "token_index": 0,
+    "sentence": "Do you think that is going to happen /?",
+    "surface": "Do",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#58#4",
+    "sentence_id": "bc/cctv/00/cctv_0003#58",
+    "token_index": 4,
+    "sentence": "Therefore , the itinerary was not decided for a long time .",
+    "surface": "was",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0001#26#2", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#256#9", "gold_subclass": "abstract", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#531#39", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#185#3", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#318#8", "gold_subclass": "concrete", "notes": "member state / political entity"},
+  {"example_id": "bc/cnn/00/cnn_0004#415#9", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#547#13", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0001#29#40", "gold_subclass": "concrete", "notes": "fragment of proper name (Eighth Route Army)"}
+]

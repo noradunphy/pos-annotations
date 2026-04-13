@@ -1,0 +1,122 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0007#175#2",
+    "sentence_id": "bc/cnn/00/cnn_0007#175",
+    "token_index": 2,
+    "sentence": "because he had the initials on the memo which were MF Mark Felt and he knew Carl Berstein 's wife and he was going to assert it with the kind of authority that is rare not rare for Richard as a columnist but uh that this was a fact /.",
+    "surface": "had",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#503#27",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#503",
+    "token_index": 27,
+    "sentence": "She recently returned from Iraq with a half dozen other conservative radio talk show hosts where they broadcast for a week in order to combat what she calls the mainstream media and liberals ' attempt to undermine the war effort with negative news /.",
+    "surface": "calls",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#409#3",
+    "sentence_id": "bc/cctv/00/cctv_0002#409",
+    "token_index": 3,
+    "sentence": "Er , I think that to prevent the bilateral relations from suffering friction over specific issues , his attitude like this should be --",
+    "surface": "think",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#670#14",
+    "sentence_id": "bc/cnn/00/cnn_0002#670",
+    "token_index": 14,
+    "sentence": "Just the message he gave yesterday we do n't approve torture but we approve doing whatever is necessary to stop terrorism /.",
+    "surface": "doing",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#368#2",
+    "sentence_id": "bc/cnn/00/cnn_0006#368",
+    "token_index": 2,
+    "sentence": "And I think he 's the kind of person who based on his previous experience uh including his most recent experience as a judge on the court of appeals has demonstrated that he 'll do exactly that /.",
+    "surface": "think",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#603#20",
+    "sentence_id": "bc/cnn/00/cnn_0002#603",
+    "token_index": 20,
+    "sentence": "But if we ever had a ticking bomb terrorist who could under torture reveal the location of a bomb that would destroy hundreds of thousands of people I guarantee you we would use it /.",
+    "surface": "would",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#440#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#440",
+    "token_index": 4,
+    "sentence": "Is anybody going to stay on the White House staff who has been indicted Ben /?",
+    "surface": "stay",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#121#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#121",
+    "token_index": 2,
+    "sentence": "It does explain in the sense the human reaction to such a excessive event /.",
+    "surface": "explain",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  }
+]

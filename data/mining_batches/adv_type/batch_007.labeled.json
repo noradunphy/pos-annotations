@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0003#196#1", "gold_subclass": "sentence_discourse", "notes": "Copula in That is ( i.e. ); likely mistagged as ADV."},
+  {"example_id": "bc/msnbc/00/msnbc_0002#150#15", "gold_subclass": "degree", "notes": "Focusing even with hardly ."},
+  {"example_id": "bc/cnn/00/cnn_0003#207#6", "gold_subclass": "degree", "notes": "Intensifying just ."},
+  {"example_id": "bc/cnn/00/cnn_0005#225#4", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#242#8", "gold_subclass": "sentence_discourse", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#550#12", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#265#16", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#105#1", "gold_subclass": "sentence_discourse", "notes": ""}
+]

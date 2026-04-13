@@ -1,0 +1,15 @@
+datasets>=3.0,<4
+numpy
+pandas
+pyyaml
+scikit-learn
+scipy
+tqdm
+jsonlines
+transformers
+accelerate
+bitsandbytes
+vllm
+jinja2
+pytest
+openai>=1.0.0

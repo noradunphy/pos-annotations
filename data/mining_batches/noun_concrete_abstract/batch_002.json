@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0004#354#4",
+    "sentence_id": "bc/cctv/00/cctv_0004#354",
+    "token_index": 4,
+    "sentence": "That 's why their fame grows .",
+    "surface": "fame",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#412#6",
+    "sentence_id": "bc/cnn/00/cnn_0004#412",
+    "token_index": 6,
+    "sentence": "you were offered the job of press secretary by Richard Nixon /.",
+    "surface": "press",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#328#7",
+    "sentence_id": "bc/cctv/00/cctv_0002#328",
+    "token_index": 7,
+    "sentence": "Well , right now it is its neighboring countries that did not support it .",
+    "surface": "neighboring",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#193#11",
+    "sentence_id": "bc/cctv/00/cctv_0004#193",
+    "token_index": 11,
+    "sentence": "We reporters in Qatar were also invited to attend this inaugural broadcast ceremony .",
+    "surface": "broadcast",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#103#27",
+    "sentence_id": "bc/cnn/00/cnn_0002#103",
+    "token_index": 27,
+    "sentence": "Classmates say Clebold and Harris who brought terror to Littleton Colorado in nineteen ninety - eight and Jeff Weiss the Red Lake Minnesota teen who killed nine people and wounded seven before fatally shooting himself all wore dark trenchcoats and were fans of Marilyn Manson /.",
+    "surface": "people",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#138#9",
+    "sentence_id": "bc/cnn/00/cnn_0005#138",
+    "token_index": 9,
+    "sentence": "You 're watching Late Edition the last word in Sunday talk /.",
+    "surface": "Sunday",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#497#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#497",
+    "token_index": 4,
+    "sentence": "Coming up , conservative radio talk show hosts say the media is missing the story in Iraq /.",
+    "surface": "radio",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#257#10",
+    "sentence_id": "bc/cnn/00/cnn_0005#257",
+    "token_index": 10,
+    "sentence": "We 'll ask the top democrat on the senate arms services committee Karl Levitt /.",
+    "surface": "services",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  }
+]

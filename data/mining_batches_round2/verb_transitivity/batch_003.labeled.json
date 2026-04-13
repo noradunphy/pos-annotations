@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0002#633#1", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#307#15", "gold_subclass": "intransitive", "notes": "Existential construction"},
+  {"example_id": "bc/msnbc/00/msnbc_0002#561#25", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#453#22", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#224#9", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#427#2", "gold_subclass": "intransitive", "notes": "Auxiliary in have got"},
+  {"example_id": "bc/cnn/00/cnn_0003#141#3", "gold_subclass": "transitive", "notes": "WH-word is the fronted direct object"},
+  {"example_id": "bc/msnbc/00/msnbc_0003#65#7", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0007#282#12", "gold_subclass": "intransitive", "notes": "Auxiliary in perfect: has passed away"},
+  {"example_id": "bc/cnn/00/cnn_0005#247#20", "gold_subclass": "transitive", "notes": ""}
+]

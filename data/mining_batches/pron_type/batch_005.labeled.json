@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0003#148#3", "gold_subclass": "personal", "notes": "Dependent possessive our before noun; not standalone ours."},
+  {"example_id": "bc/cnn/00/cnn_0005#108#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#289#9", "gold_subclass": "personal", "notes": "Generic you in discourse marker you know."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#56#2", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#316#1", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0007#201#6", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#122#3", "gold_subclass": "indefinite", "notes": "Existential there are; expletive use."},
+  {"example_id": "bc/cnn/00/cnn_0003#374#1", "gold_subclass": "personal", "notes": ""}
+]

@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0002#356#5", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0007#248#11", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#33#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#475#16", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#431#2", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#403#1", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0004#103#0", "gold_subclass": "interrogative", "notes": "Wh-question (What secret …?)."},
+  {"example_id": "bc/cnn/00/cnn_0005#333#1", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#1#0", "gold_subclass": "relative", "notes": "Free relative subject (What Bush is trying to do)."},
+  {"example_id": "bc/msnbc/00/msnbc_0001#430#9", "gold_subclass": "personal", "notes": ""}
+]

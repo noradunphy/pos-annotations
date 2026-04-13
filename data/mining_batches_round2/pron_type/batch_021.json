@@ -1,0 +1,182 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#578#23",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#578",
+    "token_index": 23,
+    "sentence": "But what I can tell you is that when I talked to er the Iraqi general in charge of training troops over there he was telling us some very good news /.",
+    "surface": "he",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#168#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#168",
+    "token_index": 0,
+    "sentence": "He has heard the President and the Vice President accuse uh people who disagree with his war policy like Paul Hackett /.",
+    "surface": "He",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#313#2",
+    "sentence_id": "bc/cnn/00/cnn_0005#313",
+    "token_index": 2,
+    "sentence": "But uh I 'm not a marathoner /.",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#193#0",
+    "sentence_id": "bc/cctv/00/cctv_0004#193",
+    "token_index": 0,
+    "sentence": "We reporters in Qatar were also invited to attend this inaugural broadcast ceremony .",
+    "surface": "We",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#57#0",
+    "sentence_id": "bc/cnn/00/cnn_0004#57",
+    "token_index": 0,
+    "sentence": "I 'm not sure where your producers came up with that particular statement /.",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#340#20",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#340",
+    "token_index": 20,
+    "sentence": "I believe that we ought to call James Dobson as a witness at the Senate judiciary hearings and find out what kind of assurances he 's received /.",
+    "surface": "what",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#279#7",
+    "sentence_id": "bc/cnn/00/cnn_0001#279",
+    "token_index": 7,
+    "sentence": "Daisy Peters 's feelings are understandable , her house in ruins /.",
+    "surface": "her",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#36#5",
+    "sentence_id": "bc/cnn/00/cnn_0003#36",
+    "token_index": 5,
+    "sentence": "In those days they called it manic depression /.",
+    "surface": "it",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#215#12",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#215",
+    "token_index": 12,
+    "sentence": "what he had said was we certainly believe that strongest suspect uh they already have in custody /.",
+    "surface": "they",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#189#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#189",
+    "token_index": 0,
+    "sentence": "It is Bill Berger who excuse me is the president of the Ohio uh AFL - CIO /.",
+    "surface": "It",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  }
+]

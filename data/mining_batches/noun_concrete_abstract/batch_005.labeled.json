@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0004#369#34", "gold_subclass": "concrete", "notes": "fragment of proper name Middle East"},
+  {"example_id": "bc/msnbc/00/msnbc_0001#306#44", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#483#9", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#262#12", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#228#2", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0007#258#8", "gold_subclass": "abstract", "notes": "brief time span"},
+  {"example_id": "bc/cnn/00/cnn_0001#247#15", "gold_subclass": "abstract", "notes": "resulting situation / period"},
+  {"example_id": "bc/cnn/00/cnn_0007#107#10", "gold_subclass": "concrete", "notes": "person (indefinite)"}
+]

@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0005#358#7", "gold_subclass": "degree", "notes": "Extent in how much ."},
+  {"example_id": "bc/cnn/00/cnn_0005#36#18", "gold_subclass": "time", "notes": "as long as (temporal conditional)."},
+  {"example_id": "bc/msnbc/00/msnbc_0004#259#9", "gold_subclass": "place", "notes": "Phrasal step in ; directional particle."},
+  {"example_id": "bc/cnn/00/cnn_0001#229#2", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#571#23", "gold_subclass": "time", "notes": "Temporal ever in superlative context."},
+  {"example_id": "bc/msnbc/00/msnbc_0004#539#13", "gold_subclass": "degree", "notes": "Narrowing / emphatic particularly ."},
+  {"example_id": "bc/cctv/00/cctv_0004#87#16", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#442#10", "gold_subclass": "sentence_discourse", "notes": "Discourse that is ( i.e. ); surface that likely mistagged."}
+]

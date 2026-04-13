@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0003#167#4", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#429#30", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#16#8", "gold_subclass": "count", "notes": "Scoring unit in home run."},
+  {"example_id": "bc/msnbc/00/msnbc_0004#649#4", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#106#10", "gold_subclass": "count", "notes": "Proper name component (New Orleans)."},
+  {"example_id": "bc/cctv/00/cctv_0002#23#7", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#460#2", "gold_subclass": "mass", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#195#13", "gold_subclass": "count", "notes": "Plural tantum merchandise; discrete items of trade."}
+]

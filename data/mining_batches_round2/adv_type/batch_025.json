@@ -1,0 +1,172 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#445#3",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#445",
+    "token_index": 3,
+    "sentence": "this president has n't suffered one yet /.",
+    "surface": "n't",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#135#13",
+    "sentence_id": "bc/cctv/00/cctv_0003#135",
+    "token_index": 13,
+    "sentence": "It rejected it , its government stated very clearly , we can not jointly develop the four northern islands .",
+    "surface": "jointly",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#587#0",
+    "sentence_id": "bc/cnn/00/cnn_0001#587",
+    "token_index": 0,
+    "sentence": "There waiting hundreds of villagers /.",
+    "surface": "There",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#82#2",
+    "sentence_id": "bc/cnn/00/cnn_0002#82",
+    "token_index": 2,
+    "sentence": "Thanks very much /.",
+    "surface": "much",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#269#12",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#269",
+    "token_index": 12,
+    "sentence": "If they bought it back before why are they not buying it now /?",
+    "surface": "now",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#230#36",
+    "sentence_id": "bc/cnn/00/cnn_0005#230",
+    "token_index": 36,
+    "sentence": "The most recent CNN USA Today Gallup poll uh showed that the numbers have gone down to thirty nine percent favor the war in Iraq compared to seventy one percent shortly after major combat operations were over /.",
+    "surface": "over",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#253#11",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#253",
+    "token_index": 11,
+    "sentence": "Well well yes I think the belief is that they met online /.",
+    "surface": "online",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#298#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#298",
+    "token_index": 1,
+    "sentence": "Well absolutely /.",
+    "surface": "absolutely",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#481#6",
+    "sentence_id": "bc/cctv/00/cctv_0002#481",
+    "token_index": 6,
+    "sentence": "It has been overcast and rainy continuously for nearly 10 days in some places here .",
+    "surface": "continuously",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#2#0",
+    "sentence_id": "bc/cnn/00/cnn_0005#2",
+    "token_index": 0,
+    "sentence": "Live from CNN in Washington this is Late Edition with Wolf Blitzer /.",
+    "surface": "Live",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#572#6",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#572",
+    "token_index": 6,
+    "sentence": "We saw as you described and everybody else knows for years the minority in that country were the bullies of that country /.",
+    "surface": "everybody",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#200#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#200",
+    "token_index": 4,
+    "sentence": "about ten or fifteen minutes yeah /.",
+    "surface": "minutes",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#50#4",
+    "sentence_id": "bc/cnn/00/cnn_0001#50",
+    "token_index": 4,
+    "sentence": "When you do a story on a film that 's as critical of a company as this one is about Wal - Mart I want to talk to that company Wal - Mart to get their reaction /.",
+    "surface": "story",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#531#9",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#531",
+    "token_index": 9,
+    "sentence": "He lives with his mother and dad and his son a twenty one year old /.",
+    "surface": "son",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#503#5",
+    "sentence_id": "bc/cnn/00/cnn_0005#503",
+    "token_index": 5,
+    "sentence": "We 'll take a quick break /.",
+    "surface": "break",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#69#29",
+    "sentence_id": "bc/cnn/00/cnn_0006#69",
+    "token_index": 29,
+    "sentence": "What do you say to those who might fear though that Iraq a Shia dominated Iraq with Islam the official religion could turn out to be like its neighbor Iran /?",
+    "surface": "Iran",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#7#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#7",
+    "token_index": 0,
+    "sentence": "David you know the president does n't he run the risk of looking like the little rich kid who is not winning the game so he says it 's my ball /.",
+    "surface": "David",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#4#38",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#4",
+    "token_index": 38,
+    "sentence": "New Orleans police have already lost their superintendent been accused of looting and seen two colleagues take their own lives during Katrina stress that surfaced when this officer grabbed a producer from Associated Press television who caught the arrest on tape /.",
+    "surface": "arrest",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  }
+]

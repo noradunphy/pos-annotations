@@ -1,0 +1,182 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#464#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#464",
+    "token_index": 1,
+    "sentence": "and he was the darling of the media and of the left /.",
+    "surface": "he",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#336#69",
+    "sentence_id": "bc/cctv/00/cctv_0002#336",
+    "token_index": 69,
+    "sentence": "Well , from what can be seen now , that is , actually , er , let 's say , from the cabinet he formed after his victory of the general election for the second time , we could indeed see that he has gathered , um , the statesmen , or politicians who approve visits to Yasukuni Shrine , Uh-huh . all into the cabinet , everyone of them , eh .",
+    "surface": "them",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#162#25",
+    "sentence_id": "bc/cnn/00/cnn_0002#162",
+    "token_index": 25,
+    "sentence": "and to follow up on the point Jeff just made about perhaps not overstating the impact for the president I think one of the things we will watch closely tonight is that some of the polls are showing that the American people are a bit testy shall we say um not patient anymore with all of the politicians /.",
+    "surface": "we",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#279#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#279",
+    "token_index": 2,
+    "sentence": "uh Think it 's your first time as a guest /.",
+    "surface": "it",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#438#11",
+    "sentence_id": "bc/cnn/00/cnn_0002#438",
+    "token_index": 11,
+    "sentence": "and by the way it 's probably now the cleanest country I 've ever seen in Africa /.",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#123#3",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#123",
+    "token_index": 3,
+    "sentence": "Um I mean we heard /-",
+    "surface": "we",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#551#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#551",
+    "token_index": 0,
+    "sentence": "I covered their dead bodies /.",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#591#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#591",
+    "token_index": 0,
+    "sentence": "They wanted the thing over with /.",
+    "surface": "They",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#379#0",
+    "sentence_id": "bc/cnn/00/cnn_0003#379",
+    "token_index": 0,
+    "sentence": "You know it is a very individualized thing mental health /.",
+    "surface": "You",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#171#0",
+    "sentence_id": "bc/cctv/00/cctv_0002#171",
+    "token_index": 0,
+    "sentence": "He himself , ah , er , what should we say ? He does not respect and acknowledge reality .",
+    "surface": "He",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  }
+]

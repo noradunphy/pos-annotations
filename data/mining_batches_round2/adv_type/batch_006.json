@@ -1,0 +1,172 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#371#8",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#371",
+    "token_index": 8,
+    "sentence": "And certainly many of us are here as well in this country generally /.",
+    "surface": "well",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#469#6",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#469",
+    "token_index": 6,
+    "sentence": "Well in this type of case especially now /-",
+    "surface": "especially",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#368#9",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#368",
+    "token_index": 9,
+    "sentence": "Nobody is going to like Bolton a year from now , are they /?",
+    "surface": "now",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#34#0",
+    "sentence_id": "bc/cctv/00/cctv_0003#34",
+    "token_index": 0,
+    "sentence": "However , due to the territorial issues , or little progress on the territorial issues , along with the business community 's concerns with the investment environment in Russia , well , it remains a big question how far economic cooperation can go .",
+    "surface": "However",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#347#5",
+    "sentence_id": "bc/cctv/00/cctv_0002#347",
+    "token_index": 5,
+    "sentence": "Well , actually , right now even the European and US media have noted this issue .",
+    "surface": "now",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#578#28",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#578",
+    "token_index": 28,
+    "sentence": "But what I can tell you is that when I talked to er the Iraqi general in charge of training troops over there he was telling us some very good news /.",
+    "surface": "very",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#396#2",
+    "sentence_id": "bc/cnn/00/cnn_0004#396",
+    "token_index": 2,
+    "sentence": "you 're not going to talk to him /.",
+    "surface": "not",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#253#0",
+    "sentence_id": "bc/cctv/00/cctv_0004#253",
+    "token_index": 0,
+    "sentence": "Therefore , some people call it gaining voice but losing money because it has relatively small revenues due to few ads .",
+    "surface": "Therefore",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#284#13",
+    "sentence_id": "bc/cctv/00/cctv_0002#284",
+    "token_index": 13,
+    "sentence": "As a result , nowadays , Koizumi should be utterly isolated not only internationally but also domestically .",
+    "surface": "internationally",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#102#17",
+    "sentence_id": "bc/cctv/00/cctv_0004#102",
+    "token_index": 17,
+    "sentence": "Regarding the leakage of the secret , it seems that the possibility here , ah , is really big .",
+    "surface": "really",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  }
+]

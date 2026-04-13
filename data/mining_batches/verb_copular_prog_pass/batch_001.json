@@ -1,0 +1,122 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#449#43",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#449",
+    "token_index": 43,
+    "sentence": "and if you look at the way they 've handled this publicly basically if they handled it within the grand jury the same way they handled it publicly by dissembling and misleading and in some cases maybe outright misrepresentation of the truth it seems pretty likely that it 's going to lead to some criminal activity because this guy is there to do a job and he 's not a partisan but he 's a very tough prosecutor /.",
+    "surface": "seems",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#269#3",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#269",
+    "token_index": 3,
+    "sentence": "That Ray Kelly indicated that they do n't believe he went to visit his mother that day /.",
+    "surface": "indicated",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#486#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#486",
+    "token_index": 2,
+    "sentence": "This guy should have never been let out and should have never been given a bond /.",
+    "surface": "should",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#167#4",
+    "sentence_id": "bc/cnn/00/cnn_0001#167",
+    "token_index": 4,
+    "sentence": "but you 're also seeing this happen at big manufacturing companies /.",
+    "surface": "seeing",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#312#11",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#312",
+    "token_index": 11,
+    "sentence": "Okay I want to come back and talk about whether we have a Supreme Court that is going to change /.",
+    "surface": "have",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#248#2",
+    "sentence_id": "bc/cctv/00/cctv_0002#248",
+    "token_index": 2,
+    "sentence": ", this is an issue of principle .",
+    "surface": "is",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#193#19",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#193",
+    "token_index": 19,
+    "sentence": "We 're talking about a career criminal who knows about DNA who knows about criminal evidence who probably has been tried /-",
+    "surface": "been",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#525#8",
+    "sentence_id": "bc/cnn/00/cnn_0001#525",
+    "token_index": 8,
+    "sentence": "Is that what would make you feel better would make your family feel better /?",
+    "surface": "would",
+    "high_level": "VERB",
+    "distinction_id": "verb_copular_prog_pass",
+    "labels": [
+      "copular",
+      "progressive",
+      "passive",
+      "none_of_these"
+    ]
+  }
+]

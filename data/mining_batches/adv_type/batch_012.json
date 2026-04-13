@@ -1,0 +1,70 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0003#287#0",
+    "sentence_id": "bc/cctv/00/cctv_0003#287",
+    "token_index": 0,
+    "sentence": "Also , if things continue like this , increasing the nations ' mutual trust can never be realized .",
+    "surface": "Also",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#70#5",
+    "sentence_id": "bc/cctv/00/cctv_0002#70",
+    "token_index": 5,
+    "sentence": "However , this matter was not even talked about during this , eh , bilateral summit meeting .",
+    "surface": "not",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#293#11",
+    "sentence_id": "bc/cctv/00/cctv_0002#293",
+    "token_index": 11,
+    "sentence": "At the same time his power to form the cabinet was further strengthened .",
+    "surface": "further",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#193#13",
+    "sentence_id": "bc/cnn/00/cnn_0002#193",
+    "token_index": 13,
+    "sentence": "Talk about a little bit uh of love to share around the family there /.",
+    "surface": "there",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  }
+]

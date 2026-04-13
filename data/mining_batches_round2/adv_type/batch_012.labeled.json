@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0002#19#2", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#84#28", "gold_subclass": "frequency", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#233#25", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#25#14", "gold_subclass": "place", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#541#5", "gold_subclass": "place", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#565#11", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#632#0", "gold_subclass": "sentence_discourse", "notes": "part of discourse marker \"Of course\"; \"Of\" alone is not typically an adverb"},
+  {"example_id": "bc/cnn/00/cnn_0005#72#26", "gold_subclass": "degree", "notes": "part of comparative \"as long as\""},
+  {"example_id": "bc/cnn/00/cnn_0005#259#3", "gold_subclass": "time", "notes": "\"right back\" = immediately back"},
+  {"example_id": "bc/msnbc/00/msnbc_0001#88#18", "gold_subclass": "degree", "notes": "\"so many\" = to such a degree"}
+]

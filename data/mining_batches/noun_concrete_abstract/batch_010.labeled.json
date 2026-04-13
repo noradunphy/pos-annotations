@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0004#13#17", "gold_subclass": "concrete", "notes": "literal pins and needles idiom"},
+  {"example_id": "bc/cnn/00/cnn_0007#156#8", "gold_subclass": "concrete", "notes": "officeholder / person (Attorney General)"},
+  {"example_id": "bc/cctv/00/cctv_0001#229#33", "gold_subclass": "abstract", "notes": "military operation / event nominalization"},
+  {"example_id": "bc/msnbc/00/msnbc_0002#74#7", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#468#13", "gold_subclass": "abstract", "notes": "organization / summit"},
+  {"example_id": "bc/cctv/00/cctv_0003#387#13", "gold_subclass": "abstract", "notes": "political activity"},
+  {"example_id": "bc/cctv/00/cctv_0004#141#21", "gold_subclass": "concrete", "notes": "country as entity"},
+  {"example_id": "bc/cctv/00/cctv_0004#96#9", "gold_subclass": "abstract", "notes": "issue / topic"}
+]

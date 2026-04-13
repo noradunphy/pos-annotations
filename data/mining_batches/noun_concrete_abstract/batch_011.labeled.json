@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0004#211#10", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#201#0", "gold_subclass": "concrete", "notes": "pronoun: speaker group as people"},
+  {"example_id": "bc/cnn/00/cnn_0004#40#3", "gold_subclass": "abstract", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#61#8", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#557#6", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#327#15", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#602#11", "gold_subclass": "concrete", "notes": "fragment of United States"},
+  {"example_id": "bc/cnn/00/cnn_0007#71#7", "gold_subclass": "abstract", "notes": "temporal endpoint in idiom"}
+]

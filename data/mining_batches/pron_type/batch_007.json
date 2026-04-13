@@ -1,0 +1,146 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0004#66#0",
+    "sentence_id": "bc/cnn/00/cnn_0004#66",
+    "token_index": 0,
+    "sentence": "We should have outstanding candidates put forward /.",
+    "surface": "We",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#160#0",
+    "sentence_id": "bc/cnn/00/cnn_0004#160",
+    "token_index": 0,
+    "sentence": "he 's with us on my birthday /.",
+    "surface": "he",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#370#1",
+    "sentence_id": "bc/cnn/00/cnn_0001#370",
+    "token_index": 1,
+    "sentence": "and he is not alone /.",
+    "surface": "he",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#180#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#180",
+    "token_index": 1,
+    "sentence": "And I think to try to undercut that resolve and to second - guess the Commander in Chief is a mistake /.",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#366#1",
+    "sentence_id": "bc/cnn/00/cnn_0002#366",
+    "token_index": 1,
+    "sentence": "and it 's incredible /.",
+    "surface": "it",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#28#18",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#28",
+    "token_index": 18,
+    "sentence": "But you know you look at this guy you know punching the one guy grabbing the AP producer you know /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#257#0",
+    "sentence_id": "bc/cnn/00/cnn_0006#257",
+    "token_index": 0,
+    "sentence": "We 've arrested people put them in jail /.",
+    "surface": "We",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#340#3",
+    "sentence_id": "bc/cnn/00/cnn_0002#340",
+    "token_index": 3,
+    "sentence": "and I said I ca n't believe this big bull elephant a wild bull elephant /.",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  }
+]

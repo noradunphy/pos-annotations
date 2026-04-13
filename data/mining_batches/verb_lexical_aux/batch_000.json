@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0003#494#6",
+    "sentence_id": "bc/cnn/00/cnn_0003#494",
+    "token_index": 6,
+    "sentence": "and it is so sad to see so many women /.",
+    "surface": "see",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#151#2",
+    "sentence_id": "bc/cnn/00/cnn_0006#151",
+    "token_index": 2,
+    "sentence": "But we are not going to make this a political one /.",
+    "surface": "are",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#374#5",
+    "sentence_id": "bc/cctv/00/cctv_0003#374",
+    "token_index": 5,
+    "sentence": ", , let me again add some words , if it wants joint development , Japanese companies and Japanese influence will enter the four northern islands .",
+    "surface": "add",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#59#3",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#59",
+    "token_index": 3,
+    "sentence": "Well look it is good to see uh that we 're not hearing what we sometimes hear in these kinds of cases which is well you know you got to understand the circumstances and the tape is n't showing everything /.",
+    "surface": "is",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#483#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#483",
+    "token_index": 4,
+    "sentence": "No because he 's going to do such a good job he 's going to deserve /-",
+    "surface": "going",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#62#3",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#62",
+    "token_index": 3,
+    "sentence": "I 've never heard anybody call the President a son of a bitch /.",
+    "surface": "heard",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#297#3",
+    "sentence_id": "bc/cnn/00/cnn_0007#297",
+    "token_index": 3,
+    "sentence": "Ah can you see Tom Hanks playing Deep Throat in the next movie /?",
+    "surface": "see",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#318#0",
+    "sentence_id": "bc/cctv/00/cctv_0003#318",
+    "token_index": 0,
+    "sentence": "Let 's learn something about it .",
+    "surface": "Let",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0003#47#4", "gold_subclass": "intransitive", "notes": "Copular/cleft construction"},
+  {"example_id": "bc/msnbc/00/msnbc_0004#420#5", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0003#363#17", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#457#2", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/msnbc/00/msnbc_0004#138#27", "gold_subclass": "transitive", "notes": "Takes clausal complement"},
+  {"example_id": "bc/cctv/00/cctv_0004#40#6", "gold_subclass": "transitive", "notes": "Passive participle: line marked with a frame"},
+  {"example_id": "bc/cctv/00/cctv_0002#322#18", "gold_subclass": "intransitive", "notes": "Copular"},
+  {"example_id": "bc/msnbc/00/msnbc_0001#1#11", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#421#29", "gold_subclass": "intransitive", "notes": "Auxiliary in passive: was alleged"},
+  {"example_id": "bc/msnbc/00/msnbc_0001#27#24", "gold_subclass": "transitive", "notes": ""}
+]

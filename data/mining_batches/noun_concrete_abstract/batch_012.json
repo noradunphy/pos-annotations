@@ -1,0 +1,54 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#20#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#20",
+    "token_index": 0,
+    "sentence": "Schmidt won by only four percentage points over Democrat Paul Hackett /.",
+    "surface": "Schmidt",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#140#10",
+    "sentence_id": "bc/cnn/00/cnn_0004#140",
+    "token_index": 10,
+    "sentence": "But any President who seeks to govern whether it 's court appointments or anything else from the extremes Democrats from the far left extreme Republicans from the far right extreme it does n't serve the country well /.",
+    "surface": "court",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#81#2",
+    "sentence_id": "bc/cnn/00/cnn_0006#81",
+    "token_index": 2,
+    "sentence": "The Prime Minister uh Jaafari has proposed to a series of meetings of the Ministerial Committee for National Security uh uh uh a proposal whereby the multinational forces will pull out from some of the provinces some of the cities where the security is okay /.",
+    "surface": "Minister",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#189#7",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#189",
+    "token_index": 7,
+    "sentence": "And some Democrats said the president 's action is a stick in the eye just as the Senate is preparing for confirmation hearings of John Roberts the president 's nominee for the Supreme Court /.",
+    "surface": "action",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  }
+]

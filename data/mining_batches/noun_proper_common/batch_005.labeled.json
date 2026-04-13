@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0006#503#5", "gold_subclass": "common", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#484#1", "gold_subclass": "common", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#374#4", "gold_subclass": "common", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#258#54", "gold_subclass": "common", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#268#27", "gold_subclass": "proper", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#486#3", "gold_subclass": "proper", "notes": "Place name (state) or vocative name; proper-noun reading."},
+  {"example_id": "bc/cnn/00/cnn_0007#0#0", "gold_subclass": "common", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#103#23", "gold_subclass": "common", "notes": ""}
+]

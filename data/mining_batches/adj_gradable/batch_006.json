@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#650#13",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#650",
+    "token_index": 13,
+    "sentence": "I mean because the Afghan constitution article two point two says followers of other religions are free to exercise their faith and perform their religious rights within the limits of the provisions of law /.",
+    "surface": "other",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#124#2",
+    "sentence_id": "bc/cnn/00/cnn_0007#124",
+    "token_index": 2,
+    "sentence": "It was dangerous /.",
+    "surface": "dangerous",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#167#16",
+    "sentence_id": "bc/cnn/00/cnn_0002#167",
+    "token_index": 16,
+    "sentence": "the election that mattered for next year has already happened that special election in the Ohio congressional district with Cincinatti a republican district /.",
+    "surface": "congressional",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#25#20",
+    "sentence_id": "bc/cnn/00/cnn_0003#25",
+    "token_index": 20,
+    "sentence": "Um I was in hiding a lot of my childhood although I had a wonderful upbringing and a very normal middle class upbringing /.",
+    "surface": "middle",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#663#6",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#663",
+    "token_index": 6,
+    "sentence": "They are doing their dead level best to make this policy that the Bush administration has put forth work /.",
+    "surface": "best",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#570#17",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#570",
+    "token_index": 17,
+    "sentence": "I said certainly if any part of this were true from the time she was eighteen years old until the time she was twenty four /.",
+    "surface": "old",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#419#9",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#419",
+    "token_index": 9,
+    "sentence": "The violence in recent days in Iraq is a grim reminder of the enemies we face /.",
+    "surface": "grim",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#338#14",
+    "sentence_id": "bc/cnn/00/cnn_0005#338",
+    "token_index": 14,
+    "sentence": "uh I want you to listen to what he said about the readiness of Iraqi troops right now /.",
+    "surface": "Iraqi",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  }
+]

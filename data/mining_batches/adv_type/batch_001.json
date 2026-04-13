@@ -1,0 +1,138 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0002#239#4",
+    "sentence_id": "bc/cnn/00/cnn_0002#239",
+    "token_index": 4,
+    "sentence": "She made the decision though not based solely on science or even her own observations /.",
+    "surface": "though",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#303#6",
+    "sentence_id": "bc/cnn/00/cnn_0004#303",
+    "token_index": 6,
+    "sentence": "That was tough though , was n't it /?",
+    "surface": "n't",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#482#3",
+    "sentence_id": "bc/cnn/00/cnn_0006#482",
+    "token_index": 3,
+    "sentence": "uh I 'm not sure exactly where they 've gone /.",
+    "surface": "not",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#171#2",
+    "sentence_id": "bc/cnn/00/cnn_0007#171",
+    "token_index": 2,
+    "sentence": "I do n't think they posed a threat to the republic that clearly at this moment Mark Felt and some other people in the FBI thought /.",
+    "surface": "n't",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#351#10",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#351",
+    "token_index": 10,
+    "sentence": "In fact they sort of nickeled and dimed him on not giving him a fair up or down vote on much less relevant points /.",
+    "surface": "not",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#387#23",
+    "sentence_id": "bc/cnn/00/cnn_0003#387",
+    "token_index": 23,
+    "sentence": "I 'm wondering what advice you have for spouses of someone with a mental illness particularly someone who is n't currently diagnosed , how to avoid misdiagnosis , just what can I do to help my husband and make sure that he does n't go through what you went through and uh any advice /.",
+    "surface": "how",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#260#7",
+    "sentence_id": "bc/cctv/00/cctv_0003#260",
+    "token_index": 7,
+    "sentence": "That is to say , it is not that Japan does not need the Russian market .",
+    "surface": "not",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#407#12",
+    "sentence_id": "bc/cnn/00/cnn_0004#407",
+    "token_index": 12,
+    "sentence": "Well you know that this is the tightest White House going as far as uh really talking candidly is concerned uh and the most secretive if you will /.",
+    "surface": "far",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  }
+]

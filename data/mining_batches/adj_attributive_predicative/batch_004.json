@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0004#48#5",
+    "sentence_id": "bc/cctv/00/cctv_0004#48",
+    "token_index": 5,
+    "sentence": "Well , this is a brief introduction of the context of the incident .",
+    "surface": "brief",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#87#11",
+    "sentence_id": "bc/cnn/00/cnn_0004#87",
+    "token_index": 11,
+    "sentence": "He wo n't make the court if approved until January , right /?",
+    "surface": "right",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#343#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#343",
+    "token_index": 5,
+    "sentence": "is this ten day suspension enough to turn them off to drugs /?",
+    "surface": "enough",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#507#2",
+    "sentence_id": "bc/cnn/00/cnn_0004#507",
+    "token_index": 2,
+    "sentence": "Money is good /.",
+    "surface": "good",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#111#4",
+    "sentence_id": "bc/cnn/00/cnn_0005#111",
+    "token_index": 4,
+    "sentence": "They ca n't be successful /.",
+    "surface": "successful",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#418#4",
+    "sentence_id": "bc/cnn/00/cnn_0006#418",
+    "token_index": 4,
+    "sentence": "good morning it 's good to be here /.",
+    "surface": "good",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#635#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#635",
+    "token_index": 2,
+    "sentence": "This is humiliating for Islam /.",
+    "surface": "humiliating",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#317#24",
+    "sentence_id": "bc/cnn/00/cnn_0005#317",
+    "token_index": 24,
+    "sentence": "And what General Abizaid also said this morning was that as long as the political process keeps moving along that then there 's some real hope that there 'll be a good conclusion fairly soon but in order for the political process to move along that means that there must be a constitution which is agreed upon by August the fifteenth /.",
+    "surface": "real",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  }
+]

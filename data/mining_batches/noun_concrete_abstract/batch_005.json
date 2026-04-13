@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0004#369#34",
+    "sentence_id": "bc/cctv/00/cctv_0004#369",
+    "token_index": 34,
+    "sentence": "-- In the Middle East region , in particular , currently , , some US officials , for instance , many Democrat officials , they admitted that the US policies on Iraq and the Middle East , eh , region have many mistakes .",
+    "surface": "Middle",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#306#44",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#306",
+    "token_index": 44,
+    "sentence": "and you 'll have to trust me on this one when you know some of the things that I know that I probably should n't know uh that take me in this direction you will understand why I have um said that I believe Harriet Miers will be a good justice /.",
+    "surface": "Harriet",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#483#9",
+    "sentence_id": "bc/cnn/00/cnn_0002#483",
+    "token_index": 9,
+    "sentence": "I 'll talk to New York Times columnist Maureen Dowd about her latest book /.",
+    "surface": "Dowd",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#262#12",
+    "sentence_id": "bc/cnn/00/cnn_0002#262",
+    "token_index": 12,
+    "sentence": "You know it 's been more than seven months now since Terri Schiavo 's life came to an end /.",
+    "surface": "Schiavo",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#228#2",
+    "sentence_id": "bc/cnn/00/cnn_0001#228",
+    "token_index": 2,
+    "sentence": "and two Marines died in a helicopter crash near Ramadi /.",
+    "surface": "Marines",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#258#8",
+    "sentence_id": "bc/cnn/00/cnn_0007#258",
+    "token_index": 8,
+    "sentence": "We 'll ask Woodward about that in a moment /.",
+    "surface": "moment",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#247#15",
+    "sentence_id": "bc/cnn/00/cnn_0001#247",
+    "token_index": 15,
+    "sentence": "We 've watched from our homes Katrina 's destructive force and people struggling in its aftermath /.",
+    "surface": "aftermath",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#107#10",
+    "sentence_id": "bc/cnn/00/cnn_0007#107",
+    "token_index": 10,
+    "sentence": "in these sort of uh scandals you know better than anyone /.",
+    "surface": "anyone",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  }
+]

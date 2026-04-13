@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0003#521#6",
+    "sentence_id": "bc/cnn/00/cnn_0003#521",
+    "token_index": 6,
+    "sentence": "I am so lucky that you know the powers that be were looking after me /.",
+    "surface": "know",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#204#3",
+    "sentence_id": "bc/cnn/00/cnn_0006#204",
+    "token_index": 3,
+    "sentence": "and obviously that is our hope and our expectation /.",
+    "surface": "is",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#439#30",
+    "sentence_id": "bc/cnn/00/cnn_0003#439",
+    "token_index": 30,
+    "sentence": "um I used to say it would be like walking down a street and falling into a manhole cover you know an uncovered manhole and then you know just like disappearing /.",
+    "surface": "disappearing",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#53#4",
+    "sentence_id": "bc/cnn/00/cnn_0005#53",
+    "token_index": 4,
+    "sentence": "The insurgents ca n't beat us /.",
+    "surface": "beat",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#401#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#401",
+    "token_index": 4,
+    "sentence": "but there is it seems a lot going on beneath the surface and certainly a lot of speculation uh going on in Washington /.",
+    "surface": "seems",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#216#20",
+    "sentence_id": "bc/cnn/00/cnn_0006#216",
+    "token_index": 20,
+    "sentence": "and for one reason it would give greater pressure or put added pressure really on the Iraqi military really to take charge /.",
+    "surface": "take",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#38#23",
+    "sentence_id": "bc/cnn/00/cnn_0001#38",
+    "token_index": 23,
+    "sentence": "Its corporate policies from buying cheap to selling cheap to providing jobs for tens of thousands of people while paying rock bottom salaries are also reasons it 's a big target /.",
+    "surface": "are",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#572#10",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#572",
+    "token_index": 10,
+    "sentence": "There 's no question in my mind she could have done anything she wanted /.",
+    "surface": "done",
+    "high_level": "VERB",
+    "distinction_id": "verb_lexical_aux",
+    "labels": [
+      "lexical",
+      "auxiliary"
+    ]
+  }
+]

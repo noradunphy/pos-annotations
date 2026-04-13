@@ -1,0 +1,172 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0003#228#2",
+    "sentence_id": "bc/cctv/00/cctv_0003#228",
+    "token_index": 2,
+    "sentence": "It can also be said it is this way strategically .",
+    "surface": "also",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#362#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#362",
+    "token_index": 5,
+    "sentence": "I promise you she will not answer the questions that you want answered /.",
+    "surface": "not",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#223#16",
+    "sentence_id": "bc/cnn/00/cnn_0005#223",
+    "token_index": 16,
+    "sentence": "we do n't need to fight this war looking over our shoulder worrying about support back home /.",
+    "surface": "home",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#162#18",
+    "sentence_id": "bc/cnn/00/cnn_0001#162",
+    "token_index": 18,
+    "sentence": "But let me ask you this as I 'm sure people at home are sitting there thinking right now about their own job /.",
+    "surface": "now",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#1#1",
+    "sentence_id": "bc/cctv/00/cctv_0002#1",
+    "token_index": 1,
+    "sentence": "Right now , Abramov is being treated in the hospital , but his life is already out of danger .",
+    "surface": "now",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#538#9",
+    "sentence_id": "bc/cnn/00/cnn_0003#538",
+    "token_index": 9,
+    "sentence": "and they 're on my case because I ca n't get myself together /.",
+    "surface": "n't",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#440#1",
+    "sentence_id": "bc/cnn/00/cnn_0005#440",
+    "token_index": 1,
+    "sentence": "So why should they do it /?",
+    "surface": "why",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#675#8",
+    "sentence_id": "bc/cnn/00/cnn_0001#675",
+    "token_index": 8,
+    "sentence": "I thought would n't it be fun for even me who 's a candy freak to just walk in and have this like oversized emporium of oversized lollipops /.",
+    "surface": "even",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#366#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#366",
+    "token_index": 1,
+    "sentence": "And all of a sudden you know Bud Segal says I do n't know anything about it /.",
+    "surface": "all",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#103#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#103",
+    "token_index": 2,
+    "sentence": "I do n't think it 's going to bring the war home anymore differently than the button that I wear on my uh lapel /.",
+    "surface": "n't",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  }
+]

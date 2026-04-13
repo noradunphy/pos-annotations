@@ -1,0 +1,6 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0003#223#24", "gold_subclass": "intersective", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#216#2", "gold_subclass": "non-intersective", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#192#16", "gold_subclass": "non-intersective", "notes": "Predicative complement in get involved; not a classic nominal intersective modifier."},
+  {"example_id": "bc/cnn/00/cnn_0006#156#6", "gold_subclass": "non-intersective", "notes": ""}
+]

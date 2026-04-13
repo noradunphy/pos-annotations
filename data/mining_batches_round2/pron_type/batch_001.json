@@ -1,0 +1,182 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#351#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#351",
+    "token_index": 1,
+    "sentence": "and she you know molested my child /.",
+    "surface": "she",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#536#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#536",
+    "token_index": 1,
+    "sentence": "Instead they 're going to have Tom DeLay /.",
+    "surface": "they",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#395#7",
+    "sentence_id": "bc/cnn/00/cnn_0006#395",
+    "token_index": 7,
+    "sentence": "I think we 're going to pass it by more than the two thirds required to overturn an expected presidential veto /.",
+    "surface": "it",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#491#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#491",
+    "token_index": 1,
+    "sentence": "Maybe I feel like I 'm campaign - managing for Giuliani /.",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#656#1",
+    "sentence_id": "bc/cnn/00/cnn_0004#656",
+    "token_index": 1,
+    "sentence": "and it contains an extraordinary DVD /.",
+    "surface": "it",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#398#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#398",
+    "token_index": 2,
+    "sentence": "Well look I know Jim /.",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#107#0",
+    "sentence_id": "bc/cnn/00/cnn_0005#107",
+    "token_index": 0,
+    "sentence": "They can cause casualties /.",
+    "surface": "They",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#540#4",
+    "sentence_id": "bc/cnn/00/cnn_0002#540",
+    "token_index": 4,
+    "sentence": "Is that blood on his shirt /?",
+    "surface": "his",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#133#7",
+    "sentence_id": "bc/cctv/00/cctv_0001#133",
+    "token_index": 7,
+    "sentence": "We people , ah , were under his command for the time being .",
+    "surface": "his",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#37#9",
+    "sentence_id": "bc/cnn/00/cnn_0005#37",
+    "token_index": 9,
+    "sentence": "But I 'm also very realistic in understanding that there 's a lot of violence ahead especially as we move through the political process and the insurgence will try to challenge the government and the Iraqi security forces and American forces in an effort to break our will and they do this by grabbing headlines /.",
+    "surface": "there",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  }
+]

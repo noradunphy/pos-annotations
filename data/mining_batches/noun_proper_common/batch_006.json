@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0006#6#8",
+    "sentence_id": "bc/cnn/00/cnn_0006#6",
+    "token_index": 8,
+    "sentence": "Wherever you 're watching from around the world thanks very much for joining us for Late Edition /.",
+    "surface": "thanks",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#114#7",
+    "sentence_id": "bc/cnn/00/cnn_0004#114",
+    "token_index": 7,
+    "sentence": "Uh and there 's a number of commentators from the left and right that agree that this is not in the constitution /.",
+    "surface": "commentators",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#256#5",
+    "sentence_id": "bc/cnn/00/cnn_0001#256",
+    "token_index": 5,
+    "sentence": "Nobody 's trying to do nothing /.",
+    "surface": "nothing",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#102#35",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#102",
+    "token_index": 35,
+    "sentence": "Do you think that the loss uh of the twenty uh guys over there servicemen fighting for their country over in Iraq for their Ohio based unit is going to bring this war home to people /?",
+    "surface": "people",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#192#26",
+    "sentence_id": "bc/cnn/00/cnn_0005#192",
+    "token_index": 26,
+    "sentence": "Do you agree with the CIA assessment and a recent assessment that the terrorist training ground of Iraq today effectively has become a more effective training ground for Al - Queda and for international terrorists than Afghanistan under the Taliban ever was /?",
+    "surface": "ground",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#168#8",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#168",
+    "token_index": 8,
+    "sentence": "Plus the battle over Harriet Miers ' Supreme Court nomination /.",
+    "surface": "Court",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#384#10",
+    "sentence_id": "bc/cnn/00/cnn_0005#384",
+    "token_index": 10,
+    "sentence": "An ex-general and former head of the Lebanese Army president Emile Lahoud himself a Maronite Christian has been in power since nineteen ninety eight /.",
+    "surface": "Emile",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#68#7",
+    "sentence_id": "bc/cctv/00/cctv_0004#68",
+    "token_index": 7,
+    "sentence": "Right , they have a fairly steady readership .",
+    "surface": "readership",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  }
+]

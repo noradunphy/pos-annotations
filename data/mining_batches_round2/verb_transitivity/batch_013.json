@@ -1,0 +1,152 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#573#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#573",
+    "token_index": 5,
+    "sentence": "And I think she 'd be a very strong candidate /.",
+    "surface": "be",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#398#7",
+    "sentence_id": "bc/cctv/00/cctv_0004#398",
+    "token_index": 7,
+    "sentence": "Well , in fact , the US has long been suppressing al - Jazeera TV station .",
+    "surface": "has",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#384#13",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#384",
+    "token_index": 13,
+    "sentence": "Hey I 'm a former union president myself and also an attorney that represented a lot of unions /.",
+    "surface": "represented",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#315#6",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#315",
+    "token_index": 6,
+    "sentence": "Ben Ginsberg and Steve McMahon are staying with us /.",
+    "surface": "staying",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#448#8",
+    "sentence_id": "bc/cnn/00/cnn_0004#448",
+    "token_index": 8,
+    "sentence": "I got to tell you when I um joined that group Cronkite Severide Kerald and so forth that was like being admitted to the mother church /.",
+    "surface": "joined",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#335#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#335",
+    "token_index": 1,
+    "sentence": "He is so good , is n't he /?",
+    "surface": "is",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#344#23",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#344",
+    "token_index": 23,
+    "sentence": "So um at the end of the day I could n't move forward with that uh to forcing her to prison and basically having my son re-victimized /.",
+    "surface": "having",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#82#19",
+    "sentence_id": "bc/cnn/00/cnn_0003#82",
+    "token_index": 19,
+    "sentence": "Even though I say you know that I was under the you know terrible burden of mental illness I think there was a real survivor streak in me and a real fighter and a real fierceness /.",
+    "surface": "think",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#311#12",
+    "sentence_id": "bc/cctv/00/cctv_0004#311",
+    "token_index": 12,
+    "sentence": "favorable geographical conditions ; that is to say , it happens to be located geographically in the Arab world ;",
+    "surface": "be",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#248#2",
+    "sentence_id": "bc/cnn/00/cnn_0006#248",
+    "token_index": 2,
+    "sentence": "and that 's where our emphasis should be /.",
+    "surface": "'s",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  }
+]

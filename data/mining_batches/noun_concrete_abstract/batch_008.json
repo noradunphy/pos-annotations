@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0001#399#15",
+    "sentence_id": "bc/cnn/00/cnn_0001#399",
+    "token_index": 15,
+    "sentence": "In a few weeks the state of California is planning to execute Tookie Williams the man who co-founded one of the country 's most notorious street gangs /.",
+    "surface": "man",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#29#10",
+    "sentence_id": "bc/cctv/00/cctv_0001#29",
+    "token_index": 10,
+    "sentence": "The telegram said that the Japanese troops were building blockade trenches and chessboard - like roads to divide the Jizhong base area into small isolated blocks without the ability to mutually communicate and support each other , causing the Eighth Route Army and the guerrillas to lose maneuverability .",
+    "surface": "trenches",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#217#11",
+    "sentence_id": "bc/cnn/00/cnn_0005#217",
+    "token_index": 11,
+    "sentence": "I heard your testimony this week before the House and the Senate /.",
+    "surface": "Senate",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#53#58",
+    "sentence_id": "bc/cnn/00/cnn_0006#53",
+    "token_index": 58,
+    "sentence": "But I can tell you every uh body in the political process be it Shia or Sunni Kurds or Arab Kaldo - Assyrians are so determined and the government is so determined , to meet all the deadlines and to not get any postponement of this uh political process because we believe that any delaying of the political process is going to play into the hands of the terrorists and of those who are adopting violence and they will claim victory that they have succeeded in delaying the political process /.",
+    "surface": "process",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#5#9",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#5",
+    "token_index": 9,
+    "sentence": "Some say they now fear a racial backlash because Davis the suspect was black and the officers appear white mistrust that may threaten the fragile recovery in a town that has already been through enough /.",
+    "surface": "Davis",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#330#13",
+    "sentence_id": "bc/cctv/00/cctv_0004#330",
+    "token_index": 13,
+    "sentence": "Do you still remember , ah , during the Afghan war and the Iraq war , we could often see on screen the al - Jazeera footage such as bin Laden and some other al - Qaeda leaders giving speeches .",
+    "surface": "Iraq",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#29#9",
+    "sentence_id": "bc/cnn/00/cnn_0004#29",
+    "token_index": 9,
+    "sentence": "but I ca n't give you an up or down yes or no now /.",
+    "surface": "down",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#413#9",
+    "sentence_id": "bc/cnn/00/cnn_0006#413",
+    "token_index": 9,
+    "sentence": "Still Discovery 's mission the first US manned space trip since the Columbia shuttle explosion in two thousand three is being extended by one day /.",
+    "surface": "trip",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  }
+]

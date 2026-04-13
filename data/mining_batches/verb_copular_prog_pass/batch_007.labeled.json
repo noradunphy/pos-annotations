@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0002#74#33", "gold_subclass": "progressive", "notes": "was + wrapping (past progressive)."},
+  {"example_id": "bc/cnn/00/cnn_0002#574#16", "gold_subclass": "passive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#83#57", "gold_subclass": "copular", "notes": "Extraposed predicate (too soon to tell)."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#680#13", "gold_subclass": "none_of_these", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#138#39", "gold_subclass": "none_of_these", "notes": "Discourse if you like."},
+  {"example_id": "bc/msnbc/00/msnbc_0001#244#3", "gold_subclass": "none_of_these", "notes": "Do-support auxiliary."},
+  {"example_id": "bc/cctv/00/cctv_0004#187#20", "gold_subclass": "passive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#463#1", "gold_subclass": "none_of_these", "notes": "Perfect auxiliary have."}
+]

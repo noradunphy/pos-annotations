@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#83#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#83",
+    "token_index": 0,
+    "sentence": "But first here 's a little bit of sound from outside of court /.",
+    "surface": "But",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#666#13",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#666",
+    "token_index": 13,
+    "sentence": "And in the final negotiations they actually made the document even more Islamic and made the judiciary even more powerful um than what the original draft has done /.",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#217#9",
+    "sentence_id": "bc/cnn/00/cnn_0005#217",
+    "token_index": 9,
+    "sentence": "I heard your testimony this week before the House and the Senate /.",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#553#0",
+    "sentence_id": "bc/cnn/00/cnn_0004#553",
+    "token_index": 0,
+    "sentence": "But you were married , right /?",
+    "surface": "But",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#592#0",
+    "sentence_id": "bc/cnn/00/cnn_0003#592",
+    "token_index": 0,
+    "sentence": "But uh they can find the University of Medicine and Dentistry in New Jersey /.",
+    "surface": "But",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#431#5",
+    "sentence_id": "bc/cctv/00/cctv_0002#431",
+    "token_index": 5,
+    "sentence": "But , could you analyze and predict what kind of achievements he can make during his trip to Pusan ?",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#310#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#310",
+    "token_index": 0,
+    "sentence": "And Palmeiro says he will cooperate with the committee /.",
+    "surface": "And",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#87#12",
+    "sentence_id": "bc/cnn/00/cnn_0006#87",
+    "token_index": 12,
+    "sentence": "Of course these figures are going to be condition based because until and unless the right conditions are created in some of these areas the multinational forces will not leave and the Iraqi government will not ask them to leave /.",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  }
+]

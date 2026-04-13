@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0006#503#5",
+    "sentence_id": "bc/cnn/00/cnn_0006#503",
+    "token_index": 5,
+    "sentence": "Then a successful reign in terror in Great Britian /.",
+    "surface": "terror",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#484#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#484",
+    "token_index": 1,
+    "sentence": "Her parents were going through a divorce /.",
+    "surface": "parents",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#374#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#374",
+    "token_index": 4,
+    "sentence": "Do you think the unions have done the job here /?",
+    "surface": "unions",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#258#54",
+    "sentence_id": "bc/cnn/00/cnn_0002#258",
+    "token_index": 54,
+    "sentence": "However if the mother decides that she wants to take him to court to see if her decision is allowed all the folks in this uh state that I have talked to who 've dealt with matters like this in the past say that judges usually allow the evidence to be heard from both sides /.",
+    "surface": "sides",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#268#27",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#268",
+    "token_index": 27,
+    "sentence": "One other thing Dan worth I think pointing out real quickly here is that we did hear for the first time today a potential alibi for Mr. Littlejohn /.",
+    "surface": "Littlejohn",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#486#3",
+    "sentence_id": "bc/cnn/00/cnn_0004#486",
+    "token_index": 3,
+    "sentence": "Hello hello Jay Georgia hello /.",
+    "surface": "Georgia",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#0#0",
+    "sentence_id": "bc/cnn/00/cnn_0007#0",
+    "token_index": 0,
+    "sentence": "Journalists sources and jail /.",
+    "surface": "Journalists",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#103#23",
+    "sentence_id": "bc/cnn/00/cnn_0002#103",
+    "token_index": 23,
+    "sentence": "Classmates say Clebold and Harris who brought terror to Littleton Colorado in nineteen ninety - eight and Jeff Weiss the Red Lake Minnesota teen who killed nine people and wounded seven before fatally shooting himself all wore dark trenchcoats and were fans of Marilyn Manson /.",
+    "surface": "teen",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  }
+]

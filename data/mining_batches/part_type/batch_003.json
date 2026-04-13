@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#417#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#417",
+    "token_index": 1,
+    "sentence": "Coming up , a girl went missing when she was only fourteen years old /.",
+    "surface": "up",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#283#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#283",
+    "token_index": 5,
+    "sentence": "Should n't those people have to testify during her confirmation hearing so everyone will know /?",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#74#21",
+    "sentence_id": "bc/cnn/00/cnn_0007#74",
+    "token_index": 21,
+    "sentence": "it was about somebody in the CIA who was an analyst who got her husband this job to go to Africa to see if they could find evidence of wh- /-",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#64#8",
+    "sentence_id": "bc/cnn/00/cnn_0006#64",
+    "token_index": 8,
+    "sentence": "it does not mean that there 's going to be a discrimination against other religions /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#131#5",
+    "sentence_id": "bc/cctv/00/cctv_0002#131",
+    "token_index": 5,
+    "sentence": "So it may be hard to implement .",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#516#15",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#516",
+    "token_index": 15,
+    "sentence": "uh I know that your position is that uh this woman was not forced uh to be there /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#508#7",
+    "sentence_id": "bc/cnn/00/cnn_0001#508",
+    "token_index": 7,
+    "sentence": "I appreciate the opportunity to be able to even speak about Albert /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#25#7",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#25",
+    "token_index": 7,
+    "sentence": "and the only real engagement we want to have at the UN is to try to clean the place up /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  }
+]

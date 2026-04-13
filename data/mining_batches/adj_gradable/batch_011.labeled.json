@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0002#44#36", "gold_subclass": "non-gradable", "notes": "Nationality relational."},
+  {"example_id": "bc/cnn/00/cnn_0003#598#6", "gold_subclass": "non-gradable", "notes": "'Main base' = primary; not scalar."},
+  {"example_id": "bc/cnn/00/cnn_0005#363#48", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#503#6", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#75#2", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0001#53#2", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#27#1", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#82#23", "gold_subclass": "gradable", "notes": "Intensifier/emphatic 'real' still allows scaling in parallel uses."}
+]

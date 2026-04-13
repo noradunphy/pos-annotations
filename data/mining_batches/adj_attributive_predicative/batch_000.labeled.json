@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0002#469#22", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0001#151#23", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#201#9", "gold_subclass": "attributive", "notes": "Degree/object complement of 'know'; not classic NP-internal—closest attributive."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#238#9", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#230#2", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#568#8", "gold_subclass": "attributive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#155#4", "gold_subclass": "predicative", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0007#123#3", "gold_subclass": "predicative", "notes": ""}
+]

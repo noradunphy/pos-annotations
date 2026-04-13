@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0001#178#15", "gold_subclass": "place", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0004#170#9", "gold_subclass": "place", "notes": "\"on\" = displayed/active state"},
+  {"example_id": "bc/cctv/00/cctv_0004#227#0", "gold_subclass": "sentence_discourse", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#248#3", "gold_subclass": "place", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#25#2", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#418#0", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#631#4", "gold_subclass": "degree", "notes": "\"just\" = merely"},
+  {"example_id": "bc/cnn/00/cnn_0001#611#5", "gold_subclass": "place", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#547#1", "gold_subclass": "sentence_discourse", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0001#217#3", "gold_subclass": "time", "notes": ""}
+]

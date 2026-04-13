@@ -1,0 +1,172 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0001#109#9",
+    "sentence_id": "bc/cnn/00/cnn_0001#109",
+    "token_index": 9,
+    "sentence": "The United States is a rarity among nations in firmly tying health insurance to jobs making it a cost of doing business /.",
+    "surface": "firmly",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#373#2",
+    "sentence_id": "bc/cnn/00/cnn_0006#373",
+    "token_index": 2,
+    "sentence": "Are you now about to go along with him /?",
+    "surface": "now",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#90#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#90",
+    "token_index": 5,
+    "sentence": "My heart and prayers go out to the family of Imette St. Guillen /.",
+    "surface": "out",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#166#23",
+    "sentence_id": "bc/cctv/00/cctv_0001#166",
+    "token_index": 23,
+    "sentence": "At that time , the Hundred Regiments Offensive greatly encouraged the vast numbers of soldiers and civilians , with news of fighting spreading rapidly throughout the Taihang Mountain area .",
+    "surface": "rapidly",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#476#0",
+    "sentence_id": "bc/cctv/00/cctv_0002#476",
+    "token_index": 0,
+    "sentence": "All right , dear viewers , that 's all for today 's Focus Today program .",
+    "surface": "All",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#143#23",
+    "sentence_id": "bc/cnn/00/cnn_0003#143",
+    "token_index": 23,
+    "sentence": "at its height the biggest low was uh the birth of my second child and a post-partem depression that followed which was very much like a psychosis /.",
+    "surface": "much",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#727#13",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#727",
+    "token_index": 13,
+    "sentence": "From now on whenever I travel I want a bottle of wine waiting not just any wine but fine wine /.",
+    "surface": "not",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#231#0",
+    "sentence_id": "bc/cnn/00/cnn_0007#231",
+    "token_index": 0,
+    "sentence": "how did the signals work /.",
+    "surface": "how",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#504#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#504",
+    "token_index": 0,
+    "sentence": "Also joining us right now is Paul Rieckhoff /.",
+    "surface": "Also",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#431#3",
+    "sentence_id": "bc/cnn/00/cnn_0001#431",
+    "token_index": 3,
+    "sentence": "He says they really listen to Williams do n't tune him out like cops or counselors /.",
+    "surface": "really",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  }
+]

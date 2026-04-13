@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0004#77#3", "gold_subclass": "standard", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#368#9", "gold_subclass": "standard", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#484#7", "gold_subclass": "standard", "notes": "Possessive clitic; not a verb-particle construction."},
+  {"example_id": "bc/cnn/00/cnn_0007#270#19", "gold_subclass": "standard", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#321#18", "gold_subclass": "standard", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#36#20", "gold_subclass": "phrasal_verb_particle", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#41#10", "gold_subclass": "standard", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#329#4", "gold_subclass": "standard", "notes": ""}
+]

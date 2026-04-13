@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0002#158#6", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#233#7", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#80#25", "gold_subclass": "manner", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#673#7", "gold_subclass": "sentence_discourse", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#133#3", "gold_subclass": "time", "notes": "right collocates with now (temporal)."},
+  {"example_id": "bc/cnn/00/cnn_0005#192#40", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#94#10", "gold_subclass": "degree", "notes": "Correlative not only ."},
+  {"example_id": "bc/cnn/00/cnn_0005#4#0", "gold_subclass": "place", "notes": "Locative free relative."}
+]

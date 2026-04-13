@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0004#140#6", "gold_subclass": "transitive", "notes": "grasps that-clause"},
+  {"example_id": "bc/cnn/00/cnn_0001#342#4", "gold_subclass": "intransitive", "notes": "passive auxiliary be repaired"},
+  {"example_id": "bc/cctv/00/cctv_0001#30#11", "gold_subclass": "intransitive", "notes": "compromise as intransitive negotiate (nominalized in list)"},
+  {"example_id": "bc/msnbc/00/msnbc_0002#193#18", "gold_subclass": "intransitive", "notes": "perfect auxiliary has been tried"},
+  {"example_id": "bc/msnbc/00/msnbc_0002#492#3", "gold_subclass": "transitive", "notes": "kill her"},
+  {"example_id": "bc/cnn/00/cnn_0001#288#1", "gold_subclass": "intransitive", "notes": "existential there 's"},
+  {"example_id": "bc/msnbc/00/msnbc_0004#438#1", "gold_subclass": "intransitive", "notes": "copular It 's"},
+  {"example_id": "bc/cnn/00/cnn_0005#134#2", "gold_subclass": "transitive", "notes": "have the results"}
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0002#506#8",
+    "sentence_id": "bc/cctv/00/cctv_0002#506",
+    "token_index": 8,
+    "sentence": "Tokyo , sunny changing to cloudy , 8 to 14 degrees .",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#257#28",
+    "sentence_id": "bc/cnn/00/cnn_0002#257",
+    "token_index": 28,
+    "sentence": "Well here in the state of Utah because the father had custody of the child they 've been divorced now for uh three years he would be able to make the decision /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#267#9",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#267",
+    "token_index": 9,
+    "sentence": "I actually think it was their chance to stand up and say we do n't think that somebody who was an architect of a war , who was an architect of the misleading information that we got and that the world got /.",
+    "surface": "up",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#59#29",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#59",
+    "token_index": 29,
+    "sentence": "Well look it is good to see uh that we 're not hearing what we sometimes hear in these kinds of cases which is well you know you got to understand the circumstances and the tape is n't showing everything /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#503#12",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#503",
+    "token_index": 12,
+    "sentence": "And our continuing series Manhunt Sex Offenders on the Loose our effort to find sex offenders before they strike /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#223#4",
+    "sentence_id": "bc/cnn/00/cnn_0005#223",
+    "token_index": 4,
+    "sentence": "we do n't need to fight this war looking over our shoulder worrying about support back home /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#227#19",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#227",
+    "token_index": 19,
+    "sentence": "And he ca n't go in with a mandate that the president has given him to shake the place up with some of those pungent sound bites and get along with enough people especially because his own credibility was really on the line on some of the tough issues that he 's going to confront Iran Iraq North Korea /.",
+    "surface": "up",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#67#32",
+    "sentence_id": "bc/cnn/00/cnn_0001#67",
+    "token_index": 32,
+    "sentence": "the anti-Wal - mart film points out that in two thousand one according to court documents workers made on average less than fourteen thousand dollars a year , that Wal - Mart 's CEO made twenty - seven million dollars a year /.",
+    "surface": "'s",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0003#402#12",
+    "sentence_id": "bc/cnn/00/cnn_0003#402",
+    "token_index": 12,
+    "sentence": "You know um you ca n't really explain what a depression is or where it comes from to someone that does n't understand /.",
+    "surface": "or",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#467#0",
+    "sentence_id": "bc/cnn/00/cnn_0005#467",
+    "token_index": 0,
+    "sentence": "but all I know myself is that all the have withdrawn with their intelligence /.",
+    "surface": "but",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#464#5",
+    "sentence_id": "bc/cctv/00/cctv_0004#464",
+    "token_index": 5,
+    "sentence": "In spite of being overcast and frigid , rainfall will also bring cleaner air to the area south of the Yangtze River plagued with smog .",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#104#4",
+    "sentence_id": "bc/cnn/00/cnn_0006#104",
+    "token_index": 4,
+    "sentence": "How many Iraqi troops and police forces are fully capable of operating right now without US or multinational coalition assistance /?",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#546#8",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#546",
+    "token_index": 8,
+    "sentence": "We 'll be right back with Ed Rogers and Bob Shrum /.",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#554#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#554",
+    "token_index": 5,
+    "sentence": "I have had a long and extensive career /.",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#563#0",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#563",
+    "token_index": 0,
+    "sentence": "But here 's the fact of the matter /.",
+    "surface": "But",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#411#16",
+    "sentence_id": "bc/cnn/00/cnn_0003#411",
+    "token_index": 16,
+    "sentence": "and I am so very glad you are out there in our face so to speak and letting us know that people will support us /.",
+    "surface": "and",
+    "high_level": "CONJ",
+    "distinction_id": "conj_type",
+    "labels": [
+      "coordinating",
+      "subordinating"
+    ]
+  }
+]

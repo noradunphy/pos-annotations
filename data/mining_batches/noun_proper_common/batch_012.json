@@ -1,0 +1,54 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0001#162#17",
+    "sentence_id": "bc/cctv/00/cctv_0001#162",
+    "token_index": 17,
+    "sentence": "The Eighth Route Army smashed successive large - scale sweep operations launched by the Japanese army and puppet army against anti-Japanese bases in Taihang , Taiyue , Pingxi , Beiyue , and northwest areas of Shanxi , among others .",
+    "surface": "puppet",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#624#8",
+    "sentence_id": "bc/cnn/00/cnn_0002#624",
+    "token_index": 8,
+    "sentence": "and I think it means severe pain and suffering either physical or mental can not be imposed /.",
+    "surface": "suffering",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#276#2",
+    "sentence_id": "bc/cnn/00/cnn_0006#276",
+    "token_index": 2,
+    "sentence": "Senator Collins Susan Collins and I are going to do hearings on that in the fall /.",
+    "surface": "Susan",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#233#15",
+    "sentence_id": "bc/cctv/00/cctv_0003#233",
+    "token_index": 15,
+    "sentence": "All , diplomatic activities must promote Russia 's prosperity , eh , development , and wealth and power .",
+    "surface": "wealth",
+    "high_level": "NOUN",
+    "distinction_id": "noun_proper_common",
+    "labels": [
+      "proper",
+      "common"
+    ]
+  }
+]

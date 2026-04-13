@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0005#495#6",
+    "sentence_id": "bc/cnn/00/cnn_0005#495",
+    "token_index": 6,
+    "sentence": "uh thanks for spending a few moments with us here on Late Edition /.",
+    "surface": "moments",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#189#30",
+    "sentence_id": "bc/cctv/00/cctv_0001#189",
+    "token_index": 30,
+    "sentence": "You used the washbasin to wash your feet , used the washbasin to hold your meal , used the washbasin to wash your face , and sometimes used the same washbasin to boil water .",
+    "surface": "washbasin",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#568#2",
+    "sentence_id": "bc/cnn/00/cnn_0001#568",
+    "token_index": 2,
+    "sentence": "A frightening week of violence continues in Paris /.",
+    "surface": "week",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#6#10",
+    "sentence_id": "bc/cnn/00/cnn_0005#6",
+    "token_index": 10,
+    "sentence": "and later we 'll also get the views of senator Edward Kennedy /.",
+    "surface": "Edward",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#228#13",
+    "sentence_id": "bc/cctv/00/cctv_0001#228",
+    "token_index": 13,
+    "sentence": "However , people from various circles in Taiwan think there are many suspicious points in this case .",
+    "surface": "points",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#430#17",
+    "sentence_id": "bc/cctv/00/cctv_0002#430",
+    "token_index": 17,
+    "sentence": "Well , as we mentioned earlier at the beginning , eh , a very important purpose for Koizumi to go to attend the APEC leaders ' summit in Pusan this time is to see if he could try to improve the relations with neighboring countries through talks with President Roh Moo - hyun , as if he were clutching at a life - saving straw .",
+    "surface": "Koizumi",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#21#5",
+    "sentence_id": "bc/cnn/00/cnn_0001#21",
+    "token_index": 5,
+    "sentence": "In Wal - Mart 's case both sides are being beamed onto big screens everywhere /.",
+    "surface": "case",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#357#9",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#357",
+    "token_index": 9,
+    "sentence": "um He uh just has a wonderful circle of friends /.",
+    "surface": "friends",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  }
+]

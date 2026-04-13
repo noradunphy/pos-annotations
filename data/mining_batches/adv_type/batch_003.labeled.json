@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0002#234#3", "gold_subclass": "time", "notes": "Continuative still."},
+  {"example_id": "bc/cnn/00/cnn_0005#297#7", "gold_subclass": "place", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#333#16", "gold_subclass": "degree", "notes": "Focusing/scalar even."},
+  {"example_id": "bc/msnbc/00/msnbc_0001#418#51", "gold_subclass": "degree", "notes": "Epistemic certainty ( likely )."},
+  {"example_id": "bc/cnn/00/cnn_0001#55#6", "gold_subclass": "degree", "notes": "Negation ( n't )."},
+  {"example_id": "bc/cctv/00/cctv_0002#418#2", "gold_subclass": "sentence_discourse", "notes": "Viewpoint adverb framing the answer."},
+  {"example_id": "bc/msnbc/00/msnbc_0002#50#0", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#387#1", "gold_subclass": "sentence_discourse", "notes": "Copula mistagged as ADV; fragment of That is … ( i.e. )."}
+]

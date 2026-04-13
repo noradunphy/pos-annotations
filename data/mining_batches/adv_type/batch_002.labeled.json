@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0004#411#9", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0007#149#4", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0003#309#11", "gold_subclass": "sentence_discourse", "notes": "Discourse use in that is ( i.e. ); surface mistagged as ADV."},
+  {"example_id": "bc/cnn/00/cnn_0002#455#7", "gold_subclass": "place", "notes": "Directional particle with there."},
+  {"example_id": "bc/msnbc/00/msnbc_0001#277#10", "gold_subclass": "degree", "notes": "Negation ( n't )."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#242#18", "gold_subclass": "time", "notes": "Again as temporal recurrence."},
+  {"example_id": "bc/cnn/00/cnn_0005#396#13", "gold_subclass": "place", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#519#16", "gold_subclass": "degree", "notes": "Intensifier modifying adjective."}
+]

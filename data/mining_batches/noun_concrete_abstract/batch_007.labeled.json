@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0004#5#4", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#125#3", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#275#23", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#53#14", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#86#0", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0001#166#28", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#23#6", "gold_subclass": "concrete", "notes": "weather system"},
+  {"example_id": "bc/msnbc/00/msnbc_0004#329#14", "gold_subclass": "abstract", "notes": "labor organization as institution"}
+]

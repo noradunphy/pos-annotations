@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0003#333#11",
+    "sentence_id": "bc/cctv/00/cctv_0003#333",
+    "token_index": 11,
+    "sentence": "In the literal sense , if the two nations have not signed a peace treaty , it means at this point the two nations are still at war .",
+    "surface": "signed",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#246#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#246",
+    "token_index": 5,
+    "sentence": "and he was arguing to get back into the lower ones /.",
+    "surface": "get",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#126#34",
+    "sentence_id": "bc/cnn/00/cnn_0001#126",
+    "token_index": 34,
+    "sentence": "I do n't think that Wal - Mart either has built an acceptable system for real health care for employees and they have n't really provided much to the national debate on how we can accomplish this uh as a nation /.",
+    "surface": "can",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#119#3",
+    "sentence_id": "bc/cnn/00/cnn_0004#119",
+    "token_index": 3,
+    "sentence": "But he could uphold just on precedent , could he not /?",
+    "surface": "uphold",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#14#11",
+    "sentence_id": "bc/cnn/00/cnn_0002#14",
+    "token_index": 11,
+    "sentence": "so many times we have heard today that I ca n't believe this happened in our small town /.",
+    "surface": "believe",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#293#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#293",
+    "token_index": 2,
+    "sentence": "But that 's his fault /.",
+    "surface": "'s",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#102#1",
+    "sentence_id": "bc/cnn/00/cnn_0002#102",
+    "token_index": 1,
+    "sentence": "Columbine would not have happened if they had investigated that to begin with /.",
+    "surface": "would",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#505#18",
+    "sentence_id": "bc/cnn/00/cnn_0004#505",
+    "token_index": 18,
+    "sentence": "and he said he 's not going to run for another term because it would be destabilizing not going to ask to change the constitution /.",
+    "surface": "going",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  }
+]

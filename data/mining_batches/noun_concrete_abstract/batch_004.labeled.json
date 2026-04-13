@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0004#379#20", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#186#14", "gold_subclass": "abstract", "notes": "temporal deictic"},
+  {"example_id": "bc/cnn/00/cnn_0004#459#5", "gold_subclass": "abstract", "notes": "indefinite non-specific referent"},
+  {"example_id": "bc/cnn/00/cnn_0007#293#4", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#219#2", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#468#23", "gold_subclass": "abstract", "notes": "manner"},
+  {"example_id": "bc/cnn/00/cnn_0002#153#0", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#545#0", "gold_subclass": "concrete", "notes": "show / entity name"}
+]

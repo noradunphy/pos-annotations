@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0005#259#4", "gold_subclass": "place", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#344#16", "gold_subclass": "degree", "notes": "negation adverb"},
+  {"example_id": "bc/cnn/00/cnn_0003#273#7", "gold_subclass": "place", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#249#2", "gold_subclass": "degree", "notes": "negation adverb"},
+  {"example_id": "bc/cnn/00/cnn_0001#571#10", "gold_subclass": "frequency", "notes": "\"once again\" = one more time"},
+  {"example_id": "bc/cctv/00/cctv_0003#305#17", "gold_subclass": "sentence_discourse", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#631#0", "gold_subclass": "time", "notes": "\"right now\" = at this moment"},
+  {"example_id": "bc/msnbc/00/msnbc_0003#203#7", "gold_subclass": "manner", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#480#9", "gold_subclass": "place", "notes": "phrasal particle in \"is up\" meaning ended; closest = place"},
+  {"example_id": "bc/msnbc/00/msnbc_0002#329#25", "gold_subclass": "degree", "notes": "part of \"at all\" meaning to any extent"}
+]

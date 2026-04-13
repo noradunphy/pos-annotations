@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0003#18#3", "gold_subclass": "non-gradable", "notes": "Ordinal 'first'; not *very first in this sense."},
+  {"example_id": "bc/cnn/00/cnn_0006#218#24", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#291#14", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#627#20", "gold_subclass": "non-gradable", "notes": "'Particular' = specific/certain; not degree-modified like quality adjectives."},
+  {"example_id": "bc/cctv/00/cctv_0002#287#31", "gold_subclass": "non-gradable", "notes": "Relational/denominal (national interests)."},
+  {"example_id": "bc/cnn/00/cnn_0006#337#8", "gold_subclass": "non-gradable", "notes": "Fixed in idiom 'up or down vote'."},
+  {"example_id": "bc/cnn/00/cnn_0006#449#11", "gold_subclass": "gradable", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#163#17", "gold_subclass": "non-gradable", "notes": "Temporal ordinal (last night)."}
+]

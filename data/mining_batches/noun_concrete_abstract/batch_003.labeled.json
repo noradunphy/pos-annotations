@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0004#36#48", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0004#364#7", "gold_subclass": "abstract", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#181#7", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#91#20", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#333#17", "gold_subclass": "abstract", "notes": "adjective mistagged as NOUN"},
+  {"example_id": "bc/cnn/00/cnn_0001#236#3", "gold_subclass": "abstract", "notes": "time period"},
+  {"example_id": "bc/cnn/00/cnn_0002#516#13", "gold_subclass": "concrete", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0001#140#19", "gold_subclass": "concrete", "notes": "railroad crossties"}
+]

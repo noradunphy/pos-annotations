@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0001#25#9",
+    "sentence_id": "bc/cnn/00/cnn_0001#25",
+    "token_index": 9,
+    "sentence": "I keep saying you ca n't buy small town quality of life at a Wal - Mart because they do n't sell it /.",
+    "surface": "quality",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#211#19",
+    "sentence_id": "bc/cctv/00/cctv_0001#211",
+    "token_index": 19,
+    "sentence": "In addition , the Hundred Regiments Offensive was a response to the European battlefield , while enhancing the international reputation of the CPC and the Eighth Route Army .",
+    "surface": "reputation",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#62#9",
+    "sentence_id": "bc/cnn/00/cnn_0001#62",
+    "token_index": 9,
+    "sentence": "he 's also producing a documentary in their defense one that depicts Wal - Mart as an ingenious business plan that is good for America /.",
+    "surface": "one",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#487#28",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#487",
+    "token_index": 28,
+    "sentence": "and had they done their job right back there and had uh invesigated it properly in this information age that we have it is my opinion and the families ' opinion this would have not happened /.",
+    "surface": "families",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#464#24",
+    "sentence_id": "bc/cctv/00/cctv_0004#464",
+    "token_index": 24,
+    "sentence": "In spite of being overcast and frigid , rainfall will also bring cleaner air to the area south of the Yangtze River plagued with smog .",
+    "surface": "smog",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#40#10",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#40",
+    "token_index": 10,
+    "sentence": "And certainly um we have a zero tolerance for this type of behavior /.",
+    "surface": "type",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#164#13",
+    "sentence_id": "bc/cnn/00/cnn_0006#164",
+    "token_index": 13,
+    "sentence": "and uh it was discussed in detail in the Ministerial Committee for National Security chain of meetings /.",
+    "surface": "Security",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#352#10",
+    "sentence_id": "bc/cnn/00/cnn_0003#352",
+    "token_index": 10,
+    "sentence": "I 'm um just getting ready to do a character arc in a new show for FX called Beef /.",
+    "surface": "arc",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  }
+]

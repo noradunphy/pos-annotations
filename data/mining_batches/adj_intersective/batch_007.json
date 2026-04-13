@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0004#453#17",
+    "sentence_id": "bc/cnn/00/cnn_0004#453",
+    "token_index": 17,
+    "sentence": "but I find it uh not only bizarre but uh just unfathomable how George Bush has been silent about Karl Rove /.",
+    "surface": "silent",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#265#12",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#265",
+    "token_index": 12,
+    "sentence": "the Democrats who voted against Bolton and denied him an up or down vote in the Senate were n't they just in a certain way trying to separate themselves from having voted for the war /?",
+    "surface": "down",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#470#19",
+    "sentence_id": "bc/cnn/00/cnn_0001#470",
+    "token_index": 19,
+    "sentence": "One of the major gang problems uh of the insanity of gang problems is young black men killing young black men and Hispanic kids killing Hispanic kids /.",
+    "surface": "black",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#443#22",
+    "sentence_id": "bc/cnn/00/cnn_0004#443",
+    "token_index": 22,
+    "sentence": "Uh first of all I just wanted to say that uh uh when I first came to Canada here I got my political education watching those CBS broadcasts /.",
+    "surface": "political",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#26#8",
+    "sentence_id": "bc/cnn/00/cnn_0007#26",
+    "token_index": 8,
+    "sentence": "and she took what I believe is the brave and honorable choice /.",
+    "surface": "brave",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#26#17",
+    "sentence_id": "bc/cctv/00/cctv_0001#26",
+    "token_index": 17,
+    "sentence": "Roads and railways were used as links to connect all of North China into a solid , widespread siege , in order to strangle the Eighth Route Army and its base areas in this net .",
+    "surface": "widespread",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#220#13",
+    "sentence_id": "bc/cctv/00/cctv_0001#220",
+    "token_index": 13,
+    "sentence": "The Tengchong Battle , an annihilation of the Japanese army , became a typical example for the China war area .",
+    "surface": "typical",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#239#19",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#239",
+    "token_index": 19,
+    "sentence": "So while he would like to warn John Bolton as he did today that there are a hundred ninety other representatives the US has a certain special clout /.",
+    "surface": "other",
+    "high_level": "ADJ",
+    "distinction_id": "adj_intersective",
+    "labels": [
+      "intersective",
+      "non-intersective"
+    ]
+  }
+]

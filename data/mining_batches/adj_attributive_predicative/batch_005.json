@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#664#31",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#664",
+    "token_index": 31,
+    "sentence": "I think that as an American people the stories that I tell from Iraq and that our fellow talk show hosts told um eh uh hopefully will engender a little bit more patience and endurance by the American people /.",
+    "surface": "more",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#4#6",
+    "sentence_id": "bc/cctv/00/cctv_0004#4",
+    "token_index": 6,
+    "sentence": "Coming up next , please stay tuned to Focus Today hosted by Wang Shilin .",
+    "surface": "tuned",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#42#22",
+    "sentence_id": "bc/cctv/00/cctv_0003#42",
+    "token_index": 22,
+    "sentence": "Well , both the media and citizens have such concerns , that is to say , they are afraid that resolution of territorial issues may take rather .",
+    "surface": "territorial",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#622#14",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#622",
+    "token_index": 14,
+    "sentence": "And I do n't think he 's going to pick Joe Biden as his vice-presidential nominee if he gets nominated /.",
+    "surface": "vice-presidential",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#637#10",
+    "sentence_id": "bc/cnn/00/cnn_0001#637",
+    "token_index": 10,
+    "sentence": "Police are hesitant to venture into the largely African and Muslim neighborhoods /.",
+    "surface": "Muslim",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#303#13",
+    "sentence_id": "bc/cnn/00/cnn_0002#303",
+    "token_index": 13,
+    "sentence": "But even a wildlife expert like Hannah was surprised to find such a mighty creature submerged in lake water /.",
+    "surface": "mighty",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#502#22",
+    "sentence_id": "bc/cnn/00/cnn_0006#502",
+    "token_index": 22,
+    "sentence": "There 's much more ahead on Late Edition including Egypt 's prime minister Akmed Alze the pressure for political reform inside his own country and much more /.",
+    "surface": "own",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#375#6",
+    "sentence_id": "bc/cnn/00/cnn_0001#375",
+    "token_index": 6,
+    "sentence": "I just hope that we 're able to work our way through uh and make an up or down decision on this judge /.",
+    "surface": "able",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  }
+]

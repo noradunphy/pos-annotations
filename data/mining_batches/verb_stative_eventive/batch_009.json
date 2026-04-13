@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0002#10#7",
+    "sentence_id": "bc/cnn/00/cnn_0002#10",
+    "token_index": 7,
+    "sentence": "As soon as this happened the school went into a lockdown /.",
+    "surface": "went",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#236#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#236",
+    "token_index": 2,
+    "sentence": "Did he go with anybody /?",
+    "surface": "go",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#198#4",
+    "sentence_id": "bc/cctv/00/cctv_0001#198",
+    "token_index": 4,
+    "sentence": "Bullets and artillery fire whistled past his head .",
+    "surface": "whistled",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#505#2",
+    "sentence_id": "bc/cnn/00/cnn_0004#505",
+    "token_index": 2,
+    "sentence": "and he said he 's not going to run for another term because it would be destabilizing not going to ask to change the constitution /.",
+    "surface": "said",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#125#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#125",
+    "token_index": 2,
+    "sentence": "Did somebody ask you to escort her out /?",
+    "surface": "ask",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#532#3",
+    "sentence_id": "bc/cnn/00/cnn_0001#532",
+    "token_index": 3,
+    "sentence": "He says he 's sorry /.",
+    "surface": "'s",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#356#10",
+    "sentence_id": "bc/cnn/00/cnn_0005#356",
+    "token_index": 10,
+    "sentence": "Increasingly he 's being asked questions whether the American people are behind them support what they 're doing /.",
+    "surface": "are",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#48#23",
+    "sentence_id": "bc/cctv/00/cctv_0001#48",
+    "token_index": 23,
+    "sentence": "Outside of Taiyuan and Shijiazhuang , the Japanese military deployed the 4th , 8th , and 93rd mixed brigades and regiments , which were scattered among 50 strongholds along the railway line .",
+    "surface": "were",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0002#351#1", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#536#1", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#395#7", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#491#1", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#656#1", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#398#2", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#107#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#540#4", "gold_subclass": "possessive", "notes": "Possessive determiner (his shirt)."},
+  {"example_id": "bc/cctv/00/cctv_0001#133#7", "gold_subclass": "possessive", "notes": "Possessive determiner (his command)."},
+  {"example_id": "bc/cnn/00/cnn_0005#37#9", "gold_subclass": "indefinite", "notes": "Existential/expletive there (there's a lot)."}
+]

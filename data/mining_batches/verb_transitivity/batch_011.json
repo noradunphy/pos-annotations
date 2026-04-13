@@ -1,0 +1,122 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#293#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#293",
+    "token_index": 2,
+    "sentence": "My passion was teaching /.",
+    "surface": "was",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#260#42",
+    "sentence_id": "bc/cnn/00/cnn_0006#260",
+    "token_index": 42,
+    "sentence": "So um the the war on terror is really a war with many fronts . The first and foremost uh among them being um trying to fight the enemy abroad and engaging in a significant intelligence operation to disrupt their ability to attack /.",
+    "surface": "attack",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#84#1",
+    "sentence_id": "bc/cnn/00/cnn_0004#84",
+    "token_index": 1,
+    "sentence": "it ought to happen in a dignified way /.",
+    "surface": "ought",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#492#38",
+    "sentence_id": "bc/cnn/00/cnn_0003#492",
+    "token_index": 38,
+    "sentence": "I had training in mental health and also worked in drugs and alcohol in a women 's prison and found that there are so many women in prison who have that same problem in terms of bipolar and were self medicating and they 're in prison for a great amount of time and when they are released then they go off the medication if they are on it /.",
+    "surface": "were",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#651#3",
+    "sentence_id": "bc/cnn/00/cnn_0001#651",
+    "token_index": 3,
+    "sentence": "I ca n't pull it off /.",
+    "surface": "pull",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#33#9",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#33",
+    "token_index": 9,
+    "sentence": "And there 's some people who think he 's doing this as a loss leader /.",
+    "surface": "doing",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#182#23",
+    "sentence_id": "bc/cctv/00/cctv_0002#182",
+    "token_index": 23,
+    "sentence": "Actually , due to his visit to Yasukuni Shrine and the cooling down of the political relationship , Sino - Japanese relations have suffered severe blows .",
+    "surface": "suffered",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#620#27",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#620",
+    "token_index": 27,
+    "sentence": "and what we really need from the journalistic community and the administration is honest candor about where are we now and how long are we going to be there /?",
+    "surface": "be",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  }
+]

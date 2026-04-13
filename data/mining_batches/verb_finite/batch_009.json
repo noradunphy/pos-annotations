@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0004#239#6",
+    "sentence_id": "bc/cnn/00/cnn_0004#239",
+    "token_index": 6,
+    "sentence": "I did n't realize what was happening /.",
+    "surface": "happening",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#51#14",
+    "sentence_id": "bc/cctv/00/cctv_0002#51",
+    "token_index": 14,
+    "sentence": "All these must be properly resolved before the relations between the two countries can improve .",
+    "surface": "improve",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#67#2",
+    "sentence_id": "bc/cnn/00/cnn_0005#67",
+    "token_index": 2,
+    "sentence": "If you look at what the dictionary says about throes it can still be a violent period the throes of a revolution /.",
+    "surface": "look",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#394#13",
+    "sentence_id": "bc/cnn/00/cnn_0006#394",
+    "token_index": 13,
+    "sentence": "I believe now that the Senate will pass the legislation that we 're talking about which is more funding for stem cell research on frozen embryos that are extra basically have been set aside for in - vitro fertilization /.",
+    "surface": "talking",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#385#4",
+    "sentence_id": "bc/cnn/00/cnn_0001#385",
+    "token_index": 4,
+    "sentence": "The filibuster fight to please Democratic activists could alienate the kind of centrists who vote for both George Bush and Ben Nelson in the same state which is why the word filibuster makes Ben Nelson dance /.",
+    "surface": "please",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#672#11",
+    "sentence_id": "bc/cnn/00/cnn_0002#672",
+    "token_index": 11,
+    "sentence": "Bill let me uh tell you something that Senator Roberts has said about the McCain amendment /.",
+    "surface": "said",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#404#23",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#404",
+    "token_index": 23,
+    "sentence": "I know that Tom Davis uh a Republican from Virginia and Henry Waxman from California have the Clean Sports Act that we 're trying to get put through Congress /.",
+    "surface": "trying",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#41#1",
+    "sentence_id": "bc/cctv/00/cctv_0001#41",
+    "token_index": 1,
+    "sentence": "It was to overcome this crisis .",
+    "surface": "was",
+    "high_level": "VERB",
+    "distinction_id": "verb_finite",
+    "labels": [
+      "finite",
+      "non-finite"
+    ]
+  }
+]

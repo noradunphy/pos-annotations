@@ -1,0 +1,172 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0002#168#3",
+    "sentence_id": "bc/cctv/00/cctv_0002#168",
+    "token_index": 3,
+    "sentence": "Could he walk steadily with a lame diplomacy ?",
+    "surface": "steadily",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#478#2",
+    "sentence_id": "bc/cnn/00/cnn_0003#478",
+    "token_index": 2,
+    "sentence": "So we just encourage open dialog in our family so that we can um attack everything together and they feel supported no matter what comes up /.",
+    "surface": "just",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#30#18",
+    "sentence_id": "bc/cnn/00/cnn_0002#30",
+    "token_index": 18,
+    "sentence": "Uh police are still trying to figure out what led up to that , why the student was there at the office and what exactly transpired between him and the administrators before those shots were fired /.",
+    "surface": "there",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#214#2",
+    "sentence_id": "bc/cnn/00/cnn_0004#214",
+    "token_index": 2,
+    "sentence": "Have you ever been subpoenaed in a like similar case where someone said something to you that you may have reported or not reported /?",
+    "surface": "ever",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#252#10",
+    "sentence_id": "bc/cctv/00/cctv_0002#252",
+    "token_index": 10,
+    "sentence": "And we can also see the other one , that is , to continue damaging the relations with its close neighbors",
+    "surface": "is",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#440#0",
+    "sentence_id": "bc/cnn/00/cnn_0003#440",
+    "token_index": 0,
+    "sentence": "All of the sudden I would disappear /.",
+    "surface": "All",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#181#12",
+    "sentence_id": "bc/cnn/00/cnn_0003#181",
+    "token_index": 12,
+    "sentence": "but I never would have taken the action to kill myself um just cause I 'm a real nice girl and a pleaser and I could n't have done that to my family /.",
+    "surface": "just",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#32#0",
+    "sentence_id": "bc/cctv/00/cctv_0004#32",
+    "token_index": 0,
+    "sentence": "Next , let 's see ; this is a November 22 article .",
+    "surface": "Next",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#464#11",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#464",
+    "token_index": 11,
+    "sentence": "and any normal human being would be shocked by what happened here and how easy it would have been for uh the uh responsible authorities to look back at a twenty five year history of this devil incarnate and uh not let him loose /.",
+    "surface": "here",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#208#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#208",
+    "token_index": 2,
+    "sentence": "Yeah and here 's what the police chief uh said about it uh on Thursday /.",
+    "surface": "here",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  }
+]

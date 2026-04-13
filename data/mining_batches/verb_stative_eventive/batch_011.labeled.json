@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0003#333#11", "gold_subclass": "eventive", "notes": "Sign a treaty: punctual act."},
+  {"example_id": "bc/msnbc/00/msnbc_0004#246#5", "gold_subclass": "eventive", "notes": "Get back: motion/achievement."},
+  {"example_id": "bc/cnn/00/cnn_0001#126#34", "gold_subclass": "stative", "notes": "Modal can: possibility/ability."},
+  {"example_id": "bc/cnn/00/cnn_0004#119#3", "gold_subclass": "eventive", "notes": "Judicial act uphold."},
+  {"example_id": "bc/cnn/00/cnn_0002#14#11", "gold_subclass": "stative", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#293#2", "gold_subclass": "stative", "notes": "Copula that is his fault."},
+  {"example_id": "bc/cnn/00/cnn_0002#102#1", "gold_subclass": "stative", "notes": "Modal would in conditional; no single event."},
+  {"example_id": "bc/cnn/00/cnn_0004#505#18", "gold_subclass": "eventive", "notes": "Going to future: planned non-running."}
+]

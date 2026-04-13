@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0002#405#8",
+    "sentence_id": "bc/cctv/00/cctv_0002#405",
+    "token_index": 8,
+    "sentence": "Ah , in his opinion , he wants to have friendly negotiations , ah , with China if he sees that China , er , has taken any action .",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#323#14",
+    "sentence_id": "bc/cnn/00/cnn_0005#323",
+    "token_index": 14,
+    "sentence": "And I hope the President will insist on Tuesday night that the Iraqis live up to that timetable because if that political process does not move along on that timetable the military solution can not solve this problem /.",
+    "surface": "up",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#413#6",
+    "sentence_id": "bc/cnn/00/cnn_0001#413",
+    "token_index": 6,
+    "sentence": "Instead he 's fifteen on track to graduate and go to college /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#317#10",
+    "sentence_id": "bc/cnn/00/cnn_0006#317",
+    "token_index": 10,
+    "sentence": "And now in the news we have some new developments to tell you about in the London terror investigation /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#161#10",
+    "sentence_id": "bc/cctv/00/cctv_0003#161",
+    "token_index": 10,
+    "sentence": "On September 2 , 2004 , Koizumi went by boat to tour the four northern islands .",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#188#10",
+    "sentence_id": "bc/cnn/00/cnn_0005#188",
+    "token_index": 10,
+    "sentence": "The Zarqawi part of the network needs to be taken down /.",
+    "surface": "down",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#420#7",
+    "sentence_id": "bc/cnn/00/cnn_0002#420",
+    "token_index": 7,
+    "sentence": "so we 're uh teaching people how to have productive lives in Rwanda /.",
+    "surface": "to",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#612#6",
+    "sentence_id": "bc/cnn/00/cnn_0002#612",
+    "token_index": 6,
+    "sentence": "Professor Yoo let me bring you in here um /.",
+    "surface": "in",
+    "high_level": "PART",
+    "distinction_id": "part_type",
+    "labels": [
+      "standard",
+      "phrasal_verb_particle"
+    ]
+  }
+]

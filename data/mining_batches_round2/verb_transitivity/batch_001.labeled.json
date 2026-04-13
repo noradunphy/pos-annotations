@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0003#598#0", "gold_subclass": "intransitive", "notes": "Auxiliary in progressive 'are making'"},
+  {"example_id": "bc/cnn/00/cnn_0004#102#6", "gold_subclass": "intransitive", "notes": "Auxiliary for emphasis; 'do know'"},
+  {"example_id": "bc/cctv/00/cctv_0003#255#2", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#66#7", "gold_subclass": "intransitive", "notes": "Modal auxiliary"},
+  {"example_id": "bc/cnn/00/cnn_0004#72#9", "gold_subclass": "ambitransitive", "notes": "Used absolutely without object but 'see' commonly takes one"},
+  {"example_id": "bc/cctv/00/cctv_0001#79#5", "gold_subclass": "intransitive", "notes": "Phrasal 'charged out'; no direct object"},
+  {"example_id": "bc/msnbc/00/msnbc_0002#684#27", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#578#1", "gold_subclass": "transitive", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#69#25", "gold_subclass": "intransitive", "notes": "Copular 'be like its neighbor Iran'"},
+  {"example_id": "bc/msnbc/00/msnbc_0001#219#1", "gold_subclass": "transitive", "notes": ""}
+]

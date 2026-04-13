@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0004#121#9",
+    "sentence_id": "bc/cctv/00/cctv_0004#121",
+    "token_index": 9,
+    "sentence": "On April 16 of last year when Blair was visiting the US , they had some exchange between them .",
+    "surface": "visiting",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#468#3",
+    "sentence_id": "bc/cnn/00/cnn_0006#468",
+    "token_index": 3,
+    "sentence": "Engineers are sometimes reduced to hunting for obsolete hardware and electronics on Ebay /.",
+    "surface": "reduced",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#9#0",
+    "sentence_id": "bc/cctv/00/cctv_0003#9",
+    "token_index": 0,
+    "sentence": "Let me briefly introduce , one is Mr. Jin Xide , an expert on Japanese issues from the Academy of Social Sciences .",
+    "surface": "Let",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#218#3",
+    "sentence_id": "bc/cctv/00/cctv_0004#218",
+    "token_index": 3,
+    "sentence": "Well , I think that BBC , in particular , has quite a big influence on it .",
+    "surface": "think",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#663#18",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#663",
+    "token_index": 18,
+    "sentence": "They are doing their dead level best to make this policy that the Bush administration has put forth work /.",
+    "surface": "work",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#170#6",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#170",
+    "token_index": 6,
+    "sentence": "I think whatever Mr. Hackett said was understandable /.",
+    "surface": "was",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#39#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#39",
+    "token_index": 2,
+    "sentence": "and we need to stay the course /.",
+    "surface": "need",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#522#46",
+    "sentence_id": "bc/cnn/00/cnn_0002#522",
+    "token_index": 46,
+    "sentence": "We have also learned that at this hour investigators have questioned others as to where this young man was able to get a gun and how he was able to get it into the school questioning others to find out if others might have been somehow connected to this case /.",
+    "surface": "connected",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  }
+]

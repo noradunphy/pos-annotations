@@ -1,0 +1,146 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#241#32",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#241",
+    "token_index": 32,
+    "sentence": "Uh I guess that if Bolton had not said some of the things that he had said in the past that you know the UN secretariat has thirty - eight floors and you could lose ten of them without losing anything those kinds of quotes are going to kind of haunt him /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#72#79",
+    "sentence_id": "bc/cnn/00/cnn_0005#72",
+    "token_index": 79,
+    "sentence": "But as long as the politics move forward in a positive direction that is considered to be legitimate by the majority of the Iraqi people and as long as Iraqi security forces continue to develop at the rate that they 're developing and as long as American forces continue to stay there to provide the strength for those Iraqi forces as they develop we are after all the shield behind which politics takes place the insurgency wo n't make it /.",
+    "surface": "it",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#449#26",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#449",
+    "token_index": 26,
+    "sentence": "and if you look at the way they 've handled this publicly basically if they handled it within the grand jury the same way they handled it publicly by dissembling and misleading and in some cases maybe outright misrepresentation of the truth it seems pretty likely that it 's going to lead to some criminal activity because this guy is there to do a job and he 's not a partisan but he 's a very tough prosecutor /.",
+    "surface": "it",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#377#9",
+    "sentence_id": "bc/cctv/00/cctv_0002#377",
+    "token_index": 9,
+    "sentence": "However , based on the selection and formation of his , er , cabinet , it seems that Koizumi is making his post-resignation arrangements , ah .",
+    "surface": "his",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#348#0",
+    "sentence_id": "bc/cctv/00/cctv_0004#348",
+    "token_index": 0,
+    "sentence": "They , eh , also speak Arabic , right ?",
+    "surface": "They",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#43#0",
+    "sentence_id": "bc/cctv/00/cctv_0004#43",
+    "token_index": 0,
+    "sentence": "It was the news about Bush 's plan to bomb al - Jazeera TV station .",
+    "surface": "It",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#593#19",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#593",
+    "token_index": 19,
+    "sentence": "Do you think the Shia who are the majority of the new government have that fighting hatred or whatever you want to call it the zeal to defeat bullies this time /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#77#22",
+    "sentence_id": "bc/cctv/00/cctv_0004#77",
+    "token_index": 22,
+    "sentence": "First , when the Mirror got hold of the news , it called 10 Downing Street the first night , saying that it had such information .",
+    "surface": "it",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  }
+]

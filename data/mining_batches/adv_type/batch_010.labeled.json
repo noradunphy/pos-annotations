@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0003#247#12", "gold_subclass": "degree", "notes": "Intensifying just with could not ."},
+  {"example_id": "bc/cnn/00/cnn_0005#457#10", "gold_subclass": "sentence_discourse", "notes": "Idiom as well ; additive sense."},
+  {"example_id": "bc/cnn/00/cnn_0004#51#4", "gold_subclass": "degree", "notes": "Comparative more modifying closely ."},
+  {"example_id": "bc/cnn/00/cnn_0005#423#3", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#111#15", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#333#8", "gold_subclass": "manner", "notes": "Manner of calling ( straightforwardly )."},
+  {"example_id": "bc/msnbc/00/msnbc_0002#451#6", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#253#10", "gold_subclass": "degree", "notes": "Colloquial right as degree particle ( right back )."}
+]

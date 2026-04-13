@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0007#102#3", "gold_subclass": "degree", "notes": "Scalar even."},
+  {"example_id": "bc/cnn/00/cnn_0005#72#43", "gold_subclass": "time", "notes": "Subordinator as long as (temporal/conditional duration)."},
+  {"example_id": "bc/cctv/00/cctv_0004#74#0", "gold_subclass": "degree", "notes": "Interrogative how much (extent)."},
+  {"example_id": "bc/cctv/00/cctv_0001#87#13", "gold_subclass": "degree", "notes": "Quantitative extent ( over 100 )."},
+  {"example_id": "bc/msnbc/00/msnbc_0001#33#2", "gold_subclass": "sentence_discourse", "notes": "Discourse marker ( just so we 're clear )."},
+  {"example_id": "bc/cnn/00/cnn_0006#186#0", "gold_subclass": "place", "notes": "Directional ( ahead )."},
+  {"example_id": "bc/cnn/00/cnn_0007#75#10", "gold_subclass": "sentence_discourse", "notes": "Disjunct / speaker-oriented clearly."},
+  {"example_id": "bc/cnn/00/cnn_0002#610#44", "gold_subclass": "time", "notes": "Conditional then (sequence)."}
+]

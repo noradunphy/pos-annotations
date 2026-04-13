@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0004#211#10",
+    "sentence_id": "bc/cnn/00/cnn_0004#211",
+    "token_index": 10,
+    "sentence": "You have confidential sources all the time all kinds of people who talk to you /.",
+    "surface": "people",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#201#0",
+    "sentence_id": "bc/cnn/00/cnn_0002#201",
+    "token_index": 0,
+    "sentence": "We 'll check in with you a little bit later /.",
+    "surface": "We",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#40#3",
+    "sentence_id": "bc/cnn/00/cnn_0004#40",
+    "token_index": 3,
+    "sentence": "Obviously people have inclinations /.",
+    "surface": "inclinations",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#61#8",
+    "sentence_id": "bc/cnn/00/cnn_0004#61",
+    "token_index": 8,
+    "sentence": "I had a lot of questions about Harriet Myers a lot more about /.",
+    "surface": "Myers",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#557#6",
+    "sentence_id": "bc/cnn/00/cnn_0002#557",
+    "token_index": 6,
+    "sentence": "I 'd stick a knife in somebody 's thigh in a heartbeat /.",
+    "surface": "somebody",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#327#15",
+    "sentence_id": "bc/cnn/00/cnn_0002#327",
+    "token_index": 15,
+    "sentence": "Turns out this monster of the deep was in fact an old friend of the children 's /.",
+    "surface": "children",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#602#11",
+    "sentence_id": "bc/cnn/00/cnn_0002#602",
+    "token_index": 11,
+    "sentence": "and I hope we never have to use it in the United States /.",
+    "surface": "United",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#71#7",
+    "sentence_id": "bc/cnn/00/cnn_0007#71",
+    "token_index": 7,
+    "sentence": "now it may turn out in the end to be very different /.",
+    "surface": "end",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  }
+]

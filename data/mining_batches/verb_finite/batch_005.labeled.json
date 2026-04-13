@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0002#432#5", "gold_subclass": "non-finite", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#186#2", "gold_subclass": "non-finite", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#409#8", "gold_subclass": "finite", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#169#8", "gold_subclass": "finite", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#50#24", "gold_subclass": "finite", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#158#3", "gold_subclass": "finite", "notes": "surface is auxiliary fragment (ca n't); labeled as finite modal auxiliary"},
+  {"example_id": "bc/msnbc/00/msnbc_0002#50#5", "gold_subclass": "finite", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0003#562#18", "gold_subclass": "non-finite", "notes": ""}
+]

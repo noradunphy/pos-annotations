@@ -1,0 +1,122 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#487#12",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#487",
+    "token_index": 12,
+    "sentence": "and had they done their job right back there and had uh invesigated it properly in this information age that we have it is my opinion and the families ' opinion this would have not happened /.",
+    "surface": "invesigated",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#76#20",
+    "sentence_id": "bc/cctv/00/cctv_0002#76",
+    "token_index": 20,
+    "sentence": "However , based on the outcome , just as Professor Liu introduced , it was equivalent to going there to get criticized again .",
+    "surface": "get",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#449#49",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#449",
+    "token_index": 49,
+    "sentence": "and if you look at the way they 've handled this publicly basically if they handled it within the grand jury the same way they handled it publicly by dissembling and misleading and in some cases maybe outright misrepresentation of the truth it seems pretty likely that it 's going to lead to some criminal activity because this guy is there to do a job and he 's not a partisan but he 's a very tough prosecutor /.",
+    "surface": "going",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#659#26",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#659",
+    "token_index": 26,
+    "sentence": "And article one thirty of the constitution says that if there is not something specific in Afghan law that speaks to a certain situation then judges should use their interpretation of Islamic law /.",
+    "surface": "should",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#73#0",
+    "sentence_id": "bc/cctv/00/cctv_0001#73",
+    "token_index": 0,
+    "sentence": "Led by Nie Rongzhen , the Shanxi - Chahar - Hebei Military District was ready for an offensive , while at the same time , fifteen regiments laid an ambush in advance along the Zhengtai Railway , launching fierce attacks on Japanese military strongholds along the railway line .",
+    "surface": "Led",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#149#22",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#149",
+    "token_index": 22,
+    "sentence": "And look another important and hopefully the district attorney will take a look at this when he 's evaluating what to do is who are these cops /.",
+    "surface": "is",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#639#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#639",
+    "token_index": 2,
+    "sentence": "If he were to tend to it , if he were to listen to his advisors and try he would be hard to beat /.",
+    "surface": "were",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#31#11",
+    "sentence_id": "bc/cctv/00/cctv_0003#31",
+    "token_index": 11,
+    "sentence": "The media here is concerned because Russia already promised to prioritize connecting it with China , er , , so the media here is concerned that it is an empty promise .",
+    "surface": "connecting",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  }
+]

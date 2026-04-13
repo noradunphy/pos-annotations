@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0004#533#2", "gold_subclass": "degree", "notes": "negation adverb"},
+  {"example_id": "bc/cctv/00/cctv_0001#62#9", "gold_subclass": "manner", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0007#263#17", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0003#242#8", "gold_subclass": "sentence_discourse", "notes": "epistemic adverb"},
+  {"example_id": "bc/cnn/00/cnn_0005#24#2", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#620#22", "gold_subclass": "degree", "notes": "interrogative degree adverb (how long = extent)"},
+  {"example_id": "bc/msnbc/00/msnbc_0004#390#5", "gold_subclass": "sentence_discourse", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#486#3", "gold_subclass": "place", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#405#9", "gold_subclass": "degree", "notes": "negation adverb"},
+  {"example_id": "bc/cnn/00/cnn_0002#78#1", "gold_subclass": "degree", "notes": "negation adverb"}
+]

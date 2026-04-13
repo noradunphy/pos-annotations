@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0006#357#38",
+    "sentence_id": "bc/cnn/00/cnn_0006#357",
+    "token_index": 38,
+    "sentence": "But I think in a larger sense we were saying to the President Mr. President uh I hope you 'll send us someone who does n't blow the place up does n't create his own or her own sort of nuclear option /.",
+    "surface": "sort",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#500#4",
+    "sentence_id": "bc/cnn/00/cnn_0001#500",
+    "token_index": 4,
+    "sentence": "And we talked about family members /.",
+    "surface": "family",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#291#12",
+    "sentence_id": "bc/cnn/00/cnn_0004#291",
+    "token_index": 12,
+    "sentence": "and maybe do five different people in the course of an hour questions and so forth /.",
+    "surface": "questions",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#336#15",
+    "sentence_id": "bc/cnn/00/cnn_0005#336",
+    "token_index": 15,
+    "sentence": "What I am saying and this is critically important is that we should tell the Iraqis not just that we expect them to live up to their own timetable for adopting a constitution but that if they do not live up to that timetable , since the political process is the only hope for defeating the insurgency , if they do n't live up to their own timetable we would then have to consider all options including but not limited to removal of our troops /.",
+    "surface": "Iraqis",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#261#10",
+    "sentence_id": "bc/cnn/00/cnn_0007#261",
+    "token_index": 10,
+    "sentence": "Many believe it 's just a matter of time before Chief Justice William Rehnquist steps down /.",
+    "surface": "Chief",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#316#4",
+    "sentence_id": "bc/cnn/00/cnn_0004#316",
+    "token_index": 4,
+    "sentence": "I mean in the office /.",
+    "surface": "office",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#112#17",
+    "sentence_id": "bc/cctv/00/cctv_0003#112",
+    "token_index": 17,
+    "sentence": "Well , recently , that is , , new Foreign Minister Aso proposed a theory of joint development , that is , to postpone -LSB- -LSB- the issue of sovereignty of the northern -RSB- -RSB- and to jointly develop the , , four islands .",
+    "surface": "development",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#377#14",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#377",
+    "token_index": 14,
+    "sentence": "No what we 're talking about actually is whether information was given from the White House to /-",
+    "surface": "White",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  }
+]

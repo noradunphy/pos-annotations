@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#335#12",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#335",
+    "token_index": 12,
+    "sentence": "I do agree with the President that we know she has a conservative judicial philosophy /.",
+    "surface": "conservative",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#583#4",
+    "sentence_id": "bc/cnn/00/cnn_0001#583",
+    "token_index": 4,
+    "sentence": "The helicopters are still busy here /.",
+    "surface": "busy",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#46#19",
+    "sentence_id": "bc/cnn/00/cnn_0001#46",
+    "token_index": 19,
+    "sentence": "It 's an explosive documentary that alleges Wal - Mart has a take no prisoners business philosophy that is good for profits but bad for America /.",
+    "surface": "good",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#90#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#90",
+    "token_index": 4,
+    "sentence": "Joe is that a legal defense meaning could these guys come into court and say we were so traumatized by everything that happened that it eventually led to this /?",
+    "surface": "legal",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#108#6",
+    "sentence_id": "bc/cnn/00/cnn_0006#108",
+    "token_index": 6,
+    "sentence": "by December we will have a total number of our Iraqi security forces uh including uh uh Iraqi policemen a new Iraqi army and counterterrorism special forces /.",
+    "surface": "total",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#8#4",
+    "sentence_id": "bc/cnn/00/cnn_0003#8",
+    "token_index": 4,
+    "sentence": "They do n't make regular checkups with their doctor /.",
+    "surface": "regular",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#421#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#421",
+    "token_index": 1,
+    "sentence": "Our continuing series Manhunt Sex Offenders on the Loose missing offenders before they strike /.",
+    "surface": "continuing",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#408#6",
+    "sentence_id": "bc/cctv/00/cctv_0003#408",
+    "token_index": 6,
+    "sentence": "That is to say , these basic tones have been set .",
+    "surface": "basic",
+    "high_level": "ADJ",
+    "distinction_id": "adj_gradable",
+    "labels": [
+      "gradable",
+      "non-gradable"
+    ]
+  }
+]

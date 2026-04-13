@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0003#289#4", "gold_subclass": "proper", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#118#6", "gold_subclass": "common", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#447#7", "gold_subclass": "proper", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0001#71#24", "gold_subclass": "common", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#249#14", "gold_subclass": "common", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#73#4", "gold_subclass": "common", "notes": "Fixed expression by the way."},
+  {"example_id": "bc/cnn/00/cnn_0003#2#5", "gold_subclass": "common", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#750#13", "gold_subclass": "common", "notes": ""}
+]

@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0004#371#8", "gold_subclass": "sentence_discourse", "notes": "\"as well\" = also"},
+  {"example_id": "bc/msnbc/00/msnbc_0001#469#6", "gold_subclass": "degree", "notes": "focusing/emphasizing adverb"},
+  {"example_id": "bc/msnbc/00/msnbc_0003#368#9", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0003#34#0", "gold_subclass": "sentence_discourse", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#347#5", "gold_subclass": "time", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#578#28", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#396#2", "gold_subclass": "degree", "notes": "negation adverb"},
+  {"example_id": "bc/cctv/00/cctv_0004#253#0", "gold_subclass": "sentence_discourse", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0002#284#13", "gold_subclass": "manner", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0004#102#17", "gold_subclass": "degree", "notes": ""}
+]

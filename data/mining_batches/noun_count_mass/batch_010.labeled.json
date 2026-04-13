@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cnn/00/cnn_0001#25#9", "gold_subclass": "mass", "notes": "Abstract attribute (quality of life)."},
+  {"example_id": "bc/cctv/00/cctv_0001#211#19", "gold_subclass": "mass", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#62#9", "gold_subclass": "count", "notes": "Pronominal one; antecedent documentary is discrete."},
+  {"example_id": "bc/msnbc/00/msnbc_0001#487#28", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0004#464#24", "gold_subclass": "mass", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#40#10", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#164#13", "gold_subclass": "mass", "notes": "Abstract domain (national security)."},
+  {"example_id": "bc/cnn/00/cnn_0003#352#10", "gold_subclass": "count", "notes": ""}
+]

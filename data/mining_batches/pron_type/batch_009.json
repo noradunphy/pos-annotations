@@ -1,0 +1,146 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0006#214#18",
+    "sentence_id": "bc/cnn/00/cnn_0006#214",
+    "token_index": 18,
+    "sentence": "there 's nothing I 'd like more than seeing the troops come back but only if circumstances justify it /.",
+    "surface": "it",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#357#33",
+    "sentence_id": "bc/cnn/00/cnn_0006#357",
+    "token_index": 33,
+    "sentence": "But I think in a larger sense we were saying to the President Mr. President uh I hope you 'll send us someone who does n't blow the place up does n't create his own or her own sort of nuclear option /.",
+    "surface": "his",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#673#26",
+    "sentence_id": "bc/cnn/00/cnn_0002#673",
+    "token_index": 26,
+    "sentence": "He says and I 'm paraphrasing that basically the element of surprise what the enemy does not know about what we 're going to do to them is a very powerful tool /.",
+    "surface": "them",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#106#11",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#106",
+    "token_index": 11,
+    "sentence": "They understand the sacrifices these men and women are making on our behalf /.",
+    "surface": "our",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#384#7",
+    "sentence_id": "bc/cctv/00/cctv_0004#384",
+    "token_index": 7,
+    "sentence": "In the end , later , did we say anything later ?",
+    "surface": "we",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#407#26",
+    "sentence_id": "bc/cnn/00/cnn_0004#407",
+    "token_index": 26,
+    "sentence": "Well you know that this is the tightest White House going as far as uh really talking candidly is concerned uh and the most secretive if you will /.",
+    "surface": "you",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#83#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#83",
+    "token_index": 1,
+    "sentence": "Oh I do n't think there 's any question about this /.",
+    "surface": "I",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#251#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#251",
+    "token_index": 1,
+    "sentence": "So she 's taken this posture she 's reflecting the president 's view as adjusted for second term and Bolton is going to have to follow that line /.",
+    "surface": "she",
+    "high_level": "PRON",
+    "distinction_id": "pron_type",
+    "labels": [
+      "personal",
+      "possessive",
+      "reflexive",
+      "demonstrative",
+      "relative",
+      "interrogative",
+      "indefinite"
+    ]
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#737#12",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#737",
+    "token_index": 12,
+    "sentence": "We asked would a male teacher accused of the same crimes be spared prison time /.",
+    "surface": "spared",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#284#5",
+    "sentence_id": "bc/cnn/00/cnn_0001#284",
+    "token_index": 5,
+    "sentence": "You feel like they just do n't care /.",
+    "surface": "do",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#415#29",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#415",
+    "token_index": 29,
+    "sentence": "We 're back with the horrible story of Joseph Duncan charged with bludgeoning Brenda Groney her thirteen year old son Slade and boyfriend Mark McKenzie to death and then accused also of kidnapping Chaste and Dylan and molesting them repeatedly over almost seven weeks /.",
+    "surface": "accused",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#389#28",
+    "sentence_id": "bc/cnn/00/cnn_0002#389",
+    "token_index": 28,
+    "sentence": "and you watch the four and three and four years old play with the little uh eight to ten week old babies you know when their mother might let them go away just a little bit /.",
+    "surface": "let",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#35#17",
+    "sentence_id": "bc/cctv/00/cctv_0001#35",
+    "token_index": 17,
+    "sentence": "So , it was amidst such a grave international and domestic situation that the Eighth Route Army led by the Chinese Communist Party , ah , launched , ah , a strategic offensive called the Hundred Regiments Offensive .",
+    "surface": "led",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#146#1",
+    "sentence_id": "bc/cnn/00/cnn_0002#146",
+    "token_index": 1,
+    "sentence": "I 'll cross the river /.",
+    "surface": "'ll",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#691#4",
+    "sentence_id": "bc/cnn/00/cnn_0002#691",
+    "token_index": 4,
+    "sentence": "Let 's start with breaking news and John King in DC /.",
+    "surface": "breaking",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#105#0",
+    "sentence_id": "bc/cnn/00/cnn_0002#105",
+    "token_index": 0,
+    "sentence": "According to the FBI all of the shooters may have felt the desire to defend narcissitic views of themselves and had very low self - esteem /.",
+    "surface": "According",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#279#15",
+    "sentence_id": "bc/cnn/00/cnn_0002#279",
+    "token_index": 15,
+    "sentence": "Animal expert Jack Hannah takes us to a place where people and wildlife try to co-exist a place where both share a horrific past /.",
+    "surface": "co-exist",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#338#3",
+    "sentence_id": "bc/cnn/00/cnn_0006#338",
+    "token_index": 3,
+    "sentence": "and my guess is John Bolton would have been confirmed /.",
+    "surface": "is",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  }
+]

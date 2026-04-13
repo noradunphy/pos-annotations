@@ -1,0 +1,138 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#233#25",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#233",
+    "token_index": 25,
+    "sentence": "He was very successful in a previous incarnation in New York when he was able to defeat the Zionism is racism uh resolution there back then /.",
+    "surface": "then",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#470#9",
+    "sentence_id": "bc/cnn/00/cnn_0004#470",
+    "token_index": 9,
+    "sentence": "if we believe there were weapons of mass destruction why would we send in ground forces /?",
+    "surface": "why",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#284#0",
+    "sentence_id": "bc/cnn/00/cnn_0005#284",
+    "token_index": 0,
+    "sentence": "When he testified in front of us it did n't sound that way quite this week /.",
+    "surface": "When",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#269#5",
+    "sentence_id": "bc/cctv/00/cctv_0004#269",
+    "token_index": 5,
+    "sentence": "That is , the reason why it can establish itself is that it first relied on the Afghan war , and then the Iraq war after the 9 / 11 .",
+    "surface": "why",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#696#11",
+    "sentence_id": "bc/cnn/00/cnn_0002#696",
+    "token_index": 11,
+    "sentence": "Democrats winning in both of those states we can show you here /.",
+    "surface": "here",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#112#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#112",
+    "token_index": 1,
+    "sentence": "And also some dead Dan /.",
+    "surface": "also",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#110#12",
+    "sentence_id": "bc/cctv/00/cctv_0004#110",
+    "token_index": 12,
+    "sentence": "Well , of course it is still in a preliminary stage right now , and yesterday a hearing lasting only 15 minutes was held .",
+    "surface": "now",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#328#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#328",
+    "token_index": 2,
+    "sentence": "so um basically um You know he needed to do this /.",
+    "surface": "basically",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  }
+]

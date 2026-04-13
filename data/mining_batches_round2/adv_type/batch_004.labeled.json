@@ -1,0 +1,12 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0001#201#2", "gold_subclass": "sentence_discourse", "notes": "part of discourse interjection \"all right\""},
+  {"example_id": "bc/cctv/00/cctv_0004#463#0", "gold_subclass": "sentence_discourse", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#515#24", "gold_subclass": "place", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0005#305#4", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#681#7", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0002#405#5", "gold_subclass": "place", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#439#5", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#6#10", "gold_subclass": "degree", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0004#425#0", "gold_subclass": "sentence_discourse", "notes": "epistemic adverb"},
+  {"example_id": "bc/cctv/00/cctv_0002#106#4", "gold_subclass": "degree", "notes": "part of conjunction \"as long as\"; \"long\" = extent"}
+]

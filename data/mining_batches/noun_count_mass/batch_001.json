@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#620#7",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#620",
+    "token_index": 7,
+    "sentence": "I think John McCain 's running for president in the Republican Party /.",
+    "surface": "president",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#634#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#634",
+    "token_index": 1,
+    "sentence": "Whose turn is it /?",
+    "surface": "turn",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#158#6",
+    "sentence_id": "bc/cctv/00/cctv_0004#158",
+    "token_index": 6,
+    "sentence": "So , to say that the US government or the US president had such an idea , you think many people may easily believe it .",
+    "surface": "US",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#294#10",
+    "sentence_id": "bc/cnn/00/cnn_0007#294",
+    "token_index": 10,
+    "sentence": "Ah people now realize that lots of the justices ' papers are avaliable how incredibly accurate and carefully that book was done /.",
+    "surface": "papers",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#149#3",
+    "sentence_id": "bc/cnn/00/cnn_0006#149",
+    "token_index": 3,
+    "sentence": "we have documents material evidence in his own handwriting in his red ink signature crimes he has committed and making orders to commit crimes /.",
+    "surface": "material",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#497#6",
+    "sentence_id": "bc/cctv/00/cctv_0002#497",
+    "token_index": 6,
+    "sentence": "Shanghai , overcast changing to light rain , 11 to 15 degrees .",
+    "surface": "rain",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#586#27",
+    "sentence_id": "bc/cnn/00/cnn_0001#586",
+    "token_index": 27,
+    "sentence": "Into one of these today came Save the Children driving a convoy of two hundred tents six thousand feet up into one of Kashmir 's most remote corners /.",
+    "surface": "corners",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#162#12",
+    "sentence_id": "bc/cnn/00/cnn_0001#162",
+    "token_index": 12,
+    "sentence": "But let me ask you this as I 'm sure people at home are sitting there thinking right now about their own job /.",
+    "surface": "home",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  }
+]

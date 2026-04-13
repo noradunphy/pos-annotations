@@ -1,0 +1,122 @@
+[
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#521#6",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#521",
+    "token_index": 6,
+    "sentence": "you know as well as I do there 's two sides to every story /.",
+    "surface": "do",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#119#13",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#119",
+    "token_index": 13,
+    "sentence": "Victoria Habathee if you were asked to testify in some sort of proceeding be it a pre-trial hearing be it a trial be it to provide uh general thoughts on the psychological conditions of some of these officers knowing what you know about what happened in New Orleans , is it fair for some of them to say everything that happened the amount of hours we were working the fact that we 've been away from our families etcetera from the psychological point of view does that explain what we see on the video tape /?",
+    "surface": "be",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#492#4",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#492",
+    "token_index": 4,
+    "sentence": "but I think you 're doing it for the right reasons /.",
+    "surface": "'re",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#112#1",
+    "sentence_id": "bc/cnn/00/cnn_0007#112",
+    "token_index": 1,
+    "sentence": "You 're still not sure /.",
+    "surface": "'re",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#37#10",
+    "sentence_id": "bc/cnn/00/cnn_0005#37",
+    "token_index": 10,
+    "sentence": "But I 'm also very realistic in understanding that there 's a lot of violence ahead especially as we move through the political process and the insurgence will try to challenge the government and the Iraqi security forces and American forces in an effort to break our will and they do this by grabbing headlines /.",
+    "surface": "'s",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#472#4",
+    "sentence_id": "bc/cnn/00/cnn_0002#472",
+    "token_index": 4,
+    "sentence": "We 're going to have the latest on this developing story /.",
+    "surface": "have",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#324#6",
+    "sentence_id": "bc/cctv/00/cctv_0004#324",
+    "token_index": 6,
+    "sentence": "In particular , bin Laden has chosen it as his exclusive information release agency , endowing it with a unique advantage .",
+    "surface": "chosen",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#70#7",
+    "sentence_id": "bc/cctv/00/cctv_0002#70",
+    "token_index": 7,
+    "sentence": "However , this matter was not even talked about during this , eh , bilateral summit meeting .",
+    "surface": "talked",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  }
+]

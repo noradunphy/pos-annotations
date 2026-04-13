@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0007#257#19",
+    "sentence_id": "bc/cnn/00/cnn_0007#257",
+    "token_index": 19,
+    "sentence": "when we come back did n't everyone in the press say that William Rehnquist was about to retire as Cheif Justice /?",
+    "surface": "Cheif",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#133#24",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#133",
+    "token_index": 24,
+    "sentence": "We 're joined right now by Ohio Democratic congressman Sherrod Brown and Ohio 's Republican Secretary of State Ken Blackwell who 's also a candidate for governor who is in fact a candidate for governor /.",
+    "surface": "candidate",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#525#12",
+    "sentence_id": "bc/cnn/00/cnn_0002#525",
+    "token_index": 12,
+    "sentence": "He was taken there after being treated for what looked like a gunshot wound to his hand /.",
+    "surface": "gunshot",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#35#3",
+    "sentence_id": "bc/cnn/00/cnn_0001#35",
+    "token_index": 3,
+    "sentence": "And we begin tonight with Wal - Mart a place no doubt many of you are likely to shop /.",
+    "surface": "tonight",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#190#7",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#190",
+    "token_index": 7,
+    "sentence": "What do you make of this Folly guy /?",
+    "surface": "guy",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#130#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#130",
+    "token_index": 5,
+    "sentence": "You 're watching Hardball at msnbc /.",
+    "surface": "msnbc",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#256#8",
+    "sentence_id": "bc/cctv/00/cctv_0002#256",
+    "token_index": 8,
+    "sentence": "On March 16 , 2005 , Japan 's Shimane Prefecture assembly voted to pass a measure bill concerning Takeshima Day and officially designated February 22 as Takeshima Day .",
+    "surface": "Shimane",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#531#5",
+    "sentence_id": "bc/cnn/00/cnn_0003#531",
+    "token_index": 5,
+    "sentence": "I 'm having like a panic attack waiting to be on television /.",
+    "surface": "panic",
+    "high_level": "NOUN",
+    "distinction_id": "noun_collective",
+    "labels": [
+      "collective",
+      "non-collective"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "num_sentences": 1000,
+  "split": "test",
+  "subset_size_note": null,
+  "output": "data/annotations/corpus_1k.jsonl"
+}

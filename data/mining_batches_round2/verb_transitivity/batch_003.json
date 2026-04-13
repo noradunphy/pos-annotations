@@ -1,0 +1,152 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0002#633#1",
+    "sentence_id": "bc/cnn/00/cnn_0002#633",
+    "token_index": 1,
+    "sentence": "stop throwing around words like that /.",
+    "surface": "throwing",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#307#15",
+    "sentence_id": "bc/cnn/00/cnn_0003#307",
+    "token_index": 15,
+    "sentence": "Yes I think that I need to remember that it is there um that there are certain things that I need to do /.",
+    "surface": "are",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#561#25",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#561",
+    "token_index": 25,
+    "sentence": "but yet if he was having sex with her from the time she was fourteen you know there is something about that where you could say that he really messed this girl up /.",
+    "surface": "say",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#453#22",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#453",
+    "token_index": 22,
+    "sentence": "But what 's interesting is this guy Paul Hackett who was on this show last week used the most amazing language in describing the President of the United States /.",
+    "surface": "describing",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#224#9",
+    "sentence_id": "bc/cnn/00/cnn_0006#224",
+    "token_index": 9,
+    "sentence": "the US does n't have enough troops to really get the job done /.",
+    "surface": "get",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#427#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#427",
+    "token_index": 2,
+    "sentence": "If you 've got any information on his uh whereabouts please contact the New Mexico Department of Public Safety five oh five eight two seven nine two nine seven /.",
+    "surface": "'ve",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#141#3",
+    "sentence_id": "bc/cnn/00/cnn_0003#141",
+    "token_index": 3,
+    "sentence": "What would you hallucinate /?",
+    "surface": "hallucinate",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#65#7",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#65",
+    "token_index": 7,
+    "sentence": "They finally understand they have got to make change /.",
+    "surface": "make",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#282#12",
+    "sentence_id": "bc/cnn/00/cnn_0007#282",
+    "token_index": 12,
+    "sentence": "But you have Lewis Powell was one of your sources because he 's passed away /.",
+    "surface": "'s",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#247#20",
+    "sentence_id": "bc/cnn/00/cnn_0005#247",
+    "token_index": 20,
+    "sentence": "If I could just say one thing on this fourth of July weekend , if you would n't mind me saying it . I would really just ask people as they 're gathered with friends and families to remember our young men and women overseas fighting /.",
+    "surface": "saying",
+    "high_level": "VERB",
+    "distinction_id": "verb_transitivity",
+    "labels": [
+      "transitive",
+      "intransitive",
+      "ditransitive",
+      "ambitransitive"
+    ]
+  }
+]

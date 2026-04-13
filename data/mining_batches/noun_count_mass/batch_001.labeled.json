@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0004#620#7", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#634#1", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0004#158#6", "gold_subclass": "count", "notes": "Proper name component."},
+  {"example_id": "bc/cnn/00/cnn_0007#294#10", "gold_subclass": "count", "notes": "Documents (discrete items)."},
+  {"example_id": "bc/cnn/00/cnn_0006#149#3", "gold_subclass": "mass", "notes": "Substance/physical matter reading in material evidence."},
+  {"example_id": "bc/cctv/00/cctv_0002#497#6", "gold_subclass": "mass", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#586#27", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0001#162#12", "gold_subclass": "mass", "notes": "Abstract locative/domestic sphere in people at home."}
+]

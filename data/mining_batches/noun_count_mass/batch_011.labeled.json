@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0004#471#13", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0001#98#45", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0001#250#9", "gold_subclass": "count", "notes": "Collective plural tantum."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#548#2", "gold_subclass": "count", "notes": "Proper name (person)."},
+  {"example_id": "bc/cnn/00/cnn_0002#118#3", "gold_subclass": "count", "notes": "Quantifier noun (a number of)."},
+  {"example_id": "bc/cnn/00/cnn_0006#78#5", "gold_subclass": "mass", "notes": "Collective institution (the military) as aggregate."},
+  {"example_id": "bc/cctv/00/cctv_0001#39#4", "gold_subclass": "count", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0006#200#6", "gold_subclass": "count", "notes": "Title + person (the President)."}
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cctv/00/cctv_0001#26#2",
+    "sentence_id": "bc/cctv/00/cctv_0001#26",
+    "token_index": 2,
+    "sentence": "Roads and railways were used as links to connect all of North China into a solid , widespread siege , in order to strangle the Eighth Route Army and its base areas in this net .",
+    "surface": "railways",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#256#9",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#256",
+    "token_index": 9,
+    "sentence": "and he 's going to argue one of two things /.",
+    "surface": "things",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#531#39",
+    "sentence_id": "bc/cnn/00/cnn_0002#531",
+    "token_index": 39,
+    "sentence": "David we 've spoke uh in the last hour to a young man who knows uh this young man who 's now in custody who said that he had been suspended previously for a year for stabbing an assitant principal with a pen or a pencil /.",
+    "surface": "principal",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#185#3",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#185",
+    "token_index": 3,
+    "sentence": "Hardball correspondent David Shuster reports /.",
+    "surface": "Shuster",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#318#8",
+    "sentence_id": "bc/cctv/00/cctv_0002#318",
+    "token_index": 8,
+    "sentence": "Japan placed its hope of becoming a permanent member of the Security Council this year .",
+    "surface": "member",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0004#415#9",
+    "sentence_id": "bc/cnn/00/cnn_0004#415",
+    "token_index": 9,
+    "sentence": "I was offered the job as press secretary to Richard Nixon /.",
+    "surface": "Richard",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#547#13",
+    "sentence_id": "bc/cnn/00/cnn_0002#547",
+    "token_index": 13,
+    "sentence": "The school is going to be closed for the rest of the week Anderson /.",
+    "surface": "Anderson",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#29#40",
+    "sentence_id": "bc/cctv/00/cctv_0001#29",
+    "token_index": 40,
+    "sentence": "The telegram said that the Japanese troops were building blockade trenches and chessboard - like roads to divide the Jizhong base area into small isolated blocks without the ability to mutually communicate and support each other , causing the Eighth Route Army and the guerrillas to lose maneuverability .",
+    "surface": "Route",
+    "high_level": "NOUN",
+    "distinction_id": "noun_concrete_abstract",
+    "labels": [
+      "concrete",
+      "abstract"
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0004#569#11", "gold_subclass": "indefinite", "notes": "Existential there were; expletive use."},
+  {"example_id": "bc/cnn/00/cnn_0002#108#0", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cnn/00/cnn_0007#252#21", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#533#1", "gold_subclass": "relative", "notes": "Nominal relative clause (what the day-to-day life is)."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#686#2", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/cctv/00/cctv_0004#263#38", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0002#136#1", "gold_subclass": "personal", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0004#580#2", "gold_subclass": "personal", "notes": ""}
+]

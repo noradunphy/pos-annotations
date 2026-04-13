@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0004#224#1", "gold_subclass": "intransitive", "notes": "contracted copula (That is)"},
+  {"example_id": "bc/msnbc/00/msnbc_0001#222#19", "gold_subclass": "transitive", "notes": "call us"},
+  {"example_id": "bc/cnn/00/cnn_0006#207#3", "gold_subclass": "intransitive", "notes": "copular be (I am worried)"},
+  {"example_id": "bc/cctv/00/cctv_0003#289#28", "gold_subclass": "intransitive", "notes": "modal would (there would be)"},
+  {"example_id": "bc/cctv/00/cctv_0003#134#9", "gold_subclass": "transitive", "notes": "rejected it"},
+  {"example_id": "bc/cnn/00/cnn_0003#123#5", "gold_subclass": "transitive", "notes": "hid my symptoms"},
+  {"example_id": "bc/cctv/00/cctv_0004#321#18", "gold_subclass": "intransitive", "notes": "perfect auxiliary has been"},
+  {"example_id": "bc/msnbc/00/msnbc_0002#306#2", "gold_subclass": "intransitive", "notes": "copular is"}
+]

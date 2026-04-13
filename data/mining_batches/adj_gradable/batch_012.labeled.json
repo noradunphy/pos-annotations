@@ -1,0 +1,6 @@
+[
+  {"example_id": "bc/cctv/00/cctv_0001#125#11", "gold_subclass": "non-gradable", "notes": "'Single' = one/sole; absolute cardinality reading."},
+  {"example_id": "bc/msnbc/00/msnbc_0003#202#33", "gold_subclass": "non-gradable", "notes": "'Key figure' = central; not naturally *very key."},
+  {"example_id": "bc/cctv/00/cctv_0002#7#17", "gold_subclass": "non-gradable", "notes": "Determiner-like 'such'; weak scalar adjective behavior."},
+  {"example_id": "bc/cnn/00/cnn_0001#457#11", "gold_subclass": "non-gradable", "notes": "Comparative form already marks degree; further degree stacking marginal."}
+]

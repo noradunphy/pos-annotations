@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0003#232#2",
+    "sentence_id": "bc/cnn/00/cnn_0003#232",
+    "token_index": 2,
+    "sentence": "Did you get so low that /-",
+    "surface": "get",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0003#323#6",
+    "sentence_id": "bc/cctv/00/cctv_0003#323",
+    "token_index": 6,
+    "sentence": "To ask the Soviet Union to declare war against Japan , the US and Britain gave Russia the Chishima Islands and the southern part of Sakhalin Island , which Japan occupied at the time .",
+    "surface": "declare",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#225#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#225",
+    "token_index": 2,
+    "sentence": "What I mean is they do n't have to bring forth any forensic evidence of it /.",
+    "surface": "mean",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#153#4",
+    "sentence_id": "bc/cnn/00/cnn_0001#153",
+    "token_index": 4,
+    "sentence": "I mean their name is on the door /.",
+    "surface": "is",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#226#21",
+    "sentence_id": "bc/cnn/00/cnn_0005#226",
+    "token_index": 21,
+    "sentence": "We are fighting for all the right reasons against one of the most despicable and dangerous enemies this nation has ever faced /.",
+    "surface": "faced",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#119#73",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#119",
+    "token_index": 73,
+    "sentence": "Victoria Habathee if you were asked to testify in some sort of proceeding be it a pre-trial hearing be it a trial be it to provide uh general thoughts on the psychological conditions of some of these officers knowing what you know about what happened in New Orleans , is it fair for some of them to say everything that happened the amount of hours we were working the fact that we 've been away from our families etcetera from the psychological point of view does that explain what we see on the video tape /?",
+    "surface": "been",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#523#5",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#523",
+    "token_index": 5,
+    "sentence": "They do n't want him appointing /-",
+    "surface": "appointing",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#60#1",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#60",
+    "token_index": 1,
+    "sentence": "What do you make of that Senator Coleman /?",
+    "surface": "do",
+    "high_level": "VERB",
+    "distinction_id": "verb_stative_eventive",
+    "labels": [
+      "stative",
+      "eventive"
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0005#2#11",
+    "sentence_id": "bc/cnn/00/cnn_0005#2",
+    "token_index": 11,
+    "sentence": "Live from CNN in Washington this is Late Edition with Wolf Blitzer /.",
+    "surface": "Blitzer",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#331#20",
+    "sentence_id": "bc/cnn/00/cnn_0005#331",
+    "token_index": 20,
+    "sentence": "They should be told that we will have to reconsider our position if you do n't live up to your time table including the withdrawal of American forces /.",
+    "surface": "time",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0002#327#3",
+    "sentence_id": "bc/msnbc/00/msnbc_0002#327",
+    "token_index": 3,
+    "sentence": "even referred to police officers do n't like to testify /.",
+    "surface": "police",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#38#18",
+    "sentence_id": "bc/cctv/00/cctv_0002#38",
+    "token_index": 18,
+    "sentence": "That is , through multilateral meetings , he attempted to meet with , ah , leaders of South Korea or other Asian nations , Uh-huh . so as to -- Uh-huh . demonstrate that even though he visited Yasukuni Shrine , Uh-huh . his relations with neighboring countries are not affected .",
+    "surface": "Korea",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#320#27",
+    "sentence_id": "bc/cnn/00/cnn_0002#320",
+    "token_index": 27,
+    "sentence": "Hannah and his crew beat it to shore and to safety not realizing that in April the US embassy in Kigali had issued a warning to American tourists about a rogue elephant charging visitors /.",
+    "surface": "tourists",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0004#390#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0004#390",
+    "token_index": 2,
+    "sentence": "Well of course it 's also for safety reasons at the workplace /.",
+    "surface": "course",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#475#11",
+    "sentence_id": "bc/cnn/00/cnn_0002#475",
+    "token_index": 11,
+    "sentence": "/. Jack you want to stick around for this the biggest study since the Kinsey report they say /.",
+    "surface": "study",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#477#11",
+    "sentence_id": "bc/cnn/00/cnn_0006#477",
+    "token_index": 11,
+    "sentence": "so we believe we understand the effect of aging on our equipment /.",
+    "surface": "equipment",
+    "high_level": "NOUN",
+    "distinction_id": "noun_count_mass",
+    "labels": [
+      "count",
+      "mass"
+    ]
+  }
+]

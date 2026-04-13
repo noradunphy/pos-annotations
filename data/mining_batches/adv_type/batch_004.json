@@ -1,0 +1,138 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0007#102#3",
+    "sentence_id": "bc/cnn/00/cnn_0007#102",
+    "token_index": 3,
+    "sentence": "I do n't even think the special prosecutor knows the answer to this /.",
+    "surface": "even",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0005#72#43",
+    "sentence_id": "bc/cnn/00/cnn_0005#72",
+    "token_index": 43,
+    "sentence": "But as long as the politics move forward in a positive direction that is considered to be legitimate by the majority of the Iraqi people and as long as Iraqi security forces continue to develop at the rate that they 're developing and as long as American forces continue to stay there to provide the strength for those Iraqi forces as they develop we are after all the shield behind which politics takes place the insurgency wo n't make it /.",
+    "surface": "as",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#74#0",
+    "sentence_id": "bc/cctv/00/cctv_0004#74",
+    "token_index": 0,
+    "sentence": "How much is its accuracy , I think , is still quite hard to determine at this time , indeed ,",
+    "surface": "How",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0001#87#13",
+    "sentence_id": "bc/cctv/00/cctv_0001#87",
+    "token_index": 13,
+    "sentence": "With a wave of his hand , Peng Dehuai said that despite being over 100 regiments , let 's call this campaign the Hundred Regiments Offensive .",
+    "surface": "over",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#33#2",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#33",
+    "token_index": 2,
+    "sentence": "But um just so we 're clear you are not defending the actions of those police officers , correct /?",
+    "surface": "just",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#186#0",
+    "sentence_id": "bc/cnn/00/cnn_0006#186",
+    "token_index": 0,
+    "sentence": "Straight ahead Democratic Senator Joe Lieberman and Republican Senator John Kyl /.",
+    "surface": "Straight",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0007#75#10",
+    "sentence_id": "bc/cnn/00/cnn_0007#75",
+    "token_index": 10,
+    "sentence": "But her husband being a prominent White House critic who clearly the administration was angry at and wanted to /.",
+    "surface": "clearly",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0002#610#44",
+    "sentence_id": "bc/cnn/00/cnn_0002#610",
+    "token_index": 44,
+    "sentence": "I think once you start to say well under these circumstances empirically you 're going to and you have to provide these kinds of measures if you do it then you 're basically that under certain circumstances it can happen It should happen and then it 's going happen under more than those exceptional circumstances /.",
+    "surface": "then",
+    "high_level": "ADV",
+    "distinction_id": "adv_type",
+    "labels": [
+      "manner",
+      "time",
+      "place",
+      "degree",
+      "frequency",
+      "sentence_discourse"
+    ]
+  }
+]

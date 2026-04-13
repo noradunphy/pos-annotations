@@ -1,0 +1,10 @@
+[
+  {"example_id": "bc/msnbc/00/msnbc_0002#516#16", "gold_subclass": "stative", "notes": "Copula be there (locative)."},
+  {"example_id": "bc/cctv/00/cctv_0003#425#12", "gold_subclass": "eventive", "notes": "Auxiliary are with exploring: progressive event."},
+  {"example_id": "bc/cnn/00/cnn_0002#106#2", "gold_subclass": "eventive", "notes": ""},
+  {"example_id": "bc/msnbc/00/msnbc_0003#343#5", "gold_subclass": "stative", "notes": "Copula is a hall monitor."},
+  {"example_id": "bc/msnbc/00/msnbc_0001#186#4", "gold_subclass": "eventive", "notes": "Hold up: activity/endure."},
+  {"example_id": "bc/msnbc/00/msnbc_0001#2#5", "gold_subclass": "eventive", "notes": "Passive used: the using as event."},
+  {"example_id": "bc/cctv/00/cctv_0002#174#26", "gold_subclass": "eventive", "notes": "Used rhetoric: deliberate act."},
+  {"example_id": "bc/cnn/00/cnn_0002#433#4", "gold_subclass": "stative", "notes": "Want: desire state."}
+]

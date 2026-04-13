@@ -1,0 +1,106 @@
+[
+  {
+    "example_id": "bc/cnn/00/cnn_0003#169#8",
+    "sentence_id": "bc/cnn/00/cnn_0003#169",
+    "token_index": 8,
+    "sentence": "Yes I think there was an element of real survivor in me that was very highly functioning during most of this /.",
+    "surface": "real",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0003#704#23",
+    "sentence_id": "bc/msnbc/00/msnbc_0003#704",
+    "token_index": 23,
+    "sentence": "What I keep doing here is asking people on and off camera who come on this program high - ranking officers enlisted uh former officers /.",
+    "surface": "former",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0003#199#5",
+    "sentence_id": "bc/cnn/00/cnn_0003#199",
+    "token_index": 5,
+    "sentence": "This could be over a small thing /?",
+    "surface": "small",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/msnbc/00/msnbc_0001#119#27",
+    "sentence_id": "bc/msnbc/00/msnbc_0001#119",
+    "token_index": 27,
+    "sentence": "Victoria Habathee if you were asked to testify in some sort of proceeding be it a pre-trial hearing be it a trial be it to provide uh general thoughts on the psychological conditions of some of these officers knowing what you know about what happened in New Orleans , is it fair for some of them to say everything that happened the amount of hours we were working the fact that we 've been away from our families etcetera from the psychological point of view does that explain what we see on the video tape /?",
+    "surface": "general",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0004#211#43",
+    "sentence_id": "bc/cctv/00/cctv_0004#211",
+    "token_index": 43,
+    "sentence": "In this respect , that is , let me add one point , that is , this al - Jazeera TV station , ah , its style is very much characterized by direct borrowing from the West , for instance , the two mainstream media outlets .",
+    "surface": "mainstream",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0006#289#8",
+    "sentence_id": "bc/cnn/00/cnn_0006#289",
+    "token_index": 8,
+    "sentence": "By the way he happens to be a young white male apparently /.",
+    "surface": "young",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cnn/00/cnn_0001#180#12",
+    "sentence_id": "bc/cnn/00/cnn_0001#180",
+    "token_index": 12,
+    "sentence": "I mean it 's not all these people who work there are unhappy /.",
+    "surface": "unhappy",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  },
+  {
+    "example_id": "bc/cctv/00/cctv_0002#267#12",
+    "sentence_id": "bc/cctv/00/cctv_0002#267",
+    "token_index": 12,
+    "sentence": "Eh , at that time , he pledged to reform Japan 's internal political and economic situations .",
+    "surface": "internal",
+    "high_level": "ADJ",
+    "distinction_id": "adj_attributive_predicative",
+    "labels": [
+      "attributive",
+      "predicative"
+    ]
+  }
+]

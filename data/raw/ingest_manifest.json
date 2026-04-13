@@ -1,0 +1,17 @@
+{
+  "dataset": "ontonotes/conll2012_ontonotesv5",
+  "config": "english_v12",
+  "datasets_library_version": "3.6.0",
+  "splits": [
+    "train",
+    "test"
+  ],
+  "row_counts_by_split": {
+    "train": 114126,
+    "test": 28785
+  },
+  "total_rows": 142911,
+  "max_documents_per_split": 8,
+  "output": "/home/noradunphy/projects/pos-annotations/data/interim/tokens.jsonl",
+  "append": true
+}
