@@ -1,0 +1,2256 @@
+A_AT1 cute_JJ toddler_NN1 is_VBZ playing_VVG in_II the_AT grass_NN1 in_II 
+the_AT park_NN1 ._. 
+A_AT1 fisherman_NN1 drags_VVZ a_AT1 red_JJ net_NN1 through_II the_AT water_NN1 
+close_RR to_II the_AT beach_NN1 ._. 
+A_AT1 middle-aged_JJ man_NN1 is_VBZ kneeling_VVG in_II the_AT gravel_NN1 
+working_VVG on_II a_AT1 train_NN1 on_II the_AT tracks_NN2 ._. 
+Firemen_NN2 fighting_VVG a_AT1 building_NN1 fire_NN1 in_II a_AT1 city_NN1 ._. 
+A_AT1 man_NN1 is_VBZ sweating_VVG on_II stage_NN1 while_CS holding_VVG a_AT1 
+beer_NN1 ._. 
+Man_NN1 in_II blue_JJ shirt_NN1 talking_VVG to_II woman_NN1 behind_II a_AT1 
+counter_NN1 with_IW stuffed_JJ animals_NN2 hanging_VVG all_DB around_II 
+them_PPHO2 ._. 
+Group_NN1 of_IO people_NN crossing_VVG a_AT1 street_NN1 with_IW building_NN1 
+surrounding_VVG them_PPHO2 ._. 
+A_AT1 man_NN1 wearing_VVG a_AT1 black_JJ helmet_NN1 is_VBZ driving_VVG a_AT1 
+red_JJ and_CC black_JJ Yamaha_NP1 4x4_FO utility_NN1 vehicle_NN1 ._. 
+A_AT1 man_NN1 stands_VVZ with_IW his_APPGE backpack_NN1 in_II31 front_II32 
+of_II33 him_PPHO1 in_II a_AT1 wooded_JJ area_NN1 with_IW another_DD1 
+backpack_NN1 and_CC someone_PN1 's_GE coat_NN1 ._. 
+Three_MC racing_JJ dogs_NN2 with_IW masks_NN2 on_II their_APPGE mouths_NN2 ._. 
+The_AT girls_NN2 are_VBR getting_VVG the_AT volleyball_NN1 over_II the_AT 
+net_JJ to_TO make_VVI a_AT1 score_NN1 ._. 
+Four_MC men_NN2 in_II camouflage_NN1 uniforms_NN2 hurry_VV0 down_II a_AT1 
+street_NN1 ,_, with_IW the_AT two_MC men_NN2 in_II front_NN1 taking_VVG a_AT1 
+left_JJ into_II some_DD vegetation_NN1 ._. 
+In_II this_DD1 photo_NN1 ,_, a_AT1 woman_NN1 and_CC several_DA2 other_JJ 
+people_NN are_VBR running_VVG a_AT1 marathon_NN1 ._. 
+A_AT1 young_JJ man_NN1 doing_VDG flying_JJ skateboard_NN1 stunts_NN2 in_II 
+a_AT1 park_NN1 while_CS being_VBG filmed_VVN by_II another_DD1 young_JJ 
+man_NN1 ._. 
+Two_MC black_JJ men_NN2 in_II black_JJ coats_NN2 walk_VV0 down_II the_AT 
+street_NN1 with_IW women_NN2 looking_VVG at_II them_PPHO2 ._. 
+A_AT1 little_JJ boy_NN1 smiling_VVG next_II21 to_II22 a_AT1 toy_NN1 train_NN1 
+track_NN1 on_II the_AT floor_NN1 with_IW his_APPGE sister_NN1 neat_JJ the_AT 
+couch_NN1 build_VV0 the_AT rest_NN1 of_IO the_AT track_NN1 ._. 
+An_AT1 upward_JJ looking_JJ shot_NN1 of_IO an_AT1 electric_JJ guitarist_NN1 
+against_II a_AT1 backdrop_NN1 of_IO radiating_VVG white_JJ and_CC red_JJ ,_, 
+with_IW WWII_NN1 bombers_NN2 ._. 
+A_AT1 happy_JJ child_NN1 is_VBZ getting_VVG a_AT1 helping_NN1 hand_NN1 
+out_II21 of_II22 the_AT box_NN1 of_IO nerf_NN1 balls_NN2 ._. 
+A_AT1 football_NN1 coach_NN1 and_CC his_APPGE team_NN1 on_II the_AT 
+sidelines_NN2 ._. 
+An_AT1 older_JJR man_NN1 stands_VVZ in_II a_AT1 white_JJ tank_NN1 top_NN1 
+and_CC blue_JJ jeans_NN2 ,_, holding_VVG something_PN1 to_TO smooth_VVI 
+down_RP concrete_NN1 ._. 
+A_AT1 young_JJ boy_NN1 is_VBZ spinning_VVG around_RP a_AT1 baseball_NN1 
+bat_NN1 on_II the_AT grass_NN1 ._. 
+Two_MC women_NN2 in_II the_AT snow_NN1 looking_VVG and_CC smiling_VVG at_II 
+a_AT1 duck_NN ._. 
+A_AT1 man_NN1 with_IW work_NN1 clothes_NN2 on_II standing_VVG on_II the_AT 
+back_NN1 of_IO a_AT1 truck_NN1 ._. 
+This_DD1 boy_NN1 is_VBZ waving_VVG around_RP his_APPGE arms_NN2 outside_RL ._. 
+Shirtless_JJ man_NN1 listens_VVZ to_II his_APPGE iPod_NN1 while_CS 
+competing_VVG in_II a_AT1 running_JJ race_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 black_JJ sweater_NN1 is_VBZ painting_VVG in_II31 
+front_II32 of_II33 the_AT river_NN1 ._. 
+A_AT1 man_NN1 with_IW a_AT1 yellow_JJ shirt_NN1 is_VBZ in_II31 front_II32 
+of_II33 a_AT1 man_NN1 playing_VVG a_AT1 musical_JJ instrument_NN1 ._. 
+A_AT1 man_NN1 is_VBZ standing_VVG with_IW his_APPGE arms_NN2 folded_VVN 
+looking_VVG at_II something_PN1 while_CS the_AT person_NN1 behind_II him_PPHO1 
+is_VBZ jumping_VVG onto_II one_MC1 of_IO the_AT two_MC beds_NN2 in_II the_AT 
+room_NN1 ._. 
+A_AT1 small_JJ girl_NN1 wearing_VVG a_AT1 purple_JJ jacket_NN1 sitting_VVG 
+in_II the_AT grass_NN1 next_II21 to_II22 a_AT1 doll_NN1 in_II a_AT1 nearly_RR 
+identical_JJ outfit_NN1 ._. 
+Two_MC men_NN2 are_VBR looking_VVG at_II a_AT1 advertisement_NN1 for_IF 
+Levis_NP2 ._. 
+Some_DD people_NN stare_VV0 into_II the_AT distance_NN1 as_II a_AT1 barber_NN1 
+gives_VVZ an_AT1 Asian_JJ man_NN1 a_AT1 haircut_NN1 ._. 
+A_AT1 person_NN1 with_IW lots_PN of_IO hair_NN1 and_CC a_AT1 Pac-man_JJ 
+jacket_NN1 is_VBZ making_VVG a_AT1 phone_NN1 call_NN1 ._. 
+A_AT1 chinese_NN1 man_NN1 has_VHZ white_JJ paint_NN1 on_II his_APPGE face_NN1 
+with_IW a_AT1 black_JJ painted_JJ mustache_NN1 and_CC beard_NN1 and_CC 
+glasses_NN2 ._. 
+A_AT1 naked_JJ baby_NN1 and_CC toddler_NN1 are_VBR playing_VVG with_IW red_JJ 
+fingerpaints_NN2 ._. 
+Three_MC young_JJ girls_NN2 dancing_VVG in_II a_AT1 studio_NN1 with_IW 
+nylon_NN1 sheets_NN2 ._. 
+The_AT girls_NN2 with_IW a_AT1 pierced_JJ lip_NN1 and_CC cap_NN1 is_VBZ 
+standing_VVG next_II21 to_II22 a_AT1 man_NN1 with_IW a_AT1 beard_NN1 and_CC 
+a_AT1 black_JJ cap_NN1 ._. 
+An_AT1 older_JJR blond_JJ lady_NN1 in_II a_AT1 white_JJ shirt_NN1 crosses_VVZ 
+the_AT street_NN1 ._. 
+An_AT1 older_JJR man_NN1 in_II a_AT1 blue_JJ striped_JJ shirt_NN1 is_VBZ 
+standing_VVG waiting_VVG for_IF something_PN1 ,_, while_CS a_AT1 young_JJ 
+woman_NN1 with_IW a_AT1 red_JJ scarf_NN1 walks_VVZ behind_II him_PPHO1 ._. 
+Two_MC men_NN2 wearing_VVG black_JJ shirts_NN2 sing_VV0 and_CC play_VV0 the_AT 
+guitar_NN1 ._. 
+An_AT1 outdoor_JJ picnic_NN1 with_IW lots_PN of_IO water_NN1 bottles_NN2 
+and_CC barbecue_NN1 is_VBZ taking_VVG place_NN1 ._. 
+The_AT little_JJ blond_JJ girl_NN1 with_IW the_AT pink_JJ shirt_NN1 is_VBZ 
+getting_VVG her_APPGE bunny_NN1 mask_NN1 tied_VVN to_II her_APPGE head_NN1 
+by_II a_AT1 grown_VVN woman_NN1 with_IW a_AT1 black_JJ shirt_NN1 and_CC 
+blue_JJ jeans_NN2 ,_, while_CS two_MC little_JJ girls_NN2 ,_, one_MC1 
+wearing_VVG a_AT1 brown_JJ shirt_NN1 and_CC one_PN1 wearing_VVG a_AT1 blue_JJ 
+sweater_NN1 ,_, are_VBR watching_VVG ._. 
+A_AT1 black_JJ dog_NN1 sitting_VVG in_II brown_JJ grass_NN1 with_IW a_AT1 
+colorful_JJ ball_NN1 ._. 
+A_AT1 woman_NN1 in_II a_AT1 blue_JJ plaid_NN1 shirt_NN1 and_CC sunglasses_NN2 
+scratches_VVZ her_APPGE face_NN1 as_CSA she_PPHS1 walks_VVZ down_II the_AT 
+street_NN1 ._. 
+A_AT1 figure_NN1 ,_, whose_DDQGE face_NN1 is_VBZ obscured_VVN by_II water_NN1 
+,_, in_II black_JJ pants_NN2 and_CC a_AT1 black_JJ t-shirt_NN1 leaps_VVZ 
+into_II the_AT air_NN1 with_IW arms_NN2 and_CC legs_NN2 spread_VV0 wide_JJ ,_, 
+while_CS tall_JJ jets_NN2 of_IO water_NN1 shoot_VV0 from_II the_AT 
+pavement_NN1 below_RL ._. 
+Woman_NN1 resting_VVG her_APPGE head_NN1 on_II a_AT1 curved_JJ pillow_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 red_JJ shirt_NN1 is_VBZ holding_VVG up_RP a_AT1 
+shovel_NN1 while_CS another_DD1 man_NN1 blocks_VVZ it_PPH1 with_IW a_AT1 
+black_JJ shield_NN1 ._. 
+A_AT1 band_NN1 salutes_VVZ the_AT audience_NN1 from_II the_AT stage_NN1 ._. 
+One_MC1 boy_NN1 in_II a_AT1 yellow_JJ shirt_NN1 rides_VVZ a_AT1 donkey_NN1 
+hitched_VVD to_II a_AT1 cart_NN1 carrying_VVG two_MC boys_NN2 in_II yellow_JJ 
+along_II a_AT1 road_NN1 ._. 
+A_AT1 woman_NN1 with_IW a_AT1 green_JJ top_NN1 and_CC black_JJ skirt_NN1 
+sweeps_NN2 trash_VV0 up_RP with_IW a_AT1 red-handled_JJ broom_NN1 ._. 
+A_AT1 woman_NN1 wearing_VVG a_AT1 hat_NN1 selling_VVG something_PN1 to_II 
+an_AT1 older_JJR women_NN2 with_IW white_JJ hair_NN1 ._. 
+Africans_NN2 walk_VV0 down_II a_AT1 road_NN1 carrying_VVG their_APPGE 
+belongings_NN2 ._. 
+A_AT1 man_NN1 is_VBZ barbecuing_VVG hotdogs_NN2 while_CS 2_MC other_JJ men_NN2 
+eat_VV0 in_II the_AT background_NN1 ._. 
+Small_JJ girls_NN2 sit_VV0 in_II benches_NN2 a_AT1 circle_NN1 in_II a_AT1 
+clapboard_NN1 room-_NN1 a_AT1 slightly_RR older_JJR girl_NN1 wearing_VVG a_AT1 
+white_JJ turtleneck_NN1 sits_VVZ on_II the_AT carpet_NN1 in_II31 front_II32 
+of_II33 them_PPHO2 ._. 
+Little_DA1 boy_NN1 and_CC little_JJ girl_NN1 ,_, playing_VVG by_II the_AT 
+beach_NN1 shore_NN1 ._. 
+A_AT1 man_NN1 is_VBZ looking_VVG over_II the_AT choices_NN2 on_II a_AT1 
+buffet_NN1 ._. 
+Three_MC adults_NN2 ,_, two_MC men_NN2 and_CC one_MC1 woman_NN1 ,_, 
+talking_VVG to_II each_PPX221 other_PPX222 in_II winter_NNT1 attire_NN1 in_II 
+the_AT snow_NN1 ._. 
+A_AT1 young_JJ boy_NN1 sits_VVZ at_II a_AT1 table_NN1 and_CC eats_VVZ as_CSA 
+food_NN1 is_VBZ spilled_VVN all_DB around_RP ._. 
+A_AT1 ski_NN1 boarder_NN1 making_VVG a_AT1 jump_NN1 on_II a_AT1 snowy_JJ 
+hillside_NN1 ._. 
+There_EX a_AT1 four_MC men_NN2 setting_VVG in_II chairs_NN2 ,_, with_IW 
+music_NN1 stands_VVZ in_II31 front_II32 of_II33 them_PPHO2 ,_, performing_VVG 
+in_II a_AT1 quartet_NN1 ,_, with_IW a_AT1 cello_NN1 and_CC three_MC 
+violins_NN2 ,_, and_CC they_PPHS2 are_VBR all_DB connected_VVN to_II one_MC1 
+speaker_NN1 ._. 
+A_AT1 boy_NN1 in_II white_JJ pants_NN2 and_CC a_AT1 yellow_JJ jersey_NN1 
+is_VBZ getting_VVG ready_JJ to_TO pitch_VVI in_II a_AT1 baseball_NN1 game_NN1 
+._. 
+A_AT1 old_JJ woman_NN1 stands_VVZ by_II a_AT1 yellow_JJ bucket_NN1 and_CC 
+weaves_VVZ on_II a_AT1 loom_NN1 ._. 
+A_AT1 black_JJ dog_NN1 with_IW a_AT1 stick_NN1 in_II its_APPGE mouth_NN1 
+is_VBZ walking_VVG out_II21 of_II22 the_AT water_NN1 onto_II a_AT1 beach_NN1 
+._. 
+A_AT1 girl_NN1 wearing_VVG white_NN1 swings_VVZ her_APPGE tennis_NN1 
+racket_NN1 back_NN1 ._. 
+A_AT1 woman_NN1 scantily_RR dressed_VVN in_II handsome_JJ homemade-looking_JJ 
+clothing_NN1 sits_VVZ on_II a_AT1 wooden_JJ step_NN1 and_CC reads_VVZ 
+Brazilian_JJ author_NN1 Coelho_NN1 ._. 
+Two_MC men_NN2 are_VBR participating_VVG in_II a_AT1 sword_NN1 fight_NN1 or_CC 
+a_AT1 type_NN1 of_IO martial_JJ art_NN1 with_IW metal_NN1 swords_NN2 ._. 
+A_AT1 group_NN1 of_IO people_NN in_II formal_JJ attire_NN1 are_VBR in_II 
+the_AT background_NN1 and_CC a_AT1 man_NN1 in_II a_AT1 white_JJ shirt_NN1 
+with_IW khaki_JJ pants_NN2 jumps_VVZ from_II the_AT dirt_NN1 road_NN1 to_II 
+the_AT green_JJ grass_NN1 ._. 
+A_AT1 young_JJ man_NN1 in_II shorts_NN2 looks_VVZ down_RP from_II a_AT1 
+rooftop_NN1 at_II a_AT1 young_JJ man_NN1 on_II the_AT ground_NN1 walking_VVG 
+away_RL ._. 
+A_AT1 waitress_NN1 at_II a_AT1 restaurant_NN1 is_VBZ cleaning_VVG a_AT1 
+table_NN1 ._. 
+A_AT1 couple_NN1 are_VBR kissing_VVG while_CS someone_PN1 takes_VVZ a_AT1 
+photo_NN1 of_IO them_PPHO2 ._. 
+A_AT1 crowd_NN1 of_IO people_NN has_VHZ gathered_VVN next_II21 to_II22 a_AT1 
+field_NN1 of_IO colorful_JJ wildflowers_NN2 ._. 
+A_AT1 lady_NN1 in_II purple_JJ and_CC a_AT1 lady_NN1 in_II blue_JJ are_VBR 
+standing_VVG with_IW a_AT1 van_NN1 behind_II them_PPHO2 ._. 
+Several_DA2 boys_NN2 in_RR21 short_RR22 and_CC tank_NN1 tops_NN2 or_CC 
+t-shirts_NN2 are_VBR running_VVG ._. 
+Several_DA2 people_NN are_VBR crowded_VVN together_RL in_II a_AT1 room_NN1 
+with_IW three_MC large_JJ fans_NN2 over_II them_PPHO2 ._. 
+People_NN posing_VVG in_II31 front_II32 of_II33 large_JJ plantation_NN1 
+style_NN1 house_NN1 where_CS 3_MC people_NN are_VBR standing_VVG ,_, 5_MC 
+people_NN are_VBR sitting_VVG and_CC one_MC1 person_NN1 is_VBZ bending_VVG 
+over_RP ._. 
+A_AT1 woman_NN1 works_VVZ at_II a_AT1 chopping_NN1 board_NN1 on_II a_AT1 
+table_NN1 holding_VVG large_JJ containers_NN2 of_IO prepared_JJ food_NN1 ._. 
+A_AT1 dark-haired_JJ woman_NN1 demonstrates_VVZ how_RRQ some_DD accused_JJ 
+witches_NN2 were_VBDR punished_VVN using_VVG a_AT1 dunking_JJ stool_NN1 ._. 
+At_II a_AT1 naval_JJ yard_NN1 ,_, a_AT1 man_NN1 in_II a_AT1 white_JJ Navy_NN1 
+officer_NN1 's_GE uniform_NN1 is_VBZ standing_VVG by_II two_MC older_JJR 
+men_NN2 having_VHG a_AT1 discussion_NN1 ._. 
+A_AT1 man_NN1 is_VBZ performing_VVG a_AT1 handstand_NN1 on_II the_AT beach_NN1 
+._. 
+Old_JJ group_NN1 sits_VVZ on_II the_AT dock_NN1 and_CC contemplates_VVZ 
+life_NN1 ._. 
+A_AT1 woman_NN1 is_VBZ watching_VVG a_AT1 child_NN1 while_CS he_PPHS1 sits_VVZ 
+on_RP tires_VVZ ._. 
+A_AT1 girl_NN1 in_II a_AT1 bikini_NN1 top_NN1 and_CC shorts_NN2 poses_VVZ 
+for_IF a_AT1 picture_NN1 on_II a_AT1 mountain_NN1 overlooking_VVG a_AT1 
+lake_NN1 ._. 
+Two_MC young_JJ blond_JJ children_NN2 sit_VV0 in_II the_AT grass_NN1 
+playing_VVG with_IW sticks_NN2 ._. 
+A_AT1 woman_NN1 wearing_VVG a_AT1 hat_NN1 ,_, sunglasses_NN2 ,_, and_CC a_AT1 
+black_JJ jacket_NN1 is_VBZ sitting_VVG on_II the_AT ground_NN1 with_IW a_AT1 
+purse_NN1 right_NN1 next_II21 to_II22 her_PPHO1 ._. 
+Someone_PN1 is_VBZ carrying_VVG an_AT1 excessive_JJ amount_NN1 of_IO 
+heavily_RR loaded_JJ bags_NN2 ._. 
+Two_MC women_NN2 are_VBR eating_VVG at_II a_AT1 table_NN1 with_IW a_AT1 
+white_JJ tablecloth_NN1 ._. 
+Two_MC girls_NN2 and_CC a_AT1 parent_NN1 getting_VVG a_AT1 dorm_NN1 room_NN1 
+set_VVN up_RP for_IF the_AT school_NN1 year_NNT1 ._. 
+A_AT1 Caucasian_JJ adult_NN1 male_NN1 is_VBZ walking_VVG a_AT1 small_JJ 
+dog_NN1 at_II sunset_NN1 near_II a_AT1 pier_NN1 ._. 
+Two_MC african_NN1 american_NN1 males_NN2 look_VV0 in_II opposite_JJ 
+direction_NN1 of_IO crowd_NN1 in_II background_NN1 ._. 
+The_AT brown-haired_JJ toddler_NN1 is_VBZ holding_VVG onto_II the_AT edge_NN1 
+of_IO a_AT1 flower_NN1 pot_NN1 in_II a_AT1 garden_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 jumpsuit_NN1 and_CC a_AT1 headband_NN1 is_VBZ 
+docking_VVG a_AT1 boat_NN1 ._. 
+A_AT1 woman_NN1 talking_VVG on_II her_APPGE cellphone_NN1 while_CS 
+carrying_VVG a_AT1 dummy_NN1 ._. 
+Three_MC people_NN with_IW swim_NN1 caps_NN2 are_VBR swimming_VVG in_II 
+parallel_JJ tracks_NN2 in_II a_AT1 large_JJ pool_NN1 ,_, while_CS in_II the_AT 
+background_NN1 three_MC other_JJ men_NN2 are_VBR walking_VVG along_II the_AT 
+edge_NN1 of_IO the_AT pool_NN1 ,_, two_MC in_II swimsuits_NN2 ,_, and_CC 
+one_PN1 in_II a_AT1 red_JJ shirt_NN1 and_CC jeans_NN2 ._. 
+Two_MC cosplayers_NN2 ,_, one_MC1 in_II all_DB black_JJ ,_, the_AT other_JJ 
+in_II all_DB red_JJ ,_, pretend_VV0 to_TO fight_VVI ._. 
+A_AT1 man_NN1 bundled_VVD up_RP in_II a_AT1 coat_NN1 displaying_VVG with_IW 
+his_APPGE arms_NN2 a_AT1 bunch_NN1 of_IO clothes_NN2 ._. 
+A_AT1 rock_NN1 climber_NN1 checks_VVZ his_APPGE rope_NN1 before_II holding_VVG 
+on_RP to_II the_AT next_MD spot_NN1 on_II the_AT rock_NN1 ._. 
+A_AT1 man_NN1 sleeps_VVZ while_CS resting_VVG on_II a_AT1 bench_NN1 
+outdoors_RL ._. 
+A_AT1 bald_JJ man_NN1 walking_VVG by_II very_RG large_JJ pillars_NN2 ._. 
+A_AT1 all_DB girls_NN2 team_NN1 huddles_VVZ for_IF a_AT1 pep_NN1 talk_NN1 ,_, 
+they_PPHS2 wear_VV0 matching_JJ blue_JJ and_CC white_JJ jerseys_NN2 ,_, 
+black_JJ shorts_NN2 ,_, and_CC white_JJ and_CC black_JJ leg_NN1 guards_NN2 ._. 
+A_AT1 boy_NN1 wearing_VVG red_JJ shoes_NN2 is_VBZ climbing_VVG in_II a_AT1 
+tree_NN1 ._. 
+A_AT1 woman_NN1 wearing_VVG black_NN1 is_VBZ holding_VVG a_AT1 yellow_JJ 
+flag_NN1 with_IW red_JJ lettering_NN1 ._. 
+People_NN are_VBR exploring_VVG a_AT1 city_NN1 with_IW their_APPGE maps_NN2 
+and_CC cameras_NN2 out_RP ._. 
+One_MC1 blond_JJ girl_NN1 offering_VVG another_DD1 blond_JJ girl_NN1 some_DD 
+food_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 striped_JJ polo_NN1 shirt_NN1 stands_VVZ on_II 
+stage_NN1 in_II31 front_II32 of_II33 a_AT1 chalkboard_NN1 while_CS holding_VVG 
+a_AT1 microphone_NN1 ._. 
+An_AT1 individual_NN1 dressed_VVN in_II a_AT1 blue_JJ top_NN1 and_CC red_JJ 
+"_" SpongeBob_NN1 "_" shorts_NN2 with_IW a_AT1 handful_NN1 of_IO papers_NN2 
+looks_VVZ surprised_JJ while_CS being_VBG photographed_VVN ._. 
+Several_DA2 people_NN in_II traditional_JJ folk_NN dress_VV0 are_VBR 
+dancing_VVG in_II the_AT street_NN1 ._. 
+A_AT1 man_NN1 in_II sandals_NN2 and_CC white_JJ cardigan_NN1 sits_VVZ on_II 
+a_AT1 green_JJ bench_NN1 while_CS talking_VVG on_II his_APPGE cellphone_NN1 
+._. 
+A_AT1 man_NN1 smiles_VVZ while_CS serving_VVG food_NN1 from_II a_AT1 very_RG 
+large_JJ bowl_NN1 ._. 
+A_AT1 woman_NN1 at_II a_AT1 salon_NN1 getting_VVG her_APPGE nails_NN2 done_VDN 
+in_II a_AT1 pink-like_JJ color_NN1 ._. 
+A_AT1 large_JJ cruise_NN1 ship_NN1 passes_VVZ by_II a_AT1 beach_NN1 where_RRQ 
+sunbathers_NN2 recline_VV0 under_RG yellow_JJ umbrellas_NN2 ._. 
+A_AT1 young_JJ blond_JJ boy_NN1 brushing_VVG his_APPGE teeth_NN2 in_II31 
+front_II32 of_II33 a_AT1 mirror_NN1 ._. 
+A_AT1 group_NN1 of_IO four_MC men_NN2 sitting_VVG and_CC standing_VVG 
+around_II each_PPX221 other_PPX222 ._. 
+A_AT1 biker_NN1 on_II31 top_II32 of_II33 a_AT1 shallow_JJ hill_NN1 
+attempts_VVZ a_AT1 trick_NN1 nearby_RL a_AT1 gate_NN1 and_CC grassy_JJ 
+area_NN1 ._. 
+A_AT1 young_JJ girl_NN1 with_IW gunk_NN1 on_II her_APPGE face_NN1 sits_VVZ 
+on_II a_AT1 sink_NN1 while_CS making_VVG faces_NN2 in_II the_AT mirror_NN1 ._. 
+A_AT1 male_JJ soccer_NN1 player_NN1 who_PNQS is_VBZ trying_VVG to_TO kick_VVI 
+the_AT ball_NN1 with_IW his_APPGE right_JJ leg_NN1 ,_, as_CSA the_AT other_JJ 
+player_NN1 in_II the_AT background_NN1 tries_VVZ to_TO block_VVI his_APPGE 
+kick_NN1 ._. 
+A_AT1 construction_NN1 worker_NN1 dressed_VVN in_II orange_NN1 with_IW a_AT1 
+red_JJ helmet_NN1 digging_VVG in_II wet_JJ dirt_NN1 ._. 
+Three_MC people_NN on_II bicycles_NN2 at_II the_AT starting_NN1 line_NN1 of_IO 
+a_AT1 race_NN1 ._. 
+Several_DA2 armed_JJ forces_NN2 officers_NN2 and_CC civilians_NN2 are_VBR 
+standing_VVG around_RP a_AT1 children_NN2 's_GE playground_NN1 ._. 
+A_AT1 person_NN1 scuba_NN1 dives_VVZ through_II a_AT1 school_NN1 of_IO fish_NN 
+._. 
+A_AT1 man_NN1 with_IW no_AT shirt_NN1 and_CC wearing_VVG sunglasses_NN2 is_VBZ 
+holding_VVG a_AT1 football_NN1 ._. 
+A_AT1 worker_NN1 straddles_VVZ the_AT beams_NN2 of_IO a_AT1 building_NN1 
+being_VBG constructed_VVN ._. 
+A_ZZ1 Twins_VVZ baseball_NN1 pitcher_NN1 is_VBZ about_RPK to_TO throw_VVI 
+a_AT1 ball_NN1 from_II the_AT pitching_NN1 mound_NN1 while_CS an_AT1 
+umpire_NN1 and_CC second_MD baseman_NN1 look_VV0 on_RP in_II the_AT 
+background_NN1 ._. 
+A_AT1 woman_NN1 is_VBZ hanging_VVG her_APPGE clothing_NN1 on_II a_AT1 
+clothesline_NN1 ._. 
+Six_MC men_NN2 practicing_VVG a_AT1 sport_NN1 on_II a_AT1 field_NN1 ._. 
+Two_MC small_JJ brightly_RR dressed_VVN African_JJ children_NN2 with_IW 
+water_NN1 bottles_NN2 are_VBR sitting_VVG on_II a_AT1 stone_NN1 floor_NN1 ._. 
+A_AT1 famous_JJ celebrity_NN1 surrounded_VVN by_II adoring_JJ fans_NN2 
+asking_VVG for_IF autographs_NN2 ._. 
+A_AT1 bald_JJ military_JJ man_NN1 in_II camouflage_NN1 clothes_NN2 and_CC 
+bright_JJ blue_JJ gloves_NN2 cracks_NN2 an_AT1 egg_NN1 into_II a_AT1 
+stainless_JJ steel_NN1 bowl_NN1 ._. 
+A_AT1 girl_NN1 sits_VVZ on_II a_AT1 ledge_NN1 by_II the_AT beach_NN1 ,_, 
+rainbow_NN1 flags_NN2 on_II poles_NN2 fly_VV0 in_II the_AT background_NN1 ._. 
+An_AT1 older_JJR man_NN1 wearing_VVG glasses_NN2 ,_, a_AT1 baseball_NN1 
+cap_NN1 ,_, a_AT1 white_JJ shirt_NN1 and_CC a_AT1 red_JJ vest_NN1 plays_VVZ 
+a_AT1 tuba_NN1 outside_II a_AT1 building_NN1 ._. 
+A_AT1 nurse_NN1 treating_VVG a_AT1 child_NN1 with_IW cleft_JJ palate_NN1 ._. 
+A_AT1 woman_NN1 sitting_VVG and_CC contemplating_VVG while_CS sitting_VVG 
+on_II a_AT1 rock_NN1 near_II a_AT1 mountain_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 yellow_JJ sweater_NN1 catching_VVG a_AT1 Frisbee_NN1 
+._. 
+A_AT1 female_JJ runner_NN1 jogging_VVG along_RP beside_II a_AT1 river_NN1 ._. 
+A_AT1 little_JJ boy_NN1 stands_VVZ wide-legged_JJ ,_, each_DD1 foot_NN1 on_II 
+each_DD1 side_NN1 of_IO the_AT tube_NN1 slide_NN1 ._. 
+Two_MC bicyclists_NN2 ride_VV0 down_II the_AT street_NN1 past_II people_NN 
+while_CS talking_VVG ._. 
+Three_MC people_NN in_II ski_NN1 gear_NN1 standing_VVG on_II a_AT1 
+mountain_NN1 ._. 
+A_AT1 family_NN1 with_IW no_AT home_NN1 trying_VVG to_TO make_VVI some_DD 
+type_NN1 of_IO shelter_NN1 from_II sticks_NN2 and_CC tree_NN1 limbs_NN2 in_II 
+a_AT1 wooded_JJ area_NN1 ._. 
+A_AT1 group_NN1 of_IO young_JJ people_NN are_VBR riding_VVG a_AT1 
+speedboat_NN1 on_II the_AT water_NN1 ._. 
+A_AT1 red-haired_JJ Caucasian_JJ girl_NN1 with_IW a_AT1 green_JJ bag_NN1 ._. 
+A_AT1 construction_NN1 worker_NN1 moves_VVZ a_AT1 device_NN1 along_II a_AT1 
+rail_NN1 in_II31 front_II32 of_II33 a_AT1 construction_NN1 site_NN1 ._. 
+The_AT blue_JJ vehicle_NN1 has_VHZ a_AT1 lot_NN1 of_IO cargo_NN1 stacked_VVN 
+on_II the_AT roof_NN1 ._. 
+A_AT1 woman_NN1 in_II a_AT1 blue_JJ sweater_NN1 is_VBZ sitting_VVG on_II a_AT1 
+bench_NN1 next_II21 to_II22 a_AT1 tree_NN1 ._. 
+Many_DA2 people_NN are_VBR crowding_VVG around_RP a_AT1 lady_NN1 in_II a_AT1 
+red_JJ shirt_NN1 who_PNQS is_VBZ laying_VVG down_RP hurt_JJ next_II21 to_II22 
+two_MC bikes_NN2 ._. 
+A_AT1 man_NN1 dressed_VVN in_II all_DB white_JJ is_VBZ talking_VVG to_II 
+the_AT people_NN seated_VVN on_II the_AT dirt_NN1 floor_NN1 ._. 
+Two_MC women_NN2 with_IW ID_NN1 cards_NN2 around_II their_APPGE necks_NN2 
+are_VBR staring_VVG in_II the_AT same_DA direction_NN1 ._. 
+A_AT1 woman_NN1 in_II a_AT1 red_JJ shirt_NN1 is_VBZ walking_VVG past_II a_AT1 
+store_NN1 called_VVN Burrito_NP1 Bandidos_NP1 and_CC it_PPH1 is_VBZ open_JJ 
+._. 
+A_AT1 smiling_JJ youth_NN1 in_II a_AT1 blue_JJ shirt_NN1 is_VBZ posing_VVG 
+on_II some_DD outdoor_JJ stairs_NN2 ._. 
+Blond_JJ woman_NN1 next_II21 to_II22 a_AT1 man_NN1 wearing_VVG a_AT1 white_JJ 
+apron_NN1 holding_VVG a_AT1 garbage_NN1 can_VM ._. 
+A_AT1 man_NN1 is_VBZ covering_VVG a_AT1 slide_NN1 while_CS looking_VVG 
+through_II a_AT1 microscope_NN1 ._. 
+A_AT1 gymnast_NN1 is_VBZ nearly_RR inverted_JJ while_CS he_PPHS1 performs_VVZ 
+on_II the_AT rings_NN2 ._. 
+Three_MC men_NN2 are_VBR walking_VVG around_RP in_II an_AT1 open_JJ ,_, 
+stone_NN1 building_NN1 that_CST has_VHZ sand_NN1 as_II the_AT floor_NN1 ._. 
+A_AT1 man_NN1 with_IW a_AT1 rake_NN1 is_VBZ sifting_VVG through_II debris_NN1 
+from_II a_AT1 recent_JJ storm_NN1 ._. 
+A_AT1 woman_NN1 with_IW red-hair_NN1 tosses_VVZ rocks_NN2 in_II the_AT 
+ocean_NN1 ._. 
+A_AT1 woman_NN1 is_VBZ sitting_VVG down_RP on_II the_AT sidewalk_NN1 is_VBZ 
+receiving_VVG a_AT1 wristband_NN1 given_VVN to_II her_PPHO1 by_II another_DD1 
+woman_NN1 ._. 
+A_AT1 girl_NN1 is_VBZ screaming_VVG as_CSA she_PPHS1 comes_VVZ off_II the_AT 
+water_NN1 slide_NN1 ._. 
+Two_MC women_NN2 buying_VVG baked_JJ goods_NN2 from_II a_AT1 man_NN1 at_II 
+a_AT1 market_NN1 ._. 
+A_AT1 multiple_NN1 pointed_VVD ,_, large_JJ Cathedral_NN1 or_CC church_NN1 
+like_II building_NN1 ._. 
+A_AT1 blue_JJ ,_, red_JJ ,_, and_CC yellow_JJ plane_NN1 does_VDZ a_AT1 
+loop_NN1 in_II the_AT air_NN1 ._. 
+A_AT1 toddler_NN1 in_II tan_JJ pants_NN2 and_CC a_AT1 red_JJ hoddie_NN1 on_II 
+a_AT1 slide_NN1 ._. 
+A_AT1 smiling_JJ boy_NN1 wearing_VVG only_RR red_JJ shorts_NN2 stands_VVZ 
+on_II a_AT1 rock_NN1 in_II the_AT middle_NN1 of_IO a_AT1 stream_NN1 ._. 
+Girl_NN1 in_II black_JJ jacket_NN1 and_CC pants_NN2 walking_VVG up_RP a_AT1 
+stairway_NN1 that_CST is_VBZ covered_VVN in_II advertisements_NN2 ._. 
+A_AT1 man_NN1 in_II a_AT1 gray_JJ shirt_NN1 ,_, a_AT1 young_JJ boy_NN1 in_II 
+a_AT1 blue_JJ shirt_NN1 and_CC a_AT1 young_JJ girl_NN1 in_II pink_JJ 
+clothes_NN2 all_DB sitting_VVG down_RP in_II31 front_II32 of_II33 tents_NN2 
+with_IW a_AT1 fire_NN1 going_VVG ._. 
+The_AT brown_JJ dog_NN1 is_VBZ bringing_VVG back_RP a_AT1 stick_NN1 on_II 
+green_JJ grass_NN1 ._. 
+A_AT1 woman_NN1 holds_VVZ red_JJ flowers_NN2 at_II a_AT1 wedding_NN1 ._. 
+A_AT1 man_NN1 is_VBZ standing_VVG in_II the_AT doorway_NN1 of_IO a_AT1 
+building_NN1 with_IW a_AT1 large_JJ mural_NN1 portrait_NN1 of_IO a_AT1 
+woman_NN1 on_II the_AT wall_NN1 outside_RL ._. 
+A_AT1 woman_NN1 walking_VVG through_II a_AT1 parking_NN1 lot_NN1 with_IW no_AT 
+shoes_NN2 on_RP ._. 
+A_AT1 large_JJ group_NN1 of_IO what_DDQ appear_VV0 to_TO be_VBI Indian_JJ 
+women_NN2 and_CC children_NN2 stand_VV0 for_IF a_AT1 photo_NN1 outside_II21 
+of_II22 a_AT1 building_NN1 ._. 
+Over_RG a_AT1 dozen_NNO people_NN surrounding_VVG and_CC taking_VVG 
+pictures_NN2 of_IO two_MC people_NN in_II all_DB covered_JJ head_NN1 to_II 
+toe_NN1 in_II all_DB silver_NN1 ,_, in_II an_AT1 artistic_JJ pose_NN1 ._. 
+A_AT1 white_JJ dog_NN1 is_VBZ leaping_VVG in_II the_AT air_NN1 with_IW a_AT1 
+green_JJ object_NN1 in_II its_APPGE mouth_NN1 ._. 
+A_AT1 man_NN1 in_II tan_JJ slacks_NN2 and_CC a_AT1 white_JJ dress_NN1 
+shirt_NN1 is_VBZ speaking_VVG into_II a_AT1 microphone_NN1 ._. 
+A_AT1 young_JJ man_NN1 playing_VVG nine_MC ball_NN1 billiards_NN2 is_VBZ 
+aiming_VVG for_IF the_AT nine_MC ball_NN1 ._. 
+A_AT1 brown_JJ dog_NN1 is_VBZ shaking_VVG his_APPGE head_NN1 while_CS 
+standing_VVG on_II sand_NN1 ._. 
+A_AT1 man_NN1 is_VBZ carrying_VVG many_DA2 large_JJ bags_NN2 that_CST are_VBR 
+hooked_VVN onto_II a_AT1 pole_NN1 ._. 
+Man_NN1 reads_VVZ newspaper_NN1 in_II a_AT1 park_NN1 while_CS drinking_VVG 
+Starbuck_NP1 's_GE coffee_NN1 ._. 
+A_AT1 young_JJ man_NN1 with_IW brown_JJ hair_NN1 and_CC sunglasses_NN2 
+sits_VVZ by_II cans_NN2 of_IO soda_NN1 ._. 
+A_AT1 group_NN1 of_IO people_NN stand_VV0 outside_II talking_VVG during_II 
+a_AT1 gathering_NN1 ._. 
+A_AT1 woman_NN1 is_VBZ laying_VVG on_II a_AT1 red_JJ blanket_NN1 in_II a_AT1 
+park_NN1 ._. 
+Children_NN2 and_CC adults_NN2 are_VBR playing_VVG on_II the_AT beach_NN1 ._. 
+A_AT1 little_JJ girl_NN1 is_VBZ taking_VVG a_AT1 picture_NN1 outside_RL ._. 
+The_AT Sooners_NP1 quarterback_NN1 is_VBZ waiting_VVG for_IF the_AT snap_JJ 
+from_II his_APPGE center_NN1 ._. 
+Several_DA2 people_NN sit_VV0 in_II the_AT street_NN1 ,_, one_PN1 eating_VVG 
+a_AT1 green_JJ apple_NN1 ._. 
+A_AT1 man_NN1 juggling_VVG what_DDQ looks_VVZ like_II bowling_NN1 pins_NN2 ,_, 
+at_II night_NNT1 ._. 
+Young_JJ karate_NN1 student_NN1 stares_VVZ into_II the_AT mirror_NN1 at_II 
+his_APPGE failure_NN1 in_II life_NN1 ._. 
+A_AT1 young_JJ girl_NN1 with_IW a_AT1 big_JJ smile_NN1 ,_, wearing_VVG 
+brightly_RR colored_JJ clothing_NN1 helps_NN2 prepare_VVI food_NN1 in_II a_AT1 
+narrow_JJ alley_NN1 ._. 
+A_AT1 blond-haired_JJ woman_NN1 sits_VVZ beside_II the_AT body_NN1 of_IO 
+water_NN1 ._. 
+A_AT1 boy_NN1 picking_VVG leaves_NN2 out_II21 of_II22 a_AT1 puddle_NN1 ._. 
+The_AT girl_NN1 in_II pink_NN1 does_VDZ a_AT1 midair_NN1 leg_NN1 splits_NN2 
+._. 
+A_AT1 man_NN1 wearing_VVG a_AT1 blue_JJ shirt_NN1 makes_VVZ a_AT1 grouchy_JJ 
+face_NN1 ._. 
+A_AT1 woman_NN1 dressed_VVN in_II lingerie_NN1 poses_VVZ in_II a_AT1 
+glamorous_JJ photo_NN1 shoot_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 wetsuit_NN1 rides_VVZ a_AT1 surfboard_NN1 on_II 
+a_AT1 wave_NN1 with_IW a_AT1 bright_JJ sun_NN1 and_CC blue_JJ sky_NN1 in_II 
+the_AT background_NN1 ._. 
+A_AT1 male_NN1 on_II Rollerblades_NP2 skating_VVG down_RP a_AT1 railing_NN1 
+next_II21 to_II22 stairs_NN2 ._. 
+A_AT1 surfer_NN1 riding_VVG a_AT1 wave_NN1 on_II a_AT1 nice_JJ sunny_JJ 
+day_NNT1 ._. 
+A_AT1 young_JJ man_NN1 wearing_VVG a_AT1 black_JJ shirt_NN1 and_CC a_AT1 
+young_JJ lady_NN1 also_RR wearing_VVG a_AT1 black_JJ shirt_NN1 are_VBR 
+rollerblading_VVG outside_RL ._. 
+A_AT1 man_NN1 in_II the_AT winter_NNT1 standing_VVG on_II shoveled_JJ snow_NN1 
+path_NN1 next_II21 to_II22 a_AT1 blueish_JJ black_JJ car_NN1 ._. 
+A_AT1 dark-haired_JJ man_NN1 sitting_VVG at_II a_AT1 table_NN1 with_IW a_AT1 
+book_NN1 and_CC drinks_NN2 ._. 
+A_AT1 man_NN1 with_IW a_AT1 gray_JJ beard_NN1 is_VBZ standing_VVG next_II21 
+to_II22 a_AT1 woman_NN1 in_II a_AT1 brown_JJ jacket_NN1 ._. 
+Four_MC men_NN2 and_CC a_AT1 woman_NN1 are_VBR on_II stage_NN1 answering_NN1 
+questions_NN2 about_II a_AT1 book_NN1 ._. 
+A_AT1 black_JJ dog_NN1 with_IW a_AT1 red_JJ collar_NN1 wading_VVG through_II 
+the_AT water_NN1 ._. 
+Workers_NN2 are_VBR sitting_VVG next_II21 to_II22 a_AT1 work_NN1 zone_NN1 
+eating_NN1 food_NN1 ._. 
+Four_MC people_NN ,_, in_II colorful_JJ kayaks_NN2 ,_, are_VBR on_II the_AT 
+water_NN1 on_II a_AT1 sunny_JJ day_NNT1 ._. 
+A_AT1 person_NN1 wearing_VVG a_AT1 bright_JJ green_JJ jacket_NN1 ,_, with_IW 
+a_AT1 white_JJ helmet_NN1 ,_, red_JJ and_CC blue_JJ backpack_NN1 and_CC 
+goggles_NN2 skis_VVZ down_RP a_AT1 snowy_JJ mountainside_NN1 ._. 
+A_AT1 skateboarder_NN1 uses_VVZ a_AT1 half_NN1 pipe_NN1 while_CS people_NN 
+look_VV0 on_RP ._. 
+A_AT1 woman_NN1 looks_VVZ out_RP the_AT window_NN1 while_CS riding_VVG on_II 
+a_AT1 red_JJ bus_NN1 ,_, with_IW the_AT company_NN1 name_NN1 "_" Go-Ahead_NN1 
+"_" printed_VVN on_II the_AT side_NN1 ._. 
+A_AT1 woman_NN1 applies_VVZ makeup_NN1 to_II a_AT1 man_NN1 's_GE face_NN1 
+on_II the_AT set_NN1 ._. 
+A_AT1 man_NN1 is_VBZ cutting_VVG wood_NN1 planks_NN2 with_IW a_AT1 table_NN1 
+saw_VVD while_CS another_DD1 man_NN1 watches_NN2 ._. 
+An_AT1 african_NN1 american_NN1 woman_NN1 dressed_VVN in_II orange_NN1 is_VBZ 
+hitting_VVG a_AT1 tennis_NN1 ball_NN1 with_IW a_AT1 racquet_NN1 ._. 
+Three_MC children_NN2 in_II bathing_VVG suits_NN2 stand_VV0 next_MD a_AT1 
+sand_NN1 castle_NN1 with_IW water_NN1 and_CC waves_NN2 in_II the_AT 
+background_NN1 ._. 
+The_AT skateboarder_NN1 in_II the_AT white_JJ shirt_NN1 jumped_VVD into_II 
+the_AT air_NN1 ._. 
+The_AT girl_NN1 in_II brown_JJ pants_NN2 and_CC black_JJ sweater_NN1 
+writing_VVG something_PN1 down_RP on_II paper_NN1 in_II31 front_II32 of_II33 
+the_AT counter_NN1 while_CS the_AT other_JJ person_NN1 in_II the_AT black_JJ 
+and_CC white_JJ sweater_NN1 is_VBZ looking_VVG away_RL ._. 
+A_AT1 soldier_NN1 walks_VVZ with_IW two_MC women_NN2 and_CC an_AT1 older_JJR 
+man_NN1 down_II a_AT1 street_NN1 that_CST is_VBZ strewn_VVN with_IW fall_NN1 
+leaves_NN2 ._. 
+A_AT1 group_NN1 of_IO standing_VVG moped_JJ riders_NN2 look_VV0 off_RP into_II 
+the_AT distance_NN1 ._. 
+A_AT1 boy_NN1 in_II a_AT1 dress_NN1 vest_NN1 is_VBZ singing_VVG or_CC 
+speaking_VVG into_II a_AT1 microphone_NN1 and_CC lights_NN2 are_VBR 
+hanging_VVG above_II him_PPHO1 ._. 
+A_AT1 young_JJ girl_NN1 fishes_NN2 in_II a_AT1 small_JJ lake_NN1 with_IW a_AT1 
+bamboo_NN1 rod_NN1 ._. 
+A_AT1 bearded_JJ man_NN1 wearing_VVG sunglasses_NN2 is_VBZ preparing_VVG 
+food_NN1 ._. 
+A_AT1 soccer_NN1 player_NN1 ,_, who_PNQS is_VBZ wearing_VVG white_JJ ,_, 
+just_RR kicked_VVN a_AT1 ball_NN1 down_II the_AT field_NN1 ._. 
+A_AT1 young_JJ man_NN1 in_II a_AT1 gray_JJ shirt_NN1 and_CC tight_RR 
+fitting_JJ jeans_NN2 is_VBZ about_RPK to_TO ride_VVI his_APPGE skateboard_NN1 
+over_II a_AT1 ledge_NN1 ._. 
+A_AT1 woman_NN1 with_IW red_JJ eyes_NN2 and_CC green_JJ makeup_NN1 on_II 
+her_APPGE face_NN1 ,_, holds_VVZ up_RP a_AT1 beige_JJ colored_JJ ,_, 
+ornately_RR designed_VVN fan_VV0 to_TO cover_VVI her_APPGE mouth_NN1 ._. 
+Two_MC female_JJ ice_NN1 skaters_NN2 ,_, one_PN1 wearing_VVG dark_JJ blue_NN1 
+bent_VVD upwards_RL ,_, and_CC the_AT other_NN1 wearing_VVG light_JJ blue_NN1 
+bent_VVD downwards_RL ._. 
+A_AT1 man_NN1 embraces_VVZ a_AT1 woman_NN1 on_II a_AT1 city_NN1 balcony_NN1 
+._. 
+Woman_NN1 with_IW face_NN1 mask_NN1 on_RP is_VBZ holding_VVG a_AT1 baby_NN1 
+swaddled_VVD in_II white_JJ ._. 
+A_AT1 young_JJ man_NN1 in_II a_AT1 green_JJ long-sleeved_JJ shirt_NN1 and_CC 
+tie_VV0 playing_VVG a_AT1 saxophone_NN1 ._. 
+A_AT1 woman_NN1 wearing_VVG a_AT1 straw_NN1 hat_NN1 walking_NN1 and_CC 
+talking_VVG on_II the_AT phone_NN1 ._. 
+A_AT1 man_NN1 on_II a_AT1 bike_NN1 does_VDZ a_AT1 very_RG high_JJ jump_NN1 ._. 
+An_AT1 Asian_JJ boy_NN1 and_CC girl_NN1 walking_VVG amongst_II a_AT1 crowd_NN1 
+with_IW trees_NN2 over_II their_APPGE path_NN1 ._. 
+A_AT1 woman_NN1 assists_VVZ a_AT1 marathon_NN1 runner_NN1 by_II holding_VVG 
+an_AT1 umbrella_NN1 over_II her_PPHO1 and_CC giving_VVG her_APPGE water_NN1 
+._. 
+A_AT1 husky_JJ breed_NN1 dog_NN1 is_VBZ sniffing_VVG a_AT1 horse_NN1 's_GE 
+shoulder_NN1 while_CS the_AT dog_NN1 's_GE owner_NN1 is_VBZ petting_VVG the_AT 
+two_MC brown_JJ horses_NN2 ._. 
+Young_JJ women_NN2 and_CC men_NN2 dressed_VVN in_II costumes_NN2 sitting_VVG 
+and_CC standing_NN1 ._. 
+Two_MC men_NN2 are_VBR playing_VVG ice_NN1 hockey_NN1 at_II a_AT1 rink_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 brown_JJ shirt_NN1 is_VBZ pouring_VVG something_PN1 
+granular_JJ in_II to_II a_AT1 pool_NN1 ._. 
+A_AT1 man_NN1 and_CC woman_NN1 walk_NN1 away_II21 from_II22 the_AT camera_NN1 
+as_II a_AT1 redheaded_JJ man_NN1 walks_VVZ in_II the_AT other_JJ direction_NN1 
+._. 
+A_AT1 man_NN1 in_II a_AT1 brown_JJ suit_NN1 is_VBZ talking_VVG threw_VVD a_AT1 
+microphone_NN1 ._. 
+Men_NN2 and_CC women_NN2 in_II a_AT1 crowd_NN1 are_VBR holding_VVG signs_NN2 
+._. 
+Two_MC speedboats_NN2 ,_, a_AT1 white_JJ and_CC a_AT1 red_JJ one_PN1 ,_, 
+seem_VV0 to_TO be_VBI racing_VVG each_PPX221 other_PPX222 along_II a_AT1 
+body_NN1 of_IO water_NN1 ,_, with_IW a_AT1 cast_JJ green_JJ forest_NN1 in_II 
+the_AT background_NN1 ._. 
+A_AT1 person_NN1 is_VBZ standing_VVG with_IW one_MC1 leg_NN1 propped_VVN up_RP 
+with_IW an_AT1 object_NN1 with_IW a_AT1 blue_JJ line_NN1 in_II his_APPGE 
+left_JJ hand_NN1 ._. 
+A_AT1 child_NN1 walking_NN1 and_CC leaving_VVG a_AT1 trail_NN1 behind_II 
+them_PPHO2 ._. 
+A_AT1 man_NN1 in_II an_AT1 orange_JJ work_NN1 suit_NN1 with_IW safety_NN1 
+goggles_VVZ on_RP ,_, mixing_VVG chemicals_NN2 for_IF work_NN1 ._. 
+A_AT1 mottled_JJ black_JJ and_CC gray_JJ dog_NN1 in_II a_AT1 blue_JJ 
+collar_NN1 jumping_VVG over_RP a_AT1 fallen_JJ tree_NN1 ._. 
+A_AT1 school_NN1 kid_NN1 starring_VVG at_II a_AT1 lemon_NN1 juice_NN1 shop_NN1 
+feels_VVZ like_CS he_PPHS1 wants_VVZ to_TO taste_VVI that_DD1 juice_NN1 ._. 
+Two_MC women_NN2 in_II a_AT1 chair_NN1 ,_, sitting_VVG at_II a_AT1 counter_NN1 
+._. 
+A_AT1 boy_NN1 in_II a_AT1 white_JJ t-shirt_NN1 does_VDZ a_AT1 trick_NN1 
+with_IW his_APPGE skateboard_NN1 in_II a_AT1 skate_NN1 park_NN1 ._. 
+Two_MC women_NN2 are_VBR looking_VVG at_II pink_JJ flowers_NN2 inside_RL of_IO 
+a_AT1 store_NN1 ._. 
+In_II a_AT1 laundry_NN1 room_NN1 ,_, a_AT1 man_NN1 with_IW a_AT1 shaved_JJ 
+head_NN1 is_VBZ looking_VVG intently_RR in_II his_APPGE laundry_NN1 bag_NN1 
+._. 
+A_AT1 guy_NN1 with_IW afro_NN1 hair_NN1 ,_, gray_JJ sweater_NN1 and_CC 
+jeans_NN2 ,_, skating_VVG on_II a_AT1 skating_NN1 ramp_NN1 high_RR up_RP on_II 
+the_AT side_NN1 touching_JJ grass_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 hard_JJ hat_NN1 and_CC work_VV0 clothes_NN2 is_VBZ 
+leaning_VVG over_RP a_AT1 railing_NN1 ._. 
+A_AT1 little_JJ boy_NN1 ,_, who_PNQS is_VBZ standing_VVG outside_RL in_II 
+the_AT at_II night_NNT1 ,_, has_VHZ snow_NN1 on_II his_APPGE face_NN1 and_CC 
+he_PPHS1 is_VBZ crying_VVG ._. 
+Three_MC blond_JJ woman_NN1 are_VBR socializing_VVG at_II the_AT bar_NN1 ._. 
+Three_MC large_JJ black_JJ dogs_NN2 are_VBR playing_VVG on_II the_AT shore_NN1 
+near_II the_AT ocean_NN1 ._. 
+A_AT1 woman_NN1 in_II a_AT1 pink_JJ shirt_NN1 stands_VVZ behind_II a_AT1 
+table_NN1 with_IW many_DA2 salad_NN1 dressings_NN2 ,_, and_CC paper_NN1 
+plates_NN2 ._. 
+Two_MC members_NN2 of_IO a_AT1 band_NN1 are_VBR playing_VVG music_NN1 ._. 
+A_AT1 window_NN1 washer_NN1 dressed_VVN in_II black_NN1 hangs_VVZ outside_II21 
+of_II22 a_AT1 building_NN1 ._. 
+A_AT1 street_NN1 performer_NN1 in_II a_AT1 yellow_JJ shirt_NN1 rides_VVZ a_AT1 
+high_JJ unicycle_NN1 ._. 
+A_AT1 woman_NN1 wearing_VVG a_AT1 white_JJ t-shirt_NN1 ,_, white_JJ shorts_NN2 
+,_, and_CC sunglasses_NN2 ._. 
+A_AT1 man_NN1 dressed_VVN in_II a_AT1 camouflage_NN1 color_NN1 outfit_NN1 
+is_VBZ holding_VVG a_AT1 gun_NN1 and_CC aiming_VVG it_PPH1 at_II his_APPGE 
+target_NN1 ._. 
+A_AT1 little_JJ girl_NN1 grasps_VVZ her_APPGE hands_NN2 while_CS sitting_VVG 
+on_II a_AT1 green_JJ and_CC white_JJ striped_JJ towel_NN1 in_II a_AT1 
+grassy_JJ field_NN1 ._. 
+A_AT1 man_NN1 and_CC his_APPGE dogs_NN2 enjoying_VVG the_AT lake_NN1 from_II 
+the_AT dock_NN1 ._. 
+A_AT1 man_NN1 wearing_VVG a_AT1 strange_JJ contraption_NN1 on_II a_AT1 
+doorstep_NN1 with_IW four_MC other_JJ people_NN around_II him_PPHO1 ._. 
+A_AT1 little_JJ girl_NN1 in_II a_AT1 flower_NN1 print_NN1 bathing_VVG suit_NN1 
+,_, jumping_VVG into_II the_AT ocean_NN1 ._. 
+A_AT1 man_NN1 and_CC two_MC women_NN2 are_VBR seated_VVN outside_RL on_II 
+a_AT1 wall_NN1 next_II21 to_II22 a_AT1 sheet_NN1 of_IO water_NN1 with_IW a_AT1 
+tall_JJ white_JJ structure_NN1 in_II the_AT background_NN1 ._. 
+A_AT1 man_NN1 on_II his_APPGE hands_NN2 and_CC knees_NN2 outside_RL in_II 
+the_AT grass_NN1 ._. 
+A_AT1 group_NN1 of_IO men_NN2 standing_VVG around_RP talking_VVG outdoors_RL 
+._. 
+Two_MC teams_NN2 ,_, one_MC1 wearing_VVG blue_JJ and_CC white_JJ ,_, the_AT 
+other_JJ in_II red_JJ and_CC white_JJ ,_, are_VBR playing_VVG football_NN1 ._. 
+A_AT1 boy_NN1 takes_VVZ something_PN1 from_II a_AT1 box_NN1 being_VBG held_VVN 
+by_II a_AT1 man_NN1 in_II a_AT1 bunny_NN1 suit_NN1 ._. 
+A_AT1 man_NN1 is_VBZ racing_VVG an_AT1 unusual_JJ type_NN1 of_IO bike_NN1 
+with_IW many_DA2 people_NN watching_VVG him_PPHO1 ._. 
+Three_MC dolphins_NN2 are_VBR jumping_VVG out_II21 of_II22 a_AT1 pool_NN1 
+in_II31 front_II32 of_II33 a_AT1 crowd_NN1 of_IO people_NN ._. 
+Two_MC ladies_NN2 next_II21 to_II22 a_AT1 stroller_NN1 inside_II a_AT1 
+building_NN1 ._. 
+A_AT1 young_JJ man_NN1 in_II a_AT1 gray_JJ t-shirt_NN1 ,_, wearing_VVG 
+glasses_NN2 ,_, is_VBZ smearing_VVG something_PN1 white_JJ on_II a_AT1 
+colorful_JJ ,_, decorated_JJ wall_NN1 ._. 
+A_AT1 group_NN1 of_IO men_NN2 are_VBR in_II a_AT1 barber_NN1 shop_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 black_JJ shirt_NN1 walking_VVG down_II a_AT1 
+crowded_JJ street_NN1 with_IW a_AT1 girl_NN1 in_II a_AT1 flower_NN1 shirt_NN1 
+and_CC Capri_NP1 pants_NN2 following_VVG closely_RR behind_II him_PPHO1 ._. 
+An_AT1 older_JJR man_NN1 is_VBZ sitting_VVG at_II his_APPGE desk_NN1 ,_, 
+which_DDQ is_VBZ in_II31 front_II32 of_II33 a_AT1 shop_NN1 ,_, reading_VVG 
+cards_NN2 ._. 
+A_AT1 balding_JJ man_NN1 wearing_VVG a_AT1 dark_NN1 ,_, blue_JJ uniform_NN1 
+is_VBZ rolling_VVG a_AT1 yellow_JJ stretcher_NN1 containing_VVG a_AT1 large_JJ 
+,_, blue_JJ duffel_NN1 bag_NN1 ._. 
+Seven_MC people_NN are_VBR taking_VVG a_AT1 break_NN1 from_II skiing_NN1 to_II 
+chat_NN1 in_II a_AT1 snowy_JJ clearing_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 vest_NN1 walking_VVG across_II water_NN1 and_CC 
+rocks_NN2 ._. 
+Several_DA2 people_NN watch_VV0 a_AT1 presentation_NN1 on_II stage_NN1 with_IW 
+varying_JJ degrees_NN2 of_IO interest_NN1 ._. 
+A_AT1 woman_NN1 is_VBZ laying_VVG a_AT1 blanket_NN1 over_II fresh_JJ 
+produce_NN1 outside_RL ._. 
+Two_MC children_NN2 talk_VV0 at_II a_AT1 skateboard_NN1 park_NN1 while_CS 
+a_AT1 young_JJ man_NN1 does_VDZ a_AT1 jump_NN1 on_II a_AT1 blue_JJ designed_JJ 
+skateboard_NN1 ._. 
+A_AT1 man_NN1 and_CC a_AT1 wife_NN1 holding_VVG back_RP a_AT1 green_JJ 
+curtain_NN1 and_CC staring_VVG out_RP the_AT window_NN1 ledge_NN1 ._. 
+A_AT1 female_JJ batter_NN1 misses_VVZ a_AT1 yellow_JJ ball_NN1 while_CS 
+another_DD1 player_NN1 practices_NN2 behind_II her_PPHO1 ._. 
+A_AT1 young_JJ man_NN1 in_II a_AT1 bicycle_NN1 helmet_NN1 rides_VVZ on_II 
+a_AT1 street_NN1 ._. 
+A_AT1 terrier_NN1 catches_VVZ a_AT1 ball_NN1 in_II a_AT1 field_NN1 ._. 
+A_AT1 large_JJ explosion_NN1 occured_VVD near_II a_AT1 red_JJ car_NN1 at_II 
+a_AT1 gas_NN1 station_NN1 ._. 
+The_AT #2_NNU greyhound_NN1 dog_NN1 is_VBZ running_VVG around_RP a_AT1 
+track_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 blue_JJ unbuttoned_JJ shirt_NN1 is_VBZ walking_VVG 
+through_II a_AT1 local_JJ street_NN1 market_VV0 that_DD1 is_VBZ selling_VVG 
+various_JJ fabrics_NN2 ._. 
+Looking_VVG down_RP from_II the_AT top_NN1 of_IO a_AT1 cliff_NN1 ,_, a_AT1 
+man_NN1 is_VBZ climbing_VVG the_AT cliff_NN1 wall_NN1 in_II an_AT1 attempt_NN1 
+to_TO make_VVI it_PPH1 to_II the_AT top_NN1 ._. 
+A_AT1 small_JJ animal_NN1 leaps_VVZ behind_II a_AT1 larger_JJR animal_NN1 ,_, 
+the_AT larger_JJR animal_NN1 's_GE tail_NN1 obscuring_VVG the_AT smaller_JJR 
+one_PN1 's_GE face_NN1 ._. 
+A_AT1 black_JJ and_CC white_JJ dog_NN1 is_VBZ splashing_VVG in_II a_AT1 
+stream_NN1 ._. 
+A_AT1 backhoe_NN1 is_VBZ on_II31 top_II32 of_II33 a_AT1 pile_NN1 of_IO 
+rubble_NN1 from_II a_AT1 demolished_JJ building_NN1 ._. 
+A_AT1 woman_NN1 is_VBZ using_VVG a_AT1 mirror_NN1 to_TO show_VVI a_AT1 
+young_JJ girl_NN1 what_DDQ her_APPGE painted_JJ face_NN1 looks_VVZ like_CS 
+while_CS a_AT1 crowd_NN1 looks_VVZ on_RP ._. 
+A_AT1 young_JJ man_NN1 in_II a_AT1 blue_JJ tank_NN1 top_NN1 washing_VVG 
+his_APPGE face_NN1 with_IW water_NN1 from_II a_AT1 bucket_NN1 ._. 
+A_AT1 lady_NN1 in_II a_AT1 turquoise_JJ t-shirt_NN1 is_VBZ walking_VVG with_IW 
+her_APPGE kids_NN2 that_CST are_VBR wearing_VVG baseball_NN1 caps_NN2 ._. 
+A_AT1 boy_NN1 chasing_VVG a_AT1 pigeon_NN1 on_II a_AT1 pier_NN1 ._. 
+A_AT1 competitive_JJ motorcycle_NN1 racer_NN1 prepares_VVZ to_TO make_VVI 
+a_AT1 left_JJ turn_NN1 along_II a_AT1 paved_JJ road_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 white_JJ t-shirt_NN1 and_CC jeans_NN2 standing_VVG 
+on_II a_AT1 scaffold_NN1 outside_II a_AT1 building_NN1 ._. 
+A_AT1 little_JJ boy_NN1 with_IW blond-hair_NN1 is_VBZ sitting_VVG on_II the_AT 
+floor_NN1 cutting_VVG something_PN1 with_IW scissors_NN2 ._. 
+Football_NN1 players_NN2 are_VBR lined_VVN up_RP on_II the_AT field_NN1 ._. 
+A_AT1 white_JJ dog_NN1 with_IW black_JJ spots_NN2 is_VBZ jumping_VVG over_RP 
+a_AT1 white_JJ fence_NN1 ._. 
+A_AT1 girl_NN1 who_PNQS looks_VVZ upset_JJ with_IW her_APPGE arms_NN2 
+crossed_VVD ._. 
+A_AT1 man_NN1 biking_VVG on_II a_AT1 roadway_NN1 with_IW green_JJ lawns_NN2 
+on_II both_DB2 sides_NN2 along_II21 with_II22 trees_NN2 on_II the_AT right_JJ 
+side_NN1 ._. 
+A_AT1 surfer_NN1 riding_VVG a_AT1 wave_NN1 on_II beautiful_JJ water_NN1 ._. 
+A_AT1 brown_JJ dog_NN1 is_VBZ carrying_VVG a_AT1 wet_JJ stick_NN1 on_II the_AT 
+shore_NN1 of_IO the_AT ocean_NN1 ._. 
+A_AT1 person_NN1 is_VBZ reading_VVG a_AT1 book_NN1 while_CS waiting_VVG ._. 
+Man_NN1 looking_VVG through_II telescope_NN1 at_II night_NNT1 with_IW other_JJ 
+people_NN in_II the_AT background_NN1 ._. 
+A_AT1 tiny_JJ red_JJ car_NN1 is_VBZ parked_VVN in_II31 front_II32 of_II33 
+hundreds_NNO2 of_IO bicycles_NN2 ._. 
+Here_RL is_VBZ a_AT1 picture_NN1 of_IO customers_NN2 standing_VVG in_II 
+line_NN1 of_IO a_AT1 Mexican_JJ Restaurant_NN1 ._. 
+A_AT1 man_NN1 who_PNQS is_VBZ wearing_VVG all_DB black_JJ is_VBZ playing_VVG 
+golf_NN1 on_II a_AT1 green_JJ field_NN1 in_II31 front_II32 of_II33 a_AT1 
+huge_JJ MasterCard_NN1 sign_NN1 as_II a_AT1 huge_JJ crowd_NN1 of_IO people_NN 
+watch_VV0 from_II the_AT sidelines_NN2 ._. 
+People_NN standing_VVG in_II31 front_II32 of_II33 yellow_JJ building_NN1 
+with_IW the_AT words_NN2 "_" YOU_PPY ARE_VBR HERE_RL "_" hanging_VVG 
+upside_RL21 down_RL22 ._. 
+Women_NN2 skaters_NN2 on_II a_AT1 skating_NN1 rink_NN1 in_II athletic_JJ 
+equipment_NN1 ._. 
+A_AT1 little_JJ boy_NN1 squats_VVZ while_CS playing_VVG with_IW a_AT1 
+yellow_JJ plastic_NN1 shovel_NN1 ._. 
+An_AT1 older_JJR ,_, male_JJ construction_NN1 worker_NN1 wearing_VVG a_AT1 
+yellow_JJ vest_NN1 climbing_VVG down_RP from_II the_AT roof_NN1 of_IO a_AT1 
+building_NN1 onto_II scaffolding_NN1 ._. 
+There_EX is_VBZ a_AT1 man_NN1 wearing_VVG construction_NN1 gear_NN1 ,_, 
+standing_VVG next_II21 to_II22 a_AT1 bulldozer_NN1 that_CST is_VBZ picking_VVG 
+up_RP rubble_NN1 and_CC debris_NN1 ._. 
+A_AT1 little_JJ boy_NN1 in_II a_AT1 red_JJ outfit_NN1 is_VBZ on_II a_AT1 
+man_NN1 's_GE shoulders_NN2 ._. 
+Two_MC people_NN sit_VV0 at_II a_AT1 table_NN1 with_IW wine_NN1 in_II31 
+front_II32 of_II33 them_PPHO2 ,_, and_CC a_AT1 sign_NN1 with_IW a_AT1 fish_NN 
+reading_VVG :_: "_" IL_FW PORTO_NP1 "_" behind_II them_PPHO2 ._. 
+A_AT1 man_NN1 with_IW an_AT1 orange_JJ jacket_NN1 and_CC blue_JJ hat_NN1 
+climbing_VVG a_AT1 snowy_JJ mountain_NN1 ._. 
+People_NN work_VV0 together_RL to_TO get_VVI everything_PN1 out_II21 of_II22 
+a_AT1 truck_NN1 ._. 
+A_AT1 young_JJ girl_NN1 jumps_VVZ while_CS playing_VVG a_AT1 red_JJ and_CC 
+white_JJ guitar_NN1 ._. 
+Three_MC girls_NN2 standing_VVG while_CS one_MC1 boys_NN2 is_VBZ sitting_VVG 
+in_II31 front_II32 of_II33 a_AT1 wall_NN1 that_CST is_VBZ lit_VVN up_RP ,_, 
+at_II night_NNT1 ._. 
+A_AT1 man_NN1 sitting_VVG with_IW his_APPGE daughter_NN1 in_II his_APPGE 
+daughter_NN1 's_GE pink_JJ car_NN1 in_II a_AT1 grocery_NN1 store_NN1 ._. 
+An_AT1 woman_NN1 is_VBZ posing_VVG for_IF the_AT camera_NN1 in_II the_AT 
+park_NN1 ._. 
+Two_MC white_JJ males_NN2 in_II a_AT1 boxing_NN1 ring_NN1 ,_, one_PN1 with_IW 
+black_JJ gloves_NN2 and_CC red_JJ shorts_NN2 that_CST say_VV0 PRZEMEK_NP1 
+has_VHZ blood_NN1 spilling_VVG from_II his_APPGE nose_NN1 onto_II his_APPGE 
+chest_NN1 and_CC some_DD has_VHZ splattered_VVN on_II his_APPGE right_JJ 
+forearm_NN1 ,_, and_CC his_APPGE opponent_NN1 is_VBZ wearing_VVG black_JJ 
+gloves_NN2 and_CC white_JJ shorts_NN2 ._. 
+There_EX is_VBZ a_AT1 woman_NN1 in_II a_AT1 sexy_JJ cop_NN1 's_GE uniform_NN1 
+and_CC a_AT1 guy_NN1 dressed_VVN as_II a_AT1 prisoner_NN1 ,_, standing_VVG 
+outdoors_RL ._. 
+A_AT1 brown_JJ dog_NN1 is_VBZ running_VVG across_II the_AT grass_NN1 with_IW 
+a_AT1 stick_NN1 in_II its_APPGE mouth_NN1 ._. 
+Schoolgirls_NN2 in_II uniforms_NN2 march_VV0 in_II a_AT1 parade_NN1 while_CS 
+playing_VVG flute-like_JJ instruments_NN2 ._. 
+Youth_NN1 loitering_VVG around_II the_AT entrance_NN1 of_IO a_AT1 business_NN1 
+._. 
+A_AT1 kid_NN1 sliding_VVG on_II base_NN1 while_CS playing_VVG baseball_NN1 ._. 
+A_AT1 girl_NN1 in_II a_AT1 black_JJ shirt_NN1 with_IW flowers_NN2 is_VBZ 
+holding_VVG a_AT1 black_JJ and_CC white_JJ puppy_NN1 ._. 
+A_AT1 baseball_NN1 is_VBZ recoiling_VVG from_II an_AT1 action_NN1 taken_VVN 
+on_RP a_AT1 treated_JJ field_NN1 watched_VVN by_II others_NN2 ._. 
+A_AT1 bicyclist_NN1 is_VBZ shown_VVN airborne_JJ with_IW his_APPGE bike_NN1 
+at_II a_AT1 vertical_JJ attitude_NN1 above_II a_AT1 marsh_NN1 ,_, with_IW 
+a_AT1 river_NN1 ,_, a_AT1 bridge_NN1 ,_, and_CC an_AT1 industrial_JJ plant_NN1 
+in_II the_AT background_NN1 ._. 
+The_AT boy_NN1 is_VBZ climbing_VVG up_RP a_AT1 rope_NN1 ladder_NN1 ._. 
+A_AT1 man_NN1 sitting_VVG in_II a_AT1 cubicle_NN1 at_II a_AT1 desk_NN1 
+talks_NN2 on_II his_APPGE cellphone_NN1 ._. 
+Several_DA2 people_NN are_VBR crossing_VVG a_AT1 street_NN1 in_II the_AT 
+rain_NN1 ._. 
+Three_MC woman_NN1 sit_VV0 at_II a_AT1 table_NN1 littered_VVN with_IW 
+books_NN2 and_CC write_VV0 down_RP things_NN2 in_II notebooks_NN2 ._. 
+Two_MC females_NN2 standing_VVG next_II21 to_II22 each_PPX221 other_PPX222 
+looking_VVG up_RP at_II the_AT ceiling_NN1 ._. 
+A_AT1 firefighter_NN1 sprays_VVZ water_NN1 onto_II a_AT1 gigantic_JJ pile_NN1 
+or_CC burning_JJ ash_NN1 that_CST includes_VVZ flames_NN2 and_CC dark_JJ 
+smoke_NN1 ._. 
+Outside_II asian_JJ festival_NN1 with_IW white_JJ words_NN2 on_II red_JJ 
+banners_NN2 ,_, a_AT1 stage_NN1 of_IO judges_NN2 behind_II a_AT1 row_NN1 of_IO 
+red_JJ flowers_NN2 with_IW lots_PN of_IO asian_JJ people_NN standing_VVG by_RP 
+._. 
+Group_NN1 of_IO people_NN in_II a_AT1 small_JJ dimly_RR lit_VVN area_NN1 
+reading_VVG something_PN1 ._. 
+Man_NN1 in_II white_JJ and_CC woman_NN1 in_II pink_JJ shawl_NN1 facing_VVG 
+body_NN1 of_IO water_NN1 ._. 
+A_AT1 guy_NN1 is_VBZ on_II the_AT ground_NN1 in_II a_AT1 bullring_NN1 near_II 
+a_AT1 half_DB airborne_JJ white_JJ bull_NN1 while_CS another_DD1 guy_NN1 
+steps_NN2 toward_II him_PPHO1 ._. 
+A_AT1 young_JJ rhythmic_JJ gymnastic_NN1 is_VBZ watching_VVG a_AT1 yellow_JJ 
+hula_JJ hoop_NN1 go_VV0 by_RP during_II her_APPGE routine_NN1 ._. 
+A_AT1 man_NN1 singing_VVG into_II a_AT1 microphone_NN1 with_IW a_AT1 large_JJ 
+"_" Truth_NN1 "_" banner_NN1 behind_II him_PPHO1 ._. 
+A_AT1 young_JJ boy_NN1 and_CC girl_NN1 are_VBR sleeping_VVG in_II a_AT1 
+bed_NN1 ._. 
+A_AT1 black_JJ dog_NN1 with_IW a_AT1 red_JJ collar_NN1 walks_VVZ through_II 
+the_AT grass_NN1 with_IW his_APPGE mouth_NN1 open_JJ and_CC tongue_NN1 
+hanging_VVG out_RP ._. 
+A_AT1 middle-aged_JJ couple_NN1 is_VBZ dancing_VVG ,_, the_AT man_NN1 is_VBZ 
+wearing_VVG a_AT1 white_JJ dress_NN1 shirt_NN1 with_IW the_AT sleeves_NN2 
+rolled_VVD up_RP and_CC the_AT woman_NN1 is_VBZ wearing_VVG a_AT1 black_JJ 
+dress_NN1 ._. 
+A_AT1 blond_JJ woman_NN1 wearing_VVG a_AT1 green_JJ dress_NN1 raises_VVZ 
+her_APPGE hand_NN1 and_CC smiles_VVZ in_II a_AT1 room_NN1 ._. 
+A_AT1 woman_NN1 with_IW a_AT1 pink_JJ hat_NN1 is_VBZ lacing_VVG the_AT 
+shoe_NN1 of_IO a_AT1 little_JJ girl_NN1 dressed_VVN in_II purple_JJ ._. 
+Athletes_NN2 wearing_VVG helmets_NN2 and_CC jackets_NN2 displaying_VVG 
+logos_NN2 of_IO multiple_JJ sponsors_NN2 walk_VV0 down_II a_AT1 road_NN1 
+with_IW an_AT1 audience_NN1 lined_VVN up_RP along_II the_AT road_NN1 ._. 
+A_AT1 girl_NN1 is_VBZ sunning_VVG herself_PPX1 with_IW a_AT1 purple_JJ 
+towel_NN1 over_II her_APPGE face_NN1 ._. 
+Two_MC race_NN1 cars_NN2 swing_VV0 around_RP the_AT corner_NN1 of_IO a_AT1 
+racetrack_NN1 with_IW advertisements_NN2 and_CC spectators_NN2 behind_RL ._. 
+Six_MC women_NN2 wearing_VVG black_JJ jackets_NN2 and_CC bright_JJ red_JJ 
+boas_NN2 smile_VV0 at_II the_AT camera_NN1 ._. 
+A_AT1 woman_NN1 and_CC man_NN1 dance_NN1 on_II their_APPGE wedding_NN1 
+day_NNT1 ._. 
+A_AT1 little_JJ girl_NN1 is_VBZ pushing_VVG a_AT1 little_JJ boy_NN1 who_PNQS 
+is_VBZ sitting_VVG on_II a_AT1 swing_NN1 ._. 
+A_AT1 young_JJ woman_NN1 in_II equestrian_JJ gear_NN1 is_VBZ riding_VVG a_AT1 
+brown_JJ horse_NN1 in_II a_AT1 green_JJ landscape_NN1 ._. 
+A_AT1 cyclist_NN1 with_IW a_AT1 green_JJ backpack_NN1 and_CC a_AT1 helmet_NN1 
+riding_VVG the_AT streets_NN2 ._. 
+Two_MC motorcycles_NN2 and_CC four_MC riders_NN2 are_VBR on_II the_AT road_NN1 
+._. 
+A_AT1 dog_NN1 is_VBZ jumping_VVG onto_II a_AT1 young_JJ girl_NN1 while_CS 
+outdoors_RL ._. 
+A_AT1 boxer_NN1 wearing_VVG red_NN1 is_VBZ punching_VVG a_AT1 boxer_NN1 
+wearing_VVG white_JJ and_CC blue_JJ ,_, while_CS both_DB2 men_NN2 are_VBR 
+wearing_VVG boxing_NN1 gear_NN1 ._. 
+Three_MC dogs_NN2 running_VVG together_RL on_II a_AT1 paved_JJ walkway_NN1 ._. 
+Sprinkler_NN1 goes_VVZ off_RP in_II the_AT middle_NN1 of_IO a_AT1 crowd_NN1 
+._. 
+Woman_NN1 in_II a_AT1 black_JJ top_NN1 carrying_VVG something_PN1 to_TO 
+drink_VVI and_CC a_AT1 green_JJ plastic_NN1 basket_NN1 past_II a_AT1 grill_NN1 
+._. 
+A_AT1 man_NN1 walking_VVG down_II a_AT1 street_NN1 beside_II a_AT1 large_JJ 
+white_JJ building_NN1 ._. 
+A_AT1 man_NN1 is_VBZ sitting_VVG on_II31 top_II32 of_II33 another_DD1 man_NN1 
+'s_GE shoulders_NN2 ,_, in_II a_AT1 crowd_NN1 ,_, taking_VVG a_AT1 picture_NN1 
+._. 
+A_AT1 small_JJ South_NP1 American_JJ child_NN1 running_VVG on_II a_AT1 
+cobblestone_NN1 pathway_NN1 ,_, by_II a_AT1 blue_JJ wall_NN1 with_IW a_AT1 
+door_NN1 ._. 
+Two_MC Japanese_JJ women_NN2 are_VBR holding_VVG brooms_NN2 and_CC walking_VVG 
+on_II a_AT1 sidewalk_NN1 ._. 
+Two_MC young_JJ girls_NN2 are_VBR building_VVG wooden_JJ toys_NN2 at_II a_AT1 
+table_NN1 ._. 
+Delicious_JJ barbecue_NN1 had_VHD been_VBN prepared_VVN by_II a_AT1 group_NN1 
+of_IO chef_NN1 ._. 
+A_AT1 young_JJ man_NN1 runs_VVZ with_IW goggles_NN2 above_II his_APPGE 
+eyes_NN2 and_CC a_AT1 bungee_NN1 cord_NN1 tethered_VVN to_II him_PPHO1 as_II 
+a_AT1 man_NN1 on_II a_AT1 bicycle_NN1 with_IW a_AT1 white_JJ helmet_NN1 
+laughs_VVZ ._. 
+A_AT1 man_NN1 in_II a_AT1 blue_JJ shirt_NN1 and_CC white_JJ cap_NN1 
+cutting_VVG branches_NN2 ._. 
+A_AT1 woman_NN1 is_VBZ waiting_VVG to_TO cross_VVI the_AT street_NN1 while_CS 
+another_DD1 woman_NN1 with_IW a_AT1 backpack_NN1 stands_VVZ near_II a_AT1 
+bicycle_NN1 ._. 
+Different_JJ people_NN buying_VVG ,_, and_CC looking_VVG at_II different_JJ 
+kinds_NN2 of_IO vegetables_NN2 and_CC flowers_NN2 ._. 
+A_AT1 lady_NN1 wearing_VVG green_JJ and_CC white_JJ shorts_NN2 and_CC top_NN1 
+is_VBZ on_II the_AT beach_NN1 clapping_VVG her_APPGE hands_NN2 ._. 
+A_AT1 toddler_NN1 in_II a_AT1 blue_JJ shirt_NN1 with_IW red_JJ shorts_NN2 
+and_CC hat_NN1 looks_VVZ out_RP from_II behind_II a_AT1 fenced_JJ in_II 
+area_NN1 of_IO a_AT1 brick_NN1 patio_NN1 ._. 
+An_AT1 attractive_JJ woman_NN1 is_VBZ karate_NN1 kicking_VVG the_AT air_NN1 
+._. 
+A_AT1 man_NN1 with_IW glasses_NN2 and_CC a_AT1 mustache_NN1 is_VBZ in_II 
+the_AT middle_NN1 of_IO a_AT1 sentence_NN1 ._. 
+A_AT1 young_JJ woman_NN1 is_VBZ standing_VVG behind_II an_AT1 information_NN1 
+stall_NN1 at_II the_AT 2012_MC London_NP1 Olympic_JJ Games_NN2 ._. 
+A_AT1 large_JJ women_NN2 with_IW short_JJ hair_NN1 sleeping_VVG in_II a_AT1 
+chair_NN1 in_RR21 public_RR22 ._. 
+Three_MC happy_JJ young_JJ men_NN2 are_VBR in_II the_AT outdoors_NN1 
+waiting_VVG for_IF their_APPGE grilled_JJ food_NN1 to_TO be_VBI ready_JJ ._. 
+Two_MC dogs_NN2 one_MC1 black_JJ the_AT other_JJ brown_NN1 on_II a_AT1 
+sandy_JJ ground_NN1 the_AT tan_JJ dog_NN1 is_VBZ behind_II the_AT black_JJ 
+dog_NN1 ._. 
+A_AT1 young_JJ man_NN1 plucking_VVG on_II his_APPGE guitar_NN1 in_II a_AT1 
+waiting_NN1 room_NN1 ._. 
+A_AT1 girl_NN1 with_IW a_AT1 camera_NN1 ,_, looking_VVG at_II the_AT 
+screen_NN1 ._. 
+A_AT1 father_NN1 is_VBZ holding_VVG his_APPGE two_MC kids_NN2 in_II his_APPGE 
+arms_NN2 ._. 
+An_AT1 older_JJR white_JJ male_JJ standing_NN1 in_II31 front_II32 of_II33 
+the_AT Golden_JJ Gate_NN1 Bridge_NN1 at_II the_AT riverside_NN1 painting_NN1 
+or_CC examining_VVG a_AT1 portrait_NN1 of_IO said_JJ bridge_NN1 ._. 
+A_AT1 group_NN1 of_IO men_NN2 of_IO varying_JJ nationalities_NN2 hold_VV0 
+multiple_JJ American_JJ Flags_NN2 and_CC make_VV0 peace_NN1 signs_NN2 for_IF 
+a_AT1 picture_NN1 ._. 
+Two_MC people_NN riding_VVG their_APPGE bikes_NN2 on_II a_AT1 hill_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 black_JJ cape_NN1 faces_VVZ off_RP against_II a_AT1 
+young_JJ boy_NN1 in_II a_AT1 tracksuit_NN1 ._. 
+Here_RL is_VBZ a_AT1 picture_NN1 of_IO a_AT1 man_NN1 dressed_VVN in_II 
+clothing_NN1 form_VV0 the_AT 1800_MC 's_GE and_CC looks_VVZ a_AT1 lot_NN1 
+like_II George_NP1 Washington_NP1 ._. 
+A_AT1 male_JJ cook_NN1 is_VBZ using_VVG his_APPGE apron_NN1 as_II a_AT1 
+backdrop_NN1 to_TO display_VVI the_AT dish_NN1 he_PPHS1 has_VHZ prepared_VVN 
+on_II the_AT grill_NN1 ._. 
+One_MC1 child_NN1 is_VBZ wearing_VVG a_AT1 pink_JJ striped_JJ hat_NN1 ,_, 
+while_CS the_AT other_NN1 is_VBZ wearing_VVG a_AT1 white_JJ hat_NN1 ._. 
+An_AT1 arm_NN1 with_IW a_AT1 tattoo_NN1 is_VBZ covering_VVG part_NN1 of_IO 
+the_AT picture_NN1 of_IO the_AT couple_NN1 ._. 
+A_AT1 guy_NN1 kisses_VVZ another_DD1 surprised_JJ looking_JJ man_NN1 on_II 
+the_AT ear_NN1 ._. 
+There_EX is_VBZ a_AT1 small_JJ child_NN1 playing_VVG in_II a_AT1 green_JJ 
+kiddy_JJ pool_NN1 ._. 
+A_AT1 girl_NN1 in_II a_AT1 polka_NN1 dotted_VVD blue_JJ jean_NN1 dress_NN1 
+walks_VVZ barefoot_JJ on_II a_AT1 balance_NN1 beam_NN1 ._. 
+A_AT1 man_NN1 wearing_VVG a_AT1 black_JJ jacket_NN1 and_CC pants_NN2 sits_VVZ 
+slumped_VVN on_II a_AT1 bench_NN1 ,_, with_IW a_AT1 banner_NN1 in_II 
+Spanish_JJ in_II the_AT background_NN1 ._. 
+One_MC1 student_NN1 argues_VVZ with_IW another_DD1 over_II an_AT1 
+assignment_NN1 ._. 
+A_AT1 man_NN1 in_II glasses_NN2 and_CC a_AT1 striped_JJ shirt_NN1 sitting_VVG 
+down_RP and_CC looking_VVG toward_II the_AT camera_NN1 ._. 
+A_AT1 gray_JJ dog_NN1 is_VBZ leaping_VVG over_RP a_AT1 fallen_JJ tree_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 white_JJ and_CC blue_JJ kimono_NN1 is_VBZ using_VVG 
+a_AT1 broom_NN1 to_TO sweep_VVI pavement_NN1 ._. 
+A_AT1 crowd_NN1 watches_VVZ the_AT start_NN1 of_IO a_AT1 drag_VV0 race_NN1 
+at_II twilight_NN1 ._. 
+The_AT child_NN1 is_VBZ sitting_VVG in_II a_AT1 large_JJ truck_NN1 tire_VV0 
+._. 
+Two_MC people_NN wearing_VVG helmets_NN2 and_CC blue_JJ outfits_NN2 are_VBR 
+in_II the_AT woods_NN2 riding_VVG their_APPGE bikes_NN2 and_CC doing_VDG 
+stunts_NN2 ,_, while_CS another_DD1 person_NN1 in_II blue_NN1 sits_VVZ on_II 
+the_AT side_NN1 and_CC watch_NN1 ._. 
+A_AT1 girl_NN1 with_IW a_AT1 red_JJ headband_NN1 is_VBZ holding_VVG pink_JJ 
+camera_NN1 ._. 
+The_AT lady_NN1 in_II red_NN1 is_VBZ sitting_VVG in_II31 front_II32 of_II33 
+the_AT fountain_NN1 ._. 
+A_AT1 gymnast_NN1 wearing_VVG white_NN1 is_VBZ holding_VVG her_APPGE head_NN1 
+._. 
+A_AT1 group_NN1 of_IO dogs_NN2 is_VBZ pulling_VVG a_AT1 sled_JJ over_II 
+snow_NN1 as_II the_AT sun_NN1 sets_NN2 ._. 
+Construction_NN1 worker_NN1 in_II the_AT middle_NN1 of_IO doing_VDG his_APPGE 
+job_NN1 working_VVG on_II a_AT1 house_NN1 ._. 
+A_AT1 tan_JJ dog_NN1 is_VBZ on_II31 top_II32 of_II33 and_CC growling_VVG at_II 
+a_AT1 doberman_NN1 wearing_VVG a_AT1 collar_NN1 in_II the_AT grass_NN1 ._. 
+The_AT little_JJ girl_NN1 in_II pink_NN1 is_VBZ standing_VVG in_II the_AT 
+doorway_NN1 between_II the_AT artwork_NN1 on_II the_AT walls_NN2 ._. 
+A_AT1 man_NN1 wearing_VVG a_AT1 black_JJ shirt_NN1 and_CC a_AT1 girl_NN1 
+wearing_VVG an_AT1 orange_JJ shirt_NN1 sitting_VVG on_II the_AT pavement_NN1 
+eating_NN1 ._. 
+A_AT1 little_JJ boy_NN1 in_II a_AT1 toy_NN1 fireman_NN1 's_GE helmet_NN1 
+playing_VVG outside_RL with_IW a_AT1 saw_NN1 ._. 
+A_AT1 little_JJ boy_NN1 wearing_VVG black_JJ and_CC green_JJ shorts_NN2 is_VBZ 
+digging_VVG in_II the_AT sand_NN1 with_IW something_PN1 colored_VVD orange_NN1 
+._. 
+A_AT1 man_NN1 with_IW an_AT1 injured_JJ arm_NN1 watches_VVZ three_MC 
+policemen_NN2 as_CSA one_MC1 addresses_VVZ the_AT police_NN2 van_NN1 
+driver_NN1 and_CC two_MC others_NN2 walk_VV0 away_II21 from_II22 the_AT 
+van_NN1 ._. 
+A_AT1 man_NN1 wearing_VVG only_JJ underwear_NN1 and_CC tennis_NN1 shoes_NN2 
+walking_VVG down_II the_AT street_NN1 ._. 
+A_AT1 man_NN1 is_VBZ in_II a_AT1 hospital_NN1 bed_NN1 with_IW oxygen_NN1 
+hooked_VVN up_RP to_TO help_VVI him_PPHO1 breathe_VVI better_RRR ._. 
+Two_MC jugglers_NN2 using_VVG flaming_JJ torches_NN2 are_VBR performing_VVG 
+for_IF a_AT1 crowd_NN1 of_IO people_NN who_PNQS are_VBR sitting_VVG on_II 
+steps_NN2 ._. 
+Old_JJ person_NN1 walking_VVG down_RP the_AT sidewalk_NN1 next_II21 to_II22 
+a_AT1 white_JJ building_NN1 ._. 
+Two_MC older_JJR persons_NN2 standing_VVG on_II a_AT1 city_NN1 sidewalk_NN1 
+with_IW a_AT1 dog_NN1 on_II a_AT1 leash_NN1 ._. 
+An_AT1 older_JJR male_NN1 looking_VVG at_II something_PN1 in_II his_APPGE 
+hands_NN2 as_CSA he_PPHS1 walks_VVZ through_II a_AT1 field_NN1 of_IO 
+wildflowers_NN2 ._. 
+A_AT1 man_NN1 ,_, dressed_VVN in_II a_AT1 green_JJ jacket_NN1 ,_, sings_VVZ 
+into_II a_AT1 microphone_NN1 while_CS playing_VVG guitar_NN1 ._. 
+Three_MC men_NN2 are_VBR working_VVG together_RL to_TO pump_VVI gas_NN1 
+from_II a_AT1 barrel_NN1 ._. 
+A_AT1 male_JJ bicyclist_NN1 throws_VVZ his_APPGE arms_NN2 up_RP in_II 
+victory_NN1 as_CSA he_PPHS1 crosses_VVZ the_AT finish_NN1 line_NN1 on_II a_AT1 
+paved_JJ roadway_NN1 ._. 
+A_AT1 basketball_NN1 game_NN1 with_IW player_NN1 in_II black_JJ uniform_NN1 
+about_RPK to_TO score_VVI while_CS surrounded_VVN by_II players_NN2 in_II 
+white_JJ ._. 
+A_AT1 person_NN1 riding_VVG a_AT1 horse_NN1 as_CSA people_NN watch_VV0 ._. 
+A_AT1 construction_NN1 worker_NN1 crouched_VVN and_CC working_VVG on_II a_AT1 
+busy_JJ street_NN1 wearing_VVG a_AT1 bright_JJ vest_NN1 ._. 
+A_AT1 man_NN1 is_VBZ traveling_VVG down_II the_AT street_NN1 in_II a_AT1 
+vehicle_NN1 pulled_VVN by_II a_AT1 horse_NN1 ._. 
+Four_MC people_NN are_VBR standing_VVG outdoors_RL by_II a_AT1 railing_NN1 ._. 
+A_AT1 woman_NN1 in_II a_AT1 white_JJ top_JJ standing_NN1 next_II21 to_II22 
+a_AT1 dishwasher_NN1 and_CC sink_NN1 ._. 
+A_AT1 man_NN1 is_VBZ looking_VVG at_II a_AT1 young_JJ woman_NN1 who_PNQS 
+is_VBZ wearing_VVG a_AT1 cap_NN1 and_CC biting_VVG her_APPGE nails_NN2 ._. 
+Two_MC young_JJ children_NN2 are_VBR playing_VVG in_II the_AT living_NN1 
+room_NN1 with_IW some_DD toys_NN2 ._. 
+A_ZZ1 police_NN2 officer_NN1 wearing_VVG dark_JJ pants_NN2 ,_, a_AT1 
+long-sleeved_JJ blue_JJ shirt_NN1 ,_, white_JJ gloves_NN2 ,_, a_AT1 white_JJ 
+hat_NN1 ,_, and_CC an_AT1 orange_JJ "_" TRAFFIC_NN1 "_" vest_NN1 is_VBZ 
+standing_VVG in_II the_AT street_NN1 directing_VVG vehicles_NN2 ._. 
+A_AT1 woman_NN1 sits_VVZ on_II the_AT curb_NN1 next_II21 to_II22 a_AT1 
+scooter_NN1 talking_VVG to_II a_AT1 man_NN1 ._. 
+A_AT1 woman_NN1 holding_VVG a_AT1 small_JJ child_NN1 is_VBZ standing_VVG 
+outside_II a_AT1 Chinese_JJ restaurant_NN1 ._. 
+A_AT1 crowd_NN1 is_VBZ standing_VVG on_II a_AT1 road_NN1 in_RL21 between_RL22 
+tall_JJ buildings_NN2 ._. 
+A_AT1 small_JJ boy_NN1 walking_VVG a_AT1 dog_NN1 on_II a_AT1 leash_NN1 by_II 
+a_AT1 lake_NN1 ._. 
+A_AT1 girl_NN1 with_IW a_AT1 pink_JJ striped_JJ shirt_NN1 is_VBZ walking_VVG 
+up_RP a_AT1 set_NN1 of_IO stone_NN1 stairs_NN2 ._. 
+A_AT1 skier_NN1 flies_VVZ through_II the_AT air_NN1 while_CS doing_VDG a_AT1 
+trick_NN1 ._. 
+Two_MC professional_JJ hockey_NN1 players_NN2 skating_VVG by_II each_PPX221 
+other_PPX222 on_II the_AT ice_NN1 ._. 
+Toddler_NN1 boy_NN1 in_II a_AT1 red_JJ hat_NN1 holding_VVG on_RP to_II some_DD 
+railings_NN2 ._. 
+A_AT1 woman_NN1 giving_VVG a_AT1 presentation_NN1 using_VVG a_AT1 
+slideshow_NN1 projection_NN1 ._. 
+A_AT1 little_JJ white_JJ boy_NN1 dressed_VVN in_II winter_NNT1 clothes_NN2 
+standing_VVG by_II a_AT1 tree_NN1 in_II the_AT snow_NN1 ._. 
+Young_JJ girl_NN1 picking_VVG buttercups_NN2 on_II a_AT1 pretty_JJ day_NNT1 
+._. 
+A_AT1 man_NN1 with_IW glasses_NN2 dressed_VVN up_RP as_II a_AT1 zombie_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 tutu_NN1 waterskies_VVZ in_II a_AT1 lake_NN1 
+surrounded_VVN by_II snow_NN1 ._. 
+Young_JJ girl_NN1 stirs_VVZ a_AT1 pot_NN1 with_IW a_AT1 spoon_NN1 in_II the_AT 
+kitchen_NN1 while_CS wearing_VVG a_AT1 large_JJ black_JJ blanket_NN1 ._. 
+A_AT1 man_NN1 and_CC woman_NN1 are_VBR dressed_VVN in_II renaissance_NN1 
+attire_NN1 ._. 
+A_AT1 baby_NN1 in_II a_AT1 hospital_NN1 sleeping_VVG in_II a_AT1 crib_NN1 ._. 
+Children_NN2 who_PNQS are_VBR holding_VVG their_APPGE hands_NN2 up_RP while_CS 
+sitting_VVG on_II a_AT1 gym_NN1 floor_NN1 ._. 
+A_AT1 young_JJ boy_NN1 who_PNQS is_VBZ wearing_VVG a_AT1 helmet_NN1 looks_VVZ 
+at_II a_AT1 bicycle_NN1 ._. 
+A_AT1 guard_NN1 is_VBZ on_II the_AT look_NN1 out_RP while_CS on_II duty_NN1 
+._. 
+A_AT1 girl_NN1 with_IW black_JJ hair_NN1 and_CC braces_NN2 is_VBZ wearing_VVG 
+sunglasses_NN2 and_CC posing_VVG with_IW a_AT1 wooden_JJ robot_NN1 ._. 
+A_AT1 group_NN1 of_IO children_NN2 and_CC adults_NN2 are_VBR sitting_VVG on_II 
+the_AT floor_NN1 ._. 
+A_AT1 band_NN1 sitting_VVG in_II31 front_II32 of_II33 a_AT1 game_NN1 score_NN1 
+board_NN1 ._. 
+A_AT1 lady_NN1 in_II black_JJ pants_NN2 ,_, white_JJ t-shirt_NN1 with_IW 
+red_JJ writing_NN1 across_II breast_NN1 ,_, doing_VDG a_AT1 stretch_NN1 
+exercise_NN1 on_II31 top_II32 of_II33 a_AT1 concrete_JJ sphere_NN1 with_IW 
+a_AT1 18th_MD century_NNT1 building_NN1 surrounding_VVG the_AT sphere_NN1 ._. 
+A_AT1 man_NN1 sits_VVZ alone_RR in_II a_AT1 diner_NN1 reading_VVG a_AT1 
+book_NN1 ._. 
+A_AT1 tattooed_JJ man_NN1 holds_VVZ a_AT1 young_JJ child_NN1 who_PNQS is_VBZ 
+clutching_VVG money_NN1 ._. 
+A_AT1 young_JJ boy_NN1 wearing_VVG a_AT1 green_JJ and_CC gray_JJ jacket_NN1 
+is_VBZ about_RPK to_TO hammer_VVI an_AT1 object_NN1 ._. 
+A_AT1 skateboarder_NN1 jumps_VVZ a_AT1 railing_NN1 next_II21 to_II22 a_AT1 
+street_NN1 ._. 
+A_AT1 waitress_NN1 is_VBZ performing_VVG in_II a_AT1 restaurant_NN1 with_IW 
+her_APPGE arms_NN2 spread_VV0 out_RP and_CC a_AT1 top_JJ hat_NN1 in_II 
+her_APPGE left_JJ hand_NN1 ._. 
+A_AT1 dog_NN1 is_VBZ attempting_VVG a_AT1 turn_NN1 by_II a_AT1 nearby_JJ 
+picnic_NN1 bench_NN1 and_CC metal_NN1 object_NN1 ._. 
+One_MC1 man_NN1 looks_VVZ nervous_JJ about_II eating_VVG a_AT1 small_JJ 
+animal_NN1 limb_NN1 with_IW chopsticks_NN2 ._. 
+A_AT1 group_NN1 of_IO people_NN carrying_VVG shopping_NN1 bags_NN2 and_CC 
+baskets_NN2 talks_NN2 to_II each_PPX221 other_PPX222 in_II the_AT middle_NN1 
+of_IO a_AT1 sidewalk_NN1 at_II night_NNT1 ._. 
+Getting_VVG familiar_JJ with_IW his_APPGE trade_NN1 as_II a_AT1 filipino_NN1 
+child_NN1 arms_NN2 maker_NN1 ._. 
+Someone_PN1 in_II a_AT1 blue_JJ and_CC white_JJ striped_JJ sweater_NN1 is_VBZ 
+eating_VVG and_CC the_AT dog_NN1 next_II21 to_II22 them_PPHO2 is_VBZ 
+interested_JJ in_II their_APPGE food_NN1 ._. 
+Four_MC men_NN2 wearing_VVG orange_JJ vests_NN2 are_VBR digging_VVG with_IW 
+shovels_NN2 ._. 
+A_AT1 man_NN1 in_II a_AT1 white_JJ outfit_NN1 is_VBZ playing_VVG an_AT1 
+electric_JJ keyboard_NN1 ._. 
+A_AT1 girl_NN1 in_II pink_NN1 is_VBZ on_II the_AT shoulders_NN2 of_IO a_AT1 
+mustached_JJ man_NN1 ._. 
+Women_NN2 and_CC children_NN2 washing_VVG clothes_NN2 by_II the_AT river_NN1 
+with_IW green_JJ trees_NN2 by_II the_AT banks_NN2 ._. 
+Group_NN1 of_IO four_MC people_NN in_II hiking_VVG gear_NN1 standing_VVG 
+in_II31 front_II32 of_II33 a_AT1 forest_NN1 of_IO trees_NN2 ._. 
+Two_MC older_JJR boys_NN2 ice_NN1 skating_VVG with_IW a_AT1 small_JJ boy_NN1 
+in_II21 between_II22 them_PPHO2 ._. 
+A_AT1 young_JJ man_NN1 with_IW a_AT1 white_JJ sweatshirt_NN1 on_II rides_NN2 
+his_APPGE bike_NN1 through_II a_AT1 busy_JJ crowd_NN1 ._. 
+A_AT1 man_NN1 in_II31 front_II32 of_II33 a_AT1 building_NN1 is_VBZ 
+excitedly_RR pointing_VVG to_II the_AT building_NN1 which_DDQ says_VVZ "_" 
+Museum_NN1 Campus_NN1 "_" ._. 
+A_AT1 couple_NN1 enjoying_VVG a_AT1 sunset_NN1 on_II a_AT1 cruise_NN1 ._. 
+An_AT1 older_JJR man_NN1 with_IW a_AT1 yellow_JJ blouse_NN1 is_VBZ reading_VVG 
+something_PN1 while_CS he_PPHS1 stands_VVZ on_II stage_NN1 ._. 
+Woman_NN1 drinks_NN2 from_II a_AT1 jar_NN1 just_RR after_II exiting_VVG the_AT 
+shower_NN1 ._. 
+A_AT1 man_NN1 recording_VVG a_AT1 woman_NN1 crying_VVG in_II the_AT street_NN1 
+._. 
+An_AT1 old_JJ woman_NN1 with_IW a_AT1 gray_JJ hat_NN1 sits_VVZ on_II the_AT 
+gravel_NN1 covered_VVD ground_NN1 in_II31 front_II32 of_II33 large_JJ 
+stone_NN1 blocks_NN2 knitting_VVG a_AT1 sock_NN1 ._. 
+A_AT1 man_NN1 is_VBZ kneeling_VVG on_II a_AT1 metal_NN1 roof_NN1 and_CC is_VBZ 
+looking_VVG over_RP a_AT1 structure_NN1 on_II the_AT roof_NN1 ._. 
+Several_DA2 people_NN dressed_VVN in_II Indian_JJ clothing_NN1 are_VBR 
+talking_VVG to_II each_PPX221 other_PPX222 ._. 
+A_AT1 little_JJ kid_NN1 ,_, with_IW a_AT1 red_JJ toy_NN1 ,_, is_VBZ 
+sitting_VVG on_II a_AT1 tire_VV0 ._. 
+Two_MC people_NN in_II heavy_JJ clothes_NN2 are_VBR walking_VVG up_RP a_AT1 
+gradual_JJ grassy_JJ incline_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 truck_NN1 ,_, with_IW sheep_NN in_II the_AT 
+background_NN1 and_CC a_AT1 little_JJ boy_NN1 looking_VVG out_RP the_AT 
+window_NN1 of_IO the_AT truck_NN1 ,_, appears_VVZ to_TO be_VBI preparing_VVG 
+to_TO pour_VVI the_AT contents_NN2 of_IO a_AT1 sack_NN1 into_II some_DD 
+kind_NN1 of_IO funnel_NN1 ._. 
+One_MC1 army_NN1 man_NN1 doing_VDG some_DD push_VV0 ups_NN2 while_CS 
+another_DD1 one_PN1 is_VBZ kneeling_VVG right_RR next_II21 to_II22 him_PPHO1 
+._. 
+A_AT1 young_JJ boy_NN1 is_VBZ splashing_VVG through_II a_AT1 puddle_NN1 of_IO 
+water_NN1 ._. 
+A_AT1 woman_NN1 in_II a_AT1 red_JJ skirt_NN1 with_IW flowers_NN2 is_VBZ 
+walking_VVG down_II the_AT street_NN1 ._. 
+An_AT1 elderly_JJ man_NN1 takes_VVZ his_APPGE dog_NN1 for_IF a_AT1 walk_NN1 
+near_II the_AT water_NN1 ._. 
+Two_MC girls_NN2 and_CC a_AT1 man_NN1 were_VBDR peeling_VVG corn_NN1 ._. 
+Two_MC women_NN2 dressed_VVN in_II black_JJ pants_NN2 and_CC white_JJ tops_NN2 
+positioned_VVN identically_RR with_IW a_AT1 black_JJ backdrop_NN1 ._. 
+Two_MC men_NN2 on_II a_AT1 traffic_NN1 light_NN1 making_VVG faces_NN2 ._. 
+These_DD2 kids_NN2 are_VBR having_VHG fun_NN1 playing_VVG a_AT1 soccer_NN1 
+game_NN1 ._. 
+A_AT1 woman_NN1 in_II a_AT1 beige_JJ blazer_NN1 and_CC sunglasses_NN2 
+stares_VVZ toward_II a_AT1 man_NN1 in_II a_AT1 striped_JJ t-shirt_NN1 ,_, 
+who_PNQS is_VBZ staring_VVG at_II two_MC smiling_JJ women_NN2 in_II 
+military_JJ attire_NN1 on_II a_AT1 city_NN1 sidewalk_NN1 ._. 
+A_AT1 man_NN1 on_II a_AT1 motorbike_NN1 is_VBZ leading_VVG the_AT horse_NN1 
+with_IW another_DD1 man_NN1 on_II its_APPGE back_NN1 ._. 
+Group_NN1 of_IO people_NN sitting_VVG and_CC standing_VVG next_II21 to_II22 
+a_AT1 fountain_NN1 ._. 
+A_AT1 crowd_NN1 of_IO people_NN standing_VVG at_II an_AT1 Asian_JJ 
+gathering_NN1 ._. 
+A_AT1 laughing_JJ baby_NN1 is_VBZ surrounded_VVN by_II balls_NN2 of_IO 
+various_JJ colors_NN2 ._. 
+A_AT1 group_NN1 of_IO people_NN stand_VV0 in_II the_AT dirt_NN1 near_II two_MC 
+station_NN1 wagons_NN2 ,_, with_IW some_DD sacks_NN2 in_II the_AT back_NN1 
+of_IO a_AT1 station_NN1 wagon_NN1 and_CC other_JJ sacks_NN2 piled_VVN on_II 
+the_AT dirt_NN1 ._. 
+Four_MC men_NN2 and_CC one_MC1 woman_NN1 in_II blue_JJ outfits_NN2 are_VBR 
+standing_VVG together_RL in_II a_AT1 street_NN1 with_IW onlookers_NN2 in_II 
+the_AT background_NN1 ._. 
+Five_MC musicians_NN2 ,_, three_MC woman_NN1 and_CC two_MC men_NN2 ,_, 
+looking_VVG out_RP over_II a_AT1 wall_NN1 with_IW their_APPGE instruments_NN2 
+behind_II their_APPGE back_NN1 ._. 
+An_AT1 Asian_JJ factory_NN1 worker_NN1 posing_VVG for_IF the_AT camera_NN1 ._. 
+The_AT girl_NN1 stands_VVZ outside_RL in_II the_AT cold_NN1 wearing_VVG a_AT1 
+warm_JJ hat_NN1 and_CC looking_VVG off_RP into_II the_AT distance_NN1 ._. 
+A_AT1 young_JJ boy_NN1 with_IW a_AT1 striped_JJ red_JJ shirt_NN1 smiling_VVG 
+at_II the_AT bottom_NN1 of_IO a_AT1 slide_NN1 ._. 
+A_AT1 woman_NN1 in_II a_AT1 red_JJ shirt_NN1 competes_VVZ in_II an_AT1 
+endurance_NN1 sport_NN1 ._. 
+A_AT1 cyclist_NN1 who_PNQS is_VBZ resting_VVG and_CC rehydrating_VVG 
+himself_PPX1 ._. 
+A_AT1 woman_NN1 is_VBZ coming_VVG up_II21 to_II22 street_NN1 level_NN1 from_II 
+the_AT subway_NN1 ._. 
+Pakistani_JJ boy_NN1 in_II brown_JJ oversized_JJ shirt_NN1 selling_VVG 
+sandals_NN2 on_II the_AT side_NN1 of_IO the_AT street_NN1 ._. 
+A_AT1 woman_NN1 checks_VVZ her_APPGE rings_NN2 while_CS standing_VVG next_II21 
+to_II22 another_DD1 woman_NN1 in_II31 front_II32 of_II33 a_AT1 mirror_NN1 ._. 
+A_AT1 man_NN1 is_VBZ standing_VVG on_II two_MC ladders_NN2 ,_, looking_VVG 
+scared_JJ ._. 
+A_AT1 person_NN1 in_II a_AT1 red_JJ jacket_NN1 on_II31 top_II32 of_II33 
+rocks_NN2 ._. 
+A_AT1 woman_NN1 with_IW a_AT1 young_JJ child_NN1 standing_VVG in_II gravel_NN1 
+and_CC pointing_VVG at_II the_AT photographer_NN1 ._. 
+Four_MC police_NN2 officers_NN2 dressed_VVN in_II riot_NN1 gear_NN1 are_VBR 
+maintaining_VVG a_AT1 crowd_NN1 that_CST includes_VVZ a_AT1 man_NN1 
+dressed_VVN as_II a_AT1 clown_NN1 ._. 
+A_AT1 dog_NN1 with_IW its_APPGE mouth_NN1 open_VV0 is_VBZ walking_VVG on_II 
+a_AT1 path_NN1 on_II a_AT1 garden_NN1 which_DDQ is_VBZ next_II21 to_II22 a_AT1 
+lake_NN1 or_CC a_AT1 stream_NN1 ._. 
+A_AT1 grandfather_NN1 playing_VVG with_IW his_APPGE family_NN1 on_II a_AT1 
+playground_NN1 ._. 
+A_AT1 young_JJ boy_NN1 in_II a_AT1 pullup_NN1 is_VBZ covered_VVN in_II 
+marker_NN1 ink_NN1 ._. 
+An_AT1 older_JJR woman_NN1 adding_VVG spices_NN2 to_II food_NN1 she_PPHS1 
+is_VBZ preparing_VVG ._. 
+A_AT1 man_NN1 in_II a_AT1 green_JJ hoodie_NN1 holds_VVZ a_AT1 fishing_NN1 
+pole_NN1 and_CC stands_VVZ on_II a_AT1 rock_NN1 that_CST overlooks_VVZ the_AT 
+sea_NN1 ._. 
+An_AT1 artist_NN1 shows_VVZ off_RP his_APPGE work_NN1 to_II a_AT1 large_JJ 
+crowd_NN1 of_IO people_NN who_PNQS appear_VV0 to_TO be_VBI listening_VVG 
+intently_RR to_II the_AT artist_NN1 's_GE description_NN1 of_IO his_APPGE 
+display_NN1 ._. 
+An_AT1 Asian_JJ woman_NN1 waiting_VVG at_II an_AT1 underground_JJ train_NN1 
+stop_NN1 ._. 
+Two_MC men_NN2 in_II orange_JJ outfits_NN2 clean_VV0 up_RP garbage_NN1 
+spilled_VVN on_II the_AT street_NN1 ._. 
+A_AT1 soccer_NN1 participant_NN1 is_VBZ trying_VVG to_TO hit_VVI a_AT1 
+ball_NN1 while_CS an_AT1 opposing_JJ team_NN1 member_NN1 runs_VVZ behind_II 
+him_PPHO1 ._. 
+A_AT1 couple_NN1 talking_VVG together_RL having_VHG drinks_NN2 in_II a_AT1 
+quiet_JJ booth_NN1 ._. 
+A_AT1 group_NN1 of_IO people_NN stand_VV0 outside_RL at_II night_NNT1 
+talking_VVG ._. 
+This_DD1 red_JJ color_NN1 bike_NN1 is_VBZ very_RG nice_JJ ,_, I_PPIS1 would_VM 
+like_VVI to_TO have_VHI one_PN1 ._. 
+Women_NN2 are_VBR sitting_VVG on_II the_AT ground_NN1 with_IW a_AT1 doll_NN1 
+,_, while_CS a_AT1 child_NN1 pretends_VVZ to_TO take_VVI care_NN1 of_IO the_AT 
+doll_NN1 ._. 
+The_AT man_NN1 is_VBZ standing_VVG behind_II his_APPGE opened_JJ back_NN1 
+hatch_NN1 of_IO his_APPGE vehicle_NN1 ._. 
+This_DD1 is_VBZ a_AT1 young_JJ man_NN1 jumping_NN1 midair_NN1 on_II a_AT1 
+trampoline_NN1 ._. 
+A_AT1 woman_NN1 and_CC child_NN1 signing_VVG a_AT1 large_JJ white_JJ 
+banner_NN1 ._. 
+A_AT1 man_NN1 with_IW a_AT1 beard_NN1 is_VBZ using_VVG a_AT1 sewing_NN1 
+machine_NN1 ._. 
+A_AT1 woman_NN1 is_VBZ looking_VVG happily_RR at_II a_AT1 plate_NN1 of_IO 
+food_NN1 ._. 
+Someone_PN1 is_VBZ in_II a_AT1 speed_NN1 boat_NN1 on_II the_AT water_NN1 ._. 
+A_AT1 fisherman_NN1 throws_VVZ his_APPGE net_NN1 off_II21 of_II22 a_AT1 
+pier_NN1 in_II the_AT early_JJ morning_NNT1 or_CC late_JJ evening_NNT1 ._. 
+A_AT1 person_NN1 scales_NN2 the_AT rock_NN1 while_CS another_DD1 focuses_VVZ 
+on_II equipment_NN1 ._. 
+A_AT1 mixed_JJ sex_NN1 group_NN1 wear_VV0 lobster_NN1 bibs_NN2 and_CC 
+wield_VV0 mallets_NN2 as_CSA they_PPHS2 dine_VV0 on_II crab_NN1 at_II a_AT1 
+restaurant_NN1 ._. 
+A_AT1 person_NN1 wearing_VVG a_AT1 dark_JJ blue_NN1 covered_VVD up_RP 
+attire_NN1 from_II head_NN1 to_II toe_NN1 ,_, with_IW a_AT1 mask_NN1 and_CC 
+vest_NN1 ,_, holding_VVG a_AT1 thin_JJ sword_NN1 ._. 
+A_AT1 man_NN1 is_VBZ wearing_VVG a_AT1 shirt_NN1 that_CST reads_VVZ ,_, "_" 
+Mambo_NP1 "_" with_IW an_AT1 image_NN1 of_IO a_AT1 baby_NN1 and_CC a_AT1 
+teddy_NN1 bear_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 yellow_JJ shirt_NN1 and_CC a_AT1 woman_NN1 in_II 
+a_AT1 blue_JJ jacket_NN1 are_VBR talking_VVG with_IW stone_NN1 buildings_NN2 
+in_II the_AT background_NN1 ._. 
+A_AT1 man_NN1 is_VBZ sitting_VVG outside_II a_AT1 window_NN1 painting_VVG 
+the_AT windowsill_NN1 ._. 
+A_AT1 man_NN1 with_IW glasses_NN2 and_CC a_AT1 beard_NN1 sits_VVZ next_II21 
+to_II22 a_AT1 girl_NN1 with_IW a_AT1 pink_JJ sweater_NN1 with_IW three_MC 
+children_NN2 in_II31 front_II32 of_II33 them_PPHO2 ._. 
+A_AT1 young_JJ boy_NN1 frowning_VVG as_CSA he_PPHS1 holds_VVZ a_AT1 vacuum_NN1 
+cleaner_NN1 in_II31 front_II32 of_II33 a_AT1 stove_NN1 ._. 
+A_AT1 woman_NN1 wearing_VVG a_AT1 floral_JJ necklace_NN1 makes_VVZ a_AT1 
+drink_NN1 and_CC smiles_NN2 ._. 
+A_AT1 group_NN1 of_IO students_NN2 working_VVG together_RL in_II a_AT1 
+classroom_NN1 ._. 
+A_AT1 father_NN1 is_VBZ holding_VVG a_AT1 crying_NN1 infant_NN1 on_II 
+his_APPGE chest_NN1 ._. 
+People_NN are_VBR setting_VVG up_RP chairs_NN2 on_II a_AT1 beach_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 pink_JJ and_CC green_JJ shirt_NN1 is_VBZ riding_VVG 
+down_RP what_DDQ appears_VVZ to_TO be_VBI a_AT1 parade_NN1 route_NN1 while_CS 
+on_II a_AT1 tiny_JJ bicycle_NN1 ._. 
+A_AT1 shirtless_JJ man_NN1 in_II blue_JJ holding_VVG up_RP a_AT1 large_JJ 
+blue_JJ rod_NN1 and_CC looking_VVG at_II the_AT camera_NN1 ._. 
+A_AT1 man_NN1 on_II a_AT1 train_NN1 is_VBZ talking_VVG on_II a_AT1 
+cellphone_NN1 ._. 
+A_AT1 race_NN1 car_NN1 driver_NN1 showering_VVG himself_PPX1 with_IW 
+champagne_NN1 ._. 
+A_AT1 man_NN1 is_VBZ jumping_VVG off_II the_AT grass_NN1 while_CS holding_VVG 
+onto_II a_AT1 giant_JJ white_JJ balloon_NN1 ._. 
+Two_MC people_NN are_VBR riding_VVG in_II a_AT1 canoe_NN1 near_II a_AT1 
+forest_NN1 ._. 
+Five_MC elderly_JJ women_NN2 sitting_VVG around_RP watching_VVG and_CC 
+elderly_JJ man_NN1 ._. 
+A_AT1 woman_NN1 in_II a_AT1 black_JJ dress_NN1 smoking_VVG a_AT1 cigarette_NN1 
+outside_RL ._. 
+Someone_PN1 wearing_VVG a_AT1 large_JJ hat_NN1 is_VBZ sitting_VVG on_II 
+colorful_JJ blankets_NN2 working_VVG a_AT1 loom_NN1 with_IW a_AT1 pair_NN 
+of_IO men_NN2 's_GE dress_NN1 shoes_NN2 in_II31 front_II32 of_II33 him_PPHO1 
+._. 
+Blond_JJ woman_NN1 with_IW a_AT1 pink_JJ helmet_NN1 is_VBZ sitting_VVG on_II 
+a_AT1 motorcycle_NN1 ._. 
+A_AT1 woman_NN1 in_II patterned_JJ blue_JJ jeans_NN2 and_CC a_AT1 green_JJ 
+sweater_NN1 walks_VVZ away_RL whilst_CS carrying_VVG a_AT1 brown_JJ 
+plastic_NN1 bag_NN1 ._. 
+A_AT1 guy_NN1 wearing_VVG jeans_NN2 and_CC a_AT1 white_JJ shirt_NN1 is_VBZ 
+on_II a_AT1 skateboard_NN1 in_II midair_NN1 ._. 
+A_AT1 Spanish_JJ guitar_NN1 paler_JJR and_CC a_AT1 lady_NN1 dancer_NN1 
+performing_VVG on_II stage_NN1 ._. 
+A_AT1 man_NN1 smokes_VVZ a_AT1 cigar_NN1 as_CSA he_PPHS1 walks_VVZ the_AT 
+city_NN1 street_NN1 ._. 
+A_AT1 young_JJ woman_NN1 with_IW blond-hair_NN1 ,_, wearing_VVG a_AT1 tan_JJ 
+cap_NN1 and_CC black_JJ shirt_NN1 ,_, smiles_VVZ at_II the_AT camera_NN1 ._. 
+A_AT1 musician_NN1 with_IW long_JJ hair_NN1 performs_VVZ on_II a_AT1 
+stringed_JJ instrument_NN1 ._. 
+A_AT1 man_NN1 with_IW a_AT1 beard_NN1 is_VBZ holding_VVG a_AT1 guitar_NN1 
+while_CS seated_VVN in_II31 front_II32 of_II33 a_AT1 microphone_NN1 ._. 
+A_AT1 young_JJ boy_NN1 is_VBZ sitting_VVG in_II31 front_II32 of_II33 a_AT1 
+computer_NN1 and_CC typing_VVG words_NN2 onto_II the_AT screen_NN1 ._. 
+A_AT1 young_JJ boy_NN1 in_II a_AT1 swimming_NN1 suit_NN1 sits_VVZ in_II 
+water_NN1 ._. 
+A_AT1 redhead_NN1 little_JJ girl_NN1 in_II a_AT1 gray_JJ hoodie_NN1 with_IW 
+a_AT1 hot_JJ pink_JJ vest_NN1 is_VBZ blowing_VVG bubbles_NN2 ._. 
+A_AT1 young_JJ man_NN1 attempts_VVZ a_AT1 tricky_JJ maneuver_NN1 on_II 
+his_APPGE skateboard_NN1 along_II a_AT1 graffiti-covered_JJ wall_NN1 in_II 
+a_AT1 park_NN1 ._. 
+Many_DA2 pigeons_NN2 are_VBR crowded_VVN around_II the_AT feet_NN2 of_IO a_AT1 
+woman_NN1 in_II a_AT1 blue_JJ tank-top_NN1 and_CC ripped_VVD ,_, blue_JJ 
+jeans_NN2 ._. 
+A_AT1 little_JJ boy_NN1 wearing_VVG a_AT1 blue_JJ helmet_NN1 and_CC full_JJ 
+set_NN1 of_IO pads_NN2 is_VBZ riding_VVG a_AT1 scooter_NN1 down_II the_AT 
+walk_NN1 ._. 
+A_AT1 group_NN1 of_IO people_NN in_II the_AT snow_NN1 ,_, one_PN1 is_VBZ 
+bending_VVG over_RP to_TO touch_VVI a_AT1 snowshoe_NN1 on_II his_APPGE 
+foot_NN1 ._. 
+A_AT1 young_JJ man_NN1 is_VBZ in_II midair_NN1 while_CS skateboarding_VVG 
+at_II a_AT1 skate_NN1 park_NN1 with_IW people_NN watching_VVG him_PPHO1 in_II 
+the_AT background_NN1 ._. 
+A_AT1 dog_NN1 running_VVG on_II a_AT1 trail_NN1 in_II the_AT mountains_NN2 ._. 
+Several_DA2 people_NN walk_VV0 in_II a_AT1 pedestrian_NN1 shopping_NN1 
+street_NN1 ._. 
+People_NN in_II costume_NN1 standing_VVG around_RP a_AT1 tree_NN1 in_II a_AT1 
+forest_NN1 ._. 
+A_AT1 young_JJ woman_NN1 with_IW blond-hair_NN1 ,_, wearing_VVG a_AT1 
+short-sleeve_JJ gray_JJ shirt_NN1 and_CC blue_JJ jean_NN1 shorts_NN2 ,_, 
+prepares_VVZ food_NN1 for_IF a_AT1 barbecue_NN1 ._. 
+A_AT1 young_JJ man_NN1 is_VBZ taking_VVG a_AT1 bag_NN1 of_IO trash_NN1 to_II 
+the_AT dumpster_NN1 ,_, after_II picking_VVG up_RP litter_NN1 on_II the_AT 
+street_NN1 ._. 
+Young_JJ child_NN1 in_II a_AT1 bright_JJ red_JJ shirt_NN1 smiles_VVZ with_IW 
+enjoyment_NN1 as_CSA she_PPHS1 is_VBZ hoisted_VVN into_II the_AT air_NN1 ._. 
+A_AT1 older_JJR man_NN1 is_VBZ wearing_VVG a_AT1 white_JJ shirt_NN1 ,_, 
+sitting_VVG outside_RL and_CC taking_VVG a_AT1 nap_NN1 ._. 
+A_AT1 woman_NN1 in_II a_AT1 Vegas_NP1 looking_VVG show_NN1 girl_NN1 
+costume_NN1 in_II a_AT1 blue_JJ and_CC white_JJ feathered_JJ headdress_NN1 
+moves_VVZ ahead_II21 of_II22 a_AT1 crowd_NN1 of_IO blue-shirted_JJ 
+individuals_NN2 ._. 
+A_AT1 woman_NN1 holding_VVG a_AT1 flower_NN1 stands_VVZ in_II31 front_II32 
+of_II33 a_AT1 marketplace_NN1 tableau_NN1 of_IO vibrant_JJ green_JJ 
+produce_NN1 ,_, including_VVG ,_, lettuce_NN1 of_IO various_JJ types_NN2 ,_, 
+cactus_NN1 ,_, radishes_NN2 ,_, and_CC various_JJ herbs_NN2 ._. 
+A_AT1 man_NN1 is_VBZ playing_VVG a_AT1 tuba_NN1 with_IW other_JJ men_NN2 
+around_II him_PPHO1 holding_VVG other_JJ musical_JJ instruments_NN2 ._. 
+A_AT1 group_NN1 of_IO people_NN are_VBR out_RP on_II watercraft_NN1 in_II 
+the_AT middle_NN1 of_IO the_AT ocean_NN1 ._. 
+A_AT1 little_JJ girl_NN1 wearing_VVG striped_JJ pants_NN2 ,_, a_AT1 pink_JJ 
+top_NN1 ,_, and_CC boots_NN2 follows_VVZ two_MC older_JJR girls_NN2 on_II 
+horseback_NN1 ._. 
+Two_MC wrestlers_NN2 ,_, one_MC1 wearing_VVG mainly_RR red_JJ and_CC the_AT 
+other_JJ mainly_RR blue_JJ are_VBR on_II a_AT1 mat_NN1 in_II a_AT1 
+wrestling_NN1 position_NN1 ._. 
+Being_VBG exposed_VVN to_II hot_JJ sun_NN1 like_II this_DD1 can_VM cause_VVI 
+skin_NN1 cancer_NN1 ._. 
+A_AT1 black_JJ man_NN1 standing_VVG alone_RR outside_RL in_II a_AT1 long_JJ 
+overcoat_NN1 ._. 
+An_AT1 Asian_JJ woman_NN1 in_II a_AT1 white_JJ shirt_NN1 working_VVG with_IW 
+machinery_NN1 giving_VVG the_AT peace_NN1 sign_NN1 ._. 
+There_EX are_VBR two_MC children_NN2 playing_VVG in_II a_AT1 playground_NN1 
+._. 
+A_AT1 woman_NN1 in_II a_AT1 black_JJ skirt_NN1 suit_NN1 is_VBZ speaking_VVG 
+with_IW another_DD1 woman_NN1 in_II a_AT1 boat_NN1 ._. 
+A_AT1 man_NN1 hammering_VVG a_AT1 nail_NN1 on_II a_AT1 piece_NN1 of_IO 
+wood_NN1 in_II bare_JJ feet_NN2 ._. 
+A_AT1 young_JJ shirtless_JJ man_NN1 drops_VVZ into_II a_AT1 half_NN1 pipe_NN1 
+at_II a_AT1 local_JJ skate_NN1 park_NN1 ._. 
+One_MC1 man_NN1 lays_VVZ on_II a_AT1 city_NN1 stoop_NN1 while_CS another_DD1 
+rests_VVZ his_APPGE head_NN1 on_II a_AT1 garbage_NN1 can_VM ._. 
+Women_NN2 in_II jackets_NN2 sitting_VVG in_II a_AT1 theater_NN1 ,_, 
+smiling_VVG ._. 
+A_AT1 woman_NN1 in_II a_AT1 black_JJ and_CC tan_JJ jacket_NN1 ,_, tan_JJ 
+hat_NN1 and_CC red_JJ pants_NN2 has_VHZ just_RR putted_VVN a_AT1 golf_NN1 
+ball_NN1 ._. 
+The_AT brown_JJ dog_NN1 is_VBZ running_VVG in_II the_AT water_NN1 licking_VVG 
+his_APPGE nose_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 kayak_NN1 on_II a_AT1 diving_JJ board_NN1 over_II 
+a_AT1 pool_NN1 of_IO water_NN1 ._. 
+A_AT1 group_NN1 of_IO people_NN have_VH0 gathered_VVN behind_II two_MC men_NN2 
+in_II turbans_NN2 ._. 
+A_AT1 guy_NN1 drinking_VVG from_II a_AT1 big_JJ silver_NN1 cup_NN1 ,_, 
+content_NN1 of_IO which_DDQ is_VBZ unknown_JJ ._. 
+Two_MC men_NN2 wearing_VVG blue_JJ shirts_NN2 and_CC dark_JJ pants_NN2 are_VBR 
+shaking_VVG hands_NN2 ._. 
+The_AT tail_NN1 of_IO the_AT airplane_NN1 has_VHZ a_AT1 yellow_JJ circle_NN1 
+with_IW what_DDQ appears_VVZ to_TO be_VBI an_AT1 animal_NN1 in_II the_AT 
+center_NN1 ._. 
+A_AT1 man_NN1 with_IW dreadlocks_NN2 is_VBZ playing_VVG with_IW the_AT 
+hair_NN1 of_IO a_AT1 woman_NN1 who_PNQS is_VBZ sitting_VVG on_II a_AT1 
+chair_NN1 on_II a_AT1 cobblestone_NN1 street_NN1 ._. 
+Team_VV0 Great_NP1 Britain_NP1 cycles_NN2 to_II the_AT finish_NN1 line_NN1 ._. 
+A_AT1 daredevil_NN1 in_II a_AT1 red_JJ shirt_NN1 taking_VVG a_AT1 jump_NN1 ._. 
+A_AT1 construction_NN1 worker_NN1 with_IW a_AT1 beard_NN1 ,_, wearing_VVG 
+a_AT1 hat_NN1 and_CC sunglasses_NN2 is_VBZ cutting_VVG concrete_NN1 with_IW 
+a_AT1 concrete_JJ saw_NN1 ,_, kicking_VVG up_RP a_AT1 lot_NN1 of_IO dust_NN1 
+,_, while_CS his_APPGE coworkers_NN2 just_RR sit_VV0 there_RL and_CC watch_NN1 
+._. 
+The_AT red_JJ skirt_NN1 of_IO a_AT1 female_JJ dancer_NN1 swirls_VVZ while_CS 
+her_APPGE feet_NN2 and_CC her_APPGE male_JJ partner_NN1 's_GE feet_NN2 
+dance_VV0 on_II concrete_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 black_JJ shirt_NN1 is_VBZ making_VVG a_AT1 video_NN1 
+recording_NN1 of_IO another_DD1 man_NN1 in_II a_AT1 black_JJ shirt_NN1 ._. 
+A_AT1 smiling_JJ man_NN1 with_IW long_JJ hair_NN1 and_CC a_AT1 beard_NN1 
+is_VBZ standing_VVG outside_RL ,_, wearing_VVG a_AT1 teal_NN jumpsuit_NN1 ,_, 
+a_AT1 hat_NN1 ,_, and_CC protective_JJ ear-gear_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 yellow_JJ and_CC gray_JJ jacket_NN1 takes_VVZ a_AT1 
+picture_NN1 of_IO a_AT1 woman_NN1 in_II a_AT1 white_JJ coat_NN1 carrying_VVG 
+a_AT1 red_JJ bag_NN1 ._. 
+A_AT1 man_NN1 and_CC a_AT1 woman_NN1 standing_VVG with_IW a_AT1 group_NN1 
+of_IO spectators_NN2 ._. 
+Group_NN1 of_IO sitting_VVG asian_JJ children_NN2 all_RR dressed_VVN in_II 
+white_JJ polos_NN2 and_CC navy_NN1 blue_JJ pants_NN2 ._. 
+A_AT1 man_NN1 with_IW a_AT1 torch_NN1 is_VBZ heating_VVG up_RP a_AT1 roof_NN1 
+and_CC laying_VVG down_RP a_AT1 layer_NN1 of_IO tar_NN1 paper_NN1 ._. 
+A_AT1 man_NN1 with_IW a_AT1 bandanna_NN1 on_II his_APPGE head_NN1 is_VBZ 
+perched_VVN in_II a_AT1 tree_NN1 holding_VVG an_AT1 ax_NN1 ._. 
+There_EX is_VBZ a_AT1 guy_NN1 on_II a_AT1 sidewalk_NN1 in_II winter_NNT1 
+jumping_VVG for_IF joy_NN1 !_! 
+Two_MC rodeo_NN1 clowns_NN2 ,_, one_MC1 young_JJ and_CC one_PN1 an_AT1 
+adult_NN1 ,_, waiting_VVG their_APPGE ques_NN2 ._. 
+The_AT street_NN1 sweeping_JJ crew_NN1 cleans_VVZ the_AT street_NN1 with_IW 
+a_AT1 crowd_NN1 of_IO people_NN in_II the_AT background_NN1 ._. 
+The_AT guard_NN1 drives_VVZ towards_II the_AT basket_NN1 during_II a_AT1 
+college_NN1 basketball_NN1 game_NN1 ._. 
+A_AT1 race_NN1 car_NN1 is_VBZ observed_VVN by_II the_AT crowd_NN1 ._. 
+Only_RR the_AT letters_NN2 "_" AND_CC "_" are_VBR clearly_RR visible_JJ as_II 
+the_AT little_JJ boy_NN1 in_II the_AT red_JJ shirt_NN1 leans_VVZ out_RP the_AT 
+window_NN1 below_RL ._. 
+Seven_MC people_NN are_VBR wading_VVG in_II a_AT1 natural_JJ pool_NN1 ._. 
+Two_MC young_JJ ,_, dark-skinned_JJ girls_NN2 are_VBR smiling_VVG and_CC 
+laughing_VVG ._. 
+Four_MC women_NN2 in_II dresses_NN2 and_CC three_MC men_NN2 in_II black_JJ 
+suits_NN2 standing_VVG in_II31 front_II32 of_II33 a_AT1 microphone_NN1 
+singing_VVG ._. 
+A_AT1 man_NN1 and_CC woman_NN1 stand_NN1 at_II the_AT altar_NN1 to_TO say_VVI 
+their_APPGE vows_NN2 and_CC get_VVI married_JJ ._. 
+A_AT1 man_NN1 mows_VVZ the_AT lawn_NN1 at_II an_AT1 orchard_NN1 ,_, careful_JJ 
+to_TO avoid_VVI the_AT hedges_NN2 and_CC flowers_NN2 on_II either_DD1 side_NN1 
+of_IO him_PPHO1 ._. 
+A_AT1 woman_NN1 with_IW a_AT1 chinese_NN1 hat_NN1 on_II leaning_VVG on_II 
+the_AT wall_NN1 standing_VVG behind_II a_AT1 cut_NN1 out_II21 of_II22 snow_NN1 
+white_NN1 in_II31 front_II32 of_II33 some_DD store_NN1 windows_NN2 ._. 
+A_AT1 man_NN1 in_II white_JJ pants_NN2 is_VBZ sitting_VVG in_II the_AT 
+street_NN1 on_II a_AT1 wooden_JJ chair_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 plaid_NN1 jacket_NN1 is_VBZ cutting_VVG fabric_NN1 
+with_IW several_DA2 colorful_JJ strands_NN2 of_IO fabric_NN1 behind_II 
+him_PPHO1 ._. 
+Young_JJ girl_NN1 waving_JJ turquiose_NN1 leotard_NN1 and_CC pink_JJ tutu_NN1 
+with_IW wings_NN2 waving_VVG wand_NN1 ._. 
+A_AT1 man_NN1 with_IW reflective_JJ safety_NN1 clothes_NN2 and_CC ear_NN1 
+protection_NN1 drives_VVZ a_AT1 John_NP1 Deere_NP1 tractor_NN1 on_II a_AT1 
+road_NN1 ._. 
+An_AT1 older_JJR woman_NN1 with_IW three_MC children_NN2 and_CC one_MC1 of_IO 
+the_AT children_NN2 is_VBZ crying_VVG ._. 
+A_AT1 black_JJ dog_NN1 is_VBZ looking_VVG through_II the_AT fence_NN1 ._. 
+A_AT1 black_JJ woman_NN1 in_II colorful_JJ clothes_NN2 is_VBZ holding_VVG 
+her_APPGE right_JJ hand_NN1 up_RP ._. 
+The_AT small_JJ boy_NN1 in_II the_AT red_JJ hat_NN1 has_VHZ a_AT1 cracker_NN1 
+._. 
+Three_MC little_JJ girls_NN2 are_VBR sitting_VVG on_II the_AT grass_NN1 ._. 
+A_AT1 man_NN1 in_II glasses_NN2 smiles_VVZ as_CSA he_PPHS1 answers_VVZ the_AT 
+phone_NN1 in_II the_AT office_NN1 ._. 
+A_AT1 young_JJ boy_NN1 ,_, wearing_VVG an_AT1 orange_JJ shirt_NN1 ,_, is_VBZ 
+standing_VVG outside_RL ,_, while_CS a_AT1 man_NN1 in_II a_AT1 green_JJ 
+shirt_NN1 pours_VVZ mulch_NN1 from_II a_AT1 bag_NN1 ._. 
+Three_MC young_JJ musician_NN1 in_II a_AT1 band_NN1 performing_VVG by_II 
+female_JJ singing_NN1 and_CC two_MC males_NN2 playing_VVG guitars_NN2 ._. 
+An_AT1 elderly_JJ man_NN1 watches_VVZ a_AT1 younger_JJR man_NN1 grill_NN1 
+various_JJ foods_NN2 ._. 
+A_AT1 girl_NN1 is_VBZ looking_VVG over_RP a_AT1 boy_NN1 's_GE shoulder_NN1 
+as_CSA he_PPHS1 reads_VVZ a_AT1 book_NN1 ._. 
+A_AT1 woman_NN1 wearing_VVG overalls_NN2 standing_VVG at_II an_AT1 easel_NN1 
+painting_VVG a_AT1 picture_NN1 ._. 
+The_AT handle_NN1 on_II the_AT mug_NN1 is_VBZ small_JJ and_CC would_VM be_VBI 
+difficult_JJ to_TO hold_VVI with_IW large_JJ hands_NN2 ._. 
+A_AT1 long-haired_JJ dog_NN1 is_VBZ playing_VVG with_IW a_AT1 small_JJ ,_, 
+blue_JJ bat_NN1 ._. 
+A_AT1 group_NN1 of_IO backpackers_NN2 treks_VVZ across_II a_AT1 green_JJ 
+hill_NN1 with_IW snowcapped_JJ mountains_NN2 off_RP in_II the_AT distance_NN1 
+._. 
+Man_NN1 with_IW gray_JJ hair_NN1 telling_VVG a_AT1 story_NN1 to_II a_AT1 
+group_NN1 of_IO younger_JJR people_NN on_II a_AT1 bench_NN1 ._. 
+A_AT1 kid_NN1 gets_VVZ prepared_JJ to_TO hit_VVI a_AT1 volleyball_NN1 ._. 
+Two_MC guys_NN2 playing_VVG soccer_NN1 going_VVG towards_II the_AT goal_NN1 
+._. 
+A_AT1 black_JJ man_NN1 and_CC a_AT1 white_JJ woman_NN1 ,_, both_DB2 
+wearing_VVG maroon_JJ shirts_NN2 ,_, are_VBR holding_VVG a_AT1 sign_NN1 
+between_II them_PPHO2 that_DD1 reads_VVZ "_" Maritime_JJ workers_NN2 say_VV0 
+stop_VV0 black_JJ deaths_NN2 in_II custody_NN1 "_" in_II all_DB caps_NN2 ._. 
+A_AT1 brown_JJ dog_NN1 with_IW green_JJ collar_NN1 holding_VVG a_AT1 stick_NN1 
+in_II its_APPGE mouth_NN1 ._. 
+Closeup_NN1 of_IO a_AT1 pair_NN of_IO feet_NN2 in_II mid_JJ jump_NN1 while_CS 
+playing_VVG hopscotch_NN1 ._. 
+An_AT1 Amish_JJ woman_NN1 in_II purple_NN1 is_VBZ attached_VVN a_AT1 buggy_NN1 
+to_II a_AT1 horse_NN1 ._. 
+Some_DD construction_NN1 workers_NN2 are_VBR on_II a_AT1 platform_NN1 
+doing_VDG work_NN1 to_II a_AT1 building_NN1 ._. 
+Two_MC dogs_NN2 tussling_VVG over_RP a_AT1 stuffed_JJ toy_NN1 on_II a_AT1 
+yard_NN1 ,_, with_IW a_AT1 boat_NN1 in_II its_APPGE carrier_NN1 the_AT 
+background_NN1 ._. 
+A_AT1 brown_JJ dog_NN1 is_VBZ running_VVG across_II the_AT yard_NN1 with_IW 
+its_APPGE toy_NN1 in_II its_APPGE mouth_NN1 ._. 
+At_RR21 least_RR22 seven_MC people_NN surfing_VVG with_IW kites_NN2 in_II 
+a_AT1 lake_NN1 ._. 
+An_AT1 audience_NN1 is_VBZ watching_VVG and_CC waiting_VVG for_IF 
+something_PN1 to_TO happen_VVI ._. 
+A_AT1 man_NN1 is_VBZ using_VVG the_AT stick_NN1 thing_NN1 to_TO control_VVI 
+the_AT clown_NN1 puppet_NN1 ._. 
+A_AT1 person_NN1 wearing_VVG a_AT1 white_JJ jumpsuit_NN1 is_VBZ riding_VVG 
+a_AT1 fast_JJ moving_JJ motorcycle_NN1 on_II a_AT1 racetrack_NN1 ._. 
+Four_MC men_NN2 ,_, 3_MC in_II white_JJ lab_NN1 coats_NN2 and_CC one_PN1 
+wearing_VVG black_JJ jacket_NN1 ,_, surveying_VVG bread_NN1 buns_NN2 in_II 
+industrial_JJ kitchen_NN1 ._. 
+High_JJ school_NN1 students_NN2 watching_VVG something_PN1 and_CC taking_VVG 
+pictures_NN2 ._. 
+A_AT1 man_NN1 dressed_VVN in_II black_NN1 is_VBZ bowling_VVG in_II an_AT1 
+attempt_NN1 to_TO knock_VVI down_RP the_AT last_MD pin_NN1 at_II a_AT1 
+bowling_NN1 alley_NN1 ._. 
+A_AT1 group_NN1 of_IO men_NN2 sitting_VVG on_II the_AT floor_NN1 of_IO a_AT1 
+windowless_JJ room_NN1 ._. 
+The_AT band_NN1 is_VBZ playing_VVG music_NN1 for_IF the_AT dancers_NN2 ._. 
+A_AT1 group_NN1 of_IO people_NN are_VBR standing_VVG on_II a_AT1 beach_NN1 
+near_II21 to_II22 a_AT1 white_JJ sunshade_NN1 ._. 
+A_AT1 boy_NN1 in_II a_AT1 padded_JJ helmet_NN1 is_VBZ bouncing_VVG on_II 
+an_AT1 indoor_JJ trampoline_NN1 ._. 
+A_AT1 woman_NN1 wearing_VVG a_AT1 gray_JJ shirt_NN1 and_CC blue_JJ jeans_NN2 
+sitting_VVG on_II a_AT1 gray_JJ bench_NN1 ._. 
+A_AT1 girl_NN1 with_IW a_AT1 purple_JJ shirt_NN1 with_IW a_AT1 heart_NN1 on_II 
+it_PPH1 is_VBZ making_VVG an_AT1 electrical_JJ switch_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 blue_JJ shirt_NN1 is_VBZ having_VHG a_AT1 drink_NN1 
+next_II21 to_II22 a_AT1 lady_NN1 ._. 
+Two_MC people_NN sitting_VVG on_II the_AT beach_NN1 at_II sunset_NN1 ._. 
+An_AT1 elder_JJR man_NN1 ,_, wearing_VVG celebratory_JJ attire_NN1 ,_, 
+plays_VVZ a_AT1 percussion_NN1 instrument_NN1 and_CC is_VBZ singing_VVG 
+outdoors_RL ._. 
+A_AT1 classic_JJ propeller-driven_JJ airplane_NN1 flies_VVZ in_II the_AT 
+distance_NN1 as_CSA two_MC men_NN2 play_VV0 with_IW a_AT1 remote-controlled_JJ 
+toy_NN1 airplane_NN1 in_II a_AT1 field_NN1 in_II the_AT foreground_NN1 ._. 
+A_AT1 man_NN1 sitting_VVG at_II a_AT1 table_NN1 using_VVG a_AT1 notebook_NN1 
+computer_NN1 ._. 
+Man_NN1 with_IW a_AT1 beard_NN1 in_II a_AT1 gray_JJ shirt_NN1 looking_VVG 
+in_II mirror_NN1 and_CC shaving_VVG his_APPGE head_NN1 ._. 
+A_AT1 man_NN1 sitting_VVG playing_VVG guitar_NN1 and_CC mouth_NN1 piece_NN1 
+at_II the_AT same_DA time_NNT1 ._. 
+A_AT1 girl_NN1 is_VBZ playing_VVG the_AT violin_NN1 in_II the_AT street_NN1 
+while_CS her_APPGE band_NN1 mate_NN1 on_II the_AT guitar_NN1 is_VBZ 
+talking_VVG on_II her_APPGE cellphone_NN1 with_IW a_AT1 confused_JJ look_NN1 
+._. 
+A_AT1 man_NN1 wearing_VVG a_AT1 white_JJ t-shirt_NN1 with_IW a_AT1 green_JJ 
+number_NN1 3_MC on_II the_AT back_NN1 is_VBZ on_II his_APPGE knees_NN2 
+shining_VVG black_JJ shoes_NN2 propped_VVN up_RP on_II a_AT1 box_NN1 
+labeled_VVD "_" SHOESHINE_NP1 "_" ._. 
+A_AT1 man_NN1 wearing_VVG white_JJ winds_NN2 up_RP to_TO throw_VVI ._. 
+Two_MC men_NN2 ,_, one_MC1 looking_VVG at_II a_AT1 screen_NN1 with_IW a_AT1 
+drum_NN1 next_II21 to_II22 him_PPHO1 ,_, while_CS the_AT other_NN1 is_VBZ 
+a_AT1 man_NN1 dressed_VVN in_II a_AT1 white_JJ shirt_NN1 is_VBZ talking_VVG 
+into_II a_AT1 microphone_NN1 ._. 
+Two_MC people_NN sit_VV0 in_II beach_NN1 chairs_NN2 with_IW their_APPGE 
+child_NN1 in_II31 front_II32 of_II33 them_PPHO2 as_CSA waves_NN2 come_VV0 
+crashing_VVG in_RP on_II a_AT1 very_RG sandy_JJ beach_NN1 ._. 
+An_AT1 entertainer_NN1 is_VBZ making_VVG balloon_NN1 animals_NN2 for_IF 
+children_NN2 ._. 
+A_AT1 person_NN1 is_VBZ coming_VVG down_RP a_AT1 yellow_JJ water_NN1 slide_NN1 
+into_II a_AT1 pool_NN1 ._. 
+A_AT1 young_JJ girl_NN1 rides_VVZ a_AT1 unicycle_NN1 next_II21 to_II22 
+another_DD1 riding_VVG a_AT1 scooter_NN1 on_II a_AT1 busy_JJ street_NN1 ._. 
+A_AT1 person_NN1 wearing_VVG blue_JJ workman_NN1 's_GE clothing_NN1 on_II 
+an_AT1 assembly_NN1 line_NN1 ._. 
+There_EX are_VBR several_DA2 people_NN and_CC children_NN2 looking_VVG into_II 
+water_NN1 with_IW a_AT1 blue_JJ tiled_JJ floor_NN1 and_CC goldfish_NN ._. 
+Three_MC people_NN are_VBR walking_VVG down_RP a_AT1 dirt_NN1 path_NN1 ._. 
+A_AT1 man_NN1 gets_VVZ excited_JJ in_II a_AT1 nightclub_NN1 and_CC throws_VVZ 
+his_APPGE arms_NN2 in_II the_AT air_NN1 ._. 
+A_AT1 little_JJ girl_NN1 in_II pink_JJ dragging_VVG a_AT1 little_JJ boy_NN1 
+on_II a_AT1 gray_JJ cover_NN1 ._. 
+A_AT1 man_NN1 at_II a_AT1 park_NN1 is_VBZ taking_VVG pictures_NN2 ._. 
+Two_MC people_NN wearing_VVG white_JJ outfits_NN2 sparring_VVG in_II31 
+front_II32 of_II33 a_AT1 group_NN1 of_IO people_NN ._. 
+Two_MC women_NN2 are_VBR observing_VVG something_PN1 at_II a_AT1 meeting_NN1 
+._. 
+A_AT1 woman_NN1 on_II the_AT side_NN1 of_IO the_AT picture_NN1 typing_VVG 
+on_II a_AT1 keyboard_NN1 with_IW a_AT1 laptop_NN1 computer_NN1 in_II31 
+front_II32 of_II33 her_PPHO1 ._. 
+The_AT tow_NN1 boys_NN2 ,_, one_PN1 older_JJR ,_, the_AT other_JJ younger_JJR 
+,_, are_VBR looking_VVG at_II the_AT camera_NN1 ._. 
+A_AT1 man_NN1 with_IW one_MC1 leg_NN1 throwing_VVG a_AT1 disk_NN1 outdoors_RL 
+._. 
+A_AT1 black_JJ and_CC white_JJ dog_NN1 running_VVG on_II the_AT beach_NN1 
+while_CS a_AT1 man_NN1 stands_VVZ behind_II it_PPH1 ._. 
+A_AT1 hockey_NN1 player_NN1 is_VBZ attempting_VVG to_TO take_VVI a_AT1 
+shot_NN1 on_II the_AT opposing_JJ team_NN1 's_GE goal_NN1 ._. 
+People_NN sit_VV0 and_CC watch_VV0 as_II a_AT1 street_NN1 performer_NN1 is_VBZ 
+singing_VVG ._. 
+A_AT1 woman_NN1 is_VBZ sitting_VVG on_II a_AT1 beach_NN1 with_IW her_APPGE 
+shoes_NN2 off_RP and_CC on_II a_AT1 cellphone_NN1 talking_VVG ,_, 
+scratching_VVG her_APPGE shoulder_NN1 ,_, while_CS a_AT1 group_NN1 of_IO 5_MC 
+other_JJ people_NN are_VBR walking_VVG in_II the_AT background_NN1 ._. 
+A_AT1 person_NN1 dressed_VVN in_II pink_JJ on_II a_AT1 bicycle_NN1 along_II21 
+with_II22 runners_NN2 going_VVG down_II a_AT1 street_NN1 ._. 
+A_AT1 woman_NN1 is_VBZ cooking_VVG food_NN1 in_II a_AT1 kitchen_NN1 ._. 
+People_NN in_II mid_JJ move_NN1 while_CS attending_VVG a_AT1 dancing_NN1 
+class_NN1 ._. 
+A_AT1 woman_NN1 is_VBZ looking_VVG at_II the_AT ceiling_NN1 while_CS 
+taking_VVG off_RP her_APPGE hat_NN1 ._. 
+Three_MC people_NN ,_, one_MC1 with_IW a_AT1 black_JJ shirt_NN1 ,_, one_PN1 
+with_IW a_AT1 navy_NN1 blue_JJ jacket_NN1 ,_, and_CC one_PN1 with_IW a_AT1 
+red_JJ t-shirt_NN1 ,_, working_VVG in_II an_AT1 office_NN1 with_IW a_AT1 
+large_JJ messy_JJ bookshelf_NN1 ._. 
+A_AT1 woman_NN1 with_IW a_AT1 large_JJ purse_NN1 is_VBZ walking_VVG by_II 
+a_AT1 gate_NN1 ._. 
+A_AT1 boy_NN1 in_II a_AT1 red_JJ uniform_NN1 is_VBZ attempting_VVG to_TO 
+avoid_VVI getting_VVG out_RP at_II home_NN1 plate_NN1 ,_, while_CS the_AT 
+catcher_NN1 in_II the_AT blue_JJ uniform_NN1 is_VBZ attempting_VVG to_TO 
+catch_VVI him_PPHO1 ._. 
+Basketball_NN1 player_NN1 in_II orange_NN1 trying_VVG to_TO score_VVI 
+through_II three_MC men_NN2 from_II the_AT opposing_JJ team_NN1 ._. 
+A_AT1 man_NN1 is_VBZ using_VVG his_APPGE computer_NN1 in_II a_AT1 kitchen_NN1 
+._. 
+A_AT1 pregnant_JJ woman_NN1 and_CC a_AT1 man_NN1 eating_VVG out_II21 of_II22 
+a_AT1 bowl_NN1 sit_VV0 across_II a_AT1 metal_NN1 table_NN1 with_IW red_JJ 
+chairs_NN2 ._. 
+Two_MC women_NN2 in_II blue_JJ suits_NN2 are_VBR sitting_VVG on_II the_AT 
+cement_NN1 outdoors_RL with_IW concrete_JJ and_CC long_RR shaped_JJ glass_NN1 
+windows_NN2 behind_II them_PPHO2 ._. 
+Men_NN2 wearing_VVG hard_JJ hats_NN2 and_CC safety_NN1 vests_NN2 are_VBR 
+working_VVG ._. 
+A_AT1 woman_NN1 holding_VVG a_AT1 young_JJ boy_NN1 in_II a_AT1 day_NNT1 
+care_NN1 center_NN1 ._. 
+Young_JJ men_NN2 are_VBR watching_VVG a_AT1 woman_NN1 walk_VVI down_II 
+stairs_NN2 ._. 
+A_AT1 woman_NN1 is_VBZ sitting_VVG down_RP reading_VVG a_AT1 book_NN1 ._. 
+A_AT1 woman_NN1 with_IW a_AT1 umbrella_NN1 walking_VVG past_II a_AT1 pole_NN1 
+and_CC people_NN looking_VVG at_II a_AT1 little_JJ dog_NN1 ._. 
+A_AT1 toy_NN1 lego_NN1 set_NN1 is_VBZ featured_VVN in_II the_AT foreground_NN1 
+while_CS a_AT1 woman_NN1 and_CC child_NN1 play_NN1 with_IW it_PPH1 in_II 
+the_AT background_NN1 ._. 
+Two_MC females_NN2 walking_VVG down_II the_AT street_NN1 with_IW shopping_NN1 
+bags_NN2 ._. 
+A_AT1 man_NN1 pulling_VVG a_AT1 cart_NN1 full_JJ cleaning_NN1 supplies_NN2 ._. 
+An_AT1 old_JJ man_NN1 with_IW arms_NN2 outstretched_JJ sits_VVZ against_II 
+a_AT1 wooden_JJ wall_NN1 between_II a_AT1 woman_NN1 and_CC another_DD1 man_NN1 
+._. 
+Passersby_NP1 look_VV0 on_RP at_II an_AT1 accident_NN1 involving_VVG an_AT1 
+SUV_NN1 and_CC a_AT1 bicyclist_NN1 ._. 
+A_AT1 crowd_NN1 of_IO black_JJ people_NN are_VBR gathered_VVN and_CC one_MC1 
+person_NN1 has_VHZ a_AT1 backpack_NN1 on_RP ._. 
+A_AT1 blond_JJ woman_NN1 with_IW a_AT1 braid_NN1 in_II her_APPGE hair_NN1 
+is_VBZ riding_VVG the_AT bus_NN1 ._. 
+A_AT1 couple_NN1 in_II black_JJ clothes_NN2 are_VBR walking_VVG towards_II 
+a_AT1 white_JJ gate_NN1 ._. 
+A_AT1 boy_NN1 on_II a_AT1 deck_NN1 with_IW a_AT1 red_JJ bucket_NN1 on_II 
+his_APPGE head_NN1 ._. 
+Two_MC men_NN2 ,_, one_MC1 sitting_VVG ,_, one_MC1 standing_NN1 ,_, are_VBR 
+playing_VVG their_APPGE guitars_NN2 on_II stage_NN1 while_CS the_AT 
+audience_NN1 is_VBZ looking_VVG on_RP ._. 
+A_AT1 woman_NN1 is_VBZ rock_NN1 climbing_NN1 up_RP a_AT1 steep_JJ face_NN1 ._. 
+A_AT1 man_NN1 walking_VVG on_II the_AT street_NN1 listening_VVG to_II 
+music_NN1 ._. 
+A_AT1 blond_JJ woman_NN1 ,_, who_PNQS is_VBZ sitting_VVG outside_RL in_II 
+the_AT grass_NN1 ,_, is_VBZ applying_VVG face_NN1 paint_NN1 and_CC looking_VVG 
+in_II a_AT1 mirror_NN1 ._. 
+Workman_NN1 are_VBR completing_VVG repairs_NN2 on_II a_AT1 city_NN1 street_NN1 
+._. 
+Two_MC men_NN2 in_II matching_JJ jackets_NN2 and_CC sunglasses_NN2 walk_VV0 
+down_II a_AT1 street_NN1 ._. 
+A_AT1 horse_NN1 walking_VVG by_II the_AT side_NN1 of_IO the_AT water_NN1 
+pulling_VVG something_PN1 ._. 
+Two_MC men_NN2 in_II zip-up_NN1 jackets_NN2 sit_VV0 on_II a_AT1 bench_NN1 
+eating_NN1 while_CS one_PN1 rests_VVZ with_IW eyes_NN2 closed_VVD ._. 
+A_AT1 little_JJ girl_NN1 patting_VVG a_AT1 pile_NN1 of_IO sand_NN1 on_II 
+the_AT beach_NN1 ._. 
+A_AT1 man_NN1 with_IW a_AT1 black_JJ cap_NN1 holding_VVG and_CC looking_VVG 
+at_II a_AT1 small_JJ child_NN1 ._. 
+A_AT1 male_NN1 is_VBZ leap_NN1 frogging_VVG near_II a_AT1 pond_NN1 ._. 
+The_AT gentlemen_NN2 wait_VV0 not_XX speaking_VVG to_II one_PPX121 
+another_PPX122 ._. 
+A_AT1 man_NN1 dressed_VVN in_II black_JJ wearing_VVG odd_JJ headgear_NN1 
+swings_VVZ a_AT1 staff_NN ._. 
+Girl_NN1 dressed_VVN in_II a_AT1 black_JJ long-sleeve_JJ shirt_NN1 is_VBZ 
+putting_VVG a_AT1 star_NN1 on_II31 top_II32 of_II33 a_AT1 Christmas_NNT1 
+tree_NN1 ._. 
+A_AT1 woman_NN1 in_II an_AT1 apron_NN1 shopping_VVG at_II a_AT1 market_NN1 ._. 
+A_AT1 group_NN1 of_IO sunbathers_NN2 lies_VVZ on_II the_AT rocks_NN2 on_II 
+towels_NN2 and_CC blankets_NN2 ._. 
+An_AT1 woman_NN1 in_II a_AT1 red_JJ swim_NN1 cap_NN1 and_CC black_JJ 
+goggles_NN2 swims_VVZ laps_NN2 in_II her_APPGE lane_NN1 ._. 
+A_AT1 woman_NN1 in_II a_AT1 pink_JJ shirt_NN1 examines_VVZ her_APPGE 
+camera_NN1 ._. 
+A_AT1 woman_NN1 in_II a_AT1 pink_JJ shirt_NN1 is_VBZ trying_VVG to_TO 
+catch_VVI another_DD1 woman_NN1 as_CSA she_PPHS1 slides_VVZ into_II a_AT1 
+baseball_NN1 base_NN1 ._. 
+A_AT1 boy_NN1 kissing_VVG a_AT1 girl_NN1 on_II the_AT cheek_NN1 !_! 
+First_MD responders_NN2 look_VV0 at_II car_NN1 that_CST has_VHZ slid_VVN 
+off_II a_AT1 snowbank_NN1 and_CC flipped_VVN over_RP ._. 
+A_AT1 bike_NN1 rider_NN1 and_CC other_JJ pedestrians_NN2 are_VBR pictured_VVN 
+in_II31 front_II32 of_II33 a_AT1 beautifully_RR preserved_VVN historical_JJ 
+building_NN1 ._. 
+A_AT1 man_NN1 sitting_VVG at_II a_AT1 desk_NN1 fixing_VVG a_AT1 typewriter_NN1 
+._. 
+An_AT1 old_JJ man_NN1 ,_, sitting_VVG on_II a_AT1 bench_NN1 ,_, watching_VVG 
+traffic_NN1 go_VV0 by_RP ._. 
+Person_NN1 in_II a_AT1 red_JJ shirt_NN1 standing_VVG in_II the_AT street_NN1 
+next_II21 to_II22 a_AT1 car_NN1 with_IW many_DA2 decals_NN2 on_II it_PPH1 ._. 
+A_AT1 group_NN1 of_IO sports_NN2 players_NN2 from_II Argentina_NP1 are_VBR 
+on_II a_AT1 basketball_NN1 court_NN1 ._. 
+A_AT1 man_NN1 playing_VVG soccer_NN1 is_VBZ on_II the_AT ground_NN1 
+picking_VVG up_RP the_AT ball_NN1 from_II the_AT field_NN1 while_CS the_AT 
+game_NN1 is_VBZ in_II play_NN1 ._. 
+A_AT1 dog_NN1 jumps_VVZ into_II a_AT1 swimming_NN1 pool_NN1 after_II a_AT1 
+toy_NN1 ._. 
+Two_MC football_NN1 teams_NN2 are_VBR in_II the_AT middle_NN1 of_IO a_AT1 
+play_NN1 as_CSA white_JJ jerseys_NN2 and_CC the_AT opposing_JJ green_JJ 
+jerseys_NN2 are_VBR in_II all_DB positions_NN2 of_IO motion_NN1 while_CS 
+scrambling_VVG for_IF the_AT football_NN1 ._. 
+A_AT1 girl_NN1 in_II gray_JJ and_CC a_AT1 guy_NN1 in_II stripes_NN2 pose_VV0 
+against_II a_AT1 fence_NN1 ._. 
+Man_NN1 standing_VVG between_II two_MC large_JJ piles_NN2 of_IO coconuts_NN2 
+with_IW their_APPGE green_JJ husks_NN2 still_RR on_RP ._. 
+A_AT1 man_NN1 and_CC a_AT1 woman_NN1 stop_VV0 to_TO take_VVI a_AT1 picture_NN1 
+in_II an_AT1 outdoor_JJ setting_NN1 ._. 
+A_AT1 man_NN1 with_IW a_AT1 dog_NN1 is_VBZ carrying_VVG a_AT1 canoe_NN1 
+through_II a_AT1 wooded_JJ area_NN1 ._. 
+Two_MC women_NN2 sit_VV0 at_II a_AT1 table_NN1 with_IW food_NN1 ,_, 
+smiling_VVG at_II the_AT camera_NN1 ._. 
+A_AT1 woman_NN1 carries_VVZ a_AT1 bag_NN1 with_IW bright_JJ pink_JJ 
+lettering_NN1 ._. 
+A_AT1 woman_NN1 in_II a_AT1 skimpy_JJ bathing_JJ suit_NN1 walks_VVZ away_RL 
+._. 
+A_AT1 Group_NN1 of_IO people_NN wearing_VVG white_JJ headbands_NN2 with_IW 
+two_MC white_JJ fluffy_JJ balls_NN2 on_II each_DD1 one_PN1 ._. 
+There_EX is_VBZ a_AT1 group_NN1 of_IO young_JJ men_NN2 huddled_VVN in_II a_AT1 
+circle_NN1 ,_, seemingly_RR singing_VVG ._. 
+There_EX are_VBR four_MC individuals_NN2 standing_VVG together_RL in_II a_AT1 
+line_NN1 at_II the_AT waters_NN2 edge_NN1 wearing_VVG black_JJ diving_JJ 
+gear_NN1 with_IW red_JJ and_CC black_JJ flippers_NN2 ._. 
+One_MC1 person_NN1 is_VBZ sitting_VVG on_II a_AT1 maroon_JJ couch_NN1 
+looking_VVG out_RP into_II the_AT street_NN1 from_II inside_RL a_AT1 
+storefront_NN1 while_CS another_DD1 peers_VVZ out_RP from_II behind_II the_AT 
+wall_NN1 ._. 
+A_AT1 man_NN1 and_CC a_AT1 woman_NN1 do_VD0 the_AT jitterbug_NN1 on_II the_AT 
+dance_NN1 floor_NN1 while_CS onlookers_NN2 cheer_VV0 ._. 
+Two_MC men_NN2 ,_, one_MC1 wearing_VVG a_AT1 cowboy_NN1 hat_NN1 and_CC a_AT1 
+black_JJ shirt_NN1 and_CC the_AT other_JJ with_IW his_APPGE eyes_NN2 
+closed_VVN and_CC wearing_VVG a_AT1 black_JJ baseball_NN1 cap_NN1 and_CC a_AT1 
+plaid_NN1 blue_JJ shirt_NN1 are_VBR playing_VVG guitars_NN2 ,_, as_CSA a_AT1 
+woman_NN1 with_IW a_AT1 plastic_NN1 cup_NN1 watches_NN2 ._. 
+Outside_II the_AT window_NN1 you_PPY can_VM see_VVI an_AT1 area_NN1 of_IO 
+dirt_NN1 that_CST appears_VVZ muddy_JJ from_II the_AT rain_NN1 ._. 
+Young_JJ girl_NN1 eating_VVG a_AT1 bowl_NN1 of_IO cereal_NN1 out_II21 of_II22 
+a_AT1 big_JJ white_JJ bowl_NN1 ._. 
+A_AT1 man_NN1 examining_VVG something_PN1 under_II a_AT1 magnifying_JJ 
+lens_NN1 ._. 
+The_AT girl_NN1 is_VBZ playing_VVG with_IW her_APPGE dog_NN1 in_II her_APPGE 
+driveway_NN1 ._. 
+A_AT1 woman_NN1 is_VBZ walking_VVG on_II concrete_NN1 and_CC carrying_VVG 
+a_AT1 shopping_NN1 bag_NN1 ._. 
+Guy_NP1 in_II a_AT1 green_JJ sweater_NN1 is_VBZ on_II stage_NN1 with_IW 
+his_APPGE instrument_NN1 ._. 
+A_AT1 man_NN1 is_VBZ preparing_VVG food_NN1 at_II an_AT1 outdoor_JJ food_NN1 
+shop_NN1 in_II what_DDQ looks_VVZ like_II a_AT1 poor_JJ country_NN1 ._. 
+Motorcyclist_NN1 entering_VVG a_AT1 motorcycle_NN1 cage_NN1 in_II31 front_II32 
+of_II33 a_AT1 large_JJ crowd_NN1 ._. 
+An_AT1 Asian_JJ woman_NN1 with_IW glasses_NN2 intently_RR works_VVZ on_II 
+her_APPGE laptop_NN1 at_II a_AT1 desk_NN1 of_IO a_AT1 business_NN1 ._. 
+A_AT1 picture_NN1 of_IO a_AT1 woman_NN1 in_II a_AT1 shaded_JJ room_NN1 
+doing_VDG her_APPGE exercises_NN2 ._. 
+A_AT1 blond_JJ woman_NN1 in_II a_AT1 pink_JJ striped_JJ shirt_NN1 is_VBZ 
+singing_VVG in_II a_AT1 microphone_NN1 ._. 
+A_AT1 march_NN1 for_IF a_AT1 cause_NN1 is_VBZ happening_VVG in_II a_AT1 
+city_NN1 area_NN1 ._. 
+Three_MC women_NN2 wearing_VVG sleeveless_JJ shirts_NN2 are_VBR busy_JJ 
+working_VVG on_II something_PN1 ._. 
+A_AT1 man_NN1 and_CC a_AT1 young_JJ blond_JJ boy_NN1 are_VBR sitting_VVG 
+in_II31 front_II32 of_II33 a_AT1 tray_NN1 full_JJ of_IO buns_NN2 ._. 
+A_AT1 construction_NN1 worker_NN1 checking_VVG out_RP the_AT building_NN1 
+site_NN1 ._. 
+Several_DA2 people_NN are_VBR milling_VVG about_RP outside_II a_AT1 large_JJ 
+off-white_JJ colored_JJ house_NN1 with_IW a_AT1 terra_NN1 cotta_NN1 roof_NN1 
+while_CS someone_PN1 in_II the_AT distance_NN1 takes_VVZ their_APPGE 
+picture_NN1 ._. 
+Two_MC couples_NN2 sitting_VVG at_II separate_JJ tables_NN2 eating_VVG in_II 
+a_AT1 restaurant_NN1 ._. 
+An_AT1 officer_NN1 stands_VVZ next_II21 to_II22 cars_NN2 parked_VVN on_II 
+a_AT1 street_NN1 ._. 
+A_AT1 young_JJ woman_NN1 in_II a_AT1 helmet_NN1 attaches_VVZ a_AT1 pulley_NN1 
+to_II a_AT1 cable_NN1 ._. 
+A_AT1 man_NN1 walks_VVZ into_II a_AT1 maroon_JJ building_NN1 as_II a_AT1 
+dog_NN1 looks_VVZ on_RP ._. 
+A_AT1 girl_NN1 in_II a_AT1 black_JJ shirt_NN1 looks_VVZ at_II the_AT 
+camera_NN1 while_CS eating_VVG an_AT1 apple_NN1 and_CC another_DD1 smiles_VVZ 
+while_CS looking_VVG downward_RL ._. 
+A_AT1 blond_JJ boy_NN1 carrying_VVG a_AT1 wheelbarrow_NN1 with_IW grass_NN1 
+in_II it_PPH1 ._. 
+A_AT1 girl_NN1 with_IW blue_JJ highlights_NN2 watches_VVZ a_AT1 dog_NN1 
+leap_VVI to_TO catch_VVI a_AT1 frisbee_NN1 ._. 
+A_AT1 snowboarder_NN1 makes_VVZ a_AT1 jump_NN1 against_II a_AT1 wooded_JJ 
+background_NN1 ._. 
+Two_MC clowns_NN2 dressed_VVN in_II makeup_NN1 and_CC elaborate_JJ 
+clothing_NN1 stand_VV0 together_RL with_IW their_APPGE instruments_NN2 ._. 
+A_AT1 man_NN1 walking_VVG in_II the_AT desert_NN1 wearing_VVG a_AT1 hat_NN1 
+,_, khaki_JJ shirt_NN1 and_CC shorts_NN2 and_CC very_RG dark_JJ sky_NN1 
+ahead_II21 of_II22 him_PPHO1 ._. 
+A_AT1 blond_JJ man_NN1 with_IW a_AT1 light_JJ beard_NN1 ,_, wearing_VVG a_AT1 
+dark_NN1 ,_, short-sleeved_JJ shirt_NN1 ,_, bundles_NN2 wheat_NN1 ._. 
+The_AT man_NN1 on_II the_AT left_NN1 dodges_VVZ his_APPGE attacker_NN1 's_GE 
+strike_NN1 ._. 
+Five_MC children_NN2 spin_VV0 around_RP on_II a_AT1 playground_NN1 
+roundabout_NN1 ;_; three_MC lay_VVD on_II their_APPGE backs_NN2 ,_, while_CS 
+one_PN1 attempts_VVZ to_TO pull_VVI himself_PPX1 up_RP with_IW both_DB2 
+arms_NN2 ,_, and_CC another_DD1 holds_VVZ onto_II the_AT side_NN1 while_CS 
+sitting_VVG up_RP ._. 
+Three_MC young_JJ boys_NN2 wearing_VVG dark_JJ colored_JJ pants_NN2 are_VBR 
+running_VVG on_II a_AT1 track_NN1 ._. 
+Two_MC Asians_NN2 engage_VV0 in_II a_AT1 staring_JJ contest_NN1 while_CS 
+they_PPHS2 wait_VV0 for_IF the_AT train_NN1 ._. 
+A_AT1 man_NN1 wearing_VVG a_AT1 yellow_JJ shirt_NN1 is_VBZ riding_VVG a_AT1 
+large_JJ riding_NN1 lawn_NN1 mower_NN1 ,_, which_DDQ is_VBZ spraying_VVG 
+cut_JJ grass_NN1 behind_II him_PPHO1 ;_; pine_NN1 trees_NN2 are_VBR visible_JJ 
+in_II the_AT background_NN1 ._. 
+A_AT1 man_NN1 and_CC four_MC teenage_JJ boys_NN2 are_VBR raking_VVG a_AT1 
+baseball_NN1 diamond_NN1 ._. 
+A_AT1 guy_NN1 is_VBZ restrained_VVN by_II security_NN1 in_II31 front_II32 
+of_II33 a_AT1 Samsung_JJ bus_NN1 stop_NN1 advertisement_NN1 ._. 
+A_AT1 girl_NN1 in_II a_AT1 bathrobe_NN1 holding_VVG a_AT1 plate_NN1 of_IO 
+food_NN1 stands_VVZ next_II21 to_II22 a_AT1 boy_NN1 holding_VVG utensils_NN2 
+and_CC a_AT1 red_JJ cup_NN1 ._. 
+Two_MC women_NN2 with_IW stethoscopes_NN2 and_CC a_AT1 man_NN1 with_IW a_AT1 
+blue_JJ hairnet_NN1 on_II working_VVG tedious_JJ over_II an_AT1 unknown_JJ 
+object_NN1 or_CC person_NN1 ._. 
+A_AT1 man_NN1 is_VBZ riding_VVG a_AT1 bucking_JJ horse_NN1 in_II an_AT1 
+event_NN1 ._. 
+A_AT1 girl_NN1 in_II jeans_NN2 sitting_VVG on_II a_AT1 white_JJ couch_NN1 
+and_CC smiling_JJ ._. 
+Thin_JJ woman_NN1 with_IW bindi_NN1 ,_, black_JJ hair_NN1 and_CC a_AT1 
+gold_NN1 watch_NN1 holding_VVG a_AT1 steering_NN1 wheel_NN1 in_II a_AT1 
+blue_JJ vehicle_NN1 ._. 
+A_AT1 woman_NN1 in_II pigtails_NN2 talks_NN2 to_II the_AT red-hatted_JJ 
+man_NN1 under_II the_AT shade_NN1 of_IO a_AT1 tree_NN1 ._. 
+A_AT1 boy_NN1 in_II a_AT1 swimming_NN1 suit_NN1 is_VBZ diving_VVG into_II 
+a_AT1 pool_NN1 ._. 
+A_AT1 group_NN1 of_IO people_NN are_VBR gathered_VVN to_TO talk_VVI about_II 
+something_PN1 important_JJ ._. 
+A_AT1 man_NN1 wearing_VVG jeans_NN2 and_CC a_AT1 t-shirt_NN1 plays_VVZ 
+guitar_NN1 for_IF a_AT1 smiling_JJ woman_NN1 and_CC child_NN1 as_CSA 
+they_PPHS2 sit_VV0 on_II a_AT1 staircase_NN1 near_II red_JJ and_CC orange_JJ 
+balloons_NN2 ._. 
+Five_MC children_NN2 spin_VV0 around_RP on_II a_AT1 playground_NN1 
+roundabout_NN1 ;_; three_MC lay_VVD on_II their_APPGE backs_NN2 ,_, while_CS 
+one_PN1 attempts_VVZ to_TO pull_VVI himself_PPX1 up_RP with_IW both_DB2 
+arms_NN2 ,_, and_CC another_DD1 holds_VVZ onto_II the_AT side_NN1 while_CS 
+sitting_VVG up_RP ._. 
+Two_MC people_NN are_VBR digging_VVG the_AT ground_NN1 by_II a_AT1 bunch_NN1 
+of_IO boats_NN2 ._. 
+A_AT1 woman_NN1 on_II a_AT1 scooter_NN1 with_IW a_AT1 cigarette_NN1 
+hanging_VVG out_II21 of_II22 her_APPGE mouth_NN1 ._. 
+A_AT1 white_JJ man_NN1 with_IW long_JJ hair_NN1 and_CC beard_NN1 in_II 
+sunglasses_NN2 has_VHZ his_APPGE legs_NN2 folded_VVN while_CS posing_VVG 
+in_II31 front_II32 of_II33 a_AT1 store_NN1 ._. 
+People_NN are_VBR outside_JJ dancing_NN1 at_II a_AT1 night_NNT1 event_NN1 
+while_CS the_AT entertainment_NN1 sings_VVZ and_CC plays_VVZ instruments_NN2 
+on_II a_AT1 well_JJ lit_NN1 stage_NN1 ._. 
+Construction_NN1 workers_NN2 engaging_VVG in_II a_AT1 day_NNT1 of_IO 
+outdoor_JJ work_NN1 ._. 
+Two_MC female_JJ members_NN2 of_IO team_NN1 USA_NP1 performing_VVG a_AT1 
+jump_NN1 high-five_MC surrounded_VVD by_II two_MC other_JJ female_JJ 
+members_NN2 ._. 
+A_AT1 boy_NN1 on_II a_AT1 swing_NN1 wearing_VVG a_AT1 green_JJ shirt_NN1 
+is_VBZ making_VVG hand_NN1 gestures_NN2 ._. 
+The_AT old_JJ women_NN2 is_VBZ looking_VVG at_II the_AT fresh_JJ produce_NN1 
+._. 
+A_AT1 male_JJ athlete_NN1 wearing_VVG a_AT1 white_JJ shirt_NN1 and_CC white_JJ 
+pants_NN2 is_VBZ running_VVG past_II the_AT crowd_NN1 while_CS holding_VVG 
+a_AT1 golden_JJ torch_NN1 ._. 
+A_AT1 bicycle_NN1 race_NN1 is_VBZ in_II process_NN1 ,_, and_CC one_MC1 
+bicyclist_NN1 has_VHZ his_APPGE arms_NN2 in_II the_AT air_NN1 as_II the_AT 
+others_NN2 have_VH0 their_APPGE heads_NN2 down_RP and_CC their_APPGE hands_NN2 
+on_II their_APPGE handlebars_NN2 ._. 
+A_AT1 man_NN1 is_VBZ using_VVG a_AT1 leaf-blower_NN1 on_II the_AT outside_II21 
+of_II22 a_AT1 house_NN1 ._. 
+A_AT1 baby_NN1 wearing_VVG a_AT1 brown_JJ hat_NN1 and_CC striped_JJ shirt_NN1 
+is_VBZ sitting_VVG in_II a_AT1 child_NN1 's_GE swing_NN1 ._. 
+A_AT1 line_NN1 of_IO people_NN has_VHZ formed_VVN under_II a_AT1 sign_NN1 
+while_CS other_JJ people_NN lie_VV0 on_II the_AT ground_NN1 ._. 
+A_AT1 woman_NN1 is_VBZ looking_VVG out_RP the_AT window_NN1 up_RP at_II the_AT 
+sky_NN1 ._. 
+A_AT1 family_NN1 along_II21 with_II22 their_APPGE household_NN1 pets_NN2 
+are_VBR taking_VVG an_AT1 outdoor_JJ trip_NN1 during_II the_AT winter_NNT1 ._. 
+Two_MC people_NN are_VBR dressed_VVN in_II animal_NN1 costumes_NN2 and_CC 
+are_VBR walking_VVG down_II a_AT1 street_NN1 ._. 
+A_AT1 woman_NN1 carrying_VVG another_DD1 woman_NN1 wearing_VVG matching_JJ 
+exercise_NN1 attire_NN1 on_II her_PPHO1 back_RP ._. 
+A_AT1 man_NN1 observes_VVZ a_AT1 painting_NN1 while_CS another_DD1 person_NN1 
+attempts_NN2 to_TO recreate_VVI the_AT same_DA painting_NN1 ._. 
+A_AT1 rock_NN1 climber_NN1 looks_VVZ up_RP while_CS traversing_VVG a_AT1 
+route_NN1 ._. 
+A_AT1 young_JJ girl_NN1 is_VBZ jumping_VVG in_II the_AT air_NN1 at_II the_AT 
+beach_NN1 ._. 
+A_AT1 woman_NN1 with_IW blond-hair_NN1 is_VBZ smiling_JJ and_CC putting_VVG 
+on_RP a_AT1 white_JJ sweater_NN1 ._. 
+Two_MC friends_NN2 next_II21 to_II22 a_AT1 closed_JJ shop_NN1 door_NN1 
+embrace_NN1 ._. 
+Two_MC football_NN1 players_NN2 become_VV0 entangled_JJ while_CS they_PPHS2 
+are_VBR both_RR going_VVG for_IF the_AT ball_NN1 ._. 
+Firemen_NN2 stand_VV0 outside_II a_AT1 burning_JJ building_NN1 with_IW lots_PN 
+of_IO smoke_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 white_JJ shirt_NN1 ,_, standing_VVG with_IW 
+his_APPGE hands_NN2 over_II his_APPGE head_NN1 in_II a_AT1 seated_JJ crowd_NN1 
+._. 
+Two_MC men_NN2 are_VBR holding_VVG a_AT1 sheep_NN while_CS a_AT1 little_JJ 
+kid_NN1 sits_VVZ on_II31 top_II32 of_II33 the_AT sheep_NN ._. 
+A_AT1 man_NN1 is_VBZ doing_VDG a_AT1 jump_NN1 on_II the_AT surfboard_NN1 
+near_II other_JJ people_NN in_II the_AT water_NN1 ._. 
+Armed_JJ forces_NN2 are_VBR walking_VVG in_II an_AT1 area_NN1 littered_VVN 
+with_IW trash_NN1 ._. 
+An_AT1 older_JJR man_NN1 is_VBZ cutting_VVG the_AT hair_NN1 of_IO a_AT1 
+customer_NN1 in_II his_APPGE barber_NN1 shop_NN1 with_IW floral_JJ walls_NN2 
+._. 
+A_AT1 woman_NN1 in_II an_AT1 orange_JJ dress_NN1 opens_VVZ a_AT1 numbered_JJ 
+briefcase_NN1 ,_, revealing_VVG an_AT1 image_NN1 of_IO a_AT1 hammer_NN1 ._. 
+A_AT1 man_NN1 sits_VVZ in_II a_AT1 white_JJ room_NN1 amongst_II various_JJ 
+scientific-looking_JJ machinery_NN1 ._. 
+A_AT1 man_NN1 on_II a_AT1 sanitation_NN1 truck_NN1 waits_VVZ for_IF a_AT1 
+job_NN1 to_TO be_VBI finished_VVN ._. 
+A_AT1 group_NN1 of_IO people_NN are_VBR having_VHG a_AT1 picnic_NN1 at_II 
+the_AT park_NN1 ._. 
+A_AT1 man_NN1 wearing_VVG white_JJ boxers_NN2 is_VBZ bathing_VVG outside_II 
+using_VVG an_AT1 orange_JJ bucket_NN1 ._. 
+Three_MC boys_NN2 play_VV0 with_IW paddles_NN2 on_II the_AT beach_NN1 ._. 
+There_EX is_VBZ a_AT1 girl_NN1 decorating_VVG for_IF an_AT1 event_NN1 and_CC 
+a_AT1 man_NN1 is_VBZ standing_VVG next_II21 to_II22 her_APPGE smiling_JJ ,_, 
+and_CC an_AT1 island_NN1 poster_NN1 in_II the_AT distance_NN1 ._. 
+A_AT1 child_NN1 wearing_VVG shorts_NN2 is_VBZ moving_VVG a_AT1 window_NN1 
+screen_NN1 ._. 
+A_AT1 young_JJ girl_NN1 dressed_VVN all_DB in_II pink_NN1 is_VBZ standing_VVG 
+on_II a_AT1 fence_NN1 and_CC looking_VVG at_II a_AT1 horse_NN1 ._. 
+A_AT1 man_NN1 ,_, dressed_VVN in_II a_AT1 red_JJ ,_, white_JJ ,_, and_CC 
+blue_JJ uniform_NN1 ,_, is_VBZ jumping_VVG backwards_RL over_II a_AT1 
+yellow_JJ and_CC red_JJ pole_NN1 ._. 
+A_AT1 man_NN1 holding_VVG a_AT1 plate_NN1 of_IO food_NN1 and_CC a_AT1 pair_NN 
+of_IO tongs_NN2 ._. 
+A_AT1 man_NN1 and_CC a_AT1 woman_NN1 are_VBR in_II the_AT city_NN1 smiling_VVG 
+._. 
+Two_MC brown_JJ and_CC black_JJ dogs_NN2 are_VBR jumping_VVG a_AT1 fence_NN1 
+._. 
+Asian_JJ man_NN1 shooting_VVG a_AT1 gun_NN1 in_RL21 between_RL22 rocks_NN2 ._. 
+A_AT1 college_NN1 baseball_NN1 player_NN1 runs_VVZ the_AT bases_NN2 while_CS 
+a_AT1 pitcher_NN1 throws_VVZ ._. 
+Woman_NN1 describing_VVG software_NN1 to_II a_AT1 customer_NN1 at_II a_AT1 
+convention_NN1 ._. 
+A_AT1 man_NN1 wearing_VVG a_AT1 bib_NN1 with_IW a_AT1 red_JJ crab_NN1 on_II 
+it_PPH1 is_VBZ trying_VVG to_TO decide_VVI if_CSW he_PPHS1 wants_VVZ to_TO 
+eat_VVI a_AT1 boiled_JJ crab_NN1 ._. 
+Joggers_NN2 and_CC other_JJ pedestrians_NN2 enjoy_VV0 an_AT1 evening_NNT1 
+stroll_NN1 across_II a_AT1 bridge_NN1 ._. 
+A_AT1 tattooed_JJ man_NN1 dress_NN1 in_II black_JJ with_IW an_AT1 orange_JJ 
+hat_NN1 sings_VVZ and_CC plays_VVZ the_AT guitar_NN1 ._. 
+A_AT1 man_NN1 surfing_VVG on_II a_AT1 green_JJ surfboard_NN1 in_II a_AT1 
+wave_NN1 ._. 
+Republicans_NN2 have_VH0 a_AT1 "_" I_PPIS1 stole_VVD all_DB your_APPGE 
+money_NN1 hahaha_NN1 "_" outdoor_JJ barbecue_NN1 ._. 
+A_AT1 woman_NN1 speaking_VVG on_II her_APPGE cellphone_NN1 by_II an_AT1 
+ornate_JJ black_JJ iron_NN1 door_NN1 ._. 
+People_NN with_IW small_JJ children_NN2 on_II a_AT1 brick_NN1 ground_NN1 ,_, 
+one_MC1 man_NN1 points_VVZ to_II something_PN1 for_IF a_AT1 child_NN1 to_TO 
+see_VVI ._. 
+People_NN sitting_VVG on_II a_AT1 curb_NN1 in_II31 front_II32 of_II33 a_AT1 
+building_NN1 with_IW asian_JJ writing_NN1 on_II it_PPH1 ._. 
+High_JJ school_NN1 football_NN1 players_NN2 practice_NN1 while_CS coach_NN1 
+watches_NN2 ._. 
+Two_MC dogs_NN2 are_VBR playing_VVG out_RP in_II a_AT1 yard_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 straw_NN1 hat_NN1 playing_VVG the_AT drum_NN1 ._. 
+Two_MC people_NN riding_VVG a_AT1 bike_NN1 are_VBR riding_VVG towards_II a_AT1 
+stop_NN1 sign_NN1 ._. 
+A_AT1 young_JJ boy_NN1 is_VBZ kneeling_VVG on_II a_AT1 white_JJ floor_NN1 
+next_II21 to_II22 an_AT1 orange_JJ cloth_NN1 ._. 
+There_EX are_VBR many_DA2 people_NN sitting_VVG in_II a_AT1 dimly_RR lit_VVN 
+room_NN1 talking_VVG ._. 
+A_AT1 girl_NN1 with_IW long_JJ pigtails_NN2 and_CC a_AT1 barbie_NN1 bag_NN1 
+touching_VVG the_AT orange_JJ poles_NN2 along_II21 with_II22 other_JJ 
+little_JJ girls_NN2 wearing_VVG a_AT1 white_JJ shirt_NN1 and_CC blue_JJ 
+shorts_NN2 ._. 
+A_AT1 portly_JJ man_NN1 in_II an_AT1 orange_JJ jumpsuit_NN1 standing_VVG 
+next_II21 to_II22 a_AT1 woman_NN1 in_II gray_JJ on_II the_AT highway_NN1 
+with_IW a_AT1 motorcycle_NN1 laying_VVG on_II its_APPGE side_NN1 in_II the_AT 
+middle_NN1 of_IO the_AT highway_NN1 ._. 
+An_AT1 older_JJR man_NN1 with_IW a_AT1 "_" slow_JJ "_" sign_NN1 smiles_VVZ 
+at_II the_AT camera_NN1 ._. 
+A_AT1 lady_NN1 with_IW blond-hair_NN1 is_VBZ walking_VVG briskly_RR down_II 
+the_AT street_NN1 ._. 
+A_AT1 woman_NN1 employee_NN1 at_II a_AT1 best_RRT buy_VV0 seems_VVZ to_TO 
+be_VBI using_VVG the_AT computer_NN1 ._. 
+A_AT1 man_NN1 and_CC woman_NN1 wearing_VVG backpacks_NN2 are_VBR standing_VVG 
+near_II a_AT1 tall_JJ tree_NN1 stump_NN1 with_IW a_AT1 stone_NN1 wall_NN1 
+in_II the_AT background_NN1 ._. 
+An_AT1 elderly_JJ man_NN1 with_IW a_AT1 long_JJ gray_JJ beard_NN1 is_VBZ 
+playing_VVG his_APPGE flute_NN1 while_CS sitting_VVG on_II the_AT ground_NN1 
+._. 
+Several_DA2 speed_NN1 boats_NN2 are_VBR racing_VVG with_IW people_NN 
+dressed_VVN in_II red_NN1 aboard_II them_PPHO2 ._. 
+A_AT1 man_NN1 with_IW no_AT shirt_NN1 sits_VVZ on_II a_AT1 rock_NN1 in_II31 
+front_II32 of_II33 a_AT1 blue_JJ building_NN1 with_IW a_AT1 tin_NN1 roof_NN1 
+._. 
+A_AT1 woman_NN1 is_VBZ talking_VVG on_II a_AT1 cellphone_NN1 on_II the_AT 
+curb_NN1 in_II31 front_II32 of_II33 a_AT1 restaurant_NN1 ._. 
+A_AT1 person_NN1 with_IW a_AT1 white_JJ coat_NN1 is_VBZ walking_VVG outside_II 
+a_AT1 stone_NN1 building_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 flame-themed_JJ shirt_NN1 is_VBZ looking_VVG at_II 
+barbecue_NN1 tools_NN2 ._. 
+A_AT1 chef_NN1 prepares_VVZ food_NN1 in_II a_AT1 storefront_NN1 window_NN1 ._. 
+Two_MC male_JJ friends_NN2 sit_VV0 at_II table_NN1 in_II a_AT1 restaurant_NN1 
+discussing_VVG bar_NN1 camp_NN1 ,_, which_DDQ one_PN1 advertises_VVZ with_IW 
+a_AT1 small_JJ sign_NN1 ._. 
+It_PPH1 looks_VVZ as_CS21 though_CS22 a_AT1 soldier_NN1 is_VBZ sleeping_VVG 
+in_II a_AT1 car_NN1 on_II his_APPGE way_NN1 home_RL after_II a_AT1 
+deployment_NN1 ._. 
+A_AT1 woman_NN1 wearing_VVG headphones_NN2 is_VBZ performing_VVG aerobic_JJ 
+exercise_NN1 in_II a_AT1 home_NN1 setting_VVG on_II a_AT1 piece_NN1 of_IO 
+exercise_NN1 equipment_NN1 ,_, with_IW other_JJ exercise_NN1 equipment_NN1 
+visible_JJ in_II the_AT background_NN1 ._. 
+A_AT1 bus_NN1 rider_NN1 wearing_VVG a_AT1 blue_JJ shirt_NN1 looks_VVZ out_II21 
+of_II22 the_AT window_NN1 ._. 
+Two_MC children_NN2 ,_, a_AT1 boy_NN1 in_II a_AT1 blue_JJ shorts_NN2 suit_VV0 
+and_CC a_AT1 girl_NN1 in_II a_AT1 blue_JJ jumper_NN1 ,_, have_VH0 a_AT1 
+conversation_NN1 in_II the_AT hallway_NN1 of_IO a_AT1 church_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 black_JJ shirt_NN1 and_CC cap_NN1 playing_VVG 
+piano_NN1 ._. 
+A_AT1 cook_NN1 is_VBZ preparing_VVG food_NN1 in_II a_AT1 restaurant_NN1 ._. 
+An_AT1 Asian_JJ boy_NN1 in_II a_AT1 red_JJ shirt_NN1 holds_VVZ onto_II an_AT1 
+aqua_FW balloon_NN1 ._. 
+A_AT1 group_NN1 of_IO people_NN in_II robes_NN2 singling_VVG and_CC 
+playing_VVG instruments_NN2 ._. 
+Several_DA2 children_NN2 are_VBR standing_VVG on_II a_AT1 sidewalk_NN1 
+playing_VVG a_AT1 game_NN1 ._. 
+A_AT1 woman_NN1 using_VVG a_AT1 hoe_NN1 near_II her_APPGE crops_NN2 on_II 
+a_AT1 farm_NN1 ._. 
+A_AT1 dog_NN1 catching_VVG a_AT1 biscuit_NN1 in_II its_APPGE mouth_NN1 ._. 
+Woman_NN1 stretching_VVG in_II a_AT1 kitchen_NN1 while_CS mixing_VVG 
+ingredients_NN2 in_II a_AT1 bowl_NN1 ._. 
+Man_NN1 dressed_VVN in_II drag_VV0 pointing_VVG at_II his_APPGE open_JJ 
+mouth_NN1 ._. 
+Two_MC men_NN2 are_VBR playing_VVG a_AT1 guitar_NN1 for_IF money_NN1 on_II 
+the_AT street_NN1 ,_, and_CC there_EX are_VBR dogs_NN2 on_II leashes_NN2 
+around_II them_PPHO2 ._. 
+A_AT1 man_NN1 with_IW long_JJ hair_NN1 and_CC a_AT1 blue_JJ shirt_NN1 is_VBZ 
+sitting_VVG outside_RL with_IW his_APPGE guitar_NN1 case_NN1 open_VV0 ,_, 
+laughing_VVG as_II a_AT1 young_JJ girl_NN1 sits_VVZ and_CC watches_NN2 ._. 
+A_AT1 couple_NN1 fishing_NN1 on_II the_AT waters_NN2 edge_NN1 standing_VVG 
+on_II the_AT rocks_NN2 ._. 
+Two_MC people_NN are_VBR riding_VVG bicycles_NN2 along_II a_AT1 road_NN1 ._. 
+Closeup_NN1 of_IO a_AT1 man_NN1 in_II a_AT1 bar_NN1 ,_, holding_VVG his_APPGE 
+glasses_NN2 slanted_VVN in_II31 front_II32 of_II33 his_APPGE face_NN1 ._. 
+Man_NN1 performing_NN1 ,_, playing_VVG an_AT1 instrument_NN1 for_IF a_AT1 
+crowd_NN1 ._. 
+Two_MC chinese_NN1 men_NN2 looking_VVG at_II papers_NN2 on_II a_AT1 table_NN1 
+._. 
+A_AT1 woman_NN1 is_VBZ standing_VVG and_CC wearing_VVG a_AT1 green_JJ and_CC 
+yellow_JJ scarf_NN1 ._. 
+A_AT1 snowboarder_NN1 wearing_VVG a_AT1 red_JJ coat_NN1 sails_NN2 over_II 
+the_AT snow_NN1 doing_VDG a_AT1 trick_NN1 down_II a_AT1 mountain_NN1 ._. 
+A_AT1 dark-haired_JJ man_NN1 is_VBZ looking_VVG closely_RR at_II something_PN1 
+in_II an_AT1 art_NN1 museum_NN1 ._. 
+A_AT1 boy_NN1 and_CC a_AT1 girl_NN1 playing_VVG on_II the_AT beach_NN1 ._. 
+Two_MC men_NN2 sitting_VVG down_RP outside_RL and_CC looking_VVG at_II a_AT1 
+magazine_NN1 picture_NN1 of_IO a_AT1 woman_NN1 in_II a_AT1 bikini_NN1 ._. 
+A_AT1 couple_NN1 gazing_VVG out_RP into_II the_AT ocean_NN1 from_II a_AT1 
+bridge_NN1 ._. 
+A_AT1 woman_NN1 with_IW black_JJ pants_NN2 ,_, a_AT1 pink_JJ long-sleeve_JJ 
+shirt_NN1 and_CC a_AT1 black_JJ purse_NN1 is_VBZ standing_VVG at_II Mud_NN1 
+'s_GE food_NN1 truck_NN1 looking_VVG at_II the_AT menu_NN1 ._. 
+A_AT1 person_NN1 in_II blue_JJ shorts_NN2 and_CC wearing_VVG a_AT1 Walkman_NN1 
+jogs_NN2 ._. 
+A_AT1 man_NN1 wearing_VVG a_AT1 blue_JJ hooded_JJ sweatshirt_NN1 hangs_VVZ 
+from_II a_AT1 window_NN1 pulley_NN1 up_RP in_II the_AT air_NN1 while_CS 
+next_II21 to_II22 a_AT1 white_JJ building_NN1 ._. 
+A_AT1 male_JJ basketball_NN1 player_NN1 wearing_VVG a_AT1 black_JJ uniform_NN1 
+is_VBZ trying_VVG to_TO block_VVI a_AT1 male_JJ basketball_NN1 player_NN1 
+wearing_VVG a_AT1 white_JJ uniform_NN1 ._. 
+Two_MC women_NN2 are_VBR doing_VDG dishes_NN2 in_II their_APPGE kitchen_NN1 
+._. 
+A_AT1 man_NN1 wearing_VVG black_JJ pants_NN2 is_VBZ sitting_VVG on_II a_AT1 
+bench_NN1 holding_VVG a_AT1 stick_NN1 ._. 
+A_AT1 woman_NN1 with_IW a_AT1 ponytail_NN1 and_CC wearing_VVG a_AT1 floral_JJ 
+patterned_JJ dress_NN1 is_VBZ holding_VVG a_AT1 teacup_NN1 and_CC saucer_NN1 
+while_CS speaking_VVG with_IW another_DD1 woman_NN1 who_PNQS is_VBZ also_RR 
+wearing_VVG a_AT1 floral_JJ patterned_JJ dress_NN1 ._. 
+A_AT1 man_NN1 with_IW no_AT shirt_NN1 is_VBZ standing_VVG in_II a_AT1 
+parade_NN1 wearing_VVG a_AT1 plastic_NN1 flower_NN1 necklace_NN1 ._. 
+A_AT1 woman_NN1 wearing_VVG blue_JJ and_CC red_JJ walks_NN2 through_II a_AT1 
+rustic_JJ urban_JJ area_NN1 ._. 
+Two_MC girls_NN2 enjoy_VV0 corn_NN1 on_II the_AT cob_NN1 while_CS sitting_VVG 
+on_II a_AT1 curb_NN1 ._. 
+A_AT1 white_JJ dog_NN1 holds_VVZ a_AT1 stick_NN1 while_CS swimming_VVG ._. 
+A_AT1 cyclist_NN1 is_VBZ attempting_VVG to_TO go_VVI down_II the_AT steps_NN2 
+on_II his_APPGE bike_NN1 ._. 
+Two_MC people_NN are_VBR sitting_VVG on_II a_AT1 road_NN1 near_II an_AT1 
+inflatable_JJ slide_NN1 that_CST has_VHZ Santa_NP1 Claus_NP1 on_II it_PPH1 ._. 
+A_AT1 surfer_NN1 in_II a_AT1 black_JJ surf_NN1 suit_NN1 with_IW a_AT1 white_JJ 
+surfboard_NN1 riding_VVG on_II some_DD greenish_JJ looking_VVG waves_NN2 
+somewhere_RL ._. 
+A_AT1 construction_NN1 worker_NN1 with_IW tattoos_NN2 on_II his_APPGE arms_NN2 
+is_VBZ bending_VVG while_CS working_VVG ,_, and_CC he_PPHS1 is_VBZ wearing_VVG 
+shorts_NN2 and_CC a_AT1 blue_JJ hard_JJ hat_NN1 ._. 
+A_AT1 woman_NN1 crouches_VVZ near_II three_MC dogs_NN2 in_II a_AT1 field_NN1 
+._. 
+A_AT1 man_NN1 is_VBZ lying_VVG on_II the_AT floor_NN1 after_II slipping_VVG 
+on_II the_AT stairs_NN2 and_CC injuring_VVG himself_PPX1 ._. 
+A_AT1 woman_NN1 playing_VVG softball_NN1 ,_, running_VVG to_TO catch_VVI 
+the_AT ball_NN1 ._. 
+Two_MC men_NN2 cook_VV0 together_RL with_IW a_AT1 metal_NN1 bowl_NN1 ,_, 
+near_II a_AT1 hanging_JJ plant_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 white_JJ shirt_NN1 listening_VVG to_II music_NN1 ._. 
+A_AT1 woman_NN1 with_IW wavy_JJ short_JJ red-hair_NN1 and_CC glasses_NN2 
+wearing_VVG a_AT1 tan_JJ sleeveless_JJ shirt_NN1 is_VBZ walking_VVG down_II 
+a_AT1 street_NN1 ._. 
+A_AT1 woman_NN1 with_IW glasses_NN2 is_VBZ holding_VVG an_AT1 item_NN1 
+which_DDQ produces_VVZ a_AT1 lot_NN1 of_IO smoke_NN1 ._. 
+A_AT1 person_NN1 para-glides_NN2 on_II the_AT shore_NN1 of_IO a_AT1 large_JJ 
+body_NN1 of_IO water_NN1 ,_, heading_VVG towards_II an_AT1 unseen_JJ 
+landing_NN1 location_NN1 ._. 
+Two_MC girls_NN2 are_VBR kicking_VVG each_PPX221 other_PPX222 in_II martial_JJ 
+arts_NN2 uniforms_NN2 ._. 
+A_AT1 guy_NN1 is_VBZ jumping_JJ and_CC grabbing_VVG his_APPGE foot_NN1 with_IW 
+a_AT1 house_NN1 in_II the_AT background_NN1 ._. 
+A_AT1 middle-aged_JJ man_NN1 in_II a_AT1 white_JJ hate_NN1 ,_, navy_NN1 
+sweater_NN1 ,_, and_CC khaki_JJ pants_NN2 is_VBZ putting_VVG a_AT1 golf_NN1 
+ball_NN1 ._. 
+A_AT1 nurse_NN1 treating_VVG a_AT1 child_NN1 with_IW cleft_JJ palate_NN1 ._. 
+Indoor_JJ scene_NN1 of_IO a_AT1 woman_NN1 in_II yellow_JJ with_IW her_PPHO1 
+back_RP to_II the_AT camera_NN1 ,_, and_CC a_AT1 man_NN1 wearing_VVG a_AT1 
+bandanna_NN1 looking_VVG at_II something_PN1 across_II the_AT room_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 dirty_JJ apron_NN1 is_VBZ checking_VVG on_II 
+something_PN1 in_II his_APPGE wood_NN1 fired_VVD oven_NN1 ._. 
+A_AT1 dog_NN1 with_IW a_AT1 blue_JJ ball_NN1 running_VVG in_II a_AT1 field_NN1 
+._. 
+A_AT1 person_NN1 riding_VVG a_AT1 bike_NN1 on_II a_AT1 snowy_JJ road_NN1 ._. 
+A_AT1 woman_NN1 on_II a_AT1 phone_NN1 standing_VVG next_II21 to_II22 a_AT1 
+group_NN1 of_IO musicians_NN2 ._. 
+A_AT1 young_JJ girl_NN1 making_VVG a_AT1 pattern_NN1 to_TO design_VVI 
+clothes_NN2 ._. 
+A_AT1 very_RG young_JJ blond_JJ girl_NN1 wearing_VVG pink_JJ pants_NN2 with_IW 
+white_JJ polka_NN1 dots_NN2 is_VBZ sitting_VVG on_II a_AT1 wooded_JJ trail_NN1 
+in_II a_AT1 forest_NN1 ._. 
+Two_MC dogs_NN2 jumping_VVG for_IF a_AT1 ball_NN1 ,_, with_IW a_AT1 third_MD 
+carrying_VVG a_AT1 Frisbee_NN1 ._. 
+An_AT1 old_JJ man_NN1 playing_VVG the_AT violin_NN1 while_CS sitting_VVG 
+down_RP ._. 
+A_AT1 man_NN1 does_VDZ tricks_VVZ with_IW his_APPGE bicycle_NN1 in_II a_AT1 
+skate_NN1 park_NN1 ._. 
+A_AT1 man_NN1 talks_NN2 to_II a_AT1 laughing_JJ woman_NN1 at_II a_AT1 
+restaurant_NN1 ._. 
+Three_MC people_NN are_VBR talking_VVG while_CS two_MC of_IO them_PPHO2 
+are_VBR drinking_VVG ._. 
+With_IW flowers_NN2 in_II the_AT foreground_NN1 ,_, a_AT1 man_NN1 in_II a_AT1 
+blue_JJ striped_JJ shirt_NN1 bikes_NN2 past_II a_AT1 large_JJ white_JJ 
+building_NN1 ._. 
+As_II a_AT1 young_JJ man_NN1 picks_VVZ up_RP and_CC holds_VVZ a_AT1 
+machine_NN1 gun_NN1 a_AT1 boy_NN1 a_RR21 little_RR22 older_JJR than_CSN 
+him_PPHO1 is_VBZ putting_VVG a_AT1 hat_NN1 on_II his_APPGE head_NN1 ._. 
+The_AT dog_NN1 has_VHZ his_APPGE tongue_NN1 sticking_VVG out_RP and_CC 
+walking_VVG in_II the_AT grass_NN1 ._. 
+Middle_JJ school_NN1 aged_JJ kids_NN2 are_VBR showing_VVG their_APPGE 
+school_NN1 spirit_NN1 at_II a_AT1 pep_NN1 rally_NN1 ._. 
+A_AT1 man_NN1 washing_NN1 windows_NN2 is_VBZ suspended_VVN outside_II a_AT1 
+building_NN1 on_II a_AT1 seat_NN1 on_II a_AT1 rope_NN1 with_IW a_AT1 
+bucket_NN1 hanging_VVG on_RP the_AT side_NN1 of_IO the_AT seat_NN1 ._. 
+A_AT1 skater_NN1 is_VBZ jumping_VVG down_II the_AT stairs_NN2 on_II his_APPGE 
+skateboard_NN1 ._. 
+Two_MC people_NN ,_, one_MC1 man_NN1 ,_, one_MC1 woman_NN1 are_VBR playing_VVG 
+musical_JJ instruments_NN2 ._. 
+A_AT1 man_NN1 is_VBZ biking_VVG down_II the_AT street_NN1 while_CS holding_VVG 
+a_AT1 ladder_NN1 ,_, off_RP to_II the_AT side_NN1 ,_, a_AT1 man_NN1 is_VBZ 
+carrying_VVG a_AT1 large_JJ bucket_NN1 and_CC two_MC sticks_NN2 ._. 
+A_AT1 young_JJ man_NN1 dressed_VVN in_II jeans_NN2 ,_, a_AT1 white_JJ 
+t-shirt_NN1 ,_, and_CC blue_JJ hat_NN1 is_VBZ sitting_VVG on_II his_APPGE 
+skateboard_NN1 ._. 
+A_AT1 woman_NN1 serves_VVZ a_AT1 cup_NN1 of_IO soup_NN1 from_II a_AT1 large_JJ 
+pot_NN1 of_IO soup_NN1 ._. 
+Several_DA2 asian_JJ people_NN are_VBR eating_VVG together_RL around_II a_AT1 
+table_NN1 ._. 
+Two_MC men_NN2 are_VBR here_RL and_CC working_VVG together_RL at_II the_AT 
+John_NP1 Deere_NP1 7200_MC type_NN1 of_IO machine_NN1 or_CC vehicle_NN1 
+outside_RL in_II the_AT open_JJ air_NN1 ._. 
+A_AT1 smiling_JJ man_NN1 in_II a_AT1 blue_JJ jacket_NN1 and_CC black_JJ 
+vest_NN1 stands_VVZ in_II31 front_II32 of_II33 a_AT1 crowd_NN1 of_IO 
+marchers_NN2 near_II a_AT1 red_JJ tent_NN1 with_IW green_JJ trees_NN2 in_II 
+the_AT background_NN1 ._. 
+A_AT1 group_NN1 of_IO teens_NN2 sit_VV0 on_II steps_NN2 watching_VVG a_AT1 
+man_NN1 and_CC woman_NN1 ._. 
+A_AT1 little_JJ girl_NN1 wearing_VVG a_AT1 blue_JJ sweater_NN1 holding_VVG 
+the_AT string_NN1 out_RP on_II a_AT1 pink_JJ yo-yo_NN1 ._. 
+A_AT1 man_NN1 taking_VVG a_AT1 picture_NN1 of_IO a_AT1 dog_NN1 on_II a_AT1 
+dune_NN1 ._. 
+A_AT1 woman_NN1 is_VBZ smiling_VVG at_II the_AT bearded_JJ man_NN1 sitting_VVG 
+in_II the_AT lawn_NN1 chair_NN1 next_II21 to_II22 her_PPHO1 ._. 
+A_AT1 man_NN1 in_II black_JJ tux_NN1 with_IW blue_JJ tie_NN1 holding_VVG a_AT1 
+baby_NN1 boy_NN1 ._. 
+Two_MC men_NN2 dressed_VVN in_II robes_NN2 practice_NN1 their_APPGE snake_NN1 
+charming_JJ skills_NN2 ._. 
+A_AT1 guy_NN1 has_VHZ position_NN1 his_APPGE put_NN1 for_IF his_APPGE 
+swing_NN1 to_TO hit_VVI the_AT ball_NN1 in_II a_AT1 golf_NN1 tournament_NN1 
+._. 
+A_AT1 small_JJ boy_NN1 ,_, fully_RR dressed_VVN ,_, playing_VVG in_II the_AT 
+sand_NN1 ._. 
+A_AT1 group_NN1 of_IO men_NN2 playing_VVG soccer_NN1 ,_, most_DAT of_IO 
+them_PPHO2 looking_VVG at_II one_MC1 man_NN1 in_II black_JJ ._. 
+Woman_NN1 with_IW pink_JJ polka_NN1 dot_NN1 backpack_NN1 holding_VVG a_AT1 
+child_NN1 ._. 
+An_AT1 onlooker_NN1 in_II a_AT1 crowd_NN1 ,_, takes_VVZ a_AT1 picture_NN1 
+of_IO performers_NN2 on_II a_AT1 stage_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 red_JJ and_CC black_JJ suit_NN1 is_VBZ riding_VVG 
+on_II a_AT1 white_JJ motorcycle_NN1 ._. 
+The_AT boy_NN1 is_VBZ wearing_VVG a_AT1 cardboard_JJ scuba_NN1 mask_NN1 at_II 
+the_AT restaurant_NN1 ._. 
+A_AT1 dog_NN1 running_VVG at_II a_AT1 park_NN1 ,_, with_IW a_AT1 park_NN1 
+bench_NN1 in_II the_AT background_NN1 ._. 
+A_AT1 woman_NN1 is_VBZ sitting_VVG near_II a_AT1 boy_NN1 that_CST is_VBZ 
+eating_VVG ._. 
+A_AT1 very_RG happy_JJ man_NN1 in_II a_AT1 colorful_JJ shirt_NN1 is_VBZ 
+dancing_VVG ._. 
+A_AT1 man_NN1 in_II uniform_NN1 tries_VVZ to_TO find_VVI something_PN1 with_IW 
+the_AT help_NN1 of_IO a_AT1 sniffing_NN1 dog_NN1 ._. 
+Two_MC men_NN2 on_II motorcycles_NN2 are_VBR racing_VVG at_II a_AT1 track_NN1 
+._. 
+Four_MC young_JJ boys_NN2 are_VBR standing_VVG around_RP a_AT1 grill_NN1 ._. 
+A_AT1 young_JJ child_NN1 wearing_VVG a_AT1 blue_JJ shirt_NN1 and_CC red_JJ 
+hat_NN1 grabs_VVZ onto_II black_JJ bars_NN2 in_II31 front_II32 of_II33 
+him_PPHO1 ._. 
+People_NN of_IO all_DB ages_NN2 casually_RR relaxing_VVG on_II stairs_NN2 
+in_II31 front_II32 of_II33 a_AT1 college_NN1 building_NN1 ._. 
+A_AT1 man_NN1 dressed_VVN in_II a_AT1 military_JJ uniform_NN1 bends_VVZ 
+over_RP to_TO speak_VVI to_II a_AT1 person_NN1 sitting_VVG on_II the_AT 
+sidewalk_NN1 ._. 
+A_AT1 man_NN1 is_VBZ trying_VVG to_TO break_VVI up_RP a_AT1 fight_NN1 
+between_II two_MC wrestlers_NN2 ._. 
+Pedestrian_NN1 in_II the_AT street_NN1 finds_VVZ a_AT1 broom_NN1 and_CC 
+takes_VVZ to_II the_AT streets_NN2 cleaning_VVG up_RP trash_NN1 and_CC 
+crime_NN1 ._. 
+A_AT1 dog_NN1 walking_VVG around_RP with_IW his_APPGE leash_NN1 but_CCB not_XX 
+with_IW his_APPGE owner_NN1 ._. 
+A_AT1 woman_NN1 is_VBZ confronting_VVG someone_PN1 about_II something_PN1 
+she_PPHS1 feels_VVZ upset_JJ by_II ._. 
+An_AT1 older_JJR woman_NN1 with_IW shoulder_NN1 length_NN1 gray_JJ hair_NN1 
+,_, wearing_VVG sunglasses_NN2 leaning_VVG against_II a_AT1 waist_NN1 high_JJ 
+wall_NN1 looking_VVG up_RP ._. 
+Two_MC men_NN2 ,_, one_MC1 wearing_VVG a_AT1 teal_NN shirt_NN1 and_CC shin_NN1 
+guards_NN2 lay_VVD horizontally_RR on_II logs_NN2 with_IW their_APPGE 
+backpacks_NN2 in_II sight_NN1 ._. 
+Two_MC professional_JJ stock_NN1 car_NN1 racers_NN2 during_II a_AT1 race_NN1 
+._. 
+A_AT1 couple_NN1 kiss_NN1 in_II31 front_II32 of_II33 amusement_NN1 rides_VVZ 
+on_II a_AT1 pier_NN1 ._. 
+Two_MC women_NN2 and_CC a_AT1 man_NN1 removing_VVG brush_NN1 weed_NN1 out_II21 
+of_II22 their_APPGE yard_NN1 after_II a_AT1 storm_NN1 ._. 
+A_AT1 group_NN1 of_IO people_NN are_VBR sitting_VVG around_RP a_AT1 large_JJ 
+white_JJ banner_NN1 that_CST says_VVZ "_" From_II New_NP1 York_NP1 ._. "_" 
+Two_MC young_JJ girls_NN2 sit_VV0 in_II lawn_NN1 chairs_NN2 in_II the_AT 
+woods_NN2 as_II a_AT1 tin-wrapped_JJ potato_NN1 cooks_VVZ on_II a_AT1 
+grill_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 blue_JJ sweater_NN1 and_CC baseball_NN1 cap_NN1 
+is_VBZ working_VVG with_IW wood_NN1 ._. 
+A_AT1 man_NN1 in_II the_AT snow_NN1 on_II a_AT1 ramp_NN1 working_VVG on_II 
+an_AT1 ice_NN1 sculpture_NN1 ._. 
+A_AT1 boy_NN1 sitting_VVG on_II a_AT1 dinosaur_NN1 chair_NN1 holding_VVG a_AT1 
+blue_JJ object_NN1 ._. 
+A_AT1 man_NN1 in_II a_AT1 gray_JJ shirt_NN1 and_CC gray_JJ pants_NN2 is_VBZ 
+sleeping_VVG outside_RL in_II a_AT1 wooden_JJ chair_NN1 ._. 
+A_AT1 young_JJ woman_NN1 smiles_VVZ as_CSA she_PPHS1 shoots_VVZ a_AT1 gun_NN1 
+at_II an_AT1 indoor_JJ target_NN1 range_NN1 ,_, as_CSA an_AT1 older_JJR 
+man_NN1 looks_VVZ on_RP mirthlessly_RR ._. 
+A_AT1 musician_NN1 is_VBZ posing_VVG while_CS playing_VVG an_AT1 odd-shaped_JJ 
+guitar_NN1 ._. 
+Woman_NN1 with_IW hair_NN1 in_II low_JJ ponytail_NN1 ,_, with_IW the_AT 
+number_NN1 43_MC on_II her_APPGE leg_NN1 ,_, is_VBZ running_VVG wearing_VVG 
+green_JJ shoes_NN2 and_CC a_AT1 green_JJ outfit_NN1 ._. 
+A_AT1 boy_NN1 tries_VVZ to_TO take_VVI a_AT1 stick_NN1 from_II a_AT1 small_JJ 
+,_, brown_JJ dog_NN1 ._. 
+The_AT children_NN2 are_VBR sitting_VVG with_IW their_APPGE shoes_NN2 off_RP 
+._. 
+Employee_NN1 in_II pink_JJ shirt_NN1 smiles_VVZ for_IF camera_NN1 inside_II 
+a_AT1 restaurant_NN1 kitchen_NN1 ._. 
+A_AT1 view_NN1 through_II a_AT1 door_NN1 into_II a_AT1 small_JJ tiled_JJ 
+room_NN1 where_CS a_AT1 man_NN1 and_CC two_MC children_NN2 are_VBR asleep_JJ 
+on_II the_AT floor_NN1 ._. 
+A_AT1 child_NN1 in_II snow_NN1 gear_NN1 sliding_VVG down_RP a_AT1 slide_NN1 
+in_II winter_NNT1 ._. 
+Two_MC children_NN2 dressed_VVN as_CSA clowns_NN2 are_VBR swinging_VVG on_II 
+ropes_NN2 above_II other_JJ children_NN2 ,_, who_PNQS are_VBR also_RR in_II 
+costume_NN1 ._. 
+A_AT1 short_JJ white_JJ hair_NN1 women_NN2 in_II31 front_II32 of_II33 a_AT1 
+wooden_JJ lattice_NN1 door_NN1 wearing_VVG ethnic_JJ clothes_NN2 ,_, beads_NN2 
+,_, and_CC scandal_NN1 ,_, brushing_VVG a_AT1 clay_NN1 stoop_NN1 with_IW a_AT1 
+bunch_NN1 of_IO long_JJ green_NN1 leaves_NN2 on_II stems_NN2 ._. 
+A_AT1 blond_JJ woman_NN1 on_II her_APPGE cellphone_NN1 clutching_VVG her_APPGE 
+wallet_NN1 ._. 
+A_AT1 man_NN1 and_CC woman_NN1 are_VBR standing_VVG in_II31 front_II32 of_II33 
+an_AT1 advertisement_NN1 on_II a_AT1 wall_NN1 while_CS she_PPHS1 looks_VVZ 
+at_II it_PPH1 ,_, he_PPHS1 looks_VVZ away_RL ._. 
+A_AT1 girl_NN1 in_II a_AT1 black_JJ shirt_NN1 is_VBZ smiling_JJ as_CSA 
+she_PPHS1 works_VVZ behind_II a_AT1 bar_NN1 ._. 
+A_AT1 picture_NN1 of_IO people_NN congregated_VVD around_RP a_AT1 street_NN1 
+sign_NN1 in_II french_JJ ._. 
+An_AT1 african-american_JJ boy_NN1 is_VBZ suspended_VVN above_II a_AT1 
+crowd_NN1 in_II31 front_II32 of_II33 a_AT1 large_JJ number_NN1 of_IO boats_NN2 
+._. 
+A_AT1 teenage_JJ male_NN1 goes_VVZ urban_JJ surfing_NN1 in_II a_AT1 small_JJ 
+body_NN1 of_IO water_NN1 with_IW a_AT1 modified_JJ surfboard_NN1 for_IF a_AT1 
+crowd_NN1 of_IO people_NN with_IW lush_JJ trees_NN2 in_II the_AT 
+background_NN1 ._. 

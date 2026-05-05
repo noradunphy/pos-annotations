@@ -1,0 +1,91 @@
+{
+  "model": "gemini-2.5-flash",
+  "model_alias": "flash",
+  "total_scored": 1100,
+  "total_correct": 859,
+  "skipped_ambiguous": 129,
+  "macro_avg_accuracy": 0.7596,
+  "micro_avg_accuracy": 0.7809,
+  "per_distinction": {
+    "adj_attributive_predicative": {
+      "n": 4,
+      "n_correct": 4,
+      "accuracy": 1.0
+    },
+    "adj_gradable": {
+      "n": 19,
+      "n_correct": 15,
+      "accuracy": 0.7895
+    },
+    "adj_intersective": {
+      "n": 19,
+      "n_correct": 18,
+      "accuracy": 0.9474
+    },
+    "adv_type": {
+      "n": 23,
+      "n_correct": 18,
+      "accuracy": 0.7826
+    },
+    "conj_type": {
+      "n": 4,
+      "n_correct": 3,
+      "accuracy": 0.75
+    },
+    "det_type": {
+      "n": 107,
+      "n_correct": 99,
+      "accuracy": 0.9252
+    },
+    "noun_collective": {
+      "n": 117,
+      "n_correct": 71,
+      "accuracy": 0.6068
+    },
+    "noun_concrete_abstract": {
+      "n": 117,
+      "n_correct": 105,
+      "accuracy": 0.8974
+    },
+    "noun_count_mass": {
+      "n": 114,
+      "n_correct": 105,
+      "accuracy": 0.9211
+    },
+    "noun_proper_common": {
+      "n": 117,
+      "n_correct": 107,
+      "accuracy": 0.9145
+    },
+    "part_type": {
+      "n": 11,
+      "n_correct": 0,
+      "accuracy": 0.0
+    },
+    "pron_type": {
+      "n": 56,
+      "n_correct": 51,
+      "accuracy": 0.9107
+    },
+    "verb_finite": {
+      "n": 87,
+      "n_correct": 83,
+      "accuracy": 0.954
+    },
+    "verb_lexical_aux": {
+      "n": 106,
+      "n_correct": 86,
+      "accuracy": 0.8113
+    },
+    "verb_stative_eventive": {
+      "n": 118,
+      "n_correct": 56,
+      "accuracy": 0.4746
+    },
+    "verb_transitivity": {
+      "n": 81,
+      "n_correct": 38,
+      "accuracy": 0.4691
+    }
+  }
+}

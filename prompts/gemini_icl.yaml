@@ -1,0 +1,187 @@
+# Handcrafted in-context learning examples for each Tier-B distinction.
+# Format per distinction: list of {sentence, label} pairs.
+# Target word is wrapped in [[double brackets]].
+# These examples are baked into the Gemini system prompt and replace the
+# bootstrapped ICL files used by the vLLM tagger.
+
+noun_proper_common:
+  - sentence: "[[Paris]] is the capital of France."
+    label: proper
+  - sentence: "The [[president]] addressed the nation."
+    label: common
+  - sentence: "She works for [[Google]] in the engineering division."
+    label: proper
+  - sentence: "They bought a [[house]] near the river."
+    label: common
+
+noun_count_mass:
+  - sentence: "She drank three [[cups]] of tea."
+    label: count
+  - sentence: "There was [[sand]] everywhere on the beach."
+    label: mass
+  - sentence: "He bought two [[chairs]] for the dining room."
+    label: count
+  - sentence: "The sculptor shaped the [[clay]] carefully."
+    label: mass
+
+noun_concrete_abstract:
+  - sentence: "The [[dog]] barked all night."
+    label: concrete
+  - sentence: "Her [[courage]] inspired everyone around her."
+    label: abstract
+  - sentence: "He dropped the [[hammer]] on the floor."
+    label: concrete
+  - sentence: "The concept of [[justice]] is debated widely."
+    label: abstract
+
+noun_collective:
+  - sentence: "The [[team]] celebrated their championship win."
+    label: collective
+  - sentence: "The [[fleet]] sailed into the harbor at dawn."
+    label: collective
+  - sentence: "She placed a [[book]] on the table."
+    label: non-collective
+  - sentence: "He bought a [[ticket]] for the concert."
+    label: non-collective
+
+verb_lexical_aux:
+  - sentence: "She [[runs]] every morning before work."
+    label: lexical
+  - sentence: "He [[has]] finished the report already."
+    label: auxiliary
+  - sentence: "They [[built]] the bridge over two years."
+    label: lexical
+  - sentence: "She [[was]] waiting for the bus when it started raining."
+    label: auxiliary
+
+verb_finite:
+  - sentence: "The children [[played]] in the garden all afternoon."
+    label: finite
+  - sentence: "He wants [[to leave]] before the storm arrives."
+    label: non-finite
+  - sentence: "She [[sees]] the problem clearly."
+    label: finite
+  - sentence: "[[Running]] every day keeps her fit."
+    label: non-finite
+
+verb_stative_eventive:
+  - sentence: "She [[knows]] the answer to every question."
+    label: stative
+  - sentence: "The cat [[jumped]] onto the windowsill."
+    label: eventive
+  - sentence: "He [[believes]] the story is true."
+    label: stative
+  - sentence: "The bomb [[exploded]] in the early morning."
+    label: eventive
+
+verb_copular_prog_pass:
+  - sentence: "She [[is]] a talented musician."
+    label: copular
+  - sentence: "He [[was]] reading when the phone rang."
+    label: progressive
+  - sentence: "The letter [[was]] signed by the director."
+    label: passive
+  - sentence: "They [[ran]] the marathon in under four hours."
+    label: none_of_these
+
+verb_transitivity:
+  - sentence: "She [[ate]] the whole pizza."
+    label: transitive
+  - sentence: "The baby [[slept]] through the night."
+    label: intransitive
+  - sentence: "He [[gave]] his sister a birthday present."
+    label: ditransitive
+  - sentence: "She [[read]] for hours without stopping."
+    label: ambitransitive
+
+adj_attributive_predicative:
+  - sentence: "He wore a [[blue]] shirt to the meeting."
+    label: attributive
+  - sentence: "The soup [[is]] hot."
+    label: predicative
+  - sentence: "She lives in a [[small]] apartment downtown."
+    label: attributive
+  - sentence: "The results [[seem]] accurate."
+    label: predicative
+
+adj_gradable:
+  - sentence: "That was an extremely [[tall]] building."
+    label: gradable
+  - sentence: "The flag is [[triangular]] in shape."
+    label: non-gradable
+  - sentence: "He feels very [[happy]] today."
+    label: gradable
+  - sentence: "The solution is [[chemical]] in nature."
+    label: non-gradable
+
+adj_intersective:
+  - sentence: "She is a [[skilled]] surgeon who trained abroad."
+    label: intersective
+  - sentence: "He is a [[former]] president of the company."
+    label: non-intersective
+  - sentence: "They found a [[red]] car parked outside."
+    label: intersective
+  - sentence: "She is an [[alleged]] criminal with no conviction."
+    label: non-intersective
+
+pron_type:
+  - sentence: "[[She]] called me this morning."
+    label: personal
+  - sentence: "[[His]] book was left on the desk."
+    label: possessive
+  - sentence: "He hurt [[himself]] while cooking."
+    label: reflexive
+  - sentence: "[[This]] is exactly what I needed."
+    label: demonstrative
+  - sentence: "The man [[who]] arrived late sat in the back."
+    label: relative
+  - sentence: "[[Who]] told you that story?"
+    label: interrogative
+  - sentence: "[[Everyone]] agreed with the proposal."
+    label: indefinite
+
+adv_type:
+  - sentence: "She danced [[gracefully]] across the stage."
+    label: manner
+  - sentence: "He will arrive [[tomorrow]] after lunch."
+    label: time
+  - sentence: "We searched [[everywhere]] for the keys."
+    label: place
+  - sentence: "The coffee was [[very]] hot to drink."
+    label: degree
+  - sentence: "She visits her parents [[weekly]]."
+    label: frequency
+  - sentence: "[[However]], the results were inconclusive."
+    label: sentence_discourse
+
+det_type:
+  - sentence: "She read [[the]] article twice."
+    label: articles
+  - sentence: "[[These]] findings support the hypothesis."
+    label: demonstratives
+  - sentence: "[[Her]] coat was hanging by the door."
+    label: possessives
+  - sentence: "[[Several]] students failed the exam."
+    label: quantifiers
+  - sentence: "He bought [[three]] apples from the market."
+    label: numerals
+
+conj_type:
+  - sentence: "She likes coffee [[and]] tea equally."
+    label: coordinating
+  - sentence: "He left early [[because]] he had a flight to catch."
+    label: subordinating
+  - sentence: "They were tired [[but]] kept working."
+    label: coordinating
+  - sentence: "[[Although]] it was raining, they went for a walk."
+    label: subordinating
+
+part_type:
+  - sentence: "She decided [[to]] leave immediately."
+    label: standard
+  - sentence: "He turned [[off]] the lights before leaving."
+    label: phrasal_verb_particle
+  - sentence: "They plan [[to]] visit next summer."
+    label: standard
+  - sentence: "She picked [[up]] the phone on the first ring."
+    label: phrasal_verb_particle

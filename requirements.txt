@@ -13,3 +13,4 @@ vllm
 jinja2
 pytest
 openai>=1.0.0
+google-genai>=1.0.0

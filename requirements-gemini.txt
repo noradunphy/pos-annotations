@@ -1,0 +1,18 @@
+# Requirements for the Gemini API annotation path (no GPU/CUDA needed).
+# vllm and bitsandbytes are excluded — they require CUDA and are only used
+# by the local vLLM backend (--backend vllm), not by the Gemini backend.
+
+datasets>=3.0,<4
+numpy
+pandas
+pyyaml
+scikit-learn
+scipy
+tqdm
+jsonlines
+transformers
+accelerate
+jinja2
+pytest
+openai>=1.0.0
+google-genai>=1.0.0

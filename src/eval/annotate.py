@@ -1,4 +1,12 @@
-"""Annotate unseen sentences (e.g. 1K from test split) with the tagger."""
+"""Annotate unseen sentences (e.g. 1K from test split) with the tagger.
+
+Supports two backends:
+  --backend vllm    (default) Local vLLM inference with bootstrapped ICL prompts.
+  --backend gemini  Google Gemini API with handcrafted ICL examples baked into
+                    the system prompt. Requires GEMINI_API_KEY in the environment.
+                    Use --gemini-model to select 'flash', 'frontier', or a literal
+                    model name (default: frontier).
+"""
 
 from __future__ import annotations
 
@@ -59,6 +67,25 @@ def main() -> None:
     ap.add_argument("--mock", action="store_true")
     ap.add_argument("--seed", type=int, default=42)
     ap.add_argument("--out", type=Path, default=Path("data/annotations/corpus_1k.jsonl"))
+    # Gemini backend options
+    ap.add_argument(
+        "--backend",
+        choices=["vllm", "gemini"],
+        default="vllm",
+        help="Inference backend (default: vllm)",
+    )
+    ap.add_argument(
+        "--gemini-model",
+        default="frontier",
+        help="Gemini model alias ('flash' or 'frontier') or literal model name "
+             "(used when --backend gemini, default: frontier)",
+    )
+    ap.add_argument(
+        "--gemini-cfg",
+        type=Path,
+        default=None,
+        help="Path to configs/gemini.yaml (default: auto-detected)",
+    )
     args = ap.parse_args()
 
     tax = load_taxonomy(args.taxonomy)
@@ -75,10 +102,17 @@ def main() -> None:
     rng.shuffle(candidates)
     pick = candidates[: args.num_sentences]
 
-    cfg = TaggerConfig.load(args.tagger_config)
-    if args.mock:
-        cfg = replace(cfg, mock=True)
-    tagger = VLLMTagger(cfg)
+    if args.backend == "gemini":
+        from src.tagging.gemini_tagger import GeminiConfig, GeminiTagger
+
+        gcfg = GeminiConfig.load(args.gemini_cfg)
+        tagger: Any = GeminiTagger(model=args.gemini_model, cfg=gcfg)
+        print(f"Backend: Gemini ({gcfg.resolve_model(args.gemini_model)})", file=sys.stderr)
+    else:
+        cfg = TaggerConfig.load(args.tagger_config)
+        if args.mock:
+            cfg = replace(cfg, mock=True)
+        tagger = VLLMTagger(cfg)
 
     distinctions = [d for d in tax["distinctions"] if d.get("enabled", True)]
     by_id = {d["id"]: d for d in distinctions}
@@ -114,7 +148,8 @@ def main() -> None:
 
     for did, idxs in sorted(batch_by_did.items()):
         dist = by_id[did]
-        icl_path = icl_root / f"{did}.jsonl"
+        # icl_path is only used by the vLLM backend; GeminiTagger ignores it
+        icl_path = icl_root / f"{did}.jsonl" if args.backend == "vllm" else None
         items = [(work[i]["words"], work[i]["token_index"]) for i in idxs]
         CHUNK = 256
         for start in range(0, len(items), CHUNK):
